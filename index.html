@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Friend Group Club Tracker</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Who supports what</h1>
+  <p>Premier League · La Liga · Serie A · Ligue 1 · MLS</p>
+</header>
+
+<main>
+  <section>
+    <h2>Pick your teams</h2>
+    <div class="picker-box">
+      <select id="friend-select"></select>
+      <form id="pick-form" class="hidden" onsubmit="return false;">
+        <div id="league-inputs"></div>
+        <button id="save-btn" type="button">Save picks</button>
+        <span id="save-status"></span>
+      </form>
+    </div>
+  </section>
+
+  <section>
+    <h2>The board</h2>
+    <div id="board"></div>
+  </section>
+</main>
+
+<footer>Built by the group, for the group.</footer>
+
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+<script src="js/firebase-config.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>
