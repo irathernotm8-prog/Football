@@ -16,6 +16,30 @@ widget.
 4. Visit `https://<username>.github.io/<repo-name>/` — give it a minute after
    pushing for the first load.
 
+## What changed in this version
+
+- **Fixed blank tables on inactive tabs**: ScoreAxis's widget script silently
+  fails to render into a `display:none` element, so each league's `<script>`
+  tag is now only injected once its tab is actually clicked open (the
+  Premier League tab loads immediately since it's visible on page load).
+- **Added a live match widget** at the top of the page, currently set to
+  Arsenal vs Coventry City (the 2026–27 Premier League season opener,
+  21 Aug 2026). Since ScoreAxis's live match widget only shows one specific
+  fixture at a time (not a general "what's live today" ticker), you'll want
+  to swap the match ID periodically — see below.
+
+### Updating the featured match
+
+In `index.html`, find this line near the bottom:
+```
+script.src = "https://widgets.scoreaxis.com/api/football/live-match/6a35339c63a5af458d07cdf2?widgetId=live&...";
+```
+To change it: go to https://www.scoreaxis.com/widgets/football/live-match-centre/,
+pick the two teams and the specific fixture from "Select match," copy the new
+match ID out of the generated embed code (the string right after
+`/live-match/`), and swap it into that URL. Keep everything else in the URL
+the same.
+
 ## Customizing
 
 - Colors are CSS variables at the top of `style.css` (`--bg`, `--green`, etc.)

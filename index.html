@@ -13,6 +13,12 @@
 </header>
 
 <main>
+  <section class="live-match-section">
+    <div id="widget-live" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
+      <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
+    </div>
+  </section>
+
   <div class="tabs">
     <button class="tab active" data-target="panel-epl">Premier League</button>
     <button class="tab" data-target="panel-laliga">La Liga</button>
@@ -22,48 +28,80 @@
   </div>
 
   <div id="panel-epl" class="panel">
-    <div id="widget-epl" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-      <script src="https://widgets.scoreaxis.com/api/football/league-table/6232265abf1fa71a672159ec?widgetId=epl&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d" async></script>
+    <div id="widget-epl" class="scoreaxis-widget"
+         data-src="https://widgets.scoreaxis.com/api/football/league-table/6232265abf1fa71a672159ec?widgetId=epl&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+         style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
       <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
     </div>
   </div>
 
   <div id="panel-laliga" class="panel hidden">
-    <div id="widget-laliga" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-      <script src="https://widgets.scoreaxis.com/api/football/league-table/62322c053617da0b83221cc6?widgetId=laliga&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d" async></script>
+    <div id="widget-laliga" class="scoreaxis-widget"
+         data-src="https://widgets.scoreaxis.com/api/football/league-table/62322c053617da0b83221cc6?widgetId=laliga&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+         style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
       <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
     </div>
   </div>
 
   <div id="panel-seriea" class="panel hidden">
-    <div id="widget-seriea" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-      <script src="https://widgets.scoreaxis.com/api/football/league-table/62322b827aee66235a2be718?widgetId=seriea&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d" async></script>
+    <div id="widget-seriea" class="scoreaxis-widget"
+         data-src="https://widgets.scoreaxis.com/api/football/league-table/62322b827aee66235a2be718?widgetId=seriea&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+         style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
       <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
     </div>
   </div>
 
   <div id="panel-ligue1" class="panel hidden">
-    <div id="widget-ligue1" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-      <script src="https://widgets.scoreaxis.com/api/football/league-table/62322b4efd209951602c9096?widgetId=ligue1&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d" async></script>
+    <div id="widget-ligue1" class="scoreaxis-widget"
+         data-src="https://widgets.scoreaxis.com/api/football/league-table/62322b4efd209951602c9096?widgetId=ligue1&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+         style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
       <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
     </div>
   </div>
 
   <div id="panel-mls" class="panel hidden">
-    <div id="widget-mls" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-      <script src="https://widgets.scoreaxis.com/api/football/league-table/62322d88f6e8396290141c10?widgetId=mls&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d" async></script>
+    <div id="widget-mls" class="scoreaxis-widget"
+         data-src="https://widgets.scoreaxis.com/api/football/league-table/62322d88f6e8396290141c10?widgetId=mls&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+         style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
       <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
     </div>
   </div>
 </main>
 
 <script>
+  // Lazily inject each widget's <script> tag only once its panel is actually
+  // visible. ScoreAxis's widget script silently fails to render its table
+  // when its wrapper is display:none at load time, so panels hidden behind
+  // tabs need their script added after being shown, not on initial page load.
+  function loadWidget(wrapper) {
+    if (!wrapper || wrapper.dataset.loaded) return;
+    var script = document.createElement("script");
+    script.src = wrapper.dataset.src;
+    script.async = true;
+    wrapper.appendChild(script);
+    wrapper.dataset.loaded = "true";
+  }
+
+  // Live match widget (static match, always visible, load immediately)
+  (function () {
+    var liveWrapper = document.getElementById("widget-live");
+    var script = document.createElement("script");
+    script.src = "https://widgets.scoreaxis.com/api/football/live-match/6a35339c63a5af458d07cdf2?widgetId=live&lang=en&lineupsBlock=1&eventsBlock=1&statsBlock=1&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d";
+    script.async = true;
+    liveWrapper.insertBefore(script, liveWrapper.firstChild);
+  })();
+
+  // Default visible tab (Premier League) loads immediately.
+  loadWidget(document.getElementById("widget-epl"));
+
   document.querySelectorAll(".tab").forEach(function (tab) {
     tab.addEventListener("click", function () {
       document.querySelectorAll(".tab").forEach(function (t) { t.classList.remove("active"); });
       document.querySelectorAll(".panel").forEach(function (p) { p.classList.add("hidden"); });
       tab.classList.add("active");
-      document.getElementById(tab.dataset.target).classList.remove("hidden");
+      var targetPanel = document.getElementById(tab.dataset.target);
+      targetPanel.classList.remove("hidden");
+      loadWidget(targetPanel.querySelector(".scoreaxis-widget"));
     });
   });
 </script>
