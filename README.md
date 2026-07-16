@@ -1,34 +1,28 @@
-# Friend group club tracker
+# Standings site (v2 — simplified)
 
-A tiny site where everyone in the group picks which club they support across
-Premier League, La Liga, Serie A, Ligue 1, and MLS. Picks save to a free
-Firebase database so everyone sees everyone else's, from any device.
+Just two files: `index.html` and `style.css`. No Firebase, no friend picker,
+no data files — just a dark, green-accented standings page for Premier League,
+La Liga, Serie A, Ligue 1, and MLS, each pulled live from ScoreAxis's free
+widget.
 
-## 1. Create the repo
+## To deploy
 
-1. Create a new GitHub repo (e.g. `club-tracker`).
-2. Upload all these files, keeping the folder structure (`data/`, `css/`, `js/`, `index.html`).
-3. Go to repo Settings -> Pages -> set source to the `main` branch, root folder. Your site will be live at `https://<username>.github.io/club-tracker/`.
+1. In your existing `irathernotm8-prog/football` repo (or a fresh one), delete
+   everything except these two files, or just start a clean repo.
+2. Upload `index.html` and `style.css` to the repo root (GitHub's web
+   "Add file → Upload files" works fine for this — drag both files in at once).
+3. Make sure GitHub Pages is turned on (Settings → Pages → Source: Deploy from
+   branch → `main` / root) — it likely already is from before.
+4. Visit `https://<username>.github.io/<repo-name>/` — give it a minute after
+   pushing for the first load.
 
-## 2. Set up the free Firebase backend (~5 minutes)
+## Customizing
 
-This is the one part you need to do yourself — it needs your own Google account.
-
-1. Go to https://console.firebase.google.com and click **Add project**. Name it anything (e.g. `club-tracker`). You can skip Google Analytics.
-2. Once created, click the **</> (web)** icon on the project overview page to register a web app. Give it any nickname, no need to set up Firebase Hosting.
-3. Firebase will show you a `firebaseConfig` object with keys like `apiKey`, `authDomain`, etc. Copy that whole object.
-4. Paste those values into `js/firebase-config.js` in this repo, replacing the placeholder text.
-5. In the Firebase console, go to **Build -> Firestore Database -> Create database**. Choose **Start in test mode** (this keeps it simple since it's just for your friend group; test mode expires after 30 days, so if it stops saving down the line, go back to Firestore rules and set it to always allow, or just restart test mode).
-6. Commit and push the updated `firebase-config.js` to GitHub. Give it a minute for GitHub Pages to redeploy, then open the site.
-
-## How it works
-
-- `data/teams.json` — the club lists for each league, editable if a club changes name or you want to swap in a different league.
-- `data/friends.json` — the list of names in the group. Add or remove names here.
-- Each person picks their name from the dropdown, selects a club per league, and hits **Save picks**. Picks are stored per person and overwrite cleanly if they change their mind later.
-- The board at the bottom always reflects the latest saved picks for everyone.
-
-## Notes
-
-- There's no login — anyone with the site link can edit anyone's picks. Fine for a small trusted friend group; don't reuse this pattern for anything sensitive.
-- If a club's name looks off or a promoted/relegated team is wrong (leagues update every summer), just edit `data/teams.json` directly.
+- Colors are CSS variables at the top of `style.css` (`--bg`, `--green`, etc.)
+  — change those to retheme everything at once.
+- Each league's widget color is also set individually in `index.html` via the
+  `bodyColor`, `textColor`, `linkColor`, `borderColor`, `tabColor` URL
+  parameters on its `<script>` tag, so the tables match the dark page.
+- To add/remove a league, copy one of the `<div class="panel">` blocks and
+  matching `<button class="tab">`, and get a new league's widget code from
+  https://www.scoreaxis.com/widgets/football/league-tables-widget/
