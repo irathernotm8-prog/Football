@@ -40,6 +40,31 @@ match ID out of the generated embed code (the string right after
 `/live-match/`), and swap it into that URL. Keep everything else in the URL
 the same.
 
+## What's new: the "What's on" fixtures widget
+
+- `fixtures.js` — reads three fixture files and shows, per league, whichever
+  is true right now: a **LIVE** match (with score if finished/in progress)
+  or the **next** upcoming match, in your local time zone. Refreshes every
+  60 seconds.
+- `data/fixtures-epl.json`, `data/fixtures-seriea.json`, `data/fixtures-mls.json`
+  — full season schedules (Premier League and Serie A: full 2026/27 season,
+  380 matches each; MLS: full 2026 season, 510 matches including results
+  for completed games).
+- **La Liga and Ligue 1 aren't included yet** — their 2026/27 fixture lists
+  weren't published by the data source I used at the time this was built.
+  Once they are, the same process (download CSV → convert → drop in
+  `data/`) adds them; just ask and I can walk through it, or repeat the
+  pattern yourself: each fixture file is a JSON array of
+  `{round, dateUtc, venue, home, away, result}` objects.
+
+## Uploading these files
+
+1. Upload `index.html`, `style.css`, and `fixtures.js` to the repo root
+   (these replace the previous versions).
+2. Create a `data/` folder in the repo (if it doesn't exist) and upload the
+   three `fixtures-*.json` files into it.
+3. Give GitHub Pages a minute to rebuild, then reload the site.
+
 ## Customizing
 
 - Colors are CSS variables at the top of `style.css` (`--bg`, `--green`, etc.)
