@@ -67,7 +67,107 @@
                     <div id="widget-laliga" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
                             <script src="https://widgets.scoreaxis.com/api/football/league-table/62322c053617da0b83221cc6?widgetId=widget-laliga&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
                     </div>
-              </div>
+<!DOCTYPE html>
+              <html lang="en">
+              <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Friend Group Club Tracker</title>
+              <link rel="stylesheet" href="css/style.css">
+              </head>
+              <body>
+
+                <header>
+                    <h1>Who supports what</h1>
+                  <p>Premier League · La Liga · Serie A · Ligue 1 · MLS</p>
+                </header>
+              
+              <main>
+                  <section>
+                        <h2>Pick your teams</h2>
+                        <div class="picker-box">
+                                <select id="friend-select"></select>select>
+                                <form id="pick-form" class="hidden" onsubmit="return false;">
+                                          <div id="league-inputs"></div>
+                                          <button id="save-btn" type="button">Save picks</button>button>
+                                          <span id="save-status"></span>span>
+                                </form>form>
+                        </div>
+                  </section>
+
+                  <section>
+                        <h2>Live standings</h2>
+                      <div class="standings-tabs">
+                            <button class="standings-tab active" data-target="standings-epl">Premier League</button>button>
+                            <button class="standings-tab" data-target="standings-laliga">La Liga</button>button>
+                            <button class="standings-tab" data-target="standings-seriea">Serie A</button>button>
+                            <button class="standings-tab" data-target="standings-ligue1">Ligue 1</button>button>
+                            <button class="standings-tab" data-target="standings-mls">MLS</button>button>
+                      </div>
+                  
+                      <div id="standings-epl" class="standings-panel">
+                            <div id="widget-epl" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
+                                    <script src="https://widgets.scoreaxis.com/api/football/league-table/6232265abf1fa71a672159ec?widgetId=epl&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
+                            </div>
+                      </div>
+                  
+                      <div id="standings-laliga" class="standings-panel hidden">
+                            <div id="widget-laliga" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
+                                    <script src="https://widgets.scoreaxis.com/api/football/league-table/62322c053617da0b83221cc6?widgetId=laliga&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
+                            </div>
+                      </div>
+                  
+                      <div id="standings-seriea" class="standings-panel hidden">
+                            <div id="widget-seriea" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
+                                    <script src="https://widgets.scoreaxis.com/api/football/league-table/62322b827aee66235a2be718?widgetId=seriea&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
+                            </div>
+                      </div>
+                  
+                      <div id="standings-ligue1" class="standings-panel hidden">
+                            <div id="widget-ligue1" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
+                                    <script src="https://widgets.scoreaxis.com/api/football/league-table/62322b4efd209951602c9096?widgetId=ligue1&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
+                            </div>
+                      </div>
+                  
+                      <div id="standings-mls" class="standings-panel hidden">
+                            <div id="widget-mls" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
+                                    <script src="https://widgets.scoreaxis.com/api/football/league-table/62322d88f6e8396290141c10?widgetId=mls&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23ffffff&textColor=%23141416&linkColor=%23141416&borderColor=%23ecf1f7&tabColor=%23f3f8fd" async></script>
+                            </div>
+                      </div>
+                  </section>
+              
+                <section>
+                    <h2>The board</h2>
+                    <div id="board"></div>
+                </section>
+              </main>
+              
+              <footer>Built by the group, for the group.</footer>
+              
+              <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+              <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+              <script src="js/firebase-config.js"></script>
+              <script src="js/app.js"></script>
+              <script>
+                document.querySelectorAll(".standings-tab").forEach(tab => {
+                      tab.addEventListener("click", () => {
+                              document.querySelectorAll(".standings-tab").forEach(t => t.classList.remove("active"));
+                              document.querySelectorAll(".standings-panel").forEach(p => p.classList.add("hidden"));
+                              tab.classList.add("active");
+                              document.getElementById(tab.dataset.target).classList.remove("hidden");
+                      });
+                });
+              </script>
+              
+              </body>
+              </html>html>
+              </footer></h2></h2>
+                  </section>
+                  </section>
+              </main></p></h1>
+                </header>
+              </body></title>
+              </head></div>
           
               <div id="standings-seriea" class="standings-panel hidden">
                     <div id="widget-seriea" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #ffffff;color: #141416;border: 1px solid;border-color: #ecf1f7;overflow: auto;">
