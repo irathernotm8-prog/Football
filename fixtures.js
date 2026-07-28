@@ -1,6 +1,9 @@
 var FIXTURE_LEAGUES = [
   { key: "epl", label: "Premier League", file: "data/fixtures-epl.json" },
+  { key: "laliga", label: "La Liga", file: "data/fixtures-laliga.json" },
   { key: "seriea", label: "Serie A", file: "data/fixtures-seriea.json" },
+  { key: "ligue1", label: "Ligue 1", file: "data/fixtures-ligue1.json" },
+  { key: "bundesliga", label: "Bundesliga", file: "data/fixtures-bundesliga.json" },
   { key: "mls", label: "MLS", file: "data/fixtures-mls.json" }
 ];
 
