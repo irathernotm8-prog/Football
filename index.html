@@ -22,12 +22,6 @@
 
   <!-- STANDINGS PAGE -->
   <section id="page-standings" class="page">
-    <div class="live-match-section">
-      <div id="widget-live" class="scoreaxis-widget" style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
-        <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
-      </div>
-    </div>
-
     <div class="tabs">
       <button class="tab active" data-target="panel-epl">Premier League</button>
       <button class="tab" data-target="panel-laliga">La Liga</button>
@@ -132,14 +126,7 @@
     wrapper.dataset.loaded = "true";
   }
 
-  // Live match widget (static featured match, loads immediately)
-  (function () {
-    var liveWrapper = document.getElementById("widget-live");
-    var script = document.createElement("script");
-    script.src = "https://widgets.scoreaxis.com/api/football/live-match/6a35339c63a5af458d07cdf2?widgetId=live&lang=en&lineupsBlock=1&eventsBlock=1&statsBlock=1&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d";
-    script.async = true;
-    liveWrapper.insertBefore(script, liveWrapper.firstChild);
-  })();
+  // Live match widget removed per user request (static match, not useful long-term)
 
   loadWidget(document.getElementById("widget-epl"));
 
