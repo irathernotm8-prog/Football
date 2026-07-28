@@ -8,11 +8,39 @@ var HISTORY_LEAGUES = {
 };
 
 var historyCache = {};
+var historyCrestLogos = null;
+
+function historyTeamInitials(name) {
+  return name
+    .split(" ")
+    .filter(function (w) { return w.length && /[A-Za-z]/.test(w[0]); })
+    .slice(0, 2)
+    .map(function (w) { return w[0].toUpperCase(); })
+    .join("");
+}
+
+function historyCrestHtml(teamName) {
+  var url = historyCrestLogos ? historyCrestLogos[teamName] : null;
+  if (url) {
+    return '<img src="' + url + '" alt="' + teamName + ' crest" class="history-crest" loading="lazy" ' +
+      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'history-crest-fallback\', textContent:\'' + historyTeamInitials(teamName) + '\'}))">';
+  }
+  return '<span class="history-crest-fallback">' + historyTeamInitials(teamName) + "</span>";
+}
 
 async function loadHistory(key) {
   var list = document.getElementById("history-list");
   var info = HISTORY_LEAGUES[key];
   list.innerHTML = "<p class=\"muted-note\">Loading...</p>";
+
+  if (historyCrestLogos === null) {
+    try {
+      var logoRes = await fetch("data/logos.json");
+      historyCrestLogos = await logoRes.json();
+    } catch (err) {
+      historyCrestLogos = {};
+    }
+  }
 
   try {
     if (!historyCache[key]) {
@@ -29,7 +57,7 @@ async function loadHistory(key) {
       return (
         '<div class="history-row">' +
         '<span class="history-season">' + row.season + "</span>" +
-        '<span class="history-champion">' + row.champion + "</span>" +
+        '<span class="history-champion">' + historyCrestHtml(row.champion) + row.champion + "</span>" +
         "</div>"
       );
     }).join("");
