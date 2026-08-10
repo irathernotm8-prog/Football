@@ -19,6 +19,7 @@
     <button class="main-tab" data-target="page-matches">Matches</button>
     <button class="main-tab" data-target="page-history">Title History</button>
     <button class="main-tab" data-target="page-squads">Squads</button>
+    <button class="main-tab" data-target="page-search">Player Search</button>
   </div>
 
   <!-- STANDINGS PAGE -->
@@ -127,6 +128,12 @@
     </div>
     <div id="squads-list" class="squads-list"></div>
   </section>
+
+  <!-- PLAYER SEARCH PAGE -->
+  <section id="page-search" class="page hidden">
+    <input type="text" id="player-search-input" class="player-search-input" placeholder="Search for a player...">
+    <div id="player-search-results" class="player-search-results"></div>
+  </section>
 </main>
 
 <script>
@@ -170,6 +177,7 @@
 <script src="matches.js"></script>
 <script src="history.js"></script>
 <script src="squads.js"></script>
+<script src="players.js"></script>
 
 </body>
 </html>

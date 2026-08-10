@@ -923,5 +923,217 @@
    "nationality": "Belgium",
    "photo": "https://images.fotmob.com/image_resources/playerimages/1413853.png"
   }
+ ],
+ "Brighton": [
+  {
+   "number": 1,
+   "name": "Bart Verbruggen",
+   "position": "GK",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1131987.png"
+  },
+  {
+   "number": 23,
+   "name": "Jason Steele",
+   "position": "GK",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/107917.png"
+  },
+  {
+   "number": 20,
+   "name": "Costinha",
+   "position": "RB",
+   "nationality": "Portugal",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1079456.png"
+  },
+  {
+   "number": 27,
+   "name": "Mats Wieffer",
+   "position": "RB",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/970243.png"
+  },
+  {
+   "number": null,
+   "name": "Michael Svoboda",
+   "position": "CB",
+   "nationality": "Austria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/951921.png"
+  },
+  {
+   "number": null,
+   "name": "Pascal Struijk",
+   "position": "CB",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/796974.png"
+  },
+  {
+   "number": 5,
+   "name": "Lewis Dunk",
+   "position": "CB",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/201690.png"
+  },
+  {
+   "number": 21,
+   "name": "Olivier Boscagli",
+   "position": "CB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/613715.png"
+  },
+  {
+   "number": 44,
+   "name": "Luka Vuskovic",
+   "position": "CB",
+   "nationality": "Croatia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1413996.png"
+  },
+  {
+   "number": 161,
+   "name": "Eiran Cashin",
+   "position": "CB",
+   "nationality": "Ireland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1127305.png"
+  },
+  {
+   "number": 3,
+   "name": "Igor Julio",
+   "position": "LB",
+   "nationality": "Brazil",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/768331.png"
+  },
+  {
+   "number": 24,
+   "name": "Ferdi Kadioglu",
+   "position": "LB",
+   "nationality": "Türkiye",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/774448.png"
+  },
+  {
+   "number": 29,
+   "name": "Maxim De Cuyper",
+   "position": "LB",
+   "nationality": "Belgium",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1134871.png"
+  },
+  {
+   "number": 17,
+   "name": "Carlos Baleba",
+   "position": "DM",
+   "nationality": "Cameroon",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1352713.png"
+  },
+  {
+   "number": 26,
+   "name": "Yasin Ayari",
+   "position": "DM",
+   "nationality": "Sweden",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1168311.png"
+  },
+  {
+   "number": 30,
+   "name": "Pascal Groß",
+   "position": "DM",
+   "nationality": "Germany",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/167008.png"
+  },
+  {
+   "number": 33,
+   "name": "Matthew O'Riley",
+   "position": "DM",
+   "nationality": "Denmark",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/866686.png"
+  },
+  {
+   "number": 13,
+   "name": "Jack Hinshelwood",
+   "position": "AM",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1251334.png"
+  },
+  {
+   "number": 35,
+   "name": "Malick Junior Yalcouyé",
+   "position": "AM",
+   "nationality": "Mali",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1602352.png"
+  },
+  {
+   "number": 53,
+   "name": "Harry Howell",
+   "position": "AM",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1446616.png"
+  },
+  {
+   "number": 25,
+   "name": "Diego Gómez",
+   "position": "RW",
+   "nationality": "Paraguay",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1354561.png"
+  },
+  {
+   "number": 11,
+   "name": "Yankuba Minteh",
+   "position": "RW",
+   "nationality": "Gambia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1400227.png"
+  },
+  {
+   "number": 22,
+   "name": "Amario Cozier-Duberry",
+   "position": "RW",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1254170.png"
+  },
+  {
+   "number": 36,
+   "name": "Zadok Yohanna",
+   "position": "RW",
+   "nationality": "Nigeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1782648.png"
+  },
+  {
+   "number": 15,
+   "name": "Ibrahim Osman",
+   "position": "LW",
+   "nationality": "Ghana",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1215410.png"
+  },
+  {
+   "number": 22,
+   "name": "Kaoru Mitoma",
+   "position": "LW",
+   "nationality": "Japan",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/862608.png"
+  },
+  {
+   "number": null,
+   "name": "Evan Ferguson",
+   "position": "ST",
+   "nationality": "Ireland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1068482.png"
+  },
+  {
+   "number": 9,
+   "name": "Stefanos Tzimas",
+   "position": "ST",
+   "nationality": "Greece",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1423616.png"
+  },
+  {
+   "number": 10,
+   "name": "Georginio Rutter",
+   "position": "ST",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/956925.png"
+  },
+  {
+   "number": 19,
+   "name": "Charalampos Kostoulas",
+   "position": "ST",
+   "nationality": "Greece",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1561249.png"
+  }
  ]
 }

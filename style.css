@@ -499,3 +499,123 @@ section h2 {
     text-align: left;
   }
 }
+
+/* Player Search tab */
+
+.player-search-input {
+  width: 100%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  padding: 0.9rem 1.1rem;
+  border-radius: 14px;
+  font-size: 1.05rem;
+  margin-bottom: 1.5rem;
+}
+
+.player-search-input::placeholder {
+  color: var(--muted);
+}
+
+.player-search-results {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 0.25rem 1.25rem;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
+}
+
+.search-result-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.search-result-row:last-child { border-bottom: none; }
+
+.search-player-photo {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--surface-2);
+  flex-shrink: 0;
+}
+
+.search-player-photo-fallback {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.search-result-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.search-result-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.search-result-meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.search-result-team {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-team-crest {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.search-team-crest-fallback {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 9px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-result-team-name {
+  font-size: 0.85rem;
+  color: var(--muted);
+  min-width: 90px;
+}
+
+.search-result-number {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-weight: 700;
+  min-width: 32px;
+  text-align: right;
+}
+
+@media (max-width: 640px) {
+  .search-result-team-name { display: none; }
+}

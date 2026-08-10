@@ -10,6 +10,40 @@ var HISTORY_LEAGUES = {
 var historyCache = {};
 var historyCrestLogos = null;
 
+// Title-history champion names sometimes differ from the shorter names used
+// in the current season's fixture/logo data (e.g. "Manchester City" vs
+// "Man City"). This maps the history name to the matching logo key where
+// the club still exists in the current fixture data.
+var HISTORY_NAME_ALIASES = {
+  "Manchester City": "Man City",
+  "Manchester United": "Man Utd",
+  "Athletic Bilbao": "Athletic Club",
+  "Atlético Madrid": "Atlético de Madrid",
+  "Atlético Aviación": "Atlético de Madrid",
+  "Barcelona": "FC Barcelona",
+  "Deportivo La Coruña": "RC Deportivo",
+  "Sevilla": "Sevilla FC",
+  "Valencia": "Valencia CF",
+  "AC Milan": "Milan",
+  "Inter Milan": "Inter",
+  "Internazionale": "Inter",
+  "Auxerre": "AJ Auxerre",
+  "Lens": "RC Lens",
+  "Lille": "LOSC Lille",
+  "Lyon": "Olympique Lyonnais",
+  "Marseille": "Olympique de Marseille",
+  "Nice": "OGC Nice",
+  "Strasbourg": "RC Strasbourg Alsace",
+  "Bayer Leverkusen": "Bayer 04 Leverkusen",
+  "Bayern Munich": "FC Bayern München",
+  "Werder Bremen": "SV Werder Bremen",
+  "Atlanta United FC": "Atlanta United",
+  "Chicago Fire FC": "Chicago Fire",
+  "Houston Dynamo FC": "Houston Dynamo",
+  "Los Angeles Football Club": "Los Angeles FC",
+  "Kansas City Wizards": "Sporting Kansas City"
+};
+
 function historyTeamInitials(name) {
   return name
     .split(" ")
@@ -20,7 +54,8 @@ function historyTeamInitials(name) {
 }
 
 function historyCrestHtml(teamName) {
-  var url = historyCrestLogos ? historyCrestLogos[teamName] : null;
+  var lookupName = HISTORY_NAME_ALIASES[teamName] || teamName;
+  var url = historyCrestLogos ? historyCrestLogos[lookupName] : null;
   if (url) {
     return '<img src="' + url + '" alt="' + teamName + ' crest" class="history-crest" loading="lazy" ' +
       'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'history-crest-fallback\', textContent:\'' + historyTeamInitials(teamName) + '\'}))">';
