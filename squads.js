@@ -10,6 +10,23 @@ var SQUADS_LEAGUES = {
 var squadsCache = {};
 var currentSquadsLeague = "epl";
 
+function playerInitials(name) {
+  return name
+    .split(" ")
+    .filter(function (w) { return w.length && /[A-Za-z]/.test(w[0]); })
+    .slice(0, 2)
+    .map(function (w) { return w[0].toUpperCase(); })
+    .join("");
+}
+
+function playerPhotoHtml(p) {
+  if (p.photo) {
+    return '<img src="' + p.photo + '" alt="' + p.name + '" class="squad-photo" loading="lazy" ' +
+      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'squad-photo-fallback\', textContent:\'' + playerInitials(p.name) + '\'}))">';
+  }
+  return '<span class="squad-photo-fallback">' + playerInitials(p.name) + "</span>";
+}
+
 function renderSquad(league, teamName) {
   var list = document.getElementById("squads-list");
   var data = squadsCache[league];
@@ -19,10 +36,14 @@ function renderSquad(league, teamName) {
     return;
   }
   list.innerHTML = players.map(function (p) {
+    var number = p.number ? p.number : "\u2014";
     return (
       '<div class="squad-row">' +
+      playerPhotoHtml(p) +
+      '<span class="squad-number">' + number + "</span>" +
       '<span class="squad-name">' + p.name + "</span>" +
       '<span class="squad-position">' + p.position + "</span>" +
+      '<span class="squad-nationality">' + (p.nationality || "") + "</span>" +
       "</div>"
     );
   }).join("");

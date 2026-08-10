@@ -297,7 +297,7 @@ section h2 {
   box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
 }
 
-.history-row, .squad-row {
+.history-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -306,13 +306,68 @@ section h2 {
   font-size: 1.05rem;
 }
 
-.history-row:last-child, .squad-row:last-child { border-bottom: none; }
+.history-row:last-child { border-bottom: none; }
+
+.squad-row {
+  display: grid;
+  grid-template-columns: 44px 32px 1fr auto auto;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 1rem;
+}
+
+.squad-row:last-child { border-bottom: none; }
+
+.squad-photo {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--surface-2);
+  flex-shrink: 0;
+}
+
+.squad-photo-fallback {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.squad-number {
+  color: var(--muted);
+  font-weight: 700;
+  text-align: center;
+}
+
+.squad-name { font-weight: 600; font-size: 1.05rem; }
+.squad-position { color: var(--muted); font-size: 0.9rem; text-align: right; }
+.squad-nationality { color: var(--muted); font-size: 0.9rem; text-align: right; min-width: 90px; }
+
+@media (max-width: 700px) {
+  .squad-row {
+    grid-template-columns: 40px 28px 1fr;
+    row-gap: 0.2rem;
+  }
+  .squad-position, .squad-nationality {
+    grid-column: 3;
+    text-align: left;
+    font-size: 0.8rem;
+  }
+}
 
 .history-season { color: var(--muted); font-size: 1rem; }
 .history-champion { font-weight: 600; }
-
-.squad-name { font-weight: 600; font-size: 1.05rem; }
-.squad-position { color: var(--muted); font-size: 0.9rem; }
 
 .squads-team-select-wrap {
   margin-bottom: 1.25rem;
