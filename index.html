@@ -16,6 +16,7 @@
   <div class="main-tabs">
     <button class="main-tab active" data-target="page-standings">Standings</button>
     <button class="main-tab" data-target="page-fixtures">What's On</button>
+    <button class="main-tab" data-target="page-matches">Matches</button>
     <button class="main-tab" data-target="page-history">Title History</button>
     <button class="main-tab" data-target="page-squads">Squads</button>
   </div>
@@ -83,6 +84,22 @@
   <!-- FIXTURES / WHAT'S ON PAGE -->
   <section id="page-fixtures" class="page hidden">
     <div id="fixture-cards" class="fixture-cards"></div>
+  </section>
+
+  <!-- MATCHES PAGE (pick a league, then a game, see its score) -->
+  <section id="page-matches" class="page hidden">
+    <div class="tabs">
+      <button class="tab matches-tab active" data-league="epl">Premier League</button>
+      <button class="tab matches-tab" data-league="laliga">La Liga</button>
+      <button class="tab matches-tab" data-league="seriea">Serie A</button>
+      <button class="tab matches-tab" data-league="ligue1">Ligue 1</button>
+      <button class="tab matches-tab" data-league="bundesliga">Bundesliga</button>
+      <button class="tab matches-tab" data-league="mls">MLS</button>
+    </div>
+    <div class="match-picker-controls">
+      <select id="match-select"></select>
+    </div>
+    <div id="match-detail" class="match-detail-card"></div>
   </section>
 
   <!-- TITLE HISTORY PAGE -->
@@ -153,6 +170,7 @@
 </script>
 
 <script src="fixtures.js"></script>
+<script src="matches.js"></script>
 <script src="history.js"></script>
 <script src="squads.js"></script>
 
