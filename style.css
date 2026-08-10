@@ -619,3 +619,38 @@ section h2 {
 @media (max-width: 640px) {
   .search-result-team-name { display: none; }
 }
+
+/* Squads team header (crest + name above the roster) */
+
+.squads-team-header {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.squads-team-header-crest {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.squads-team-header-crest-fallback {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 16px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.squads-team-header-name {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #fff;
+}

@@ -9,6 +9,19 @@ var SQUADS_LEAGUES = {
 
 var squadsCache = {};
 var currentSquadsLeague = "epl";
+var squadsCrestLogos = null;
+
+async function ensureSquadsCrestLogos() {
+  if (squadsCrestLogos === null) {
+    try {
+      var res = await fetch("data/logos.json");
+      squadsCrestLogos = await res.json();
+    } catch (err) {
+      squadsCrestLogos = {};
+    }
+  }
+  return squadsCrestLogos;
+}
 
 function playerInitials(name) {
   return name
@@ -29,8 +42,16 @@ function playerPhotoHtml(p) {
 
 function renderSquad(league, teamName) {
   var list = document.getElementById("squads-list");
+  var header = document.getElementById("squads-team-header");
   var data = squadsCache[league];
   var players = data[teamName] || [];
+
+  var crestUrl = squadsCrestLogos ? squadsCrestLogos[teamName] : null;
+  var crestHtml = crestUrl
+    ? '<img src="' + crestUrl + '" alt="' + teamName + '" class="squads-team-header-crest" loading="lazy" onerror="this.style.visibility=\'hidden\'">'
+    : '<span class="squads-team-header-crest-fallback">' + playerInitials(teamName) + "</span>";
+  header.innerHTML = crestHtml + '<span class="squads-team-header-name">' + teamName + "</span>";
+
   if (!players.length) {
     list.innerHTML = "<p class=\"muted-note\">No roster data for this team yet.</p>";
     return;
@@ -59,6 +80,7 @@ async function loadSquadsLeague(key) {
   selectWrap.classList.add("hidden");
 
   try {
+    await ensureSquadsCrestLogos();
     if (!squadsCache[key]) {
       var res = await fetch(info.file);
       if (!res.ok) throw new Error("not found");
