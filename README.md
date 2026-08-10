@@ -1,40 +1,27 @@
-# Football Hub (v3)
+# Team logos (from your Team_Logos.zip)
 
-A dark, green-accented site with four tabs: Standings, What's On, Title
-History, and Squads — covering Premier League, La Liga, Serie A, Ligue 1,
-Bundesliga, and MLS.
+Your logo pack covered every team across all 6 leagues — including ones
+the previous source was missing (Coventry, Ipswich, Hull, Paderborn,
+Elversberg, Schalke, Monza, Venezia, Troyes, Le Mans, and all 30 MLS clubs).
 
-## Files
+## What's in here
 
-**Site files (upload to repo root, replacing old versions):**
-- `index.html` — now has a top-level tab nav: Standings / What's On / Title
-  History / Squads
-- `style.css`
-- `fixtures.js` — "what's on now/next" cards, all 6 leagues
-- `history.js` — title-history tab logic
-- `squads.js` — squads tab logic
+- `assets/logos/<league>/<team-slug>.png` — 126 team crests, resized to a
+  clean 128x128 for fast loading (down from the original 3000x3000 files
+  where applicable)
+- `logos.json` — maps every fixture team name to its local logo path
+  (replaces the old `logos.json`, which pointed to an external CDN)
+- `assets-logos.zip` — the same `assets/` folder zipped up, in case that's
+  easier to drag into GitHub in one go
 
-**Data files (upload into a `data/` folder in the repo):**
-- `fixtures-epl.json`, `fixtures-laliga.json`, `fixtures-seriea.json`,
-  `fixtures-ligue1.json`, `fixtures-bundesliga.json`, `fixtures-mls.json`
-  — full 2026/27 season schedules (2025-26 for MLS... actually 2026 MLS season)
-- `history-epl.json` — full Premier League title history, 1992–93 to 2025–26
-
-## What's done vs. what's coming
-
-- ✅ **Standings**: all 6 leagues, live ScoreAxis tables
-- ✅ **What's On**: live/next match per league, all 6 leagues
-- ✅ **Title History**: Premier League complete (34 seasons). La Liga, Serie A,
-  Ligue 1, Bundesliga, and MLS show "coming soon" until their
-  `data/history-<league>.json` files are added — same format as
-  `history-epl.json`: an array of `{"season": "...", "champion": "..."}`.
-- 🚧 **Squads**: scaffolded and ready, but no roster data yet. Once you add
-  `data/squads-<league>.json` files (format: `{"Team Name": [{"name": "...",
-  "position": "..."}, ...], ...}`), the team dropdown and roster list will
-  populate automatically — no code changes needed.
+Only one team has no logo: **Deportivo Alavés** (La Liga) — it wasn't in
+your pack, so it'll keep showing as initials in a circle.
 
 ## Uploading
 
-1. Upload the 5 site files to the repo root.
-2. Upload the 7 data files into a `data/` folder.
-3. Give GitHub Pages a minute to redeploy.
+1. Upload the `assets/` folder (with its `logos/` subfolder and all 126
+   PNGs inside) to your repo root. GitHub's upload page accepts dragging a
+   whole folder from Finder/Explorer and will preserve the structure.
+2. Replace the existing `data/logos.json` with the new `logos.json` here.
+3. That's it — no HTML/CSS/JS changes needed, since `fixtures.js` and
+   `history.js` already just read whatever `logos.json` points them to.
