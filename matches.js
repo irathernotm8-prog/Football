@@ -9,7 +9,6 @@ var MATCH_LEAGUES = {
 
 var matchDataCache = {};
 var matchCrestLogos = null;
-var currentMatchLeague = "epl";
 
 function matchTeamInitials(name) {
   return name
@@ -23,35 +22,17 @@ function matchTeamInitials(name) {
 function matchCrestHtml(teamName) {
   var url = matchCrestLogos ? matchCrestLogos[teamName] : null;
   if (url) {
-    return '<img src="' + url + '" alt="' + teamName + ' crest" class="team-crest" loading="lazy" ' +
-      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'team-crest-fallback\', textContent:\'' + matchTeamInitials(teamName) + '\'}))">';
+    return '<img src="' + url + '" alt="' + teamName + ' crest" class="match-row-crest" loading="lazy" ' +
+      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'match-row-crest-fallback\', textContent:\'' + matchTeamInitials(teamName) + '\'}))">';
   }
-  return '<span class="team-crest-fallback">' + matchTeamInitials(teamName) + "</span>";
+  return '<span class="match-row-crest-fallback">' + matchTeamInitials(teamName) + "</span>";
 }
 
-function matchDateLabel(dateUtc) {
+function matchDateTimeLabel(dateUtc) {
   var d = new Date(dateUtc);
-  return d.toLocaleString(undefined, {
-    weekday: "short",
-    month: "short",
-    day: "numeric",
-    hour: "numeric",
-    minute: "2-digit"
-  });
-}
-
-function matchShortDateLabel(dateUtc) {
-  var d = new Date(dateUtc);
-  return d.toLocaleString(undefined, { month: "short", day: "numeric" });
-}
-
-function getMatchStatus(m) {
-  var now = new Date();
-  var kickoff = new Date(m.dateUtc);
-  var end = new Date(kickoff.getTime() + 130 * 60000);
-  if (now >= kickoff && now <= end) return "live";
-  if (now > end) return "final";
-  return "upcoming";
+  var datePart = d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" });
+  var timePart = d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+  return { datePart: datePart, timePart: timePart };
 }
 
 async function ensureMatchLeagueData(key) {
@@ -70,76 +51,57 @@ async function ensureMatchLeagueData(key) {
   return matchDataCache[key];
 }
 
-function populateMatchSelect(matches) {
-  var select = document.getElementById("match-select");
-  var now = new Date();
+function renderFullSchedule(matches) {
+  var container = document.getElementById("matches-full-list");
 
-  // Show a reasonable window: 7 days back through the rest of the season,
-  // so the dropdown isn't 380 entries long but still covers recent results.
-  var windowStart = new Date(now.getTime() - 7 * 24 * 60 * 60000);
-  var relevant = matches.filter(function (m) {
-    return new Date(m.dateUtc) >= windowStart;
+  var sorted = matches.slice().sort(function (a, b) {
+    return new Date(a.dateUtc) - new Date(b.dateUtc);
   });
-  if (!relevant.length) relevant = matches.slice(-20);
 
-  select.innerHTML = relevant.map(function (m, i) {
-    var label = matchShortDateLabel(m.dateUtc) + " \u2014 " + m.home + " vs " + m.away;
-    return '<option value="' + i + '">' + label + "</option>";
+  var byRound = {};
+  var roundOrder = [];
+  sorted.forEach(function (m) {
+    if (!(m.round in byRound)) {
+      byRound[m.round] = [];
+      roundOrder.push(m.round);
+    }
+    byRound[m.round].push(m);
+  });
+
+  container.innerHTML = roundOrder.map(function (round) {
+    var rows = byRound[round].map(function (m) {
+      var dt = matchDateTimeLabel(m.dateUtc);
+      var scoreOrTime = m.result
+        ? '<span class="match-row-score">' + m.result + "</span>"
+        : '<span class="match-row-time">' + dt.timePart + "</span>";
+      return (
+        '<div class="match-row">' +
+        '<span class="match-row-date">' + dt.datePart + "</span>" +
+        '<span class="match-row-team match-row-team-home">' + m.home + matchCrestHtml(m.home) + "</span>" +
+        '<span class="match-row-center">' + scoreOrTime + "</span>" +
+        '<span class="match-row-team match-row-team-away">' + matchCrestHtml(m.away) + m.away + "</span>" +
+        '<span class="match-row-venue">' + m.venue + "</span>" +
+        "</div>"
+      );
+    }).join("");
+    return (
+      '<div class="match-round-group">' +
+      '<div class="match-round-header">Matchday ' + round + "</div>" +
+      rows +
+      "</div>"
+    );
   }).join("");
-
-  select.dataset.matches = JSON.stringify(relevant);
-
-  // Default selection: live match if any, else the soonest upcoming, else the most recent final.
-  var liveIdx = relevant.findIndex(function (m) { return getMatchStatus(m) === "live"; });
-  var upcomingIdx = relevant.findIndex(function (m) { return getMatchStatus(m) === "upcoming"; });
-  var defaultIdx = liveIdx !== -1 ? liveIdx : (upcomingIdx !== -1 ? upcomingIdx : relevant.length - 1);
-  select.value = String(defaultIdx);
-
-  renderMatchDetail(relevant[defaultIdx]);
-}
-
-function renderMatchDetail(m) {
-  var card = document.getElementById("match-detail");
-  if (!m) {
-    card.innerHTML = '<p class="muted-note">No matches found.</p>';
-    return;
-  }
-  var status = getMatchStatus(m);
-  var statusLabel = status === "live" ? "Live" : status === "final" ? "Final" : "Upcoming";
-  var statusClass = "status-" + status;
-
-  var scoreHtml;
-  if (m.result) {
-    scoreHtml = '<div class="match-detail-score">' + m.result.replace(" - ", " &ndash; ") + "</div>";
-  } else if (status === "live") {
-    scoreHtml = '<div class="match-detail-score">In progress</div>';
-  } else {
-    scoreHtml = '<div class="match-detail-score">vs</div>';
-  }
-
-  card.innerHTML =
-    '<span class="match-detail-status ' + statusClass + '">' + statusLabel + "</span>" +
-    '<div class="match-detail-teams">' +
-    '<div class="match-detail-team">' + matchCrestHtml(m.home) + '<span class="match-detail-team-name">' + m.home + "</span></div>" +
-    scoreHtml +
-    '<div class="match-detail-team">' + matchCrestHtml(m.away) + '<span class="match-detail-team-name">' + m.away + "</span></div>" +
-    "</div>" +
-    '<div class="match-detail-meta">' + matchDateLabel(m.dateUtc) + " &middot; " + m.venue + "</div>";
 }
 
 async function loadMatchLeague(key) {
-  currentMatchLeague = key;
-  var card = document.getElementById("match-detail");
-  card.innerHTML = '<p class="muted-note">Loading...</p>';
+  var container = document.getElementById("matches-full-list");
+  container.innerHTML = '<p class="muted-note">Loading...</p>';
   try {
     var matches = await ensureMatchLeagueData(key);
-    matches = matches.slice().sort(function (a, b) {
-      return new Date(a.dateUtc) - new Date(b.dateUtc);
-    });
-    populateMatchSelect(matches);
+    renderFullSchedule(matches);
   } catch (err) {
     console.error("Failed to load matches for " + key, err);
-    card.innerHTML = '<p class="muted-note">Couldn\'t load match data.</p>';
+    container.innerHTML = '<p class="muted-note">Couldn\'t load match data.</p>';
   }
 }
 
@@ -149,11 +111,6 @@ document.querySelectorAll(".matches-tab").forEach(function (tab) {
     tab.classList.add("active");
     loadMatchLeague(tab.dataset.league);
   });
-});
-
-document.getElementById("match-select") && document.getElementById("match-select").addEventListener("change", function (e) {
-  var matches = JSON.parse(e.target.dataset.matches);
-  renderMatchDetail(matches[parseInt(e.target.value, 10)]);
 });
 
 document.querySelector('[data-target="page-matches"]').addEventListener("click", function () {
