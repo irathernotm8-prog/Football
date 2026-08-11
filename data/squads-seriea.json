@@ -1,0 +1,256 @@
+{
+ "Milan": [
+  {
+   "number": 1,
+   "name": "Pietro Terracciano",
+   "position": "GK",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/281762.png"
+  },
+  {
+   "number": 16,
+   "name": "Mike Maignan",
+   "position": "GK",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/466439.png"
+  },
+  {
+   "number": 41,
+   "name": "Leo Paul Bouyer",
+   "position": "GK",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/2022740.png"
+  },
+  {
+   "number": 96,
+   "name": "Lorenzo Torriani",
+   "position": "GK",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1642393.png"
+  },
+  {
+   "number": 24,
+   "name": "Zachary Athekame",
+   "position": "RB",
+   "nationality": "Switzerland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1595629.png"
+  },
+  {
+   "number": 5,
+   "name": "Koni De Winter",
+   "position": "CB",
+   "nationality": "Belgium",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1200630.png"
+  },
+  {
+   "number": 13,
+   "name": "Sankhoun Diawara",
+   "position": "CB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1669433.png"
+  },
+  {
+   "number": 23,
+   "name": "Fikayo Tomori",
+   "position": "CB",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/749662.png"
+  },
+  {
+   "number": 27,
+   "name": "David Odogu",
+   "position": "CB",
+   "nationality": "Germany",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1469996.png"
+  },
+  {
+   "number": 31,
+   "name": "Strahinja Pavlovic",
+   "position": "CB",
+   "nationality": "Serbia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1048023.png"
+  },
+  {
+   "number": 42,
+   "name": "Filippo Terracciano",
+   "position": "CB",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1163501.png"
+  },
+  {
+   "number": 46,
+   "name": "Matteo Gabbia",
+   "position": "CB",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/844996.png"
+  },
+  {
+   "number": 95,
+   "name": "Mario Gila",
+   "position": "CB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1106074.png"
+  },
+  {
+   "number": null,
+   "name": "Ismaël Bennacer",
+   "position": "DM",
+   "nationality": "Algeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/609624.png"
+  },
+  {
+   "number": 80,
+   "name": "Yunus Musah",
+   "position": "DM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1137272.png"
+  },
+  {
+   "number": null,
+   "name": "Kevin Zeroli",
+   "position": "CM",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1446625.png"
+  },
+  {
+   "number": null,
+   "name": "Victor Eletu",
+   "position": "Midfielder",
+   "nationality": "Nigeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1425696.png"
+  },
+  {
+   "number": null,
+   "name": "Warren Bondo",
+   "position": "CM",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1209987.png"
+  },
+  {
+   "number": 4,
+   "name": "Samuele Ricci",
+   "position": "CM",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/941656.png"
+  },
+  {
+   "number": 8,
+   "name": "Ruben Loftus-Cheek",
+   "position": "CM",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/604982.png"
+  },
+  {
+   "number": 12,
+   "name": "Adrien Rabiot",
+   "position": "CM",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/352879.png"
+  },
+  {
+   "number": 14,
+   "name": "Luka Modric",
+   "position": "CM",
+   "nationality": "Croatia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/31097.png"
+  },
+  {
+   "number": 19,
+   "name": "Youssouf Fofana",
+   "position": "CM",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/954621.png"
+  },
+  {
+   "number": 30,
+   "name": "Ardon Jashari",
+   "position": "CM",
+   "nationality": "Switzerland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1163219.png"
+  },
+  {
+   "number": 56,
+   "name": "Alexis Saelemaekers",
+   "position": "RM",
+   "nationality": "Belgium",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/921341.png"
+  },
+  {
+   "number": 2,
+   "name": "Pervis Estupinán",
+   "position": "LM",
+   "nationality": "Ecuador",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/688278.png"
+  },
+  {
+   "number": 33,
+   "name": "Davide Bartesaghi",
+   "position": "LM",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1385856.png"
+  },
+  {
+   "number": 70,
+   "name": "Alphadjo Cissè",
+   "position": "AM",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1445650.png"
+  },
+  {
+   "number": 21,
+   "name": "Samuel Chukwueze",
+   "position": "LW",
+   "nationality": "Nigeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/688300.png"
+  },
+  {
+   "number": 25,
+   "name": "Cheveyo Mul-Balentien",
+   "position": "Attacker",
+   "nationality": "Suriname",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1794177.png"
+  },
+  {
+   "number": 7,
+   "name": "Santiago Giménez",
+   "position": "ST",
+   "nationality": "Mexico",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/954092.png"
+  },
+  {
+   "number": 9,
+   "name": "Gonçalo Ramos",
+   "position": "ST",
+   "nationality": "Portugal",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/940087.png"
+  },
+  {
+   "number": 10,
+   "name": "Rafael Leão",
+   "position": "ST",
+   "nationality": "Portugal",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/848844.png"
+  },
+  {
+   "number": 11,
+   "name": "Christian Pulisic",
+   "position": "ST",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/688295.png"
+  },
+  {
+   "number": 18,
+   "name": "Christopher Nkunku",
+   "position": "ST",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/704523.png"
+  },
+  {
+   "number": 94,
+   "name": "Aurelien Guernier",
+   "position": "ST",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1807149.png"
+  }
+ ]
+}

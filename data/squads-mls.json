@@ -1,0 +1,405 @@
+{
+ "Inter Miami CF": [
+  {
+   "number": 13,
+   "name": "Luis Barraza",
+   "position": "GK",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1026132.png"
+  },
+  {
+   "number": 34,
+   "name": "Rocco Ríos Novo",
+   "position": "GK",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1216069.png"
+  },
+  {
+   "number": 97,
+   "name": "Dayne St. Clair",
+   "position": "GK",
+   "nationality": "Canada",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1026105.png"
+  },
+  {
+   "number": 4,
+   "name": "Facundo Mura",
+   "position": "RB",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1029392.png"
+  },
+  {
+   "number": 17,
+   "name": "Ian Fray",
+   "position": "RB",
+   "nationality": "Jamaica",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1171135.png"
+  },
+  {
+   "number": 2,
+   "name": "Gonzalo Luján",
+   "position": "CB",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1257342.png"
+  },
+  {
+   "number": 16,
+   "name": "Micael",
+   "position": "CB",
+   "nationality": "Brazil",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1262208.png"
+  },
+  {
+   "number": 26,
+   "name": "Tyler Hall",
+   "position": "CB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1502433.png"
+  },
+  {
+   "number": 37,
+   "name": "Maximiliano Falcón",
+   "position": "CB",
+   "nationality": "Uruguay",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1134104.png"
+  },
+  {
+   "number": 3,
+   "name": "Sergio Reguilón",
+   "position": "LB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/724436.png"
+  },
+  {
+   "number": 32,
+   "name": "Noah Allen",
+   "position": "LB",
+   "nationality": "Greece",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1340790.png"
+  },
+  {
+   "number": 76,
+   "name": "Ezequiel Abadia-Reda",
+   "position": "LB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1469015.png"
+  },
+  {
+   "number": 42,
+   "name": "Yannick Bright",
+   "position": "DM",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1600844.png"
+  },
+  {
+   "number": 7,
+   "name": "Rodrigo De Paul",
+   "position": "CM",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/324578.png"
+  },
+  {
+   "number": 22,
+   "name": "David Ayala",
+   "position": "CM",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1118540.png"
+  },
+  {
+   "number": 41,
+   "name": "David Ruiz",
+   "position": "CM",
+   "nationality": "Honduras",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1348286.png"
+  },
+  {
+   "number": 88,
+   "name": "Alexander Shaw",
+   "position": "CM",
+   "nationality": "Colombia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1780795.png"
+  },
+  {
+   "number": 62,
+   "name": "Israel Boatwright",
+   "position": "RM",
+   "nationality": "Dominican Rep.",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1376142.png"
+  },
+  {
+   "number": 8,
+   "name": "Telasco Segovia",
+   "position": "LM",
+   "nationality": "Venezuela",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1253904.png"
+  },
+  {
+   "number": 59,
+   "name": "Preston Plambeck",
+   "position": "LM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1738766.png"
+  },
+  {
+   "number": 21,
+   "name": "Tadeo Allende",
+   "position": "RW",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1330616.png"
+  },
+  {
+   "number": 20,
+   "name": "Santiago Morales",
+   "position": "LW",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1529403.png"
+  },
+  {
+   "number": 24,
+   "name": "Mateo Silvetti",
+   "position": "LW",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1662026.png"
+  },
+  {
+   "number": 9,
+   "name": "Luis Suárez",
+   "position": "ST",
+   "nationality": "Uruguay",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/40636.png"
+  },
+  {
+   "number": 10,
+   "name": "Lionel Messi",
+   "position": "ST",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/30981.png"
+  },
+  {
+   "number": 19,
+   "name": "Germán Berterame",
+   "position": "ST",
+   "nationality": "Mexico",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/743536.png"
+  },
+  {
+   "number": 56,
+   "name": "Dániel Pintér",
+   "position": "ST",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1626969.png"
+  }
+ ],
+ "LA Galaxy": [
+  {
+   "number": 1,
+   "name": "Novak Micovic",
+   "position": "GK",
+   "nationality": "Serbia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1068655.png"
+  },
+  {
+   "number": 12,
+   "name": "James Marcinkowski",
+   "position": "GK",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/847987.png"
+  },
+  {
+   "number": 31,
+   "name": "Brady Scott",
+   "position": "GK",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/847989.png"
+  },
+  {
+   "number": 2,
+   "name": "Miki Yamane",
+   "position": "RB",
+   "nationality": "Japan",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/727841.png"
+  },
+  {
+   "number": 4,
+   "name": "Maya Yoshida",
+   "position": "CB",
+   "nationality": "Japan",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/72665.png"
+  },
+  {
+   "number": 5,
+   "name": "Jakob Glesnes",
+   "position": "CB",
+   "nationality": "Norway",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/259484.png"
+  },
+  {
+   "number": 15,
+   "name": "Justin Haak",
+   "position": "CB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1026144.png"
+  },
+  {
+   "number": 20,
+   "name": "Chris Rindov",
+   "position": "CB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1445744.png"
+  },
+  {
+   "number": 25,
+   "name": "Emiro Garcés",
+   "position": "CB",
+   "nationality": "Colombia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1317558.png"
+  },
+  {
+   "number": 3,
+   "name": "Julián Aude",
+   "position": "LB",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1200661.png"
+  },
+  {
+   "number": 14,
+   "name": "John Nelson",
+   "position": "LB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1026048.png"
+  },
+  {
+   "number": 50,
+   "name": "Riley Dalgado",
+   "position": "LB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1413809.png"
+  },
+  {
+   "number": null,
+   "name": "Sergi Roberto",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/212472.png"
+  },
+  {
+   "number": 16,
+   "name": "Isaiah Parente",
+   "position": "DM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1245255.png"
+  },
+  {
+   "number": 34,
+   "name": "Brett Phan",
+   "position": "DM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1840739.png"
+  },
+  {
+   "number": 8,
+   "name": "Lucas Sanabria",
+   "position": "CM",
+   "nationality": "Uruguay",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1609838.png"
+  },
+  {
+   "number": 10,
+   "name": "Riqui Puig",
+   "position": "CM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/920173.png"
+  },
+  {
+   "number": 22,
+   "name": "Elijah Wynder",
+   "position": "CM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1079298.png"
+  },
+  {
+   "number": 76,
+   "name": "Troy Elgersma",
+   "position": "LM",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1922451.png"
+  },
+  {
+   "number": 18,
+   "name": "Marco Reus",
+   "position": "AM",
+   "nationality": "Germany",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/129944.png"
+  },
+  {
+   "number": 21,
+   "name": "Robert Taylor",
+   "position": "RW",
+   "nationality": "Finland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/448543.png"
+  },
+  {
+   "number": 45,
+   "name": "Vicente Garcia",
+   "position": "RW",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1781405.png"
+  },
+  {
+   "number": null,
+   "name": "Hirving Lozano",
+   "position": "LW",
+   "nationality": "Mexico",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/521210.png"
+  },
+  {
+   "number": 26,
+   "name": "Harbor Miller",
+   "position": "LW",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1683714.png"
+  },
+  {
+   "number": 27,
+   "name": "Erik Thommy",
+   "position": "LW",
+   "nationality": "Germany",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/519093.png"
+  },
+  {
+   "number": 28,
+   "name": "Joseph Paintsil",
+   "position": "LW",
+   "nationality": "Ghana",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/850924.png"
+  },
+  {
+   "number": 7,
+   "name": "Kyogo Furuhashi",
+   "position": "ST",
+   "nationality": "Japan",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/826089.png"
+  },
+  {
+   "number": 24,
+   "name": "Rubén Ramos",
+   "position": "ST",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1478368.png"
+  },
+  {
+   "number": 57,
+   "name": "Julian Placias",
+   "position": "ST",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1532260.png"
+  },
+  {
+   "number": 99,
+   "name": "João Klauss",
+   "position": "ST",
+   "nationality": "Brazil",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/839021.png"
+  }
+ ]
+}
