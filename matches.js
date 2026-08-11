@@ -9,6 +9,8 @@ var MATCH_LEAGUES = {
 
 var matchDataCache = {};
 var matchCrestLogos = null;
+var currentMatchLeague = "epl";
+var currentTeamFilter = "";
 
 function matchTeamInitials(name) {
   return name
@@ -51,12 +53,40 @@ async function ensureMatchLeagueData(key) {
   return matchDataCache[key];
 }
 
-function renderFullSchedule(matches) {
+function populateTeamFilter(matches) {
+  var select = document.getElementById("match-team-filter");
+  if (!select) return;
+
+  var teams = new Set();
+  matches.forEach(function (m) {
+    teams.add(m.home);
+    teams.add(m.away);
+  });
+  var sortedTeams = Array.from(teams).sort();
+
+  select.innerHTML = '<option value="">All Teams</option>' +
+    sortedTeams.map(function (t) {
+      return '<option value="' + t + '">' + t + "</option>";
+    }).join("");
+  select.value = currentTeamFilter && sortedTeams.indexOf(currentTeamFilter) !== -1 ? currentTeamFilter : "";
+  currentTeamFilter = select.value;
+}
+
+function renderFullSchedule(matches, teamFilter) {
   var container = document.getElementById("matches-full-list");
 
-  var sorted = matches.slice().sort(function (a, b) {
+  var filtered = teamFilter
+    ? matches.filter(function (m) { return m.home === teamFilter || m.away === teamFilter; })
+    : matches;
+
+  var sorted = filtered.slice().sort(function (a, b) {
     return new Date(a.dateUtc) - new Date(b.dateUtc);
   });
+
+  if (!sorted.length) {
+    container.innerHTML = '<p class="muted-note">No matches found.</p>';
+    return;
+  }
 
   var byRound = {};
   var roundOrder = [];
@@ -94,11 +124,14 @@ function renderFullSchedule(matches) {
 }
 
 async function loadMatchLeague(key) {
+  currentMatchLeague = key;
+  currentTeamFilter = "";
   var container = document.getElementById("matches-full-list");
   container.innerHTML = '<p class="muted-note">Loading...</p>';
   try {
     var matches = await ensureMatchLeagueData(key);
-    renderFullSchedule(matches);
+    populateTeamFilter(matches);
+    renderFullSchedule(matches, currentTeamFilter);
   } catch (err) {
     console.error("Failed to load matches for " + key, err);
     container.innerHTML = '<p class="muted-note">Couldn\'t load match data.</p>';
@@ -112,6 +145,14 @@ document.querySelectorAll(".matches-tab").forEach(function (tab) {
     loadMatchLeague(tab.dataset.league);
   });
 });
+
+var matchTeamFilterEl = document.getElementById("match-team-filter");
+if (matchTeamFilterEl) {
+  matchTeamFilterEl.addEventListener("change", function (e) {
+    currentTeamFilter = e.target.value;
+    renderFullSchedule(matchDataCache[currentMatchLeague], currentTeamFilter);
+  });
+}
 
 document.querySelector('[data-target="page-matches"]').addEventListener("click", function () {
   if (!matchDataCache.epl) loadMatchLeague("epl");

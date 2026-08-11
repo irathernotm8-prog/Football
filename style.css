@@ -654,3 +654,19 @@ section h2 {
   font-weight: 800;
   color: #fff;
 }
+
+/* Match team filter dropdown */
+
+.match-filter-wrap {
+  margin-bottom: 1.25rem;
+}
+
+#match-team-filter {
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  padding: 0.7rem 1rem;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  min-width: 220px;
+}
