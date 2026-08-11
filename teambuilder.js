@@ -143,16 +143,15 @@ function builderInitials(name) {
 }
 
 // State
-var builderSquadsCache = {};
+var builderPlayerPool = null;   // flat array across all leagues/teams: {name, number, position, nationality, photo, team, league}
 var builderCrestLogos = null;
-var currentBuilderLeague = "epl";
-var currentBuilderTeam = null;
-var currentBuilderRoster = [];
 var currentFormation = "4-3-3";
-var builderSquad = {};        // slotId -> roster index
+var builderSquad = {};          // slotId -> global pool index
 var builderActiveSlotId = null;
 var builderPickerFilter = "ALL";
 var builderPickerSearch = "";
+var builderLeagueFilter = "";
+var builderTeamFilter = "";
 
 async function ensureBuilderCrestLogos() {
   if (builderCrestLogos === null) {
@@ -165,50 +164,51 @@ async function ensureBuilderCrestLogos() {
   }
 }
 
-async function ensureBuilderLeagueData(key) {
-  if (!builderSquadsCache[key]) {
-    var res = await fetch(BUILDER_LEAGUES[key].file);
-    builderSquadsCache[key] = await res.json();
-  }
+async function buildBuilderPlayerPool() {
+  if (builderPlayerPool) return builderPlayerPool;
   await ensureBuilderCrestLogos();
-  return builderSquadsCache[key];
-}
 
-async function loadBuilderLeague(key) {
-  currentBuilderLeague = key;
-  var select = document.getElementById("builder-team-select");
-  select.innerHTML = "<option>Loading...</option>";
-  try {
-    var data = await ensureBuilderLeagueData(key);
-    var teamNames = Object.keys(data).sort();
-    select.innerHTML = teamNames.map(function (t) {
-      return '<option value="' + t + '">' + t + "</option>";
-    }).join("");
-    if (teamNames.length) {
-      selectBuilderTeam(teamNames[0]);
+  var pool = [];
+  var leagueKeys = Object.keys(BUILDER_LEAGUES);
+  for (var i = 0; i < leagueKeys.length; i++) {
+    var key = leagueKeys[i];
+    try {
+      var res = await fetch(BUILDER_LEAGUES[key].file);
+      if (!res.ok) continue;
+      var data = await res.json();
+      Object.keys(data).forEach(function (teamName) {
+        data[teamName].forEach(function (p) {
+          pool.push({
+            name: p.name,
+            number: p.number,
+            position: p.position,
+            nationality: p.nationality,
+            photo: p.photo,
+            team: teamName,
+            league: key
+          });
+        });
+      });
+    } catch (err) {
+      // league file missing / not yet uploaded, skip
     }
-  } catch (err) {
-    select.innerHTML = "<option>Couldn't load teams</option>";
   }
+  builderPlayerPool = pool;
+  return pool;
 }
 
-function selectBuilderTeam(teamName) {
-  currentBuilderTeam = teamName;
-  var data = builderSquadsCache[currentBuilderLeague] || {};
-  currentBuilderRoster = data[teamName] || [];
-  builderSquad = {};
-  builderActiveSlotId = null;
-  renderBuilderPitch();
-  updateBuilderCount();
-  resetBuilderPickerToIdle();
-  var select = document.getElementById("builder-team-select");
-  if (select.value !== teamName) select.value = teamName;
+function builderTeamCrestHtml(teamName, sizeClass) {
+  var url = builderCrestLogos ? builderCrestLogos[teamName] : null;
+  if (url) {
+    return '<img src="' + url + '" alt="' + teamName + '" class="' + sizeClass + '" loading="lazy" onerror="this.style.visibility=\'hidden\'">';
+  }
+  return "";
 }
 
 function builderPlayerPhotoHtml(player) {
   if (player.photo) {
     return '<img src="' + player.photo + '" alt="' + player.name + '" onerror="' +
-      "this.parentElement.innerHTML='<div class=\\'slot-ph\\'>" + builderInitials(player.name) + "</div>'" +
+      "this.parentElement.insertBefore(Object.assign(document.createElement('div'), {className:'slot-ph', textContent:'" + builderInitials(player.name) + "'}), this); this.remove();" +
       '">';
   }
   return '<div class="slot-ph">' + builderInitials(player.name) + "</div>";
@@ -228,15 +228,17 @@ function renderBuilderPitch() {
 
     var pg = builderPosGroup(slotDef.pos);
     var filledIdx = builderSquad[slotDef.id];
-    var player = filledIdx !== undefined ? currentBuilderRoster[filledIdx] : null;
+    var player = filledIdx !== undefined ? builderPlayerPool[filledIdx] : null;
 
     if (player) {
       el.classList.add("filled");
       var badgeBg = POS_COLORS[pg] || POS_COLORS.MID;
+      var crestHtml = builderTeamCrestHtml(player.team, "b-slot-crest");
       el.innerHTML =
         '<div class="b-slot-card">' +
         builderPlayerPhotoHtml(player) +
         '<span class="b-slot-badge" style="background:' + badgeBg + '">' + slotDef.label + "</span>" +
+        (crestHtml ? '<span class="b-slot-crest-wrap">' + crestHtml + "</span>" : "") +
         '<button class="b-slot-remove" data-slot="' + slotDef.id + '" title="Remove">\u2715</button>' +
         "</div>" +
         '<div class="b-slot-name">' + (player.name.split(" ").pop()) + "</div>";
@@ -275,7 +277,8 @@ function renderBuilderPitch() {
   }
 }
 
-function openBuilderPicker(slotId, pos, label) {
+async function openBuilderPicker(slotId, pos, label) {
+  await buildBuilderPlayerPool();
   builderActiveSlotId = slotId;
 
   document.querySelectorAll(".b-slot").forEach(function (s) { s.classList.remove("active-slot"); });
@@ -299,20 +302,22 @@ function openBuilderPicker(slotId, pos, label) {
 }
 
 function renderBuilderPickerList() {
-  if (builderActiveSlotId === null) return;
+  if (builderActiveSlotId === null || !builderPlayerPool) return;
 
   var usedIndices = {};
   Object.keys(builderSquad).forEach(function (k) { usedIndices[builderSquad[k]] = true; });
 
   var list = document.getElementById("builder-picker-list");
 
-  var filtered = currentBuilderRoster.map(function (p, i) { return { p: p, i: i }; }).filter(function (o) {
+  var filtered = builderPlayerPool.map(function (p, i) { return { p: p, i: i }; }).filter(function (o) {
     var pg = builderPosGroup(o.p.position);
     var posOk = builderPickerFilter === "ALL" || pg === builderPickerFilter;
+    var leagueOk = !builderLeagueFilter || o.p.league === builderLeagueFilter;
+    var teamOk = !builderTeamFilter || o.p.team === builderTeamFilter;
     var searchOk = !builderPickerSearch ||
       o.p.name.toLowerCase().indexOf(builderPickerSearch) !== -1 ||
       (o.p.nationality || "").toLowerCase().indexOf(builderPickerSearch) !== -1;
-    return posOk && searchOk;
+    return posOk && leagueOk && teamOk && searchOk;
   });
 
   if (!filtered.length) {
@@ -327,15 +332,16 @@ function renderBuilderPickerList() {
     return a.p.name.split(" ").pop().localeCompare(b.p.name.split(" ").pop());
   });
 
-  list.innerHTML = filtered.map(function (o) {
+  list.innerHTML = filtered.slice(0, 150).map(function (o) {
     var p = o.p, i = o.i;
     var pg = builderPosGroup(p.position);
     var badgeBg = POS_COLORS[pg] || POS_COLORS.MID;
     var used = !!usedIndices[i];
     var thumbHtml = p.photo
       ? '<img src="' + p.photo + '" alt="' + p.name + '" onerror="' +
-        "this.parentElement.innerHTML='<div class=\\'b-pick-ph\\'>" + builderInitials(p.name) + "</div>'" + '">'
+        "this.parentElement.insertBefore(Object.assign(document.createElement('div'), {className:'b-pick-ph', textContent:'" + builderInitials(p.name) + "'}), this); this.remove();" + '">'
       : '<div class="b-pick-ph">' + builderInitials(p.name) + "</div>";
+    var crestHtml = builderTeamCrestHtml(p.team, "builder-picker-crest");
     return (
       '<div class="builder-picker-row' + (used ? " already-used" : "") + '" data-idx="' + i + '">' +
       '<div class="builder-picker-thumb">' + thumbHtml + "</div>" +
@@ -346,6 +352,7 @@ function renderBuilderPickerList() {
       (p.nationality || "") +
       "</div>" +
       "</div>" +
+      (crestHtml ? '<div class="builder-picker-team">' + crestHtml + "</div>" : "") +
       "</div>"
     );
   }).join("");
@@ -371,11 +378,25 @@ function updateBuilderCount() {
 
 function resetBuilderPickerToIdle() {
   document.getElementById("builder-picker-list").innerHTML =
-    '<div class="builder-picker-idle">Click any position slot on the pitch to build your XI</div>';
+    '<div class="builder-picker-idle">Click any position on the pitch, then pick any player from any team to build your XI</div>';
   document.getElementById("builder-picker-hint").classList.remove("show");
   document.getElementById("builder-picker-title").textContent = "Player Picker";
   document.querySelectorAll(".b-slot").forEach(function (s) { s.classList.remove("active-slot"); });
   builderActiveSlotId = null;
+}
+
+function populateBuilderTeamFilter() {
+  var select = document.getElementById("builder-team-filter");
+  if (!select || !builderPlayerPool) return;
+  var teams = new Set();
+  builderPlayerPool.forEach(function (p) {
+    if (!builderLeagueFilter || p.league === builderLeagueFilter) teams.add(p.team);
+  });
+  var sorted = Array.from(teams).sort();
+  select.innerHTML = '<option value="">All Teams</option>' +
+    sorted.map(function (t) { return '<option value="' + t + '">' + t + "</option>"; }).join("");
+  select.value = "";
+  builderTeamFilter = "";
 }
 
 // Wire up controls
@@ -392,6 +413,24 @@ var builderSearchEl = document.getElementById("builder-picker-search");
 if (builderSearchEl) {
   builderSearchEl.addEventListener("input", function (e) {
     builderPickerSearch = e.target.value.toLowerCase().trim();
+    renderBuilderPickerList();
+  });
+}
+
+var builderLeagueFilterEl = document.getElementById("builder-league-filter");
+if (builderLeagueFilterEl) {
+  builderLeagueFilterEl.addEventListener("change", async function (e) {
+    builderLeagueFilter = e.target.value;
+    await buildBuilderPlayerPool();
+    populateBuilderTeamFilter();
+    renderBuilderPickerList();
+  });
+}
+
+var builderTeamFilterEl = document.getElementById("builder-team-filter");
+if (builderTeamFilterEl) {
+  builderTeamFilterEl.addEventListener("change", function (e) {
+    builderTeamFilter = e.target.value;
     renderBuilderPickerList();
   });
 }
@@ -426,24 +465,11 @@ if (builderClearBtn) {
   });
 }
 
-document.querySelectorAll(".builder-league-tab").forEach(function (tab) {
-  tab.addEventListener("click", function () {
-    document.querySelectorAll(".builder-league-tab").forEach(function (t) { t.classList.remove("active"); });
-    tab.classList.add("active");
-    loadBuilderLeague(tab.dataset.league);
-  });
-});
-
-var builderTeamSelectEl = document.getElementById("builder-team-select");
-if (builderTeamSelectEl) {
-  builderTeamSelectEl.addEventListener("change", function (e) {
-    selectBuilderTeam(e.target.value);
-  });
-}
-
 document.querySelector('[data-target="page-builder"]').addEventListener("click", function () {
-  if (!builderSquadsCache.epl) {
-    loadBuilderLeague("epl");
+  if (!builderPlayerPool) {
     renderBuilderPitch();
+    buildBuilderPlayerPool().then(function () {
+      populateBuilderTeamFilter();
+    });
   }
 });

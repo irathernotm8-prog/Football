@@ -4,6 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Football Hub</title>
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="favicon-48x48.png">
+<link rel="icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="icon-512.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -142,17 +149,6 @@
 
   <!-- SQUAD BUILDER PAGE -->
   <section id="page-builder" class="page hidden">
-    <div class="tabs" id="builder-league-tabs">
-      <button class="tab builder-league-tab active" data-league="epl">Premier League</button>
-      <button class="tab builder-league-tab" data-league="laliga">La Liga</button>
-      <button class="tab builder-league-tab" data-league="seriea">Serie A</button>
-      <button class="tab builder-league-tab" data-league="ligue1">Ligue 1</button>
-      <button class="tab builder-league-tab" data-league="bundesliga">Bundesliga</button>
-      <button class="tab builder-league-tab" data-league="mls">MLS</button>
-    </div>
-    <div class="squads-team-select-wrap">
-      <select id="builder-team-select"></select>
-    </div>
     <div class="builder-toolbar">
       <div class="builder-formations" id="builder-formations">
         <button class="formation-btn active" data-f="4-3-3">4-3-3</button>
@@ -182,6 +178,20 @@
           <div class="builder-picker-title" id="builder-picker-title">Player Picker</div>
           <div class="builder-picker-hint" id="builder-picker-hint"></div>
           <input type="text" id="builder-picker-search" placeholder="Search players...">
+          <div class="builder-picker-selects">
+            <select id="builder-league-filter">
+              <option value="">All Leagues</option>
+              <option value="epl">Premier League</option>
+              <option value="laliga">La Liga</option>
+              <option value="seriea">Serie A</option>
+              <option value="ligue1">Ligue 1</option>
+              <option value="bundesliga">Bundesliga</option>
+              <option value="mls">MLS</option>
+            </select>
+            <select id="builder-team-filter">
+              <option value="">All Teams</option>
+            </select>
+          </div>
         </div>
         <div class="builder-picker-filters" id="builder-picker-filters">
           <button class="pf-btn active" data-pg="ALL">All</button>
@@ -191,7 +201,7 @@
           <button class="pf-btn" data-pg="FWD">FWD</button>
         </div>
         <div class="builder-picker-list" id="builder-picker-list">
-          <div class="builder-picker-idle" id="builder-picker-idle">Pick a team above, then click any position on the pitch to build your XI</div>
+          <div class="builder-picker-idle" id="builder-picker-idle">Click any position on the pitch, then pick any player from any team to build your XI</div>
         </div>
       </div>
     </div>
