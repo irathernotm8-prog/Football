@@ -32,13 +32,61 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 2.8rem;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  background: linear-gradient(90deg, #ffffff, var(--green));
+  font-size: 3.4rem;
+  font-weight: 900;
+  letter-spacing: -0.01em;
+  font-style: italic;
+  display: inline-flex;
+  gap: 0.5rem;
+  justify-content: center;
+  width: 100%;
+}
+
+.title-main {
+  background: linear-gradient(180deg, #ffffff 0%, #d4d4d4 55%, #ffffff 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  -webkit-text-stroke: 1.5px #05130b;
+  paint-order: stroke fill;
+  text-shadow: 0 5px 14px rgba(0, 0, 0, 0.55);
+}
+
+.title-accent {
+  background: linear-gradient(180deg, #8dffa0 0%, var(--green) 55%, #1a8f3c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-stroke: 1.5px #05130b;
+  paint-order: stroke fill;
+  text-shadow: 0 0 24px rgba(48, 209, 88, 0.65), 0 5px 14px rgba(0, 0, 0, 0.55);
+}
+
+.header-flourish {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  margin-top: 0.4rem;
+}
+
+.flourish-line {
+  height: 3px;
+  width: 90px;
+  border-radius: 2px;
+}
+
+.flourish-line.left {
+  background: linear-gradient(90deg, transparent, var(--green));
+}
+
+.flourish-line.right {
+  background: linear-gradient(90deg, var(--green), transparent);
+}
+
+@media (max-width: 640px) {
+  header h1 { font-size: 2.3rem; }
+  .flourish-line { width: 50px; }
 }
 
 main {
