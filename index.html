@@ -20,6 +20,7 @@
     <button class="main-tab" data-target="page-history">Title History</button>
     <button class="main-tab" data-target="page-squads">Squads</button>
     <button class="main-tab" data-target="page-search">Player Search</button>
+    <button class="main-tab" data-target="page-builder">Squad Builder</button>
   </div>
 
   <!-- STANDINGS PAGE -->
@@ -138,6 +139,63 @@
     <input type="text" id="player-search-input" class="player-search-input" placeholder="Search for a player...">
     <div id="player-search-results" class="player-search-results"></div>
   </section>
+
+  <!-- SQUAD BUILDER PAGE -->
+  <section id="page-builder" class="page hidden">
+    <div class="tabs" id="builder-league-tabs">
+      <button class="tab builder-league-tab active" data-league="epl">Premier League</button>
+      <button class="tab builder-league-tab" data-league="laliga">La Liga</button>
+      <button class="tab builder-league-tab" data-league="seriea">Serie A</button>
+      <button class="tab builder-league-tab" data-league="ligue1">Ligue 1</button>
+      <button class="tab builder-league-tab" data-league="bundesliga">Bundesliga</button>
+      <button class="tab builder-league-tab" data-league="mls">MLS</button>
+    </div>
+    <div class="squads-team-select-wrap">
+      <select id="builder-team-select"></select>
+    </div>
+    <div class="builder-toolbar">
+      <div class="builder-formations" id="builder-formations">
+        <button class="formation-btn active" data-f="4-3-3">4-3-3</button>
+        <button class="formation-btn" data-f="4-4-2">4-4-2</button>
+        <button class="formation-btn" data-f="4-2-3-1">4-2-3-1</button>
+        <button class="formation-btn" data-f="3-5-2">3-5-2</button>
+        <button class="formation-btn" data-f="5-3-2">5-3-2</button>
+        <button class="formation-btn" data-f="3-4-3">3-4-3</button>
+        <button class="formation-btn" data-f="4-1-4-1">4-1-4-1</button>
+        <button class="formation-btn" data-f="5-4-1">5-4-1</button>
+      </div>
+      <span class="builder-count" id="builder-count">0 / 11</span>
+      <button class="builder-clear-btn" id="builder-clear-btn">Clear All</button>
+    </div>
+    <div class="builder-main">
+      <div class="builder-pitch-wrap">
+        <div class="builder-pitch" id="builder-pitch">
+          <div class="pitch-centre-circle"></div>
+          <div class="pitch-box-top"></div>
+          <div class="pitch-box-bot"></div>
+          <div class="pitch-small-top"></div>
+          <div class="pitch-small-bot"></div>
+        </div>
+      </div>
+      <div class="builder-picker" id="builder-picker">
+        <div class="builder-picker-header">
+          <div class="builder-picker-title" id="builder-picker-title">Player Picker</div>
+          <div class="builder-picker-hint" id="builder-picker-hint"></div>
+          <input type="text" id="builder-picker-search" placeholder="Search players...">
+        </div>
+        <div class="builder-picker-filters" id="builder-picker-filters">
+          <button class="pf-btn active" data-pg="ALL">All</button>
+          <button class="pf-btn" data-pg="GK">GK</button>
+          <button class="pf-btn" data-pg="DEF">DEF</button>
+          <button class="pf-btn" data-pg="MID">MID</button>
+          <button class="pf-btn" data-pg="FWD">FWD</button>
+        </div>
+        <div class="builder-picker-list" id="builder-picker-list">
+          <div class="builder-picker-idle" id="builder-picker-idle">Pick a team above, then click any position on the pitch to build your XI</div>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
 
 <script>
@@ -182,6 +240,7 @@
 <script src="history.js"></script>
 <script src="squads.js"></script>
 <script src="players.js"></script>
+<script src="teambuilder.js"></script>
 
 </body>
 </html>
