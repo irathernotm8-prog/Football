@@ -224,5 +224,217 @@
    "nationality": "France",
    "photo": "https://images.fotmob.com/image_resources/playerimages/692984.png"
   }
+ ],
+ "Olympique de Marseille": [
+  {
+   "number": 1,
+   "name": "Gerónimo Rulli",
+   "position": "GK",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/245555.png"
+  },
+  {
+   "number": 12,
+   "name": "Jeffrey De Lange",
+   "position": "GK",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/687868.png"
+  },
+  {
+   "number": 40,
+   "name": "Jelle Van Neck",
+   "position": "GK",
+   "nationality": "Belgium",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1347785.png"
+  },
+  {
+   "number": 92,
+   "name": "Théo Vermot",
+   "position": "GK",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1078904.png"
+  },
+  {
+   "number": 35,
+   "name": "Kelyann Bezahaf",
+   "position": "RB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1843428.png"
+  },
+  {
+   "number": null,
+   "name": "Bamo Meité",
+   "position": "CB",
+   "nationality": "Ivory Coast",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1287489.png"
+  },
+  {
+   "number": null,
+   "name": "Derek Cornelius",
+   "position": "CB",
+   "nationality": "Canada",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/847629.png"
+  },
+  {
+   "number": null,
+   "name": "Facundo Medina",
+   "position": "CB",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/812652.png"
+  },
+  {
+   "number": 4,
+   "name": "CJ Egan-Riley",
+   "position": "CB",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1187227.png"
+  },
+  {
+   "number": 5,
+   "name": "Leonardo Balerdi",
+   "position": "CB",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/958464.png"
+  },
+  {
+   "number": 21,
+   "name": "Nayef Aguerd",
+   "position": "CB",
+   "nationality": "Morocco",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/617310.png"
+  },
+  {
+   "number": 72,
+   "name": "Hilan Hamzaoui Slimani",
+   "position": "CB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1827754.png"
+  },
+  {
+   "number": null,
+   "name": "Ulisses Garcia",
+   "position": "LB",
+   "nationality": "Switzerland",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/520979.png"
+  },
+  {
+   "number": 33,
+   "name": "Emerson",
+   "position": "LB",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/267371.png"
+  },
+  {
+   "number": null,
+   "name": "Timothy Weah",
+   "position": "RWB",
+   "nationality": "United States",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/889536.png"
+  },
+  {
+   "number": 6,
+   "name": "Tochukwu Nnadi",
+   "position": "DM",
+   "nationality": "Nigeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1353104.png"
+  },
+  {
+   "number": 8,
+   "name": "Himad Abdelli",
+   "position": "DM",
+   "nationality": "Algeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/956659.png"
+  },
+  {
+   "number": 19,
+   "name": "Geoffrey Kondogbia",
+   "position": "DM",
+   "nationality": "Central African Rep.",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/214972.png"
+  },
+  {
+   "number": 23,
+   "name": "Pierre-Emile Højbjerg",
+   "position": "DM",
+   "nationality": "Denmark",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/266523.png"
+  },
+  {
+   "number": 27,
+   "name": "Quinten Timber",
+   "position": "DM",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/970563.png"
+  },
+  {
+   "number": null,
+   "name": "Raimane Daou",
+   "position": "CM",
+   "nationality": "Comoros",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1404985.png"
+  },
+  {
+   "number": 71,
+   "name": "Nouhoum Kamissoko",
+   "position": "Midfielder",
+   "nationality": "Mali",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1698484.png"
+  },
+  {
+   "number": null,
+   "name": "Angel Gomes",
+   "position": "AM",
+   "nationality": "England",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/848667.png"
+  },
+  {
+   "number": null,
+   "name": "Hamed Traorè",
+   "position": "AM",
+   "nationality": "Ivory Coast",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/875672.png"
+  },
+  {
+   "number": null,
+   "name": "Amine Harit",
+   "position": "LW",
+   "nationality": "Morocco",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/780815.png"
+  },
+  {
+   "number": 14,
+   "name": "Igor Paixão",
+   "position": "LW",
+   "nationality": "Brazil",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1265963.png"
+  },
+  {
+   "number": 78,
+   "name": "Ange Lago",
+   "position": "Attacker",
+   "nationality": "Ivory Coast",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1843478.png"
+  },
+  {
+   "number": null,
+   "name": "Faris Moumbagna",
+   "position": "ST",
+   "nationality": "Cameroon",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/952325.png"
+  },
+  {
+   "number": 9,
+   "name": "Amine Gouiri",
+   "position": "ST",
+   "nationality": "Algeria",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/844437.png"
+  },
+  {
+   "number": 70,
+   "name": "Ugo Lamare El Kadmiri",
+   "position": "ST",
+   "nationality": "Morocco",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1820043.png"
+  }
  ]
 }

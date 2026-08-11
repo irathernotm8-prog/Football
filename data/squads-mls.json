@@ -401,5 +401,163 @@
    "nationality": "Brazil",
    "photo": "https://images.fotmob.com/image_resources/playerimages/839021.png"
   }
+ ],
+ "Chicago Fire FC": [
+  {
+   "number": 1,
+   "name": "Chris Brady",
+   "position": "GK",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Jeffrey Gal",
+   "position": "GK",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Josh Cohen",
+   "position": "GK",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Omar González",
+   "position": "CB",
+   "nationality": "United States"
+  },
+  {
+   "number": 2,
+   "name": "Leonardo Barroso",
+   "position": "CB",
+   "nationality": "Portugal"
+  },
+  {
+   "number": 13,
+   "name": "Jack Elliott",
+   "position": "CB",
+   "nationality": "England"
+  },
+  {
+   "number": null,
+   "name": "Mbekezeli Mbokazi",
+   "position": "CB",
+   "nationality": "South Africa"
+  },
+  {
+   "number": null,
+   "name": "Sam Rogers",
+   "position": "CB",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Viktor Radojevic",
+   "position": "CB",
+   "nationality": "Serbia"
+  },
+  {
+   "number": 15,
+   "name": "Andrew Gutman",
+   "position": "LB",
+   "nationality": "United States"
+  },
+  {
+   "number": 16,
+   "name": "Joel Waterman",
+   "position": "CB",
+   "nationality": "Canada"
+  },
+  {
+   "number": null,
+   "name": "Jonathan Dean",
+   "position": "RB",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Dylan Borso",
+   "position": "Defender",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Christopher Cupps",
+   "position": "Defender",
+   "nationality": "United States"
+  },
+  {
+   "number": 6,
+   "name": "Anton Salétros",
+   "position": "CM",
+   "nationality": "Sweden"
+  },
+  {
+   "number": null,
+   "name": "André Franco",
+   "position": "CM",
+   "nationality": "Portugal"
+  },
+  {
+   "number": 11,
+   "name": "Robin Lod",
+   "position": "AM",
+   "nationality": "Finland"
+  },
+  {
+   "number": null,
+   "name": "Mauricio Pineda",
+   "position": "CM",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Dawid Poreba",
+   "position": "CM",
+   "nationality": "United States"
+  },
+  {
+   "number": null,
+   "name": "Sergio Oregel",
+   "position": "CM",
+   "nationality": "United States"
+  },
+  {
+   "number": 42,
+   "name": "Djé D'Avilla",
+   "position": "CM",
+   "nationality": "Ivory Coast"
+  },
+  {
+   "number": null,
+   "name": "Maren Haile-Selassie",
+   "position": "ST",
+   "nationality": "Switzerland"
+  },
+  {
+   "number": null,
+   "name": "Chris Mueller",
+   "position": "AM",
+   "nationality": "United States"
+  },
+  {
+   "number": 9,
+   "name": "Robert Lewandowski",
+   "position": "ST",
+   "nationality": "Poland"
+  },
+  {
+   "number": null,
+   "name": "Philip Zinckernagel",
+   "position": "LW",
+   "nationality": "Denmark"
+  },
+  {
+   "number": 19,
+   "name": "Jonathan Bamba",
+   "position": "RW",
+   "nationality": "Ivory Coast"
+  }
  ]
 }
