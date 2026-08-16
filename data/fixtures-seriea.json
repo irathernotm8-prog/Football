@@ -3,7 +3,7 @@
   "round": 1,
   "dateUtc": "2026-08-22T16:30:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Monza",
   "result": null
  },
@@ -132,7 +132,7 @@
   "dateUtc": "2026-08-30T18:45:00Z",
   "venue": "Unipol Domus",
   "home": "Cagliari",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -179,7 +179,7 @@
   "round": 3,
   "dateUtc": "2026-09-05T16:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Napoli",
   "result": null
  },
@@ -315,7 +315,7 @@
   "round": 4,
   "dateUtc": "2026-09-14T18:45:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Udinese",
   "result": null
  },
@@ -348,7 +348,7 @@
   "dateUtc": "2026-09-19T16:00:00Z",
   "venue": "Olimpico",
   "home": "Roma",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -435,7 +435,7 @@
   "round": 6,
   "dateUtc": "2026-10-10T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Parma",
   "result": null
  },
@@ -484,7 +484,7 @@
   "dateUtc": "2026-10-17T00:00:00Z",
   "venue": "Renato Dall'Ara",
   "home": "Bologna",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -595,7 +595,7 @@
   "round": 8,
   "dateUtc": "2026-10-24T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Fiorentina",
   "result": null
  },
@@ -716,7 +716,7 @@
   "dateUtc": "2026-10-27T00:00:00Z",
   "venue": "Pier Luigi Penzo",
   "home": "Venezia",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -780,7 +780,7 @@
   "dateUtc": "2026-10-31T00:00:00Z",
   "venue": "Giuseppe Meazza",
   "home": "Milan",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -827,7 +827,7 @@
   "round": 11,
   "dateUtc": "2026-11-07T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Como",
   "result": null
  },
@@ -884,7 +884,7 @@
   "dateUtc": "2026-11-21T00:00:00Z",
   "venue": "New Balance Arena",
   "home": "Atalanta",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -987,7 +987,7 @@
   "round": 13,
   "dateUtc": "2026-11-28T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Genoa",
   "result": null
  },
@@ -1060,7 +1060,7 @@
   "dateUtc": "2026-12-05T00:00:00Z",
   "venue": "Benito Stirpe",
   "home": "Frosinone",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -1147,7 +1147,7 @@
   "round": 15,
   "dateUtc": "2026-12-12T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Torino",
   "result": null
  },
@@ -1236,7 +1236,7 @@
   "dateUtc": "2026-12-19T00:00:00Z",
   "venue": "Ettore Giardiniero - Via Del Mare",
   "home": "Lecce",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -1315,7 +1315,7 @@
   "round": 17,
   "dateUtc": "2027-01-02T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Sassuolo",
   "result": null
  },
@@ -1396,7 +1396,7 @@
   "dateUtc": "2027-01-05T00:00:00Z",
   "venue": "Olimpico",
   "home": "Lazio",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -1475,7 +1475,7 @@
   "round": 19,
   "dateUtc": "2027-01-09T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Juventus",
   "result": null
  },
@@ -1580,7 +1580,7 @@
   "dateUtc": "2027-01-16T00:00:00Z",
   "venue": "Ennio Tardini",
   "home": "Parma",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -1643,7 +1643,7 @@
   "round": 21,
   "dateUtc": "2027-01-23T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Venezia",
   "result": null
  },
@@ -1732,7 +1732,7 @@
   "dateUtc": "2027-01-30T00:00:00Z",
   "venue": "Diego Armando Maradona",
   "home": "Napoli",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -1795,7 +1795,7 @@
   "round": 23,
   "dateUtc": "2027-02-06T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Cagliari",
   "result": null
  },
@@ -1875,7 +1875,7 @@
   "round": 24,
   "dateUtc": "2027-02-13T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Milan",
   "result": null
  },
@@ -1940,7 +1940,7 @@
   "dateUtc": "2027-02-20T00:00:00Z",
   "venue": "Artemio Franchi",
   "home": "Fiorentina",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2043,7 +2043,7 @@
   "round": 26,
   "dateUtc": "2027-02-27T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Atalanta",
   "result": null
  },
@@ -2156,7 +2156,7 @@
   "dateUtc": "2027-03-06T00:00:00Z",
   "venue": "Friuli/Bluenergy stadium",
   "home": "Udinese",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2228,7 +2228,7 @@
   "dateUtc": "2027-03-13T00:00:00Z",
   "venue": "Olimpico - Grande Torino",
   "home": "Torino",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2259,7 +2259,7 @@
   "round": 29,
   "dateUtc": "2027-03-20T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Frosinone",
   "result": null
  },
@@ -2348,7 +2348,7 @@
   "dateUtc": "2027-04-03T00:00:00Z",
   "venue": "Luigi Ferraris",
   "home": "Genoa",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2435,7 +2435,7 @@
   "round": 31,
   "dateUtc": "2027-04-10T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Roma",
   "result": null
  },
@@ -2524,7 +2524,7 @@
   "dateUtc": "2027-04-17T00:00:00Z",
   "venue": "Brianteo",
   "home": "Monza",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2587,7 +2587,7 @@
   "round": 33,
   "dateUtc": "2027-04-24T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Bologna",
   "result": null
  },
@@ -2660,7 +2660,7 @@
   "dateUtc": "2027-05-01T00:00:00Z",
   "venue": "Giuseppe Sinigaglia",
   "home": "Como",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2747,7 +2747,7 @@
   "round": 35,
   "dateUtc": "2027-05-08T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Lecce",
   "result": null
  },
@@ -2828,7 +2828,7 @@
   "dateUtc": "2027-05-15T00:00:00Z",
   "venue": "Allianz Stadium",
   "home": "Juventus",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  },
  {
@@ -2915,7 +2915,7 @@
   "round": 37,
   "dateUtc": "2027-05-22T00:00:00Z",
   "venue": "Giuseppe Meazza",
-  "home": "Internazionale",
+  "home": "Inter",
   "away": "Lazio",
   "result": null
  },
@@ -3036,7 +3036,7 @@
   "dateUtc": "2027-05-29T00:00:00Z",
   "venue": "Mapei Stadium",
   "home": "Sassuolo",
-  "away": "Internazionale",
+  "away": "Inter",
   "result": null
  }
 ]
