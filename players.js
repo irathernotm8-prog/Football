@@ -90,7 +90,7 @@ function renderPlayerResults(results) {
       '<span class="search-result-name">' + p.name + "</span>" +
       '<span class="search-result-meta">' + p.position + " \u00b7 " + (p.nationality || "") + "</span>" +
       "</span>" +
-      '<span class="search-result-team">' +
+      '<span class="search-result-team club-link" data-club-link="' + p.team.replace(/"/g, "&quot;") + '">' +
       searchTeamCrestHtml(p.team) +
       '<span class="search-result-team-name">' + p.team + "</span>" +
       '<span class="search-result-number">#' + number + "</span>" +

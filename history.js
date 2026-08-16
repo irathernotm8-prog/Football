@@ -92,7 +92,7 @@ async function loadHistory(key) {
       return (
         '<div class="history-row">' +
         '<span class="history-season">' + row.season + "</span>" +
-        '<span class="history-champion">' + historyCrestHtml(row.champion) + row.champion + "</span>" +
+        '<span class="history-champion club-link" data-club-link="' + (HISTORY_NAME_ALIASES[row.champion] || row.champion).replace(/"/g, "&quot;") + '">' + historyCrestHtml(row.champion) + row.champion + "</span>" +
         "</div>"
       );
     }).join("");

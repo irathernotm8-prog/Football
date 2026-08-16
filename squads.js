@@ -50,7 +50,7 @@ function renderSquad(league, teamName) {
   var crestHtml = crestUrl
     ? '<img src="' + crestUrl + '" alt="' + teamName + '" class="squads-team-header-crest" loading="lazy" onerror="this.style.visibility=\'hidden\'">'
     : '<span class="squads-team-header-crest-fallback">' + playerInitials(teamName) + "</span>";
-  header.innerHTML = crestHtml + '<span class="squads-team-header-name">' + teamName + "</span>";
+  header.innerHTML = '<span class="club-link" data-club-link="' + teamName.replace(/"/g, "&quot;") + '">' + crestHtml + '<span class="squads-team-header-name">' + teamName + "</span></span>";
 
   if (!players.length) {
     list.innerHTML = "<p class=\"muted-note\">No roster data for this team yet.</p>";

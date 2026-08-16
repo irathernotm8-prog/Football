@@ -1,0 +1,44 @@
+{
+  "Arsenal": { "primary": "#EF0107", "secondary": "#063672", "text": "#ffffff" },
+  "Aston Villa": { "primary": "#670E36", "secondary": "#95BFE5", "text": "#ffffff" },
+  "Bournemouth": { "primary": "#DA291C", "secondary": "#000000", "text": "#ffffff" },
+  "Brentford": { "primary": "#D71920", "secondary": "#000000", "text": "#ffffff" },
+  "Brighton": { "primary": "#0057B8", "secondary": "#FFCD00", "text": "#ffffff" },
+  "Chelsea": { "primary": "#034694", "secondary": "#ffffff", "text": "#ffffff" },
+  "Coventry": { "primary": "#78D0F7", "secondary": "#000000", "text": "#000000" },
+  "Crystal Palace": { "primary": "#1B458F", "secondary": "#C4122E", "text": "#ffffff" },
+  "Everton": { "primary": "#003399", "secondary": "#ffffff", "text": "#ffffff" },
+  "Fulham": { "primary": "#000000", "secondary": "#CC0000", "text": "#ffffff" },
+  "Hull": { "primary": "#F18A01", "secondary": "#000000", "text": "#000000" },
+  "Ipswich": { "primary": "#0044A9", "secondary": "#ffffff", "text": "#ffffff" },
+  "Leeds": { "primary": "#FFFFFF", "secondary": "#1D428A", "text": "#000000" },
+  "Liverpool": { "primary": "#C8102E", "secondary": "#00B2A9", "text": "#ffffff" },
+  "Man City": { "primary": "#6CABDD", "secondary": "#1C2C5B", "text": "#000000" },
+  "Man Utd": { "primary": "#DA291C", "secondary": "#FBE122", "text": "#ffffff" },
+  "Newcastle": { "primary": "#241F20", "secondary": "#ffffff", "text": "#ffffff" },
+  "Nott'm Forest": { "primary": "#DD0000", "secondary": "#ffffff", "text": "#ffffff" },
+  "Sunderland": { "primary": "#EB172B", "secondary": "#ffffff", "text": "#ffffff" },
+  "Spurs": { "primary": "#FFFFFF", "secondary": "#132257", "text": "#000000" },
+
+  "Real Madrid": { "primary": "#FEBE10", "secondary": "#00529F", "text": "#000000" },
+  "FC Barcelona": { "primary": "#A50044", "secondary": "#004D98", "text": "#ffffff" },
+  "Atlético de Madrid": { "primary": "#CB3524", "secondary": "#272E61", "text": "#ffffff" },
+  "Athletic Club": { "primary": "#EE2523", "secondary": "#ffffff", "text": "#ffffff" },
+  "Villarreal CF": { "primary": "#FFE667", "secondary": "#005187", "text": "#000000" },
+  "Real Betis": { "primary": "#00954C", "secondary": "#ffffff", "text": "#ffffff" },
+  "Celta de Vigo": { "primary": "#8AC3EE", "secondary": "#ffffff", "text": "#000000" },
+
+  "Milan": { "primary": "#FB090B", "secondary": "#000000", "text": "#ffffff" },
+  "Inter": { "primary": "#010E80", "secondary": "#000000", "text": "#ffffff" },
+  "Juventus": { "primary": "#000000", "secondary": "#ffffff", "text": "#ffffff" },
+
+  "Paris Saint-Germain": { "primary": "#004170", "secondary": "#DA291C", "text": "#ffffff" },
+  "Olympique de Marseille": { "primary": "#2FAEE0", "secondary": "#ffffff", "text": "#ffffff" },
+
+  "FC Bayern München": { "primary": "#DC052D", "secondary": "#0066B2", "text": "#ffffff" },
+  "Borussia Dortmund": { "primary": "#FDE100", "secondary": "#000000", "text": "#000000" },
+
+  "Inter Miami CF": { "primary": "#F7B5CD", "secondary": "#000000", "text": "#000000" },
+  "LA Galaxy": { "primary": "#00245D", "secondary": "#C9A227", "text": "#ffffff" },
+  "Chicago Fire FC": { "primary": "#A6192E", "secondary": "#0033A0", "text": "#ffffff" }
+}

@@ -218,6 +218,15 @@
   </section>
 </main>
 
+<!-- CLUB PAGE MODAL -->
+<div id="club-modal" class="club-modal hidden">
+  <div class="club-modal-backdrop" id="club-modal-backdrop"></div>
+  <div class="club-modal-panel" id="club-modal-panel">
+    <button class="club-modal-close" id="club-modal-close">&#10005;</button>
+    <div id="club-modal-body" class="club-modal-body"></div>
+  </div>
+</div>
+
 <script>
   // Lazily inject each standings widget's <script> tag only once its panel is visible.
   function loadWidget(wrapper) {
@@ -261,6 +270,7 @@
 <script src="squads.js"></script>
 <script src="players.js"></script>
 <script src="teambuilder.js"></script>
+<script src="clubpage.js"></script>
 
 </body>
 </html>

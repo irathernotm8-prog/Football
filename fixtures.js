@@ -147,7 +147,13 @@ function fixtureCardHtml(m) {
     "</div>" +
     '<div class="fixture-body">' +
     '<div class="fixture-matchup">' +
-    crestHtml(m.home) + '<span class="fixture-teams">' + m.home + " vs " + m.away + "</span>" + crestHtml(m.away) +
+    '<span class="club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + crestHtml(m.home) + "</span>" +
+    '<span class="fixture-teams">' +
+    '<span class="club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + m.home + "</span>" +
+    " vs " +
+    '<span class="club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + m.away + "</span>" +
+    "</span>" +
+    '<span class="club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + crestHtml(m.away) + "</span>" +
     "</div>" +
     '<div class="fixture-meta">' + metaHtml + "</div>" +
     "</div>" +

@@ -134,9 +134,9 @@ function renderFullSchedule(matches, teamFilter) {
       return (
         '<div class="match-row">' +
         '<span class="match-row-date">' + dateLabel + "</span>" +
-        '<span class="match-row-team match-row-team-home">' + m.home + matchCrestHtml(m.home) + "</span>" +
+        '<span class="match-row-team match-row-team-home club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + m.home + matchCrestHtml(m.home) + "</span>" +
         '<span class="match-row-center">' + scoreOrTime + "</span>" +
-        '<span class="match-row-team match-row-team-away">' + matchCrestHtml(m.away) + m.away + "</span>" +
+        '<span class="match-row-team match-row-team-away club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + matchCrestHtml(m.away) + m.away + "</span>" +
         '<span class="match-row-venue">' + m.venue + "</span>" +
         "</div>"
       );
