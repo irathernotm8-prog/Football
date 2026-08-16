@@ -93,7 +93,16 @@
 
   <!-- FIXTURES / WHAT'S ON PAGE -->
   <section id="page-fixtures" class="page hidden">
-    <div id="fixture-cards" class="fixture-cards"></div>
+    <div class="tabs" id="fixtures-view-tabs">
+      <button class="tab fixtures-view-tab active" data-view="today">Today</button>
+      <button class="tab fixtures-view-tab" data-view="upcoming">Upcoming</button>
+    </div>
+    <div id="fixtures-today-view">
+      <div id="fixture-cards-today" class="fixture-cards"></div>
+    </div>
+    <div id="fixtures-upcoming-view" class="hidden">
+      <div id="fixtures-upcoming-list"></div>
+    </div>
   </section>
 
   <!-- MATCHES PAGE (pick a league, then a game, see its score) -->

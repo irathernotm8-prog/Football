@@ -1219,3 +1219,18 @@ section h2 {
     max-height: 460px;
   }
 }
+
+/* What's On: Upcoming day groups */
+
+.upcoming-day-group {
+  margin-bottom: 2rem;
+}
+
+.upcoming-day-header {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--green);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--line);
+}

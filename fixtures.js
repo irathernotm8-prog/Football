@@ -8,8 +8,9 @@ var FIXTURE_LEAGUES = [
 ];
 
 var crestLogos = {};
+var fixturesFlatCache = null;
 
-function formatLocal(dateUtc) {
+function formatLocalDateTime(dateUtc) {
   var d = new Date(dateUtc);
   return d.toLocaleString(undefined, {
     weekday: "short",
@@ -19,6 +20,20 @@ function formatLocal(dateUtc) {
     minute: "2-digit",
     timeZoneName: "short"
   });
+}
+
+function formatLocalTime(dateUtc) {
+  var d = new Date(dateUtc);
+  return d.toLocaleTimeString(undefined, {
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short"
+  });
+}
+
+function formatLocalDayHeader(dateUtc) {
+  var d = new Date(dateUtc);
+  return d.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
 }
 
 function teamInitials(name) {
@@ -39,42 +54,24 @@ function crestHtml(teamName) {
   return '<span class="team-crest-fallback">' + teamInitials(teamName) + "</span>";
 }
 
-function getFixtureStatus(matches) {
+function getMatchStatus(m) {
   var now = new Date();
-  for (var i = 0; i < matches.length; i++) {
-    var m = matches[i];
-    var kickoff = new Date(m.dateUtc);
-    var end = new Date(kickoff.getTime() + 130 * 60000);
-    if (now >= kickoff && now <= end) {
-      return { type: "live", match: m };
-    }
-  }
-  var upcoming = matches.filter(function (m) {
-    return new Date(m.dateUtc) > now;
-  });
-  if (upcoming.length) {
-    return { type: "next", match: upcoming[0] };
-  }
-  return { type: "none" };
+  var kickoff = new Date(m.dateUtc);
+  var end = new Date(kickoff.getTime() + 130 * 60000);
+  if (now >= kickoff && now <= end) return "live";
+  if (now > end) return "final";
+  return "upcoming";
 }
 
-async function loadFixtureCards() {
-  var container = document.getElementById("fixture-cards");
-  if (!container) return;
+function isSameLocalDay(d1, d2) {
+  return d1.getFullYear() === d2.getFullYear() &&
+    d1.getMonth() === d2.getMonth() &&
+    d1.getDate() === d2.getDate();
+}
 
-  container.innerHTML = FIXTURE_LEAGUES.map(function (l) {
-    return (
-      '<div class="fixture-card" id="fixture-' + l.key + '">' +
-      '<div class="fixture-league-row">' +
-      '<span class="fixture-league">' + l.label + "</span>" +
-      '<span class="fixture-stream">' + l.stream + "</span>" +
-      "</div>" +
-      '<div class="fixture-body">Loading...</div>' +
-      "</div>"
-    );
-  }).join("");
+async function ensureFixturesFlat() {
+  if (fixturesFlatCache) return fixturesFlatCache;
 
-  // Load crest data once
   if (!Object.keys(crestLogos).length) {
     try {
       var logoRes = await fetch("data/logos.json");
@@ -84,40 +81,142 @@ async function loadFixtureCards() {
     }
   }
 
+  var all = [];
   for (var i = 0; i < FIXTURE_LEAGUES.length; i++) {
     var league = FIXTURE_LEAGUES[i];
     try {
       var res = await fetch(league.file);
       var matches = await res.json();
-      var status = getFixtureStatus(matches);
-      var card = document.getElementById("fixture-" + league.key);
-      var body = card.querySelector(".fixture-body");
-
-      if (status.type === "live") {
-        var lm = status.match;
-        var scoreText = lm.result ? lm.result : "In progress";
-        body.innerHTML =
-          '<div class="fixture-matchup">' +
-          crestHtml(lm.home) + '<span class="fixture-teams">' + lm.home + " vs " + lm.away + "</span>" + crestHtml(lm.away) +
-          "</div>" +
-          '<div class="fixture-meta"><span class="live-dot"></span>LIVE &middot; ' + scoreText + " &middot; " + lm.venue + "</div>";
-      } else if (status.type === "next") {
-        var nm = status.match;
-        body.innerHTML =
-          '<div class="fixture-matchup">' +
-          crestHtml(nm.home) + '<span class="fixture-teams">' + nm.home + " vs " + nm.away + "</span>" + crestHtml(nm.away) +
-          "</div>" +
-          '<div class="fixture-meta">' + formatLocal(nm.dateUtc) + " &middot; " + nm.venue + "</div>";
-      } else {
-        body.innerHTML = "No upcoming matches found.";
-      }
+      matches.forEach(function (m) {
+        all.push({
+          round: m.round,
+          dateUtc: m.dateUtc,
+          venue: m.venue,
+          home: m.home,
+          away: m.away,
+          result: m.result,
+          leagueKey: league.key,
+          leagueLabel: league.label,
+          stream: league.stream
+        });
+      });
     } catch (err) {
       console.error("Failed to load fixtures for " + league.key, err);
-      var errCard = document.getElementById("fixture-" + league.key);
-      if (errCard) errCard.querySelector(".fixture-body").innerHTML = "Couldn't load fixture data.";
     }
   }
+  fixturesFlatCache = all;
+  return all;
 }
 
-loadFixtureCards();
-setInterval(loadFixtureCards, 60000);
+function fixtureCardHtml(m) {
+  var status = getMatchStatus(m);
+  var metaHtml;
+  if (status === "live") {
+    var scoreText = m.result ? m.result : "In progress";
+    metaHtml = '<span class="live-dot"></span>LIVE &middot; ' + scoreText + " &middot; " + m.venue;
+  } else if (status === "final") {
+    metaHtml = (m.result ? "FT " + m.result : "Full Time") + " &middot; " + m.venue;
+  } else {
+    metaHtml = formatLocalTime(m.dateUtc) + " &middot; " + m.venue;
+  }
+
+  return (
+    '<div class="fixture-card">' +
+    '<div class="fixture-league-row">' +
+    '<span class="fixture-league">' + m.leagueLabel + "</span>" +
+    '<span class="fixture-stream">' + m.stream + "</span>" +
+    "</div>" +
+    '<div class="fixture-body">' +
+    '<div class="fixture-matchup">' +
+    crestHtml(m.home) + '<span class="fixture-teams">' + m.home + " vs " + m.away + "</span>" + crestHtml(m.away) +
+    "</div>" +
+    '<div class="fixture-meta">' + metaHtml + "</div>" +
+    "</div>" +
+    "</div>"
+  );
+}
+
+async function renderTodayView() {
+  var container = document.getElementById("fixture-cards-today");
+  container.innerHTML = '<p class="muted-note">Loading today\'s matches...</p>';
+
+  var all = await ensureFixturesFlat();
+  var now = new Date();
+  var todayMatches = all.filter(function (m) {
+    return isSameLocalDay(new Date(m.dateUtc), now);
+  });
+  todayMatches.sort(function (a, b) { return new Date(a.dateUtc) - new Date(b.dateUtc); });
+
+  if (!todayMatches.length) {
+    container.innerHTML = '<p class="muted-note">No matches scheduled across any league today. Check the Upcoming tab for what\'s coming this week.</p>';
+    return;
+  }
+
+  container.innerHTML = todayMatches.map(fixtureCardHtml).join("");
+}
+
+async function renderUpcomingView() {
+  var container = document.getElementById("fixtures-upcoming-list");
+  container.innerHTML = '<p class="muted-note">Loading upcoming matches...</p>';
+
+  var all = await ensureFixturesFlat();
+  var now = new Date();
+  var tomorrowStart = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0);
+  var weekOut = new Date(tomorrowStart.getTime() + 7 * 24 * 60 * 60000);
+
+  var upcoming = all.filter(function (m) {
+    var d = new Date(m.dateUtc);
+    return d >= tomorrowStart && d < weekOut;
+  });
+  upcoming.sort(function (a, b) { return new Date(a.dateUtc) - new Date(b.dateUtc); });
+
+  if (!upcoming.length) {
+    container.innerHTML = '<p class="muted-note">No matches scheduled across any league in the next 7 days.</p>';
+    return;
+  }
+
+  var byDay = {};
+  var dayOrder = [];
+  upcoming.forEach(function (m) {
+    var d = new Date(m.dateUtc);
+    var key = d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate();
+    if (!(key in byDay)) {
+      byDay[key] = [];
+      dayOrder.push({ key: key, sample: m.dateUtc });
+    }
+    byDay[key].push(m);
+  });
+
+  container.innerHTML = dayOrder.map(function (dayInfo) {
+    var cards = byDay[dayInfo.key].map(fixtureCardHtml).join("");
+    return (
+      '<div class="upcoming-day-group">' +
+      '<div class="upcoming-day-header">' + formatLocalDayHeader(dayInfo.sample) + "</div>" +
+      '<div class="fixture-cards">' + cards + "</div>" +
+      "</div>"
+    );
+  }).join("");
+}
+
+document.querySelectorAll(".fixtures-view-tab").forEach(function (tab) {
+  tab.addEventListener("click", function () {
+    document.querySelectorAll(".fixtures-view-tab").forEach(function (t) { t.classList.remove("active"); });
+    tab.classList.add("active");
+    var view = tab.dataset.view;
+    document.getElementById("fixtures-today-view").classList.toggle("hidden", view !== "today");
+    document.getElementById("fixtures-upcoming-view").classList.toggle("hidden", view !== "upcoming");
+    if (view === "today") {
+      renderTodayView();
+    } else {
+      renderUpcomingView();
+    }
+  });
+});
+
+renderTodayView();
+setInterval(function () {
+  var activeView = document.querySelector(".fixtures-view-tab.active");
+  if (activeView && activeView.dataset.view === "today") {
+    renderTodayView();
+  }
+}, 60000);

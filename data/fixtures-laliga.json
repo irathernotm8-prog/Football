@@ -1,23 +1,23 @@
 [
  {
   "round": 1,
-  "dateUtc": "2026-08-15T07:30:00Z",
+  "dateUtc": "2026-08-15T17:30:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Getafe CF",
-  "result": null
+  "result": "3 - 0"
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-15T09:30:00Z",
+  "dateUtc": "2026-08-15T19:30:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Rayo Vallecano",
-  "result": null
+  "result": "2 - 1"
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-16T05:00:00Z",
+  "dateUtc": "2026-08-16T15:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Villarreal CF",
@@ -25,7 +25,7 @@
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-16T07:00:00Z",
+  "dateUtc": "2026-08-16T17:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Levante UD",
@@ -33,7 +33,7 @@
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-16T09:30:00Z",
+  "dateUtc": "2026-08-16T19:30:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "CA Osasuna",
@@ -41,7 +41,7 @@
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-17T09:00:00Z",
+  "dateUtc": "2026-08-17T19:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Elche CF",
@@ -49,15 +49,39 @@
  },
  {
   "round": 1,
-  "dateUtc": "2026-08-19T09:00:00Z",
+  "dateUtc": "2026-08-19T19:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Málaga CF",
   "result": null
  },
  {
+  "round": 1,
+  "dateUtc": "2026-08-25T19:00:00Z",
+  "venue": "Camp de Mestalla",
+  "home": "Valencia CF",
+  "away": "Real Betis",
+  "result": null
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-26T19:00:00Z",
+  "venue": "Bernabéu",
+  "home": "Real Madrid",
+  "away": "Real Sociedad",
+  "result": null
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-27T19:00:00Z",
+  "venue": "Spotify Camp Nou",
+  "home": "FC Barcelona",
+  "away": "Athletic Club",
+  "result": null
+ },
+ {
   "round": 2,
-  "dateUtc": "2026-08-20T09:00:00Z",
+  "dateUtc": "2026-08-20T19:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Deportivo Alavés",
@@ -65,7 +89,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-21T09:00:00Z",
+  "dateUtc": "2026-08-21T19:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Real Sociedad",
@@ -73,7 +97,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-22T05:00:00Z",
+  "dateUtc": "2026-08-22T15:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Sevilla FC",
@@ -81,7 +105,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-22T07:30:00Z",
+  "dateUtc": "2026-08-22T17:30:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Celta",
@@ -97,7 +121,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-23T05:00:00Z",
+  "dateUtc": "2026-08-23T15:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Villarreal CF",
@@ -105,7 +129,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-23T07:30:00Z",
+  "dateUtc": "2026-08-23T17:30:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "R. Racing Club",
@@ -113,7 +137,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-23T09:30:00Z",
+  "dateUtc": "2026-08-23T19:30:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "FC Barcelona",
@@ -121,7 +145,7 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-24T07:30:00Z",
+  "dateUtc": "2026-08-24T17:30:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Levante UD",
@@ -129,39 +153,15 @@
  },
  {
   "round": 2,
-  "dateUtc": "2026-08-24T09:30:00Z",
+  "dateUtc": "2026-08-24T19:30:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "RC Deportivo",
   "result": null
  },
  {
-  "round": 1,
-  "dateUtc": "2026-08-25T09:00:00Z",
-  "venue": "Camp de Mestalla",
-  "home": "Valencia CF",
-  "away": "Real Betis",
-  "result": null
- },
- {
-  "round": 1,
-  "dateUtc": "2026-08-26T09:00:00Z",
-  "venue": "Bernabéu",
-  "home": "Real Madrid",
-  "away": "Real Sociedad",
-  "result": null
- },
- {
-  "round": 1,
-  "dateUtc": "2026-08-27T09:00:00Z",
-  "venue": "Spotify Camp Nou",
-  "home": "FC Barcelona",
-  "away": "Athletic Club",
-  "result": null
- },
- {
   "round": 3,
-  "dateUtc": "2026-08-28T07:00:00Z",
+  "dateUtc": "2026-08-28T17:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Elche CF",
@@ -169,7 +169,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-28T09:30:00Z",
+  "dateUtc": "2026-08-28T19:30:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Villarreal CF",
@@ -177,7 +177,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-29T05:00:00Z",
+  "dateUtc": "2026-08-29T15:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Real Betis",
@@ -185,7 +185,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-29T07:00:00Z",
+  "dateUtc": "2026-08-29T17:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "RCD Espanyol de Barcelona",
@@ -193,7 +193,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-29T09:30:00Z",
+  "dateUtc": "2026-08-29T19:30:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Atlético de Madrid",
@@ -201,7 +201,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-30T05:00:00Z",
+  "dateUtc": "2026-08-30T15:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Málaga CF",
@@ -209,7 +209,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-30T07:30:00Z",
+  "dateUtc": "2026-08-30T17:30:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Valencia CF",
@@ -217,7 +217,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-30T09:30:00Z",
+  "dateUtc": "2026-08-30T19:30:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Athletic Club",
@@ -225,7 +225,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-31T07:30:00Z",
+  "dateUtc": "2026-08-31T17:30:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Getafe CF",
@@ -233,7 +233,7 @@
  },
  {
   "round": 3,
-  "dateUtc": "2026-08-31T09:30:00Z",
+  "dateUtc": "2026-08-31T19:30:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Rayo Vallecano",
@@ -241,23 +241,7 @@
  },
  {
   "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "Mendizorroza",
-  "home": "Deportivo Alavés",
-  "away": "CA Osasuna",
-  "result": null
- },
- {
-  "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "Estadio San Mamés",
-  "home": "Athletic Club",
-  "away": "Atlético de Madrid",
-  "result": null
- },
- {
-  "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
+  "dateUtc": "2026-09-04T19:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Real Madrid",
@@ -265,39 +249,15 @@
  },
  {
   "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "Estadio Martínez Valero",
-  "home": "Elche CF",
-  "away": "Real Sociedad",
+  "dateUtc": "2026-09-05T14:15:00Z",
+  "venue": "Estadio San Mamés",
+  "home": "Athletic Club",
+  "away": "Atlético de Madrid",
   "result": null
  },
  {
   "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "RCDE Stadium",
-  "home": "RCD Espanyol de Barcelona",
-  "away": "Sevilla FC",
-  "result": null
- },
- {
-  "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "Coliseum",
-  "home": "Getafe CF",
-  "away": "Celta",
-  "result": null
- },
- {
-  "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "La Rosaleda",
-  "home": "Málaga CF",
-  "away": "Levante UD",
-  "result": null
- },
- {
-  "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
+  "dateUtc": "2026-09-05T16:30:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "R. Racing Club",
@@ -305,7 +265,15 @@
  },
  {
   "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
+  "dateUtc": "2026-09-05T19:00:00Z",
+  "venue": "Estadio de la Cerámica",
+  "home": "Villarreal CF",
+  "away": "RC Deportivo",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-06T14:15:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "FC Barcelona",
@@ -313,15 +281,47 @@
  },
  {
   "round": 4,
-  "dateUtc": "2026-09-05T14:00:00Z",
-  "venue": "Estadio de la Cerámica",
-  "home": "Villarreal CF",
-  "away": "RC Deportivo",
+  "dateUtc": "2026-09-06T16:30:00Z",
+  "venue": "Mendizorroza",
+  "home": "Deportivo Alavés",
+  "away": "CA Osasuna",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-06T16:30:00Z",
+  "venue": "La Rosaleda",
+  "home": "Málaga CF",
+  "away": "Levante UD",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-06T19:00:00Z",
+  "venue": "RCDE Stadium",
+  "home": "RCD Espanyol de Barcelona",
+  "away": "Sevilla FC",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-07T17:00:00Z",
+  "venue": "Coliseum",
+  "home": "Getafe CF",
+  "away": "Celta",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-07T19:30:00Z",
+  "venue": "Estadio Martínez Valero",
+  "home": "Elche CF",
+  "away": "Real Sociedad",
   "result": null
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Elche CF",
@@ -329,7 +329,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Málaga CF",
@@ -337,7 +337,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "RC Deportivo",
@@ -345,7 +345,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "FC Barcelona",
@@ -353,7 +353,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "RCD Espanyol de Barcelona",
@@ -361,7 +361,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Deportivo Alavés",
@@ -369,7 +369,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Rayo Vallecano",
@@ -377,7 +377,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Atlético de Madrid",
@@ -385,7 +385,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Valencia CF",
@@ -393,7 +393,7 @@
  },
  {
   "round": 5,
-  "dateUtc": "2026-09-12T14:00:00Z",
+  "dateUtc": "2026-09-13T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Real Betis",
@@ -401,7 +401,15 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-03T19:00:00Z",
+  "venue": "Anoeta",
+  "home": "Real Sociedad",
+  "away": "Celta",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Valencia CF",
@@ -409,7 +417,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "CA Osasuna",
@@ -417,7 +425,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Getafe CF",
@@ -425,7 +433,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Sevilla FC",
@@ -433,7 +441,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Real Madrid",
@@ -441,7 +449,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "R. Racing Club",
@@ -449,7 +457,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Athletic Club",
@@ -457,7 +465,7 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Villarreal CF",
@@ -465,23 +473,15 @@
  },
  {
   "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
+  "dateUtc": "2026-09-16T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "RCD Espanyol de Barcelona",
   "result": null
  },
  {
-  "round": 6,
-  "dateUtc": "2026-09-15T14:00:00Z",
-  "venue": "Anoeta",
-  "home": "Real Sociedad",
-  "away": "Celta",
-  "result": null
- },
- {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Deportivo Alavés",
@@ -489,7 +489,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Real Madrid",
@@ -497,7 +497,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "R. Racing Club",
@@ -505,7 +505,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Real Betis",
@@ -513,7 +513,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Elche CF",
@@ -521,7 +521,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Málaga CF",
@@ -529,7 +529,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Rayo Vallecano",
@@ -537,7 +537,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "FC Barcelona",
@@ -545,7 +545,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Real Sociedad",
@@ -553,7 +553,7 @@
  },
  {
   "round": 7,
-  "dateUtc": "2026-09-19T14:00:00Z",
+  "dateUtc": "2026-09-20T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Levante UD",
@@ -561,7 +561,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Atlético de Madrid",
@@ -569,7 +569,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "CA Osasuna",
@@ -577,7 +577,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Celta",
@@ -585,7 +585,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Getafe CF",
@@ -593,7 +593,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Sevilla FC",
@@ -601,7 +601,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "RCD Espanyol de Barcelona",
@@ -609,7 +609,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Valencia CF",
@@ -617,7 +617,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Athletic Club",
@@ -625,7 +625,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Villarreal CF",
@@ -633,7 +633,7 @@
  },
  {
   "round": 8,
-  "dateUtc": "2026-10-10T13:00:00Z",
+  "dateUtc": "2026-10-11T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "RC Deportivo",
@@ -641,7 +641,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "FC Barcelona",
@@ -649,7 +649,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Deportivo Alavés",
@@ -657,7 +657,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Levante UD",
@@ -665,7 +665,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Atlético de Madrid",
@@ -673,7 +673,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Rayo Vallecano",
@@ -681,7 +681,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Real Sociedad",
@@ -689,7 +689,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "R. Racing Club",
@@ -697,7 +697,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Sevilla FC",
@@ -705,7 +705,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Athletic Club",
@@ -713,7 +713,7 @@
  },
  {
   "round": 9,
-  "dateUtc": "2026-10-17T13:00:00Z",
+  "dateUtc": "2026-10-18T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Elche CF",
@@ -721,7 +721,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Málaga CF",
@@ -729,7 +729,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Getafe CF",
@@ -737,7 +737,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "RC Deportivo",
@@ -745,7 +745,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Real Betis",
@@ -753,7 +753,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Real Madrid",
@@ -761,7 +761,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "RCD Espanyol de Barcelona",
@@ -769,7 +769,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Elche CF",
@@ -777,7 +777,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Levante UD",
@@ -785,7 +785,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "CA Osasuna",
@@ -793,7 +793,7 @@
  },
  {
   "round": 10,
-  "dateUtc": "2026-10-24T13:00:00Z",
+  "dateUtc": "2026-10-25T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Villarreal CF",
@@ -801,7 +801,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Real Sociedad",
@@ -809,7 +809,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Málaga CF",
@@ -817,7 +817,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "CA Osasuna",
@@ -825,7 +825,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Valencia CF",
@@ -833,7 +833,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Deportivo Alavés",
@@ -841,7 +841,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Sevilla FC",
@@ -849,7 +849,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Atlético de Madrid",
@@ -857,7 +857,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Real Madrid",
@@ -865,7 +865,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Celta",
@@ -873,7 +873,7 @@
  },
  {
   "round": 11,
-  "dateUtc": "2026-10-31T13:00:00Z",
+  "dateUtc": "2026-11-01T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "RCD Espanyol de Barcelona",
@@ -881,7 +881,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "FC Barcelona",
@@ -889,7 +889,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Levante UD",
@@ -897,7 +897,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Real Betis",
@@ -905,7 +905,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "RC Deportivo",
@@ -913,7 +913,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "R. Racing Club",
@@ -921,7 +921,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Athletic Club",
@@ -929,7 +929,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Rayo Vallecano",
@@ -937,7 +937,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Deportivo Alavés",
@@ -945,7 +945,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Real Madrid",
@@ -953,7 +953,7 @@
  },
  {
   "round": 12,
-  "dateUtc": "2026-11-07T13:00:00Z",
+  "dateUtc": "2026-11-08T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Getafe CF",
@@ -961,7 +961,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "RC Deportivo",
@@ -969,7 +969,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "RCD Espanyol de Barcelona",
@@ -977,7 +977,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Villarreal CF",
@@ -985,7 +985,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Atlético de Madrid",
@@ -993,7 +993,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Elche CF",
@@ -1001,7 +1001,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Málaga CF",
@@ -1009,7 +1009,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Real Sociedad",
@@ -1017,7 +1017,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Valencia CF",
@@ -1025,7 +1025,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Celta",
@@ -1033,7 +1033,7 @@
  },
  {
   "round": 13,
-  "dateUtc": "2026-11-21T13:00:00Z",
+  "dateUtc": "2026-11-22T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Real Betis",
@@ -1041,7 +1041,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Rayo Vallecano",
@@ -1049,7 +1049,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Villarreal CF",
@@ -1057,7 +1057,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "FC Barcelona",
@@ -1065,7 +1065,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Atlético de Madrid",
@@ -1073,7 +1073,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Getafe CF",
@@ -1081,7 +1081,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "R. Racing Club",
@@ -1089,7 +1089,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Athletic Club",
@@ -1097,7 +1097,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Deportivo Alavés",
@@ -1105,7 +1105,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Sevilla FC",
@@ -1113,7 +1113,7 @@
  },
  {
   "round": 14,
-  "dateUtc": "2026-11-28T13:00:00Z",
+  "dateUtc": "2026-11-29T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "CA Osasuna",
@@ -1121,7 +1121,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "RCD Espanyol de Barcelona",
@@ -1129,7 +1129,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Real Madrid",
@@ -1137,7 +1137,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Real Betis",
@@ -1145,7 +1145,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Celta",
@@ -1153,7 +1153,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Valencia CF",
@@ -1161,7 +1161,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Elche CF",
@@ -1169,7 +1169,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "RC Deportivo",
@@ -1177,7 +1177,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Levante UD",
@@ -1185,7 +1185,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Málaga CF",
@@ -1193,7 +1193,7 @@
  },
  {
   "round": 15,
-  "dateUtc": "2026-12-05T13:00:00Z",
+  "dateUtc": "2026-12-06T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Real Sociedad",
@@ -1201,7 +1201,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Valencia CF",
@@ -1209,7 +1209,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "R. Racing Club",
@@ -1217,7 +1217,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Athletic Club",
@@ -1225,7 +1225,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Sevilla FC",
@@ -1233,7 +1233,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Celta",
@@ -1241,7 +1241,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Deportivo Alavés",
@@ -1249,7 +1249,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "FC Barcelona",
@@ -1257,7 +1257,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "CA Osasuna",
@@ -1265,7 +1265,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Getafe CF",
@@ -1273,7 +1273,7 @@
  },
  {
   "round": 16,
-  "dateUtc": "2026-12-12T13:00:00Z",
+  "dateUtc": "2026-12-13T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Rayo Vallecano",
@@ -1281,7 +1281,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Elche CF",
@@ -1289,7 +1289,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Real Betis",
@@ -1297,7 +1297,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Atlético de Madrid",
@@ -1305,7 +1305,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Real Madrid",
@@ -1313,7 +1313,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Real Sociedad",
@@ -1321,7 +1321,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Levante UD",
@@ -1329,7 +1329,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Villarreal CF",
@@ -1337,7 +1337,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Málaga CF",
@@ -1345,7 +1345,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "R. Racing Club",
@@ -1353,7 +1353,7 @@
  },
  {
   "round": 17,
-  "dateUtc": "2026-12-19T13:00:00Z",
+  "dateUtc": "2026-12-20T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "RCD Espanyol de Barcelona",
@@ -1361,7 +1361,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Deportivo Alavés",
@@ -1369,7 +1369,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "RC Deportivo",
@@ -1377,7 +1377,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "FC Barcelona",
@@ -1385,7 +1385,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Valencia CF",
@@ -1393,7 +1393,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Elche CF",
@@ -1401,7 +1401,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Athletic Club",
@@ -1409,7 +1409,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Atlético de Madrid",
@@ -1417,7 +1417,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Getafe CF",
@@ -1425,7 +1425,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "CA Osasuna",
@@ -1433,7 +1433,7 @@
  },
  {
   "round": 18,
-  "dateUtc": "2027-01-02T13:00:00Z",
+  "dateUtc": "2027-01-03T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Sevilla FC",
@@ -1441,7 +1441,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Real Sociedad",
@@ -1449,7 +1449,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Villarreal CF",
@@ -1457,7 +1457,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "R. Racing Club",
@@ -1465,7 +1465,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Rayo Vallecano",
@@ -1473,7 +1473,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Getafe CF",
@@ -1481,7 +1481,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Real Betis",
@@ -1489,7 +1489,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "FC Barcelona",
@@ -1497,7 +1497,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Levante UD",
@@ -1505,7 +1505,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Celta",
@@ -1513,7 +1513,7 @@
  },
  {
   "round": 19,
-  "dateUtc": "2027-01-09T13:00:00Z",
+  "dateUtc": "2027-01-10T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Málaga CF",
@@ -1521,7 +1521,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Real Sociedad",
@@ -1529,7 +1529,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "RC Deportivo",
@@ -1537,7 +1537,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Valencia CF",
@@ -1545,7 +1545,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Elche CF",
@@ -1553,7 +1553,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Athletic Club",
@@ -1561,7 +1561,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "RCD Espanyol de Barcelona",
@@ -1569,7 +1569,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Real Madrid",
@@ -1577,7 +1577,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "CA Osasuna",
@@ -1585,7 +1585,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Sevilla FC",
@@ -1593,7 +1593,7 @@
  },
  {
   "round": 20,
-  "dateUtc": "2027-01-16T13:00:00Z",
+  "dateUtc": "2027-01-17T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Deportivo Alavés",
@@ -1601,7 +1601,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "FC Barcelona",
@@ -1609,7 +1609,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Levante UD",
@@ -1617,7 +1617,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Atlético de Madrid",
@@ -1625,7 +1625,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Rayo Vallecano",
@@ -1633,7 +1633,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Villarreal CF",
@@ -1641,7 +1641,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "CA Osasuna",
@@ -1649,7 +1649,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Celta",
@@ -1657,7 +1657,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Real Betis",
@@ -1665,7 +1665,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Málaga CF",
@@ -1673,7 +1673,7 @@
  },
  {
   "round": 21,
-  "dateUtc": "2027-01-23T13:00:00Z",
+  "dateUtc": "2027-01-24T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Sevilla FC",
@@ -1681,7 +1681,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "RCD Espanyol de Barcelona",
@@ -1689,7 +1689,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Elche CF",
@@ -1697,7 +1697,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Getafe CF",
@@ -1705,7 +1705,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Valencia CF",
@@ -1713,7 +1713,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Real Sociedad",
@@ -1721,7 +1721,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Deportivo Alavés",
@@ -1729,7 +1729,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "RC Deportivo",
@@ -1737,7 +1737,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Real Madrid",
@@ -1745,7 +1745,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Athletic Club",
@@ -1753,7 +1753,7 @@
  },
  {
   "round": 22,
-  "dateUtc": "2027-01-30T13:00:00Z",
+  "dateUtc": "2027-01-31T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "R. Racing Club",
@@ -1761,7 +1761,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Celta",
@@ -1769,7 +1769,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "CA Osasuna",
@@ -1777,7 +1777,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Sevilla FC",
@@ -1785,7 +1785,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Málaga CF",
@@ -1793,7 +1793,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Levante UD",
@@ -1801,7 +1801,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Rayo Vallecano",
@@ -1809,7 +1809,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Atlético de Madrid",
@@ -1817,7 +1817,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Villarreal CF",
@@ -1825,7 +1825,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Real Madrid",
@@ -1833,7 +1833,7 @@
  },
  {
   "round": 23,
-  "dateUtc": "2027-02-06T13:00:00Z",
+  "dateUtc": "2027-02-07T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "R. Racing Club",
@@ -1841,7 +1841,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Rayo Vallecano",
@@ -1849,7 +1849,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "RC Deportivo",
@@ -1857,7 +1857,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Málaga CF",
@@ -1865,7 +1865,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Atlético de Madrid",
@@ -1873,7 +1873,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Getafe CF",
@@ -1881,7 +1881,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Athletic Club",
@@ -1889,7 +1889,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Real Betis",
@@ -1897,7 +1897,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "RCD Espanyol de Barcelona",
@@ -1905,7 +1905,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Deportivo Alavés",
@@ -1913,7 +1913,7 @@
  },
  {
   "round": 24,
-  "dateUtc": "2027-02-13T13:00:00Z",
+  "dateUtc": "2027-02-14T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "FC Barcelona",
@@ -1921,7 +1921,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "R. Racing Club",
@@ -1929,7 +1929,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Celta",
@@ -1937,7 +1937,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Elche CF",
@@ -1945,7 +1945,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Real Sociedad",
@@ -1953,7 +1953,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "CA Osasuna",
@@ -1961,7 +1961,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Levante UD",
@@ -1969,7 +1969,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Real Betis",
@@ -1977,7 +1977,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Getafe CF",
@@ -1985,7 +1985,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Real Madrid",
@@ -1993,7 +1993,7 @@
  },
  {
   "round": 25,
-  "dateUtc": "2027-02-20T13:00:00Z",
+  "dateUtc": "2027-02-21T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Valencia CF",
@@ -2001,7 +2001,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "FC Barcelona",
@@ -2009,7 +2009,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Villarreal CF",
@@ -2017,7 +2017,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "RCD Espanyol de Barcelona",
@@ -2025,7 +2025,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Deportivo Alavés",
@@ -2033,7 +2033,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "RC Deportivo",
@@ -2041,7 +2041,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Atlético de Madrid",
@@ -2049,7 +2049,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Sevilla FC",
@@ -2057,7 +2057,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Rayo Vallecano",
@@ -2065,7 +2065,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Valencia CF",
@@ -2073,7 +2073,7 @@
  },
  {
   "round": 26,
-  "dateUtc": "2027-02-27T13:00:00Z",
+  "dateUtc": "2027-02-28T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Elche CF",
@@ -2081,7 +2081,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Athletic Club",
@@ -2089,7 +2089,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Celta",
@@ -2097,7 +2097,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Getafe CF",
@@ -2105,7 +2105,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Málaga CF",
@@ -2113,7 +2113,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "R. Racing Club",
@@ -2121,7 +2121,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Real Betis",
@@ -2129,7 +2129,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "CA Osasuna",
@@ -2137,7 +2137,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Real Sociedad",
@@ -2145,7 +2145,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Levante UD",
@@ -2153,7 +2153,7 @@
  },
  {
   "round": 27,
-  "dateUtc": "2027-03-06T13:00:00Z",
+  "dateUtc": "2027-03-07T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Real Madrid",
@@ -2161,7 +2161,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Sevilla FC",
@@ -2169,7 +2169,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Valencia CF",
@@ -2177,7 +2177,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Levante UD",
@@ -2185,7 +2185,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Villarreal CF",
@@ -2193,7 +2193,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "RC Deportivo",
@@ -2201,7 +2201,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Real Sociedad",
@@ -2209,7 +2209,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Rayo Vallecano",
@@ -2217,7 +2217,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Celta",
@@ -2225,7 +2225,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Atlético de Madrid",
@@ -2233,7 +2233,7 @@
  },
  {
   "round": 28,
-  "dateUtc": "2027-03-13T13:00:00Z",
+  "dateUtc": "2027-03-14T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "RCD Espanyol de Barcelona",
@@ -2241,7 +2241,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Getafe CF",
@@ -2249,7 +2249,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Real Madrid",
@@ -2257,7 +2257,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Athletic Club",
@@ -2265,7 +2265,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "CA Osasuna",
@@ -2273,7 +2273,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Real Betis",
@@ -2281,7 +2281,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "FC Barcelona",
@@ -2289,7 +2289,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Deportivo Alavés",
@@ -2297,7 +2297,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Elche CF",
@@ -2305,7 +2305,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "RC Deportivo",
@@ -2313,7 +2313,7 @@
  },
  {
   "round": 29,
-  "dateUtc": "2027-03-20T13:00:00Z",
+  "dateUtc": "2027-03-21T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Málaga CF",
@@ -2321,7 +2321,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "R. Racing Club",
@@ -2329,7 +2329,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Celta",
@@ -2337,7 +2337,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Villarreal CF",
@@ -2345,7 +2345,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Deportivo Alavés",
@@ -2353,7 +2353,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Sevilla FC",
@@ -2361,7 +2361,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "RCD Espanyol de Barcelona",
@@ -2369,7 +2369,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Rayo Vallecano",
@@ -2377,7 +2377,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "CA Osasuna",
@@ -2385,7 +2385,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Atlético de Madrid",
@@ -2393,7 +2393,7 @@
  },
  {
   "round": 30,
-  "dateUtc": "2027-04-03T13:00:00Z",
+  "dateUtc": "2027-04-04T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Valencia CF",
@@ -2401,7 +2401,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Real Betis",
@@ -2409,7 +2409,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Levante UD",
@@ -2417,7 +2417,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Elche CF",
@@ -2425,7 +2425,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Málaga CF",
@@ -2433,7 +2433,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Real Madrid",
@@ -2441,7 +2441,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "FC Barcelona",
@@ -2449,7 +2449,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Real Sociedad",
@@ -2457,7 +2457,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "RC Deportivo",
@@ -2465,7 +2465,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Getafe CF",
@@ -2473,7 +2473,7 @@
  },
  {
   "round": 31,
-  "dateUtc": "2027-04-10T14:00:00Z",
+  "dateUtc": "2027-04-11T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Athletic Club",
@@ -2481,7 +2481,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Rayo Vallecano",
@@ -2489,7 +2489,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Sevilla FC",
@@ -2497,7 +2497,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Athletic Club",
@@ -2505,7 +2505,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Celta",
@@ -2513,7 +2513,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "CA Osasuna",
@@ -2521,7 +2521,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "RCD Espanyol de Barcelona",
@@ -2529,7 +2529,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Real Madrid",
@@ -2537,7 +2537,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Villarreal CF",
@@ -2545,7 +2545,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Valencia CF",
@@ -2553,7 +2553,7 @@
  },
  {
   "round": 32,
-  "dateUtc": "2027-04-17T14:00:00Z",
+  "dateUtc": "2027-04-18T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "R. Racing Club",
@@ -2561,7 +2561,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "RC Deportivo",
@@ -2569,7 +2569,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "FC Barcelona",
@@ -2577,7 +2577,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Real Sociedad",
@@ -2585,7 +2585,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Real Betis",
@@ -2593,7 +2593,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Deportivo Alavés",
@@ -2601,7 +2601,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Málaga CF",
@@ -2609,7 +2609,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "Elche CF",
@@ -2617,7 +2617,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Levante UD",
@@ -2625,7 +2625,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Rayo Vallecano",
@@ -2633,7 +2633,7 @@
  },
  {
   "round": 33,
-  "dateUtc": "2027-04-20T14:00:00Z",
+  "dateUtc": "2027-04-21T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Atlético de Madrid",
@@ -2641,7 +2641,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Deportivo Alavés",
@@ -2649,7 +2649,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Valencia CF",
@@ -2657,7 +2657,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Sevilla FC",
@@ -2665,7 +2665,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "R. Racing Club",
@@ -2673,7 +2673,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "RCD Espanyol de Barcelona",
@@ -2681,7 +2681,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "CA Osasuna",
@@ -2689,7 +2689,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Real Madrid",
@@ -2697,7 +2697,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Getafe CF",
@@ -2705,7 +2705,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Villarreal CF",
@@ -2713,7 +2713,7 @@
  },
  {
   "round": 34,
-  "dateUtc": "2027-05-01T14:00:00Z",
+  "dateUtc": "2027-05-02T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Athletic Club",
@@ -2721,7 +2721,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Levante UD",
@@ -2729,7 +2729,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Málaga CF",
@@ -2737,7 +2737,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "RCD Espanyol de Barcelona",
@@ -2745,7 +2745,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "Elche CF",
@@ -2753,7 +2753,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Real Sociedad",
@@ -2761,7 +2761,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Sevilla FC",
@@ -2769,7 +2769,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "RC Deportivo",
@@ -2777,7 +2777,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "FC Barcelona",
@@ -2785,7 +2785,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Atlético de Madrid",
@@ -2793,7 +2793,7 @@
  },
  {
   "round": 35,
-  "dateUtc": "2027-05-08T14:00:00Z",
+  "dateUtc": "2027-05-09T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "Celta",
@@ -2801,7 +2801,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Rayo Vallecano",
@@ -2809,7 +2809,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "Deportivo Alavés",
@@ -2817,7 +2817,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "Athletic Club",
@@ -2825,7 +2825,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Valencia CF",
@@ -2833,7 +2833,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Getafe CF",
@@ -2841,7 +2841,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Celta",
@@ -2849,7 +2849,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Real Betis",
@@ -2857,7 +2857,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "R. Racing Club",
@@ -2865,7 +2865,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "FC Barcelona",
@@ -2873,7 +2873,7 @@
  },
  {
   "round": 36,
-  "dateUtc": "2027-05-15T14:00:00Z",
+  "dateUtc": "2027-05-16T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Villarreal CF",
@@ -2881,7 +2881,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Mendizorroza",
   "home": "Deportivo Alavés",
   "away": "Real Madrid",
@@ -2889,7 +2889,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Riyadh Air Metropolitano",
   "home": "Atlético de Madrid",
   "away": "Athletic Club",
@@ -2897,7 +2897,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Estadio ABANCA Balaídos",
   "home": "Celta",
   "away": "Real Sociedad",
@@ -2905,7 +2905,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Estadio ABANCA-RIAZOR",
   "home": "RC Deportivo",
   "away": "RCD Espanyol de Barcelona",
@@ -2913,7 +2913,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Spotify Camp Nou",
   "home": "FC Barcelona",
   "away": "Málaga CF",
@@ -2921,7 +2921,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "El Sardinero",
   "home": "R. Racing Club",
   "away": "Levante UD",
@@ -2929,7 +2929,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Estadio de Vallecas",
   "home": "Rayo Vallecano",
   "away": "Real Betis",
@@ -2937,7 +2937,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Ramón Sánchez-Pizjuán",
   "home": "Sevilla FC",
   "away": "Getafe CF",
@@ -2945,7 +2945,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Camp de Mestalla",
   "home": "Valencia CF",
   "away": "Elche CF",
@@ -2953,7 +2953,7 @@
  },
  {
   "round": 37,
-  "dateUtc": "2027-05-22T14:00:00Z",
+  "dateUtc": "2027-05-23T00:00:00Z",
   "venue": "Estadio de la Cerámica",
   "home": "Villarreal CF",
   "away": "CA Osasuna",
@@ -2961,7 +2961,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Estadio San Mamés",
   "home": "Athletic Club",
   "away": "Rayo Vallecano",
@@ -2969,7 +2969,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Estadio La Cartuja",
   "home": "Real Betis",
   "away": "Atlético de Madrid",
@@ -2977,7 +2977,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Estadio Martínez Valero",
   "home": "Elche CF",
   "away": "R. Racing Club",
@@ -2985,7 +2985,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "RCDE Stadium",
   "home": "RCD Espanyol de Barcelona",
   "away": "Deportivo Alavés",
@@ -2993,7 +2993,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Coliseum",
   "home": "Getafe CF",
   "away": "FC Barcelona",
@@ -3001,7 +3001,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Estadio Ciutat de València",
   "home": "Levante UD",
   "away": "Celta",
@@ -3009,7 +3009,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "La Rosaleda",
   "home": "Málaga CF",
   "away": "Sevilla FC",
@@ -3017,7 +3017,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Estadio El Sadar",
   "home": "CA Osasuna",
   "away": "Valencia CF",
@@ -3025,7 +3025,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Bernabéu",
   "home": "Real Madrid",
   "away": "RC Deportivo",
@@ -3033,7 +3033,7 @@
  },
  {
   "round": 38,
-  "dateUtc": "2027-05-29T14:00:00Z",
+  "dateUtc": "2027-05-30T00:00:00Z",
   "venue": "Anoeta",
   "home": "Real Sociedad",
   "away": "Villarreal CF",
