@@ -33,7 +33,7 @@ function matchCrestHtml(teamName) {
 function matchDateTimeLabel(dateUtc) {
   var d = new Date(dateUtc);
   var datePart = d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" });
-  var timePart = d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+  var timePart = d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit", timeZoneName: "short" });
   return { datePart: datePart, timePart: timePart };
 }
 
