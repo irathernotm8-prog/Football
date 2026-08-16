@@ -525,6 +525,11 @@ section h2 {
   font-size: 0.85rem;
 }
 
+.match-row-tbd {
+  font-style: italic;
+  opacity: 0.7;
+}
+
 .match-row-venue {
   color: var(--muted);
   font-size: 0.82rem;

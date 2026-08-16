@@ -37,10 +37,29 @@ function matchDateTimeLabel(dateUtc) {
   return { datePart: datePart, timePart: timePart };
 }
 
+// Leagues publish full-season fixture lists before broadcast times are set.
+// Until a round's times are confirmed, every match in that round shares one
+// identical placeholder date/time. Flag those so we show "TBD" instead of a fake time.
+function flagPlaceholderRounds(matches) {
+  var byRound = {};
+  matches.forEach(function (m) {
+    if (!byRound[m.round]) byRound[m.round] = [];
+    byRound[m.round].push(m);
+  });
+  Object.keys(byRound).forEach(function (r) {
+    var group = byRound[r];
+    if (group.length > 2 && group.every(function (m) { return m.dateUtc === group[0].dateUtc; })) {
+      group.forEach(function (m) { m.tbd = true; });
+    }
+  });
+}
+
 async function ensureMatchLeagueData(key) {
   if (!matchDataCache[key]) {
     var res = await fetch(MATCH_LEAGUES[key].file);
-    matchDataCache[key] = await res.json();
+    var matches = await res.json();
+    flagPlaceholderRounds(matches);
+    matchDataCache[key] = matches;
   }
   if (matchCrestLogos === null) {
     try {
@@ -80,6 +99,7 @@ function renderFullSchedule(matches, teamFilter) {
     : matches;
 
   var sorted = filtered.slice().sort(function (a, b) {
+    if (a.round !== b.round) return a.round - b.round;
     return new Date(a.dateUtc) - new Date(b.dateUtc);
   });
 
@@ -100,13 +120,20 @@ function renderFullSchedule(matches, teamFilter) {
 
   container.innerHTML = roundOrder.map(function (round) {
     var rows = byRound[round].map(function (m) {
-      var dt = matchDateTimeLabel(m.dateUtc);
-      var scoreOrTime = m.result
-        ? '<span class="match-row-score">' + m.result + "</span>"
-        : '<span class="match-row-time">' + dt.timePart + "</span>";
+      var dateLabel, scoreOrTime;
+      if (m.tbd) {
+        dateLabel = "Date TBD";
+        scoreOrTime = '<span class="match-row-time match-row-tbd">Time TBD</span>';
+      } else {
+        var dt = matchDateTimeLabel(m.dateUtc);
+        dateLabel = dt.datePart;
+        scoreOrTime = m.result
+          ? '<span class="match-row-score">' + m.result + "</span>"
+          : '<span class="match-row-time">' + dt.timePart + "</span>";
+      }
       return (
         '<div class="match-row">' +
-        '<span class="match-row-date">' + dt.datePart + "</span>" +
+        '<span class="match-row-date">' + dateLabel + "</span>" +
         '<span class="match-row-team match-row-team-home">' + m.home + matchCrestHtml(m.home) + "</span>" +
         '<span class="match-row-center">' + scoreOrTime + "</span>" +
         '<span class="match-row-team match-row-team-away">' + matchCrestHtml(m.away) + m.away + "</span>" +

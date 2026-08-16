@@ -69,6 +69,23 @@ function isSameLocalDay(d1, d2) {
     d1.getDate() === d2.getDate();
 }
 
+// Leagues publish full-season fixture lists before broadcast times are set.
+// Until a round's times are confirmed, every match in that round shares one
+// identical placeholder date/time. Flag those so we don't display a fake time.
+function flagPlaceholderRounds(matches) {
+  var byRound = {};
+  matches.forEach(function (m) {
+    if (!byRound[m.round]) byRound[m.round] = [];
+    byRound[m.round].push(m);
+  });
+  Object.keys(byRound).forEach(function (r) {
+    var group = byRound[r];
+    if (group.length > 2 && group.every(function (m) { return m.dateUtc === group[0].dateUtc; })) {
+      group.forEach(function (m) { m.tbd = true; });
+    }
+  });
+}
+
 async function ensureFixturesFlat() {
   if (fixturesFlatCache) return fixturesFlatCache;
 
@@ -87,6 +104,7 @@ async function ensureFixturesFlat() {
     try {
       var res = await fetch(league.file);
       var matches = await res.json();
+      flagPlaceholderRounds(matches);
       matches.forEach(function (m) {
         all.push({
           round: m.round,
@@ -95,6 +113,7 @@ async function ensureFixturesFlat() {
           home: m.home,
           away: m.away,
           result: m.result,
+          tbd: !!m.tbd,
           leagueKey: league.key,
           leagueLabel: league.label,
           stream: league.stream
@@ -143,7 +162,7 @@ async function renderTodayView() {
   var all = await ensureFixturesFlat();
   var now = new Date();
   var todayMatches = all.filter(function (m) {
-    return isSameLocalDay(new Date(m.dateUtc), now);
+    return !m.tbd && isSameLocalDay(new Date(m.dateUtc), now);
   });
   todayMatches.sort(function (a, b) { return new Date(a.dateUtc) - new Date(b.dateUtc); });
 
@@ -165,6 +184,7 @@ async function renderUpcomingView() {
   var weekOut = new Date(tomorrowStart.getTime() + 7 * 24 * 60 * 60000);
 
   var upcoming = all.filter(function (m) {
+    if (m.tbd) return false;
     var d = new Date(m.dateUtc);
     return d >= tomorrowStart && d < weekOut;
   });
