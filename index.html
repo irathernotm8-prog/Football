@@ -29,6 +29,7 @@
     <button class="main-tab" data-target="page-squads">Squads</button>
     <button class="main-tab" data-target="page-search">Player Search</button>
     <button class="main-tab" data-target="page-builder">Squad Builder</button>
+    <button class="main-tab" data-target="page-globe">Globe</button>
   </div>
 
   <!-- STANDINGS PAGE -->
@@ -216,6 +217,18 @@
       </div>
     </div>
   </section>
+
+  <!-- GLOBE PAGE -->
+  <section id="page-globe" class="page hidden">
+    <div class="globe-wrap">
+      <div id="globe-canvas-container" class="globe-canvas-container">
+        <div class="globe-loading" id="globe-loading">Loading globe...</div>
+      </div>
+      <div class="globe-tooltip hidden" id="globe-tooltip"></div>
+      <div class="globe-hint">Drag to rotate &middot; scroll to zoom &middot; click a marker for that club</div>
+    </div>
+    <div class="globe-legend" id="globe-legend"></div>
+  </section>
 </main>
 
 <!-- CLUB PAGE MODAL -->
@@ -271,6 +284,9 @@
 <script src="players.js"></script>
 <script src="teambuilder.js"></script>
 <script src="clubpage.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="globe.js"></script>
 
 </body>
 </html>
