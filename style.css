@@ -1381,7 +1381,7 @@ section h2 {
 }
 
 .trophy-league-group {
-  padding: 0.6rem 0;
+  padding: 0.9rem 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -1390,13 +1390,56 @@ section h2 {
 .trophy-league-name {
   font-weight: 700;
   font-size: 0.95rem;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.7rem;
 }
 
-.trophy-seasons {
-  font-size: 0.8rem;
+.trophy-scroll {
+  display: flex;
+  gap: 1.1rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scrollbar-width: thin;
+}
+
+.trophy-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.trophy-scroll::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 3px;
+}
+
+.trophy-item {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  width: 64px;
+}
+
+.trophy-icon-wrap {
+  width: 52px;
+  height: 66px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.trophy-icon {
+  width: 100%;
+  height: 100%;
+  color: #FFD700;
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.45));
+}
+
+.trophy-season {
+  font-size: 0.7rem;
+  font-weight: 700;
   color: var(--muted);
-  line-height: 1.6;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .club-modal-squad-list {
