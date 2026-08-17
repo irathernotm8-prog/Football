@@ -4,7 +4,8 @@ var FIXTURE_LEAGUES = [
   { key: "seriea", label: "Serie A", file: "data/fixtures-seriea.json", stream: "Paramount+" },
   { key: "ligue1", label: "Ligue 1", file: "data/fixtures-ligue1.json", stream: "beIN Sports" },
   { key: "bundesliga", label: "Bundesliga", file: "data/fixtures-bundesliga.json", stream: "Fandango" },
-  { key: "mls", label: "MLS", file: "data/fixtures-mls.json", stream: "Apple TV" }
+  { key: "mls", label: "MLS", file: "data/fixtures-mls.json", stream: "Apple TV" },
+  { key: "efl", label: "EFL Championship", file: "data/fixtures-efl.json", stream: "ESPN+" }
 ];
 
 var crestLogos = {};

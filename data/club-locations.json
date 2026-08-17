@@ -1,133 +1,752 @@
 {
-  "Arsenal": {"city": "London, England", "lat": 51.5074, "lon": -0.1278},
-  "Aston Villa": {"city": "Birmingham, England", "lat": 52.4862, "lon": -1.8904},
-  "Bournemouth": {"city": "Bournemouth, England", "lat": 50.7192, "lon": -1.8808},
-  "Brentford": {"city": "London, England", "lat": 51.4907, "lon": -0.2887},
-  "Brighton": {"city": "Brighton, England", "lat": 50.8225, "lon": -0.1372},
-  "Chelsea": {"city": "London, England", "lat": 51.4816, "lon": -0.1909},
-  "Coventry": {"city": "Coventry, England", "lat": 52.4068, "lon": -1.5197},
-  "Crystal Palace": {"city": "London, England", "lat": 51.3983, "lon": -0.0855},
-  "Everton": {"city": "Liverpool, England", "lat": 53.4084, "lon": -2.9916},
-  "Fulham": {"city": "London, England", "lat": 51.4749, "lon": -0.2217},
-  "Hull": {"city": "Hull, England", "lat": 53.7676, "lon": -0.3274},
-  "Ipswich": {"city": "Ipswich, England", "lat": 52.0567, "lon": 1.1482},
-  "Leeds": {"city": "Leeds, England", "lat": 53.8008, "lon": -1.5491},
-  "Liverpool": {"city": "Liverpool, England", "lat": 53.4084, "lon": -2.9916},
-  "Man City": {"city": "Manchester, England", "lat": 53.4808, "lon": -2.2426},
-  "Man Utd": {"city": "Manchester, England", "lat": 53.4808, "lon": -2.2426},
-  "Newcastle": {"city": "Newcastle upon Tyne, England", "lat": 54.9783, "lon": -1.6178},
-  "Nott'm Forest": {"city": "Nottingham, England", "lat": 52.9548, "lon": -1.1581},
-  "Sunderland": {"city": "Sunderland, England", "lat": 54.9069, "lon": -1.3838},
-  "Spurs": {"city": "London, England", "lat": 51.6033, "lon": -0.0662},
-
-  "Real Madrid": {"city": "Madrid, Spain", "lat": 40.4168, "lon": -3.7038},
-  "FC Barcelona": {"city": "Barcelona, Spain", "lat": 41.3874, "lon": 2.1686},
-  "Atlético de Madrid": {"city": "Madrid, Spain", "lat": 40.4168, "lon": -3.7038},
-  "Athletic Club": {"city": "Bilbao, Spain", "lat": 43.2630, "lon": -2.9350},
-  "Villarreal CF": {"city": "Villarreal, Spain", "lat": 39.9375, "lon": -0.1003},
-  "Real Betis": {"city": "Seville, Spain", "lat": 37.3891, "lon": -5.9845},
-  "Celta": {"city": "Vigo, Spain", "lat": 42.2406, "lon": -8.7207},
-  "Rayo Vallecano": {"city": "Madrid, Spain", "lat": 40.4168, "lon": -3.7038},
-  "CA Osasuna": {"city": "Pamplona, Spain", "lat": 42.8125, "lon": -1.6458},
-  "Real Sociedad": {"city": "San Sebastián, Spain", "lat": 43.3183, "lon": -1.9812},
-  "Valencia CF": {"city": "Valencia, Spain", "lat": 39.4699, "lon": -0.3763},
-  "Getafe CF": {"city": "Getafe, Spain", "lat": 40.3083, "lon": -3.7327},
-  "Deportivo Alavés": {"city": "Vitoria-Gasteiz, Spain", "lat": 42.8467, "lon": -2.6716},
-  "RCD Espanyol de Barcelona": {"city": "Barcelona, Spain", "lat": 41.3874, "lon": 2.1686},
-  "Sevilla FC": {"city": "Seville, Spain", "lat": 37.3891, "lon": -5.9845},
-  "Levante UD": {"city": "Valencia, Spain", "lat": 39.4699, "lon": -0.3763},
-  "Elche CF": {"city": "Elche, Spain", "lat": 38.2622, "lon": -0.6976},
-  "R. Racing Club": {"city": "Santander, Spain", "lat": 43.4623, "lon": -3.8099},
-  "RC Deportivo": {"city": "A Coruña, Spain", "lat": 43.3623, "lon": -8.4115},
-  "Málaga CF": {"city": "Málaga, Spain", "lat": 36.7213, "lon": -4.4213},
-
-  "Atalanta": {"city": "Bergamo, Italy", "lat": 45.6983, "lon": 9.6773},
-  "Bologna": {"city": "Bologna, Italy", "lat": 44.4949, "lon": 11.3426},
-  "Cagliari": {"city": "Cagliari, Italy", "lat": 39.2238, "lon": 9.1217},
-  "Como": {"city": "Como, Italy", "lat": 45.8081, "lon": 9.0852},
-  "Fiorentina": {"city": "Florence, Italy", "lat": 43.7696, "lon": 11.2558},
-  "Frosinone": {"city": "Frosinone, Italy", "lat": 41.6401, "lon": 13.3414},
-  "Genoa": {"city": "Genoa, Italy", "lat": 44.4056, "lon": 8.9463},
-  "Inter": {"city": "Milan, Italy", "lat": 45.4642, "lon": 9.1900},
-  "Juventus": {"city": "Turin, Italy", "lat": 45.0703, "lon": 7.6869},
-  "Lazio": {"city": "Rome, Italy", "lat": 41.9028, "lon": 12.4964},
-  "Lecce": {"city": "Lecce, Italy", "lat": 40.3515, "lon": 18.1750},
-  "Milan": {"city": "Milan, Italy", "lat": 45.4642, "lon": 9.1900},
-  "Monza": {"city": "Monza, Italy", "lat": 45.5845, "lon": 9.2744},
-  "Napoli": {"city": "Naples, Italy", "lat": 40.8518, "lon": 14.2681},
-  "Parma": {"city": "Parma, Italy", "lat": 44.8015, "lon": 10.3279},
-  "Roma": {"city": "Rome, Italy", "lat": 41.9028, "lon": 12.4964},
-  "Sassuolo": {"city": "Sassuolo, Italy", "lat": 44.5474, "lon": 10.7854},
-  "Torino": {"city": "Turin, Italy", "lat": 45.0703, "lon": 7.6869},
-  "Udinese": {"city": "Udine, Italy", "lat": 46.0711, "lon": 13.2346},
-  "Venezia": {"city": "Venice, Italy", "lat": 45.4408, "lon": 12.3155},
-
-  "Angers SCO": {"city": "Angers, France", "lat": 47.4784, "lon": -0.5632},
-  "AS Monaco": {"city": "Monaco", "lat": 43.7384, "lon": 7.4246},
-  "AJ Auxerre": {"city": "Auxerre, France", "lat": 47.7982, "lon": 3.5731},
-  "Stade Brestois 29": {"city": "Brest, France", "lat": 48.3904, "lon": -4.4861},
-  "Havre Athletic Club": {"city": "Le Havre, France", "lat": 49.4944, "lon": 0.1079},
-  "Le Mans FC": {"city": "Le Mans, France", "lat": 48.0061, "lon": 0.1996},
-  "LOSC Lille": {"city": "Lille, France", "lat": 50.6292, "lon": 3.0573},
-  "FC Lorient": {"city": "Lorient, France", "lat": 47.7482, "lon": -3.3660},
-  "Olympique Lyonnais": {"city": "Lyon, France", "lat": 45.7640, "lon": 4.8357},
-  "Olympique de Marseille": {"city": "Marseille, France", "lat": 43.2965, "lon": 5.3698},
-  "OGC Nice": {"city": "Nice, France", "lat": 43.7102, "lon": 7.2620},
-  "Paris FC": {"city": "Paris, France", "lat": 48.8566, "lon": 2.3522},
-  "Paris Saint-Germain": {"city": "Paris, France", "lat": 48.8566, "lon": 2.3522},
-  "RC Lens": {"city": "Lens, France", "lat": 50.4322, "lon": 2.8319},
-  "RC Strasbourg Alsace": {"city": "Strasbourg, France", "lat": 48.5734, "lon": 7.7521},
-  "Stade Rennais FC": {"city": "Rennes, France", "lat": 48.1173, "lon": -1.6778},
-  "Toulouse FC": {"city": "Toulouse, France", "lat": 43.6047, "lon": 1.4442},
-  "Estac Troyes": {"city": "Troyes, France", "lat": 48.2973, "lon": 4.0744},
-
-  "FC Bayern München": {"city": "Munich, Germany", "lat": 48.1351, "lon": 11.5820},
-  "VfB Stuttgart": {"city": "Stuttgart, Germany", "lat": 48.7758, "lon": 9.1829},
-  "SV Elversberg": {"city": "Spiesen-Elversberg, Germany", "lat": 49.3167, "lon": 7.1167},
-  "Bayer 04 Leverkusen": {"city": "Leverkusen, Germany", "lat": 51.0459, "lon": 6.9847},
-  "1. FC Köln": {"city": "Cologne, Germany", "lat": 50.9375, "lon": 6.9603},
-  "TSG Hoffenheim": {"city": "Sinsheim, Germany", "lat": 49.2500, "lon": 8.8833},
-  "1. FC Union Berlin": {"city": "Berlin, Germany", "lat": 52.5200, "lon": 13.4050},
-  "Eintracht Frankfurt": {"city": "Frankfurt, Germany", "lat": 50.1109, "lon": 8.6821},
-  "1. FSV Mainz 05": {"city": "Mainz, Germany", "lat": 49.9929, "lon": 8.2473},
-  "SC Paderborn 07": {"city": "Paderborn, Germany", "lat": 51.7189, "lon": 8.7575},
-  "RB Leipzig": {"city": "Leipzig, Germany", "lat": 51.3397, "lon": 12.3731},
-  "Borussia Mönchengladbach": {"city": "Mönchengladbach, Germany", "lat": 51.1805, "lon": 6.4428},
-  "Borussia Dortmund": {"city": "Dortmund, Germany", "lat": 51.5136, "lon": 7.4653},
-  "Hamburger SV": {"city": "Hamburg, Germany", "lat": 53.5511, "lon": 9.9937},
-  "Sport-Club Freiburg": {"city": "Freiburg, Germany", "lat": 47.9990, "lon": 7.8421},
-  "SV Werder Bremen": {"city": "Bremen, Germany", "lat": 53.0793, "lon": 8.8017},
-  "FC Augsburg": {"city": "Augsburg, Germany", "lat": 48.3705, "lon": 10.8978},
-  "FC Schalke 04": {"city": "Gelsenkirchen, Germany", "lat": 51.5177, "lon": 7.0857},
-
-  "Atlanta United": {"city": "Atlanta, USA", "lat": 33.7490, "lon": -84.3880},
-  "Austin FC": {"city": "Austin, USA", "lat": 30.2672, "lon": -97.7431},
-  "CF Montréal": {"city": "Montreal, Canada", "lat": 45.5017, "lon": -73.5673},
-  "Charlotte FC": {"city": "Charlotte, USA", "lat": 35.2271, "lon": -80.8431},
-  "Chicago Fire FC": {"city": "Chicago, USA", "lat": 41.8781, "lon": -87.6298},
-  "Colorado Rapids": {"city": "Commerce City, USA", "lat": 39.7392, "lon": -104.9903},
-  "Columbus Crew": {"city": "Columbus, USA", "lat": 39.9612, "lon": -82.9988},
-  "D.C. United": {"city": "Washington, D.C., USA", "lat": 38.9072, "lon": -77.0369},
-  "FC Cincinnati": {"city": "Cincinnati, USA", "lat": 39.1031, "lon": -84.5120},
-  "FC Dallas": {"city": "Frisco, USA", "lat": 32.7767, "lon": -96.7970},
-  "Houston Dynamo FC": {"city": "Houston, USA", "lat": 29.7604, "lon": -95.3698},
-  "Inter Miami CF": {"city": "Miami, USA", "lat": 25.7617, "lon": -80.1918},
-  "LA Galaxy": {"city": "Los Angeles, USA", "lat": 34.0522, "lon": -118.2437},
-  "Los Angeles Football Club": {"city": "Los Angeles, USA", "lat": 34.0522, "lon": -118.2437},
-  "Minnesota United FC": {"city": "Minneapolis, USA", "lat": 44.9778, "lon": -93.2650},
-  "Nashville SC": {"city": "Nashville, USA", "lat": 36.1627, "lon": -86.7816},
-  "New England Revolution": {"city": "Foxborough, USA", "lat": 42.3601, "lon": -71.0589},
-  "New York City Football Club": {"city": "New York, USA", "lat": 40.7128, "lon": -74.0060},
-  "Red Bull New York": {"city": "Harrison, USA", "lat": 40.7128, "lon": -74.0060},
-  "Orlando City": {"city": "Orlando, USA", "lat": 28.5383, "lon": -81.3792},
-  "Philadelphia Union": {"city": "Chester, USA", "lat": 39.9526, "lon": -75.1652},
-  "Portland Timbers": {"city": "Portland, USA", "lat": 45.5152, "lon": -122.6784},
-  "Real Salt Lake": {"city": "Salt Lake City, USA", "lat": 40.7608, "lon": -111.8910},
-  "San Diego FC": {"city": "San Diego, USA", "lat": 32.7157, "lon": -117.1611},
-  "San Jose Earthquakes": {"city": "San Jose, USA", "lat": 37.3382, "lon": -121.8863},
-  "Seattle Sounders FC": {"city": "Seattle, USA", "lat": 47.6062, "lon": -122.3321},
-  "Sporting Kansas City": {"city": "Kansas City, USA", "lat": 39.0997, "lon": -94.5786},
-  "St. Louis CITY SC": {"city": "St. Louis, USA", "lat": 38.6270, "lon": -90.1994},
-  "Toronto FC": {"city": "Toronto, Canada", "lat": 43.6532, "lon": -79.3832},
-  "Vancouver Whitecaps FC": {"city": "Vancouver, Canada", "lat": 49.2827, "lon": -123.1207}
+ "Arsenal": {
+  "city": "London, England",
+  "lat": 51.5074,
+  "lon": -0.1278
+ },
+ "Aston Villa": {
+  "city": "Birmingham, England",
+  "lat": 52.4862,
+  "lon": -1.8904
+ },
+ "Bournemouth": {
+  "city": "Bournemouth, England",
+  "lat": 50.7192,
+  "lon": -1.8808
+ },
+ "Brentford": {
+  "city": "London, England",
+  "lat": 51.4907,
+  "lon": -0.2887
+ },
+ "Brighton": {
+  "city": "Brighton, England",
+  "lat": 50.8225,
+  "lon": -0.1372
+ },
+ "Chelsea": {
+  "city": "London, England",
+  "lat": 51.4816,
+  "lon": -0.1909
+ },
+ "Coventry": {
+  "city": "Coventry, England",
+  "lat": 52.4068,
+  "lon": -1.5197
+ },
+ "Crystal Palace": {
+  "city": "London, England",
+  "lat": 51.3983,
+  "lon": -0.0855
+ },
+ "Everton": {
+  "city": "Liverpool, England",
+  "lat": 53.4084,
+  "lon": -2.9916
+ },
+ "Fulham": {
+  "city": "London, England",
+  "lat": 51.4749,
+  "lon": -0.2217
+ },
+ "Hull": {
+  "city": "Hull, England",
+  "lat": 53.7676,
+  "lon": -0.3274
+ },
+ "Ipswich": {
+  "city": "Ipswich, England",
+  "lat": 52.0567,
+  "lon": 1.1482
+ },
+ "Leeds": {
+  "city": "Leeds, England",
+  "lat": 53.8008,
+  "lon": -1.5491
+ },
+ "Liverpool": {
+  "city": "Liverpool, England",
+  "lat": 53.4084,
+  "lon": -2.9916
+ },
+ "Man City": {
+  "city": "Manchester, England",
+  "lat": 53.4808,
+  "lon": -2.2426
+ },
+ "Man Utd": {
+  "city": "Manchester, England",
+  "lat": 53.4808,
+  "lon": -2.2426
+ },
+ "Newcastle": {
+  "city": "Newcastle upon Tyne, England",
+  "lat": 54.9783,
+  "lon": -1.6178
+ },
+ "Nott'm Forest": {
+  "city": "Nottingham, England",
+  "lat": 52.9548,
+  "lon": -1.1581
+ },
+ "Sunderland": {
+  "city": "Sunderland, England",
+  "lat": 54.9069,
+  "lon": -1.3838
+ },
+ "Spurs": {
+  "city": "London, England",
+  "lat": 51.6033,
+  "lon": -0.0662
+ },
+ "Real Madrid": {
+  "city": "Madrid, Spain",
+  "lat": 40.4168,
+  "lon": -3.7038
+ },
+ "FC Barcelona": {
+  "city": "Barcelona, Spain",
+  "lat": 41.3874,
+  "lon": 2.1686
+ },
+ "Atlético de Madrid": {
+  "city": "Madrid, Spain",
+  "lat": 40.4168,
+  "lon": -3.7038
+ },
+ "Athletic Club": {
+  "city": "Bilbao, Spain",
+  "lat": 43.263,
+  "lon": -2.935
+ },
+ "Villarreal CF": {
+  "city": "Villarreal, Spain",
+  "lat": 39.9375,
+  "lon": -0.1003
+ },
+ "Real Betis": {
+  "city": "Seville, Spain",
+  "lat": 37.3891,
+  "lon": -5.9845
+ },
+ "Celta": {
+  "city": "Vigo, Spain",
+  "lat": 42.2406,
+  "lon": -8.7207
+ },
+ "Rayo Vallecano": {
+  "city": "Madrid, Spain",
+  "lat": 40.4168,
+  "lon": -3.7038
+ },
+ "CA Osasuna": {
+  "city": "Pamplona, Spain",
+  "lat": 42.8125,
+  "lon": -1.6458
+ },
+ "Real Sociedad": {
+  "city": "San Sebastián, Spain",
+  "lat": 43.3183,
+  "lon": -1.9812
+ },
+ "Valencia CF": {
+  "city": "Valencia, Spain",
+  "lat": 39.4699,
+  "lon": -0.3763
+ },
+ "Getafe CF": {
+  "city": "Getafe, Spain",
+  "lat": 40.3083,
+  "lon": -3.7327
+ },
+ "Deportivo Alavés": {
+  "city": "Vitoria-Gasteiz, Spain",
+  "lat": 42.8467,
+  "lon": -2.6716
+ },
+ "RCD Espanyol de Barcelona": {
+  "city": "Barcelona, Spain",
+  "lat": 41.3874,
+  "lon": 2.1686
+ },
+ "Sevilla FC": {
+  "city": "Seville, Spain",
+  "lat": 37.3891,
+  "lon": -5.9845
+ },
+ "Levante UD": {
+  "city": "Valencia, Spain",
+  "lat": 39.4699,
+  "lon": -0.3763
+ },
+ "Elche CF": {
+  "city": "Elche, Spain",
+  "lat": 38.2622,
+  "lon": -0.6976
+ },
+ "R. Racing Club": {
+  "city": "Santander, Spain",
+  "lat": 43.4623,
+  "lon": -3.8099
+ },
+ "RC Deportivo": {
+  "city": "A Coruña, Spain",
+  "lat": 43.3623,
+  "lon": -8.4115
+ },
+ "Málaga CF": {
+  "city": "Málaga, Spain",
+  "lat": 36.7213,
+  "lon": -4.4213
+ },
+ "Atalanta": {
+  "city": "Bergamo, Italy",
+  "lat": 45.6983,
+  "lon": 9.6773
+ },
+ "Bologna": {
+  "city": "Bologna, Italy",
+  "lat": 44.4949,
+  "lon": 11.3426
+ },
+ "Cagliari": {
+  "city": "Cagliari, Italy",
+  "lat": 39.2238,
+  "lon": 9.1217
+ },
+ "Como": {
+  "city": "Como, Italy",
+  "lat": 45.8081,
+  "lon": 9.0852
+ },
+ "Fiorentina": {
+  "city": "Florence, Italy",
+  "lat": 43.7696,
+  "lon": 11.2558
+ },
+ "Frosinone": {
+  "city": "Frosinone, Italy",
+  "lat": 41.6401,
+  "lon": 13.3414
+ },
+ "Genoa": {
+  "city": "Genoa, Italy",
+  "lat": 44.4056,
+  "lon": 8.9463
+ },
+ "Inter": {
+  "city": "Milan, Italy",
+  "lat": 45.4642,
+  "lon": 9.19
+ },
+ "Juventus": {
+  "city": "Turin, Italy",
+  "lat": 45.0703,
+  "lon": 7.6869
+ },
+ "Lazio": {
+  "city": "Rome, Italy",
+  "lat": 41.9028,
+  "lon": 12.4964
+ },
+ "Lecce": {
+  "city": "Lecce, Italy",
+  "lat": 40.3515,
+  "lon": 18.175
+ },
+ "Milan": {
+  "city": "Milan, Italy",
+  "lat": 45.4642,
+  "lon": 9.19
+ },
+ "Monza": {
+  "city": "Monza, Italy",
+  "lat": 45.5845,
+  "lon": 9.2744
+ },
+ "Napoli": {
+  "city": "Naples, Italy",
+  "lat": 40.8518,
+  "lon": 14.2681
+ },
+ "Parma": {
+  "city": "Parma, Italy",
+  "lat": 44.8015,
+  "lon": 10.3279
+ },
+ "Roma": {
+  "city": "Rome, Italy",
+  "lat": 41.9028,
+  "lon": 12.4964
+ },
+ "Sassuolo": {
+  "city": "Sassuolo, Italy",
+  "lat": 44.5474,
+  "lon": 10.7854
+ },
+ "Torino": {
+  "city": "Turin, Italy",
+  "lat": 45.0703,
+  "lon": 7.6869
+ },
+ "Udinese": {
+  "city": "Udine, Italy",
+  "lat": 46.0711,
+  "lon": 13.2346
+ },
+ "Venezia": {
+  "city": "Venice, Italy",
+  "lat": 45.4408,
+  "lon": 12.3155
+ },
+ "Angers SCO": {
+  "city": "Angers, France",
+  "lat": 47.4784,
+  "lon": -0.5632
+ },
+ "AS Monaco": {
+  "city": "Monaco",
+  "lat": 43.7384,
+  "lon": 7.4246
+ },
+ "AJ Auxerre": {
+  "city": "Auxerre, France",
+  "lat": 47.7982,
+  "lon": 3.5731
+ },
+ "Stade Brestois 29": {
+  "city": "Brest, France",
+  "lat": 48.3904,
+  "lon": -4.4861
+ },
+ "Havre Athletic Club": {
+  "city": "Le Havre, France",
+  "lat": 49.4944,
+  "lon": 0.1079
+ },
+ "Le Mans FC": {
+  "city": "Le Mans, France",
+  "lat": 48.0061,
+  "lon": 0.1996
+ },
+ "LOSC Lille": {
+  "city": "Lille, France",
+  "lat": 50.6292,
+  "lon": 3.0573
+ },
+ "FC Lorient": {
+  "city": "Lorient, France",
+  "lat": 47.7482,
+  "lon": -3.366
+ },
+ "Olympique Lyonnais": {
+  "city": "Lyon, France",
+  "lat": 45.764,
+  "lon": 4.8357
+ },
+ "Olympique de Marseille": {
+  "city": "Marseille, France",
+  "lat": 43.2965,
+  "lon": 5.3698
+ },
+ "OGC Nice": {
+  "city": "Nice, France",
+  "lat": 43.7102,
+  "lon": 7.262
+ },
+ "Paris FC": {
+  "city": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522
+ },
+ "Paris Saint-Germain": {
+  "city": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522
+ },
+ "RC Lens": {
+  "city": "Lens, France",
+  "lat": 50.4322,
+  "lon": 2.8319
+ },
+ "RC Strasbourg Alsace": {
+  "city": "Strasbourg, France",
+  "lat": 48.5734,
+  "lon": 7.7521
+ },
+ "Stade Rennais FC": {
+  "city": "Rennes, France",
+  "lat": 48.1173,
+  "lon": -1.6778
+ },
+ "Toulouse FC": {
+  "city": "Toulouse, France",
+  "lat": 43.6047,
+  "lon": 1.4442
+ },
+ "Estac Troyes": {
+  "city": "Troyes, France",
+  "lat": 48.2973,
+  "lon": 4.0744
+ },
+ "FC Bayern München": {
+  "city": "Munich, Germany",
+  "lat": 48.1351,
+  "lon": 11.582
+ },
+ "VfB Stuttgart": {
+  "city": "Stuttgart, Germany",
+  "lat": 48.7758,
+  "lon": 9.1829
+ },
+ "SV Elversberg": {
+  "city": "Spiesen-Elversberg, Germany",
+  "lat": 49.3167,
+  "lon": 7.1167
+ },
+ "Bayer 04 Leverkusen": {
+  "city": "Leverkusen, Germany",
+  "lat": 51.0459,
+  "lon": 6.9847
+ },
+ "1. FC Köln": {
+  "city": "Cologne, Germany",
+  "lat": 50.9375,
+  "lon": 6.9603
+ },
+ "TSG Hoffenheim": {
+  "city": "Sinsheim, Germany",
+  "lat": 49.25,
+  "lon": 8.8833
+ },
+ "1. FC Union Berlin": {
+  "city": "Berlin, Germany",
+  "lat": 52.52,
+  "lon": 13.405
+ },
+ "Eintracht Frankfurt": {
+  "city": "Frankfurt, Germany",
+  "lat": 50.1109,
+  "lon": 8.6821
+ },
+ "1. FSV Mainz 05": {
+  "city": "Mainz, Germany",
+  "lat": 49.9929,
+  "lon": 8.2473
+ },
+ "SC Paderborn 07": {
+  "city": "Paderborn, Germany",
+  "lat": 51.7189,
+  "lon": 8.7575
+ },
+ "RB Leipzig": {
+  "city": "Leipzig, Germany",
+  "lat": 51.3397,
+  "lon": 12.3731
+ },
+ "Borussia Mönchengladbach": {
+  "city": "Mönchengladbach, Germany",
+  "lat": 51.1805,
+  "lon": 6.4428
+ },
+ "Borussia Dortmund": {
+  "city": "Dortmund, Germany",
+  "lat": 51.5136,
+  "lon": 7.4653
+ },
+ "Hamburger SV": {
+  "city": "Hamburg, Germany",
+  "lat": 53.5511,
+  "lon": 9.9937
+ },
+ "Sport-Club Freiburg": {
+  "city": "Freiburg, Germany",
+  "lat": 47.999,
+  "lon": 7.8421
+ },
+ "SV Werder Bremen": {
+  "city": "Bremen, Germany",
+  "lat": 53.0793,
+  "lon": 8.8017
+ },
+ "FC Augsburg": {
+  "city": "Augsburg, Germany",
+  "lat": 48.3705,
+  "lon": 10.8978
+ },
+ "FC Schalke 04": {
+  "city": "Gelsenkirchen, Germany",
+  "lat": 51.5177,
+  "lon": 7.0857
+ },
+ "Atlanta United": {
+  "city": "Atlanta, USA",
+  "lat": 33.749,
+  "lon": -84.388
+ },
+ "Austin FC": {
+  "city": "Austin, USA",
+  "lat": 30.2672,
+  "lon": -97.7431
+ },
+ "CF Montréal": {
+  "city": "Montreal, Canada",
+  "lat": 45.5017,
+  "lon": -73.5673
+ },
+ "Charlotte FC": {
+  "city": "Charlotte, USA",
+  "lat": 35.2271,
+  "lon": -80.8431
+ },
+ "Chicago Fire FC": {
+  "city": "Chicago, USA",
+  "lat": 41.8781,
+  "lon": -87.6298
+ },
+ "Colorado Rapids": {
+  "city": "Commerce City, USA",
+  "lat": 39.7392,
+  "lon": -104.9903
+ },
+ "Columbus Crew": {
+  "city": "Columbus, USA",
+  "lat": 39.9612,
+  "lon": -82.9988
+ },
+ "D.C. United": {
+  "city": "Washington, D.C., USA",
+  "lat": 38.9072,
+  "lon": -77.0369
+ },
+ "FC Cincinnati": {
+  "city": "Cincinnati, USA",
+  "lat": 39.1031,
+  "lon": -84.512
+ },
+ "FC Dallas": {
+  "city": "Frisco, USA",
+  "lat": 32.7767,
+  "lon": -96.797
+ },
+ "Houston Dynamo FC": {
+  "city": "Houston, USA",
+  "lat": 29.7604,
+  "lon": -95.3698
+ },
+ "Inter Miami CF": {
+  "city": "Miami, USA",
+  "lat": 25.7617,
+  "lon": -80.1918
+ },
+ "LA Galaxy": {
+  "city": "Los Angeles, USA",
+  "lat": 34.0522,
+  "lon": -118.2437
+ },
+ "Los Angeles Football Club": {
+  "city": "Los Angeles, USA",
+  "lat": 34.0522,
+  "lon": -118.2437
+ },
+ "Minnesota United FC": {
+  "city": "Minneapolis, USA",
+  "lat": 44.9778,
+  "lon": -93.265
+ },
+ "Nashville SC": {
+  "city": "Nashville, USA",
+  "lat": 36.1627,
+  "lon": -86.7816
+ },
+ "New England Revolution": {
+  "city": "Foxborough, USA",
+  "lat": 42.3601,
+  "lon": -71.0589
+ },
+ "New York City Football Club": {
+  "city": "New York, USA",
+  "lat": 40.7128,
+  "lon": -74.006
+ },
+ "Red Bull New York": {
+  "city": "Harrison, USA",
+  "lat": 40.7128,
+  "lon": -74.006
+ },
+ "Orlando City": {
+  "city": "Orlando, USA",
+  "lat": 28.5383,
+  "lon": -81.3792
+ },
+ "Philadelphia Union": {
+  "city": "Chester, USA",
+  "lat": 39.9526,
+  "lon": -75.1652
+ },
+ "Portland Timbers": {
+  "city": "Portland, USA",
+  "lat": 45.5152,
+  "lon": -122.6784
+ },
+ "Real Salt Lake": {
+  "city": "Salt Lake City, USA",
+  "lat": 40.7608,
+  "lon": -111.891
+ },
+ "San Diego FC": {
+  "city": "San Diego, USA",
+  "lat": 32.7157,
+  "lon": -117.1611
+ },
+ "San Jose Earthquakes": {
+  "city": "San Jose, USA",
+  "lat": 37.3382,
+  "lon": -121.8863
+ },
+ "Seattle Sounders FC": {
+  "city": "Seattle, USA",
+  "lat": 47.6062,
+  "lon": -122.3321
+ },
+ "Sporting Kansas City": {
+  "city": "Kansas City, USA",
+  "lat": 39.0997,
+  "lon": -94.5786
+ },
+ "St. Louis CITY SC": {
+  "city": "St. Louis, USA",
+  "lat": 38.627,
+  "lon": -90.1994
+ },
+ "Toronto FC": {
+  "city": "Toronto, Canada",
+  "lat": 43.6532,
+  "lon": -79.3832
+ },
+ "Vancouver Whitecaps FC": {
+  "city": "Vancouver, Canada",
+  "lat": 49.2827,
+  "lon": -123.1207
+ },
+ "Birmingham City": {
+  "city": "Birmingham, England",
+  "lat": 52.4862,
+  "lon": -1.8904
+ },
+ "Blackburn Rovers": {
+  "city": "Blackburn, England",
+  "lat": 53.7486,
+  "lon": -2.4823
+ },
+ "Bolton Wanderers": {
+  "city": "Bolton, England",
+  "lat": 53.5769,
+  "lon": -2.4282
+ },
+ "Bristol City": {
+  "city": "Bristol, England",
+  "lat": 51.4545,
+  "lon": -2.5879
+ },
+ "Burnley": {
+  "city": "Burnley, England",
+  "lat": 53.7893,
+  "lon": -2.2452
+ },
+ "Cardiff City": {
+  "city": "Cardiff, Wales",
+  "lat": 51.4816,
+  "lon": -3.1791
+ },
+ "Charlton Athletic": {
+  "city": "London, England",
+  "lat": 51.4864,
+  "lon": 0.0352
+ },
+ "Derby County": {
+  "city": "Derby, England",
+  "lat": 52.9225,
+  "lon": -1.4746
+ },
+ "Lincoln City": {
+  "city": "Lincoln, England",
+  "lat": 53.2307,
+  "lon": -0.5406
+ },
+ "Middlesbrough": {
+  "city": "Middlesbrough, England",
+  "lat": 54.5742,
+  "lon": -1.235
+ },
+ "Millwall": {
+  "city": "London, England",
+  "lat": 51.4859,
+  "lon": -0.051
+ },
+ "Norwich City": {
+  "city": "Norwich, England",
+  "lat": 52.6309,
+  "lon": 1.2974
+ },
+ "Portsmouth": {
+  "city": "Portsmouth, England",
+  "lat": 50.8198,
+  "lon": -1.088
+ },
+ "Preston North End": {
+  "city": "Preston, England",
+  "lat": 53.7632,
+  "lon": -2.6923
+ },
+ "Queens Park Rangers": {
+  "city": "London, England",
+  "lat": 51.5094,
+  "lon": -0.2323
+ },
+ "Sheffield United": {
+  "city": "Sheffield, England",
+  "lat": 53.3811,
+  "lon": -1.4701
+ },
+ "Southampton": {
+  "city": "Southampton, England",
+  "lat": 50.9097,
+  "lon": -1.391
+ },
+ "Stoke City": {
+  "city": "Stoke-on-Trent, England",
+  "lat": 53.0027,
+  "lon": -2.1794
+ },
+ "Swansea City": {
+  "city": "Swansea, Wales",
+  "lat": 51.6431,
+  "lon": -3.9349
+ },
+ "Watford": {
+  "city": "Watford, England",
+  "lat": 51.6565,
+  "lon": -0.3903
+ },
+ "West Bromwich Albion": {
+  "city": "West Bromwich, England",
+  "lat": 52.509,
+  "lon": -1.964
+ },
+ "West Ham United": {
+  "city": "London, England",
+  "lat": 51.5386,
+  "lon": -0.0166
+ },
+ "Wolverhampton Wanderers": {
+  "city": "Wolverhampton, England",
+  "lat": 52.5901,
+  "lon": -2.1301
+ },
+ "Wrexham": {
+  "city": "Wrexham, Wales",
+  "lat": 53.0478,
+  "lon": -2.9926
+ }
 }

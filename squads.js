@@ -4,7 +4,8 @@ var SQUADS_LEAGUES = {
   seriea: { label: "Serie A", file: "data/squads-seriea.json" },
   ligue1: { label: "Ligue 1", file: "data/squads-ligue1.json" },
   bundesliga: { label: "Bundesliga", file: "data/squads-bundesliga.json" },
-  mls: { label: "MLS", file: "data/squads-mls.json" }
+  mls: { label: "MLS", file: "data/squads-mls.json" },
+  efl: { label: "EFL Championship", file: "data/squads-efl.json" }
 };
 
 var squadsCache = {};

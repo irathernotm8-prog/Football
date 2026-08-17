@@ -4,7 +4,8 @@ var HISTORY_LEAGUES = {
   seriea: { label: "Serie A", file: "data/history-seriea.json" },
   ligue1: { label: "Ligue 1", file: "data/history-ligue1.json" },
   bundesliga: { label: "Bundesliga", file: "data/history-bundesliga.json" },
-  mls: { label: "MLS", file: "data/history-mls.json" }
+  mls: { label: "MLS", file: "data/history-mls.json" },
+  efl: { label: "EFL Championship", file: "data/history-efl.json" }
 };
 
 var historyCache = {};

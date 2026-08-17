@@ -41,6 +41,7 @@
       <button class="tab" data-target="panel-ligue1">Ligue 1</button>
       <button class="tab" data-target="panel-bundesliga">Bundesliga</button>
       <button class="tab" data-target="panel-mls">MLS</button>
+      <button class="tab" data-target="panel-efl">EFL Championship</button>
     </div>
 
     <div id="panel-epl" class="panel">
@@ -90,6 +91,14 @@
         <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
       </div>
     </div>
+
+    <div id="panel-efl" class="panel hidden">
+      <div id="widget-efl" class="scoreaxis-widget"
+           data-src="https://widgets.scoreaxis.com/api/football/league-table/623226651944015a9f657040?widgetId=efl&lang=en&teamLogo=1&tableLines=0&homeAway=1&header=1&position=1&goals=1&gamesCount=1&diff=1&winCount=1&drawCount=1&loseCount=1&lastGames=1&points=1&teamsLimit=all&links=1&font=heebo&fontSize=14&rowDensity=100&widgetWidth=auto&widgetHeight=auto&bodyColor=%23111111&textColor=%23ffffff&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d"
+           style="width: auto;height: auto;font-size: 14px;background-color: #111111;color: #ffffff;border: none;overflow: auto;">
+        <div class="widget-main-link" style="padding: 6px 12px;font-weight: 500;">Live data by <a href="https://www.scoreaxis.com/" style="color: inherit;">Scoreaxis</a></div>
+      </div>
+    </div>
   </section>
 
   <!-- FIXTURES / WHAT'S ON PAGE -->
@@ -115,6 +124,7 @@
       <button class="tab matches-tab" data-league="ligue1">Ligue 1</button>
       <button class="tab matches-tab" data-league="bundesliga">Bundesliga</button>
       <button class="tab matches-tab" data-league="mls">MLS</button>
+      <button class="tab matches-tab" data-league="efl">EFL Championship</button>
     </div>
     <div class="match-filter-wrap">
       <select id="match-team-filter"><option value="">All Teams</option></select>
@@ -131,6 +141,7 @@
       <button class="tab history-tab" data-league="ligue1">Ligue 1</button>
       <button class="tab history-tab" data-league="bundesliga">Bundesliga</button>
       <button class="tab history-tab" data-league="mls">MLS</button>
+      <button class="tab history-tab" data-league="efl">EFL Championship</button>
     </div>
     <div id="history-list" class="history-list"></div>
   </section>
@@ -144,6 +155,7 @@
       <button class="tab squads-tab" data-league="ligue1">Ligue 1</button>
       <button class="tab squads-tab" data-league="bundesliga">Bundesliga</button>
       <button class="tab squads-tab" data-league="mls">MLS</button>
+      <button class="tab squads-tab" data-league="efl">EFL Championship</button>
     </div>
     <div id="squads-team-select-wrap" class="squads-team-select-wrap hidden">
       <select id="squads-team-select"></select>
@@ -198,6 +210,7 @@
               <option value="ligue1">Ligue 1</option>
               <option value="bundesliga">Bundesliga</option>
               <option value="mls">MLS</option>
+              <option value="efl">EFL Championship</option>
             </select>
             <select id="builder-team-filter">
               <option value="">All Teams</option>

@@ -4,7 +4,8 @@ var MAP_LEAGUES = {
   seriea: { label: "Serie A", file: "data/fixtures-seriea.json", color: "#0a84ff" },
   ligue1: { label: "Ligue 1", file: "data/fixtures-ligue1.json", color: "#bf5af2" },
   bundesliga: { label: "Bundesliga", file: "data/fixtures-bundesliga.json", color: "#ff375f" },
-  mls: { label: "MLS", file: "data/fixtures-mls.json", color: "#ffd60a" }
+  mls: { label: "MLS", file: "data/fixtures-mls.json", color: "#ffd60a" },
+  efl: { label: "EFL Championship", file: "data/fixtures-efl.json", color: "#a2845e" }
 };
 
 // Lat/lon bounding boxes (with headroom) used by the region sidebar to jump

@@ -4,7 +4,8 @@ var SEARCH_LEAGUES = [
   { key: "seriea", file: "data/squads-seriea.json" },
   { key: "ligue1", file: "data/squads-ligue1.json" },
   { key: "bundesliga", file: "data/squads-bundesliga.json" },
-  { key: "mls", file: "data/squads-mls.json" }
+  { key: "mls", file: "data/squads-mls.json" },
+  { key: "efl", file: "data/squads-efl.json" }
 ];
 
 var playerIndex = null;

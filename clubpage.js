@@ -4,7 +4,8 @@ var CLUB_SQUADS_LEAGUES = {
   seriea: "data/squads-seriea.json",
   ligue1: "data/squads-ligue1.json",
   bundesliga: "data/squads-bundesliga.json",
-  mls: "data/squads-mls.json"
+  mls: "data/squads-mls.json",
+  efl: "data/squads-efl.json"
 };
 
 var CLUB_HISTORY_LEAGUES = {
@@ -13,7 +14,8 @@ var CLUB_HISTORY_LEAGUES = {
   seriea: { label: "Serie A", file: "data/history-seriea.json" },
   ligue1: { label: "Ligue 1", file: "data/history-ligue1.json" },
   bundesliga: { label: "Bundesliga", file: "data/history-bundesliga.json" },
-  mls: { label: "MLS", file: "data/history-mls.json" }
+  mls: { label: "MLS", file: "data/history-mls.json" },
+  efl: { label: "EFL Championship", file: "data/history-efl.json" }
 };
 
 // Same alias table used by history.js, so "Man City" clicked from a squad/fixture

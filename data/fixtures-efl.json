@@ -1,0 +1,4418 @@
+[
+ {
+  "round": 1,
+  "dateUtc": "2026-08-14T19:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Blackburn Rovers",
+  "result": "2 - 2"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T11:30:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Preston North End",
+  "result": "2 - 1"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Millwall",
+  "result": "0 - 2"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Derby County",
+  "result": "2 - 1"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Lincoln City",
+  "result": "2 - 1"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "West Bromwich Albion",
+  "result": "1 - 2"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Queens Park Rangers",
+  "result": "1 - 3"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T14:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Swansea City",
+  "result": "1 - 2"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-15T16:30:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Birmingham City",
+  "result": "0 - 0"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-16T12:30:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Southampton",
+  "result": "2 - 1"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-16T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "West Ham United",
+  "result": "2 - 2"
+ },
+ {
+  "round": 1,
+  "dateUtc": "2026-08-17T19:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T11:30:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T11:30:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T11:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-22T14:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 2,
+  "dateUtc": "2026-08-23T11:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-28T19:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T11:30:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T11:30:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T11:30:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 3,
+  "dateUtc": "2026-08-29T14:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T18:45:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-01T19:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-02T18:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-02T18:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-02T18:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 4,
+  "dateUtc": "2026-09-02T19:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T11:30:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T11:30:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T11:30:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T14:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-05T19:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 5,
+  "dateUtc": "2026-09-06T11:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T18:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-08T19:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-09T18:45:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-09T18:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-09T18:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 6,
+  "dateUtc": "2026-09-09T19:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-11T19:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T11:30:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T11:30:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T11:30:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-12T14:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 7,
+  "dateUtc": "2026-09-13T11:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-18T19:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T11:30:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T11:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T11:30:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-19T14:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 8,
+  "dateUtc": "2026-09-20T11:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-09T19:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T11:30:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T11:30:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T11:30:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-10T14:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 9,
+  "dateUtc": "2026-10-11T11:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T18:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-13T19:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-14T18:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-14T18:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-14T18:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 10,
+  "dateUtc": "2026-10-14T19:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-16T19:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T11:30:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T11:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T11:30:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 11,
+  "dateUtc": "2026-10-17T14:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-23T19:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T11:30:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T11:30:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T11:30:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 12,
+  "dateUtc": "2026-10-24T14:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-30T20:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T12:30:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T12:30:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T12:30:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 13,
+  "dateUtc": "2026-10-31T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T19:45:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-03T20:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-04T19:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-04T19:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 14,
+  "dateUtc": "2026-11-04T20:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-06T20:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T12:30:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T12:30:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T12:30:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 15,
+  "dateUtc": "2026-11-07T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T12:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T12:30:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T12:30:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-21T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 16,
+  "dateUtc": "2026-11-22T12:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T19:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-24T20:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-25T19:45:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-25T19:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-25T19:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 17,
+  "dateUtc": "2026-11-25T20:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-27T20:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T12:30:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T12:30:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T12:30:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-28T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 18,
+  "dateUtc": "2026-11-29T12:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-04T20:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T12:30:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T12:30:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T12:30:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T12:30:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-05T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 19,
+  "dateUtc": "2026-12-06T12:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T19:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-08T20:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-09T19:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-09T19:45:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-09T19:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 20,
+  "dateUtc": "2026-12-09T20:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-11T20:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T12:30:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T12:30:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T12:30:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 21,
+  "dateUtc": "2026-12-12T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-18T20:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T12:30:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T12:30:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T12:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T12:30:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T12:30:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 22,
+  "dateUtc": "2026-12-19T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T12:30:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T12:30:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 23,
+  "dateUtc": "2026-12-26T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T18:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T19:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 24,
+  "dateUtc": "2026-12-29T20:15:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T12:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 25,
+  "dateUtc": "2027-01-01T17:30:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 26,
+  "dateUtc": "2027-01-16T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 27,
+  "dateUtc": "2027-01-23T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-26T19:45:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-27T19:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-27T19:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-27T19:45:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 28,
+  "dateUtc": "2027-01-27T19:45:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 29,
+  "dateUtc": "2027-01-30T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 30,
+  "dateUtc": "2027-02-06T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 31,
+  "dateUtc": "2027-02-13T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-16T19:45:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-17T19:45:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-17T19:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-17T19:45:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 32,
+  "dateUtc": "2027-02-17T19:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-20T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 33,
+  "dateUtc": "2027-02-21T12:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-27T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 34,
+  "dateUtc": "2027-02-28T12:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-02T19:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-03T19:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-03T19:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-03T19:45:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 35,
+  "dateUtc": "2027-03-03T19:45:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 36,
+  "dateUtc": "2027-03-06T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 37,
+  "dateUtc": "2027-03-13T15:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-16T19:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-17T19:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-17T19:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-17T19:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 38,
+  "dateUtc": "2027-03-17T19:45:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 39,
+  "dateUtc": "2027-03-20T15:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T11:30:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 40,
+  "dateUtc": "2027-04-03T14:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-06T18:45:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-07T18:45:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-07T18:45:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-07T18:45:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 41,
+  "dateUtc": "2027-04-07T18:45:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 42,
+  "dateUtc": "2027-04-10T14:00:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Bristol City",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 43,
+  "dateUtc": "2027-04-17T14:00:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-20T18:45:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-21T18:45:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-21T18:45:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-21T18:45:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 44,
+  "dateUtc": "2027-04-21T18:45:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Toughsheet Community Stadium",
+  "home": "Bolton Wanderers",
+  "away": "Swansea City",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Ashton Gate Stadium",
+  "home": "Bristol City",
+  "away": "Derby County",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Turf Moor",
+  "home": "Burnley",
+  "away": "Southampton",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Cardiff City Stadium",
+  "home": "Cardiff City",
+  "away": "West Bromwich Albion",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "The Valley",
+  "home": "Charlton Athletic",
+  "away": "Wrexham",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Riverside Stadium",
+  "home": "Middlesbrough",
+  "away": "West Ham United",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Carrow Road",
+  "home": "Norwich City",
+  "away": "Blackburn Rovers",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Fratton Park",
+  "home": "Portsmouth",
+  "away": "Preston North End",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Bramall Lane",
+  "home": "Sheffield United",
+  "away": "Millwall",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "bet365 Stadium",
+  "home": "Stoke City",
+  "away": "Lincoln City",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Vicarage Road",
+  "home": "Watford",
+  "away": "Birmingham City",
+  "result": null
+ },
+ {
+  "round": 45,
+  "dateUtc": "2027-04-24T14:00:00Z",
+  "venue": "Molineux Stadium",
+  "home": "Wolverhampton Wanderers",
+  "away": "Queens Park Rangers",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "St. Andrew's @ Knighthead Park",
+  "home": "Birmingham City",
+  "away": "Burnley",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "Ewood Park",
+  "home": "Blackburn Rovers",
+  "away": "Watford",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "Pride Park Stadium",
+  "home": "Derby County",
+  "away": "Wolverhampton Wanderers",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "LNER Stadium",
+  "home": "Lincoln City",
+  "away": "Charlton Athletic",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "The Den",
+  "home": "Millwall",
+  "away": "Stoke City",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "Deepdale",
+  "home": "Preston North End",
+  "away": "Cardiff City",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "MATRADE Loftus Road",
+  "home": "Queens Park Rangers",
+  "away": "Norwich City",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "St. Mary's Stadium",
+  "home": "Southampton",
+  "away": "Sheffield United",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "Swansea.com Stadium",
+  "home": "Swansea City",
+  "away": "Middlesbrough",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "The Hawthorns",
+  "home": "West Bromwich Albion",
+  "away": "Bolton Wanderers",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "London Stadium",
+  "home": "West Ham United",
+  "away": "Portsmouth",
+  "result": null
+ },
+ {
+  "round": 46,
+  "dateUtc": "2027-05-01T11:30:00Z",
+  "venue": "Racecourse Ground",
+  "home": "Wrexham",
+  "away": "Bristol City",
+  "result": null
+ }
+]

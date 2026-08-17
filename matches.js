@@ -4,7 +4,8 @@ var MATCH_LEAGUES = {
   seriea: { label: "Serie A", file: "data/fixtures-seriea.json" },
   ligue1: { label: "Ligue 1", file: "data/fixtures-ligue1.json" },
   bundesliga: { label: "Bundesliga", file: "data/fixtures-bundesliga.json" },
-  mls: { label: "MLS", file: "data/fixtures-mls.json" }
+  mls: { label: "MLS", file: "data/fixtures-mls.json" },
+  efl: { label: "EFL Championship", file: "data/fixtures-efl.json" }
 };
 
 var matchDataCache = {};
