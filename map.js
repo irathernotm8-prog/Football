@@ -223,17 +223,25 @@ function jumpToRegion(regionKey) {
   var region = MAP_REGIONS[regionKey];
   if (!region) return;
 
-  var topLeft = projectLatLon(region.maxLat, region.minLon);
-  var botRight = projectLatLon(region.minLat, region.maxLon);
-  var pxMinX = Math.min(topLeft.x, botRight.x);
-  var pxMaxX = Math.max(topLeft.x, botRight.x);
-  var pxMinY = Math.min(topLeft.y, botRight.y);
-  var pxMaxY = Math.max(topLeft.y, botRight.y);
+  // A little padding keeps clubs near the edge of a region comfortably
+  // in view rather than right at the frame boundary.
+  var latPad = 1.5;
+  var lonPad = 1.5;
+  var topLeft = projectLatLon(region.maxLat + latPad, region.minLon - lonPad);
+  var botRight = projectLatLon(region.minLat - latPad, region.maxLon + lonPad);
+
+  // projectLatLon() returns raw SVG viewBox coordinates. The pan/zoom
+  // transform operates in #map-stage's own local space, which starts at 0
+  // where the viewBox starts at (MAP_VB_X, MAP_VB_Y) - so that offset has
+  // to come out here, the same way renderMapMarkers() already does for markers.
+  var pxMinX = Math.min(topLeft.x, botRight.x) - MAP_VB_X;
+  var pxMaxX = Math.max(topLeft.x, botRight.x) - MAP_VB_X;
+  var pxMinY = Math.min(topLeft.y, botRight.y) - MAP_VB_Y;
+  var pxMaxY = Math.max(topLeft.y, botRight.y) - MAP_VB_Y;
   var bboxW = pxMaxX - pxMinX;
   var bboxH = pxMaxY - pxMinY;
 
-  var padding = 1.35;
-  var newZoom = Math.min(vw / (bboxW * padding), vh / (bboxH * padding));
+  var newZoom = Math.min(vw / bboxW, vh / bboxH);
   newZoom = Math.max(mapBaseZoom, Math.min(mapBaseZoom * MAP_MAX_ZOOM_FACTOR, newZoom));
 
   var centerX = (pxMinX + pxMaxX) / 2;
