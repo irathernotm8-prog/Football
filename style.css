@@ -1511,7 +1511,7 @@ section h2 {
   position: absolute;
   width: 22px;
   height: 22px;
-  transform: translate(-50%, -50%);
+  /* transform (translate + zoom-aware scale) is set dynamically in map.js */
   border-radius: 50%;
   border: 2px solid;
   background: #0a2818;
@@ -1522,6 +1522,7 @@ section h2 {
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
   z-index: 2;
+  transition: box-shadow 0.15s ease;
 }
 
 .map-marker:hover {
@@ -1606,7 +1607,25 @@ section h2 {
   flex-wrap: wrap;
   gap: 0.75rem 1.5rem;
   justify-content: center;
+}
+
+.map-legend-wrap {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 1.1rem 1.5rem;
   margin-top: 1.5rem;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
+}
+
+.map-legend-title {
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
 }
 
 .globe-legend-item {

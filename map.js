@@ -137,6 +137,24 @@ function renderMapMarkers() {
 
     stage.appendChild(el);
   });
+
+  updateMarkerScale();
+}
+
+// Markers live inside the zoomed/panned #map-stage, so without this they'd
+// grow right along with the map as you zoom in - the opposite of what we
+// want. This counter-scales each marker so it actually shrinks as you zoom
+// in past the initial fit, making crowded clusters easier to pick apart.
+var MARKER_MIN_SCALE = 0.32;
+var MARKER_MAX_SCALE = 1;
+
+function updateMarkerScale() {
+  var scaleFactor = mapBaseZoom / mapZoom;
+  scaleFactor = Math.max(MARKER_MIN_SCALE, Math.min(MARKER_MAX_SCALE, scaleFactor));
+  var markers = document.querySelectorAll(".map-marker");
+  markers.forEach(function (el) {
+    el.style.transform = "translate(-50%, -50%) scale(" + scaleFactor + ")";
+  });
 }
 
 function applyMapTransform() {
@@ -161,6 +179,7 @@ function fitMapToViewport() {
   mapPanX = (vw - MAP_VB_W * mapZoom) / 2;
   mapPanY = (vh - MAP_VB_H * mapZoom) / 2;
   applyMapTransform();
+  updateMarkerScale();
 }
 
 function zoomMapBy(factor, anchorX, anchorY) {
@@ -176,6 +195,7 @@ function zoomMapBy(factor, anchorX, anchorY) {
   mapZoom = newZoom;
   clampMapPan();
   applyMapTransform();
+  updateMarkerScale();
 }
 
 function getMapEventXY(e) {
