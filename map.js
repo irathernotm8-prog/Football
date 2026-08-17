@@ -7,6 +7,19 @@ var MAP_LEAGUES = {
   mls: { label: "MLS", file: "data/fixtures-mls.json", color: "#ffd60a" }
 };
 
+// Lat/lon bounding boxes (with headroom) used by the region sidebar to jump
+// straight to a tight, spread-out view of each league's home country.
+var MAP_REGIONS = {
+  epl: { minLat: 50.4, maxLat: 55.3, minLon: -3.3, maxLon: 1.5 },
+  laliga: { minLat: 36.4, maxLat: 43.7, minLon: -9.1, maxLon: 3.1 },
+  seriea: { minLat: 38.9, maxLat: 46.4, minLon: 6.9, maxLon: 18.6 },
+  ligue1: { minLat: 42.9, maxLat: 51.0, minLon: -4.9, maxLon: 8.1 },
+  bundesliga: { minLat: 47.6, maxLat: 53.9, minLon: 5.9, maxLon: 13.8 },
+  mls: { minLat: 24.3, maxLat: 50.2, minLon: -124.2, maxLon: -70.8 }
+};
+
+var MAP_MAX_ZOOM_FACTOR = 40;
+
 // Calibrated against the world-map.svg viewBox using known country bounding boxes.
 var MAP_VB_X = 30.767, MAP_VB_Y = 241.591, MAP_VB_W = 784.077, MAP_VB_H = 458.627;
 
@@ -199,12 +212,45 @@ function fitMapToViewport() {
   updateMarkerScale();
 }
 
+// Jumps straight to a tight view of one region (e.g. "England") by projecting
+// its lat/lon bounding box into map pixel space, then computing the zoom and
+// pan that centers and fits it - same math as fitMapToViewport, just scoped
+// to a sub-area instead of the whole world.
+function jumpToRegion(regionKey) {
+  var viewport = document.getElementById("map-viewport");
+  var vw = viewport.clientWidth;
+  var vh = viewport.clientHeight;
+  var region = MAP_REGIONS[regionKey];
+  if (!region) return;
+
+  var topLeft = projectLatLon(region.maxLat, region.minLon);
+  var botRight = projectLatLon(region.minLat, region.maxLon);
+  var pxMinX = Math.min(topLeft.x, botRight.x);
+  var pxMaxX = Math.max(topLeft.x, botRight.x);
+  var pxMinY = Math.min(topLeft.y, botRight.y);
+  var pxMaxY = Math.max(topLeft.y, botRight.y);
+  var bboxW = pxMaxX - pxMinX;
+  var bboxH = pxMaxY - pxMinY;
+
+  var padding = 1.35;
+  var newZoom = Math.min(vw / (bboxW * padding), vh / (bboxH * padding));
+  newZoom = Math.max(mapBaseZoom, Math.min(mapBaseZoom * MAP_MAX_ZOOM_FACTOR, newZoom));
+
+  var centerX = (pxMinX + pxMaxX) / 2;
+  var centerY = (pxMinY + pxMaxY) / 2;
+  mapPanX = vw / 2 - centerX * newZoom;
+  mapPanY = vh / 2 - centerY * newZoom;
+  mapZoom = newZoom;
+  applyMapTransform();
+  updateMarkerScale();
+}
+
 function zoomMapBy(factor, anchorX, anchorY) {
   var viewport = document.getElementById("map-viewport");
   if (anchorX === undefined) anchorX = viewport.clientWidth / 2;
   if (anchorY === undefined) anchorY = viewport.clientHeight / 2;
 
-  var newZoom = Math.max(mapBaseZoom, Math.min(mapBaseZoom * 8, mapZoom * factor));
+  var newZoom = Math.max(mapBaseZoom, Math.min(mapBaseZoom * MAP_MAX_ZOOM_FACTOR, mapZoom * factor));
   var worldX = (anchorX - mapPanX) / mapZoom;
   var worldY = (anchorY - mapPanY) / mapZoom;
   mapPanX = anchorX - worldX * newZoom;
@@ -273,6 +319,12 @@ function onMapWheel(e) {
   zoomMapBy(factor, anchorX, anchorY);
 }
 
+function setActiveRegionButton(regionKey) {
+  document.querySelectorAll(".map-region-btn").forEach(function (btn) {
+    btn.classList.toggle("active", btn.dataset.region === regionKey);
+  });
+}
+
 function buildMapLegend() {
   var legend = document.getElementById("map-legend");
   legend.innerHTML = Object.keys(MAP_LEAGUES).map(function (key) {
@@ -323,7 +375,22 @@ async function initMap() {
 
   document.getElementById("map-zoom-in").addEventListener("click", function () { zoomMapBy(1.3); });
   document.getElementById("map-zoom-out").addEventListener("click", function () { zoomMapBy(1 / 1.3); });
-  document.getElementById("map-zoom-reset").addEventListener("click", function () { fitMapToViewport(); });
+  document.getElementById("map-zoom-reset").addEventListener("click", function () {
+    fitMapToViewport();
+    setActiveRegionButton("world");
+  });
+
+  document.querySelectorAll(".map-region-btn").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var region = btn.dataset.region;
+      setActiveRegionButton(region);
+      if (region === "world") {
+        fitMapToViewport();
+      } else {
+        jumpToRegion(region);
+      }
+    });
+  });
 
   window.addEventListener("resize", function () {
     fitMapToViewport();

@@ -221,16 +221,27 @@
   <!-- MAP PAGE -->
   <section id="page-map" class="page hidden">
     <div class="map-wrap">
-      <div id="map-viewport" class="map-viewport">
-        <div class="map-loading" id="map-loading">Loading map...</div>
-        <div id="map-stage" class="map-stage"></div>
+      <div class="map-region-sidebar" id="map-region-sidebar">
+        <button class="map-region-btn active" data-region="world">World</button>
+        <button class="map-region-btn" data-region="epl">England</button>
+        <button class="map-region-btn" data-region="laliga">Spain</button>
+        <button class="map-region-btn" data-region="seriea">Italy</button>
+        <button class="map-region-btn" data-region="ligue1">France</button>
+        <button class="map-region-btn" data-region="bundesliga">Germany</button>
+        <button class="map-region-btn" data-region="mls">USA &amp; Canada</button>
       </div>
-      <div class="map-tooltip hidden" id="map-tooltip"></div>
-      <div class="map-hint">Drag to pan &middot; scroll to zoom &middot; click a crest for that club</div>
-      <div class="map-zoom-controls">
-        <button id="map-zoom-in" class="map-zoom-btn">+</button>
-        <button id="map-zoom-out" class="map-zoom-btn">&minus;</button>
-        <button id="map-zoom-reset" class="map-zoom-btn map-zoom-reset">Reset</button>
+      <div class="map-main-col">
+        <div id="map-viewport" class="map-viewport">
+          <div class="map-loading" id="map-loading">Loading map...</div>
+          <div id="map-stage" class="map-stage"></div>
+          <div class="map-zoom-controls">
+            <button id="map-zoom-in" class="map-zoom-btn">+</button>
+            <button id="map-zoom-out" class="map-zoom-btn">&minus;</button>
+            <button id="map-zoom-reset" class="map-zoom-btn map-zoom-reset">Reset</button>
+          </div>
+        </div>
+        <div class="map-tooltip hidden" id="map-tooltip"></div>
+        <div class="map-hint">Drag to pan &middot; scroll to zoom &middot; click a crest for that club</div>
       </div>
     </div>
     <div class="map-legend-wrap">
