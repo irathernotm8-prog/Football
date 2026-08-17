@@ -29,7 +29,7 @@
     <button class="main-tab" data-target="page-squads">Squads</button>
     <button class="main-tab" data-target="page-search">Player Search</button>
     <button class="main-tab" data-target="page-builder">Squad Builder</button>
-    <button class="main-tab" data-target="page-globe">Globe</button>
+    <button class="main-tab" data-target="page-map">Map</button>
   </div>
 
   <!-- STANDINGS PAGE -->
@@ -218,16 +218,22 @@
     </div>
   </section>
 
-  <!-- GLOBE PAGE -->
-  <section id="page-globe" class="page hidden">
-    <div class="globe-wrap">
-      <div id="globe-canvas-container" class="globe-canvas-container">
-        <div class="globe-loading" id="globe-loading">Loading globe...</div>
+  <!-- MAP PAGE -->
+  <section id="page-map" class="page hidden">
+    <div class="map-wrap">
+      <div id="map-viewport" class="map-viewport">
+        <div class="map-loading" id="map-loading">Loading map...</div>
+        <div id="map-stage" class="map-stage"></div>
       </div>
-      <div class="globe-tooltip hidden" id="globe-tooltip"></div>
-      <div class="globe-hint">Drag to rotate &middot; scroll to zoom &middot; click a marker for that club</div>
+      <div class="map-tooltip hidden" id="map-tooltip"></div>
+      <div class="map-hint">Drag to pan &middot; scroll to zoom &middot; click a crest for that club</div>
+      <div class="map-zoom-controls">
+        <button id="map-zoom-in" class="map-zoom-btn">+</button>
+        <button id="map-zoom-out" class="map-zoom-btn">&minus;</button>
+        <button id="map-zoom-reset" class="map-zoom-btn map-zoom-reset">Reset</button>
+      </div>
     </div>
-    <div class="globe-legend" id="globe-legend"></div>
+    <div class="globe-legend" id="map-legend"></div>
   </section>
 </main>
 
@@ -284,9 +290,7 @@
 <script src="players.js"></script>
 <script src="teambuilder.js"></script>
 <script src="clubpage.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
-<script src="globe.js"></script>
+<script src="map.js"></script>
 
 </body>
 </html>
