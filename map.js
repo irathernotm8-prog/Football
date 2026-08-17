@@ -10,8 +10,26 @@ var MAP_LEAGUES = {
 // Calibrated against the world-map.svg viewBox using known country bounding boxes.
 var MAP_VB_X = 30.767, MAP_VB_Y = 241.591, MAP_VB_W = 784.077, MAP_VB_H = 458.627;
 
-function lonToMapX(lon) { return MAP_VB_X + (lon + 180) / 360 * MAP_VB_W; }
-function latToMapY(lat) { return 538.37 - 2.8208 * lat; }
+// Calibrated against the world-map.svg viewBox using known country bounding
+// boxes. This map isn't a mathematically pure equirectangular projection
+// (it's a hand-simplified illustration), so a single global formula leaves
+// visible drift within any one region. Since every club we plot sits in
+// either North America or Europe, we calibrate each region separately and
+// pick the right one by longitude - accurate where it matters instead of
+// "close enough" everywhere.
+function projectLatLon(lat, lon) {
+  var x, y;
+  if (lon < -30) {
+    // North America (calibrated against US mainland + Mexico)
+    x = 2.30354 * lon + 407.90022;
+    y = -3.35194 * lat + 541.74722;
+  } else {
+    // Europe (calibrated against UK, France, Germany, Spain, Italy)
+    x = 2.09822 * lon + 407.86803;
+    y = -2.79662 * lat + 536.63825;
+  }
+  return { x: x, y: y };
+}
 
 function mapInitials(name) {
   return (name || "")
@@ -101,10 +119,9 @@ function renderMapMarkers() {
   existing.forEach(function (m) { m.remove(); });
 
   mapMarkersData.forEach(function (m) {
-    var x = lonToMapX(m.lon);
-    var y = latToMapY(m.lat);
-    var leftPct = ((x - MAP_VB_X) / MAP_VB_W) * 100;
-    var topPct = ((y - MAP_VB_Y) / MAP_VB_H) * 100;
+    var proj = projectLatLon(m.lat, m.lon);
+    var leftPct = ((proj.x - MAP_VB_X) / MAP_VB_W) * 100;
+    var topPct = ((proj.y - MAP_VB_Y) / MAP_VB_H) * 100;
     var color = MAP_LEAGUES[m.league].color;
 
     var el = document.createElement("div");
