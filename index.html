@@ -273,6 +273,15 @@
   </div>
 </div>
 
+<!-- MATCH COMPARISON MODAL -->
+<div id="matchup-modal" class="club-modal hidden">
+  <div class="club-modal-backdrop" id="matchup-modal-backdrop"></div>
+  <div class="club-modal-panel matchup-panel" id="matchup-modal-panel">
+    <button class="club-modal-close" id="matchup-modal-close">&#10005;</button>
+    <div id="matchup-modal-body" class="club-modal-body"></div>
+  </div>
+</div>
+
 <script>
   // Lazily inject each standings widget's <script> tag only once its panel is visible.
   function loadWidget(wrapper) {
@@ -317,6 +326,7 @@
 <script src="players.js"></script>
 <script src="teambuilder.js"></script>
 <script src="clubpage.js"></script>
+<script src="matchup.js"></script>
 <script src="map.js"></script>
 
 </body>

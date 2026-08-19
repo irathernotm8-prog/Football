@@ -141,7 +141,7 @@ function fixtureCardHtml(m) {
   }
 
   return (
-    '<div class="fixture-card">' +
+    '<div class="fixture-card matchup-trigger" data-matchup-home="' + m.home.replace(/"/g, "&quot;") + '" data-matchup-away="' + m.away.replace(/"/g, "&quot;") + '" data-matchup-league="' + m.leagueKey + '">' +
     '<div class="fixture-league-row">' +
     '<span class="fixture-league">' + m.leagueLabel + "</span>" +
     '<span class="fixture-stream">' + m.stream + "</span>" +

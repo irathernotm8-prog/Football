@@ -133,7 +133,7 @@ function renderFullSchedule(matches, teamFilter) {
           : '<span class="match-row-time">' + dt.timePart + "</span>";
       }
       return (
-        '<div class="match-row">' +
+        '<div class="match-row matchup-trigger" data-matchup-home="' + m.home.replace(/"/g, "&quot;") + '" data-matchup-away="' + m.away.replace(/"/g, "&quot;") + '" data-matchup-league="' + currentMatchLeague + '">' +
         '<span class="match-row-date">' + dateLabel + "</span>" +
         '<span class="match-row-team match-row-team-home club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + m.home + matchCrestHtml(m.home) + "</span>" +
         '<span class="match-row-center">' + scoreOrTime + "</span>" +

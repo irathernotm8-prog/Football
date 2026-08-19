@@ -249,6 +249,7 @@ document.addEventListener("click", function (e) {
   var link = e.target.closest(".club-link");
   if (link) {
     e.preventDefault();
+    e.stopPropagation();
     openClubPage(link.dataset.clubLink);
     return;
   }
