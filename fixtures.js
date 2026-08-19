@@ -162,6 +162,27 @@ function fixtureCardHtml(m) {
   );
 }
 
+function groupMatchesByLeague(matches) {
+  var byLeague = {};
+  FIXTURE_LEAGUES.forEach(function (l) { byLeague[l.key] = []; });
+  matches.forEach(function (m) {
+    if (!byLeague[m.leagueKey]) byLeague[m.leagueKey] = [];
+    byLeague[m.leagueKey].push(m);
+  });
+  return FIXTURE_LEAGUES
+    .map(function (l) { return { key: l.key, label: l.label, matches: byLeague[l.key] || [] }; })
+    .filter(function (g) { return g.matches.length; });
+}
+
+function leagueGroupHtml(group) {
+  return (
+    '<div class="fixture-league-group">' +
+    '<div class="fixture-league-group-header">' + group.label + "</div>" +
+    '<div class="fixture-cards">' + group.matches.map(fixtureCardHtml).join("") + "</div>" +
+    "</div>"
+  );
+}
+
 async function renderTodayView() {
   var container = document.getElementById("fixture-cards-today");
   container.innerHTML = '<p class="muted-note">Loading today\'s matches...</p>';
@@ -178,7 +199,8 @@ async function renderTodayView() {
     return;
   }
 
-  container.innerHTML = todayMatches.map(fixtureCardHtml).join("");
+  var groups = groupMatchesByLeague(todayMatches);
+  container.innerHTML = groups.map(leagueGroupHtml).join("");
 }
 
 async function renderUpcomingView() {
@@ -215,11 +237,12 @@ async function renderUpcomingView() {
   });
 
   container.innerHTML = dayOrder.map(function (dayInfo) {
-    var cards = byDay[dayInfo.key].map(fixtureCardHtml).join("");
+    var groups = groupMatchesByLeague(byDay[dayInfo.key]);
+    var groupsHtml = groups.map(leagueGroupHtml).join("");
     return (
       '<div class="upcoming-day-group">' +
       '<div class="upcoming-day-header">' + formatLocalDayHeader(dayInfo.sample) + "</div>" +
-      '<div class="fixture-cards">' + cards + "</div>" +
+      groupsHtml +
       "</div>"
     );
   }).join("");

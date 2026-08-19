@@ -1251,6 +1251,23 @@ section h2 {
   border-bottom: 1px solid var(--line);
 }
 
+.fixture-league-group {
+  margin-bottom: 1.5rem;
+}
+
+.fixture-league-group-header {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+}
+
+.upcoming-day-group .fixture-league-group {
+  margin-left: 0.25rem;
+}
+
 /* Club link (clickable team names, used across the site) */
 
 .club-link {
