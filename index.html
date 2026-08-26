@@ -23,8 +23,7 @@
 <main>
   <div class="main-tabs">
     <button class="main-tab active" data-target="page-standings">Standings</button>
-    <button class="main-tab" data-target="page-fixtures">What's On</button>
-    <button class="main-tab" data-target="page-matches">Matches</button>
+    <button class="main-tab" data-target="page-matches-hub">Matches</button>
     <button class="main-tab" data-target="page-history">Title History</button>
     <button class="main-tab" data-target="page-squads">Squads</button>
     <button class="main-tab" data-target="page-search">Player Search</button>
@@ -102,34 +101,42 @@
   </section>
 
   <!-- FIXTURES / WHAT'S ON PAGE -->
-  <section id="page-fixtures" class="page hidden">
-    <div class="tabs" id="fixtures-view-tabs">
-      <button class="tab fixtures-view-tab active" data-view="today">Today</button>
-      <button class="tab fixtures-view-tab" data-view="upcoming">Upcoming</button>
+  <!-- MATCHES HUB: Today / Upcoming / Season, filterable by league and team across all competitions -->
+  <section id="page-matches-hub" class="page hidden">
+    <div class="mh-filters">
+      <select id="mh-league-filter">
+        <option value="">All Leagues</option>
+        <option value="epl">Premier League</option>
+        <option value="laliga">La Liga</option>
+        <option value="seriea">Serie A</option>
+        <option value="ligue1">Ligue 1</option>
+        <option value="bundesliga">Bundesliga</option>
+        <option value="mls">MLS</option>
+        <option value="efl">EFL Championship</option>
+      </select>
+      <select id="mh-team-filter">
+        <option value="">All Teams</option>
+      </select>
     </div>
-    <div id="fixtures-today-view">
-      <div id="fixture-cards-today" class="fixture-cards"></div>
-    </div>
-    <div id="fixtures-upcoming-view" class="hidden">
-      <div id="fixtures-upcoming-list"></div>
-    </div>
-  </section>
 
-  <!-- MATCHES PAGE (pick a league, then a game, see its score) -->
-  <section id="page-matches" class="page hidden">
-    <div class="tabs">
-      <button class="tab matches-tab active" data-league="epl">Premier League</button>
-      <button class="tab matches-tab" data-league="laliga">La Liga</button>
-      <button class="tab matches-tab" data-league="seriea">Serie A</button>
-      <button class="tab matches-tab" data-league="ligue1">Ligue 1</button>
-      <button class="tab matches-tab" data-league="bundesliga">Bundesliga</button>
-      <button class="tab matches-tab" data-league="mls">MLS</button>
-      <button class="tab matches-tab" data-league="efl">EFL Championship</button>
+    <div class="tabs" id="mh-view-tabs">
+      <button class="tab mh-view-tab active" data-view="today">Today</button>
+      <button class="tab mh-view-tab" data-view="upcoming">Upcoming</button>
+      <button class="tab mh-view-tab" data-view="season">Season</button>
     </div>
-    <div class="match-filter-wrap">
-      <select id="match-team-filter"><option value="">All Teams</option></select>
+
+    <div id="mh-today-view">
+      <div id="mh-today-list"></div>
     </div>
-    <div id="matches-full-list" class="matches-full-list"></div>
+
+    <div id="mh-upcoming-view" class="hidden">
+      <div class="mh-date-strip" id="mh-date-strip"></div>
+      <div id="mh-upcoming-list"></div>
+    </div>
+
+    <div id="mh-season-view" class="hidden">
+      <div id="mh-season-list"></div>
+    </div>
   </section>
 
   <!-- TITLE HISTORY PAGE -->
@@ -319,8 +326,7 @@
   });
 </script>
 
-<script src="fixtures.js"></script>
-<script src="matches.js"></script>
+<script src="matcheshub.js"></script>
 <script src="history.js"></script>
 <script src="squads.js"></script>
 <script src="players.js"></script>
