@@ -1,12 +1,4 @@
-var SQUADS_LEAGUES = {
-  epl: { label: "Premier League", file: "data/squads-epl.json" },
-  laliga: { label: "La Liga", file: "data/squads-laliga.json" },
-  seriea: { label: "Serie A", file: "data/squads-seriea.json" },
-  ligue1: { label: "Ligue 1", file: "data/squads-ligue1.json" },
-  bundesliga: { label: "Bundesliga", file: "data/squads-bundesliga.json" },
-  mls: { label: "MLS", file: "data/squads-mls.json" },
-  efl: { label: "EFL Championship", file: "data/squads-efl.json" }
-};
+var SQUADS_LEAGUES = {};
 
 var squadsCache = {};
 var currentSquadsLeague = "epl";
@@ -103,18 +95,33 @@ async function loadSquadsLeague(key) {
   }
 }
 
-document.querySelectorAll(".squads-tab").forEach(function (tab) {
-  tab.addEventListener("click", function () {
-    document.querySelectorAll(".squads-tab").forEach(function (t) { t.classList.remove("active"); });
-    tab.classList.add("active");
-    loadSquadsLeague(tab.dataset.league);
-  });
-});
-
 document.getElementById("squads-team-select") && document.getElementById("squads-team-select").addEventListener("change", function (e) {
   renderSquad(currentSquadsLeague, e.target.value);
 });
 
-document.querySelector('[data-target="page-squads"]').addEventListener("click", function () {
-  if (!squadsCache.epl) loadSquadsLeague("epl");
-});
+async function initSquadsTabs() {
+  await competitionsReady;
+  var comps = getLeagueCompetitions();
+  comps.forEach(function (c) { SQUADS_LEAGUES[c.key] = { label: c.label, file: c.files.squads }; });
+
+  var tabsContainer = document.getElementById("squads-tabs");
+  tabsContainer.innerHTML = comps.map(function (c, i) {
+    return '<button class="tab squads-tab' + (i === 0 ? " active" : "") + '" data-league="' + c.key + '">' + c.label + "</button>";
+  }).join("");
+
+  tabsContainer.querySelectorAll(".squads-tab").forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      tabsContainer.querySelectorAll(".squads-tab").forEach(function (t) { t.classList.remove("active"); });
+      tab.classList.add("active");
+      loadSquadsLeague(tab.dataset.league);
+    });
+  });
+
+  document.querySelector('[data-target="page-squads"]').addEventListener("click", function () {
+    var activeTab = tabsContainer.querySelector(".squads-tab.active");
+    var key = activeTab ? activeTab.dataset.league : comps[0].key;
+    if (!squadsCache[key]) loadSquadsLeague(key);
+  });
+}
+
+initSquadsTabs();

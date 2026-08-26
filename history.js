@@ -1,12 +1,4 @@
-var HISTORY_LEAGUES = {
-  epl: { label: "Premier League", file: "data/history-epl.json" },
-  laliga: { label: "La Liga", file: "data/history-laliga.json" },
-  seriea: { label: "Serie A", file: "data/history-seriea.json" },
-  ligue1: { label: "Ligue 1", file: "data/history-ligue1.json" },
-  bundesliga: { label: "Bundesliga", file: "data/history-bundesliga.json" },
-  mls: { label: "MLS", file: "data/history-mls.json" },
-  efl: { label: "EFL Championship", file: "data/history-efl.json" }
-};
+var HISTORY_LEAGUES = {};
 
 var historyCache = {};
 var historyCrestLogos = null;
@@ -102,15 +94,29 @@ async function loadHistory(key) {
   }
 }
 
-document.querySelectorAll(".history-tab").forEach(function (tab) {
-  tab.addEventListener("click", function () {
-    document.querySelectorAll(".history-tab").forEach(function (t) { t.classList.remove("active"); });
-    tab.classList.add("active");
-    loadHistory(tab.dataset.league);
-  });
-});
+async function initHistoryTabs() {
+  await competitionsReady;
+  var comps = getLeagueCompetitions();
+  comps.forEach(function (c) { HISTORY_LEAGUES[c.key] = { label: c.label, file: c.files.history }; });
 
-// Load Premier League history by default once its page tab is opened
-document.querySelector('[data-target="page-history"]').addEventListener("click", function () {
-  if (!historyCache.epl) loadHistory("epl");
-});
+  var tabsContainer = document.getElementById("history-tabs");
+  tabsContainer.innerHTML = comps.map(function (c, i) {
+    return '<button class="tab history-tab' + (i === 0 ? " active" : "") + '" data-league="' + c.key + '">' + c.label + "</button>";
+  }).join("");
+
+  tabsContainer.querySelectorAll(".history-tab").forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      tabsContainer.querySelectorAll(".history-tab").forEach(function (t) { t.classList.remove("active"); });
+      tab.classList.add("active");
+      loadHistory(tab.dataset.league);
+    });
+  });
+
+  document.querySelector('[data-target="page-history"]').addEventListener("click", function () {
+    var activeTab = tabsContainer.querySelector(".history-tab.active");
+    var key = activeTab ? activeTab.dataset.league : comps[0].key;
+    if (!historyCache[key]) loadHistory(key);
+  });
+}
+
+initHistoryTabs();

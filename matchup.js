@@ -1,12 +1,4 @@
-var MATCHUP_SQUADS_FILES = {
-  epl: "data/squads-epl.json",
-  laliga: "data/squads-laliga.json",
-  seriea: "data/squads-seriea.json",
-  ligue1: "data/squads-ligue1.json",
-  bundesliga: "data/squads-bundesliga.json",
-  mls: "data/squads-mls.json",
-  efl: "data/squads-efl.json"
-};
+var MATCHUP_SQUADS_FILES = {};
 
 var MATCHUP_FORMATION = "4-3-3";
 
@@ -29,6 +21,10 @@ async function ensureMatchupCrestLogos() {
 }
 
 async function loadMatchupRoster(leagueKey, teamName) {
+  await competitionsReady;
+  if (!Object.keys(MATCHUP_SQUADS_FILES).length) {
+    getLeagueCompetitions().forEach(function (c) { MATCHUP_SQUADS_FILES[c.key] = c.files.squads; });
+  }
   var file = MATCHUP_SQUADS_FILES[leagueKey];
   if (!file) return [];
   if (!matchupSquadsCache[leagueKey]) {

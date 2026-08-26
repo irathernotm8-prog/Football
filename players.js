@@ -1,12 +1,4 @@
-var SEARCH_LEAGUES = [
-  { key: "epl", file: "data/squads-epl.json" },
-  { key: "laliga", file: "data/squads-laliga.json" },
-  { key: "seriea", file: "data/squads-seriea.json" },
-  { key: "ligue1", file: "data/squads-ligue1.json" },
-  { key: "bundesliga", file: "data/squads-bundesliga.json" },
-  { key: "mls", file: "data/squads-mls.json" },
-  { key: "efl", file: "data/squads-efl.json" }
-];
+var SEARCH_LEAGUES = [];
 
 var playerIndex = null;
 var playerCrestLogos = null;
@@ -39,6 +31,13 @@ function searchPlayerPhotoHtml(p) {
 
 async function buildPlayerIndex() {
   if (playerIndex) return playerIndex;
+
+  await competitionsReady;
+  if (!SEARCH_LEAGUES.length) {
+    SEARCH_LEAGUES = getLeagueCompetitions().map(function (c) {
+      return { key: c.key, file: c.files.squads };
+    });
+  }
 
   if (!playerCrestLogos) {
     try {

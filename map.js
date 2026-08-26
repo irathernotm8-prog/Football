@@ -1,22 +1,17 @@
-var MAP_LEAGUES = {
-  epl: { label: "Premier League", file: "data/fixtures-epl.json", color: "#30d158" },
-  laliga: { label: "La Liga", file: "data/fixtures-laliga.json", color: "#ff9f0a" },
-  seriea: { label: "Serie A", file: "data/fixtures-seriea.json", color: "#0a84ff" },
-  ligue1: { label: "Ligue 1", file: "data/fixtures-ligue1.json", color: "#bf5af2" },
-  bundesliga: { label: "Bundesliga", file: "data/fixtures-bundesliga.json", color: "#ff375f" },
-  mls: { label: "MLS", file: "data/fixtures-mls.json", color: "#ffd60a" },
-  efl: { label: "EFL Championship", file: "data/fixtures-efl.json", color: "#a2845e" }
-};
+var MAP_LEAGUES = {};
 
 // Lat/lon bounding boxes (with headroom) used by the region sidebar to jump
-// straight to a tight, spread-out view of each league's home country.
+// straight to a tight, spread-out view of a country's clubs. Keyed by
+// country name (matching competitions.json's "country" field) rather than
+// league key, since multiple competitions can share one country (e.g. EPL
+// and EFL Championship are both "England") and should share one button.
 var MAP_REGIONS = {
-  epl: { minLat: 50.4, maxLat: 55.3, minLon: -3.3, maxLon: 1.5 },
-  laliga: { minLat: 36.4, maxLat: 43.7, minLon: -9.1, maxLon: 3.1 },
-  seriea: { minLat: 38.9, maxLat: 46.4, minLon: 6.9, maxLon: 18.6 },
-  ligue1: { minLat: 42.9, maxLat: 51.0, minLon: -4.9, maxLon: 8.1 },
-  bundesliga: { minLat: 47.6, maxLat: 53.9, minLon: 5.9, maxLon: 13.8 },
-  mls: { minLat: 24.3, maxLat: 50.2, minLon: -124.2, maxLon: -70.8 }
+  "England": { minLat: 50.4, maxLat: 55.3, minLon: -3.3, maxLon: 1.5 },
+  "Spain": { minLat: 36.4, maxLat: 43.7, minLon: -9.1, maxLon: 3.1 },
+  "Italy": { minLat: 38.9, maxLat: 46.4, minLon: 6.9, maxLon: 18.6 },
+  "France": { minLat: 42.9, maxLat: 51.0, minLon: -4.9, maxLon: 8.1 },
+  "Germany": { minLat: 47.6, maxLat: 53.9, minLon: 5.9, maxLon: 13.8 },
+  "USA/Canada": { minLat: 24.3, maxLat: 50.2, minLon: -124.2, maxLon: -70.8 }
 };
 
 var MAP_MAX_ZOOM_FACTOR = 40;
@@ -345,6 +340,24 @@ function buildMapLegend() {
 async function initMap() {
   if (mapInitialized) return;
   mapInitialized = true;
+
+  await competitionsReady;
+  var fixtureComps = getFixtureCompetitions();
+  fixtureComps.forEach(function (c) {
+    MAP_LEAGUES[c.key] = { label: c.label, file: c.files.fixtures, color: c.color };
+  });
+
+  var seenCountries = {};
+  var sidebar = document.getElementById("map-region-sidebar");
+  fixtureComps.forEach(function (c) {
+    if (c.type !== "league" || !MAP_REGIONS[c.country] || seenCountries[c.country]) return;
+    seenCountries[c.country] = true;
+    var btn = document.createElement("button");
+    btn.className = "map-region-btn";
+    btn.dataset.region = c.country;
+    btn.textContent = c.country === "USA/Canada" ? "USA & Canada" : c.country;
+    sidebar.appendChild(btn);
+  });
 
   var stage = document.getElementById("map-stage");
   stage.style.width = MAP_VB_W + "px";

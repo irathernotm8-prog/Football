@@ -1,12 +1,4 @@
-var BUILDER_LEAGUES = {
-  epl: { label: "Premier League", file: "data/squads-epl.json" },
-  laliga: { label: "La Liga", file: "data/squads-laliga.json" },
-  seriea: { label: "Serie A", file: "data/squads-seriea.json" },
-  ligue1: { label: "Ligue 1", file: "data/squads-ligue1.json" },
-  bundesliga: { label: "Bundesliga", file: "data/squads-bundesliga.json" },
-  mls: { label: "MLS", file: "data/squads-mls.json" },
-  efl: { label: "EFL Championship", file: "data/squads-efl.json" }
-};
+var BUILDER_LEAGUES = {};
 
 var FORMATIONS = {
   "4-3-3": [
@@ -167,6 +159,19 @@ async function ensureBuilderCrestLogos() {
 
 async function buildBuilderPlayerPool() {
   if (builderPlayerPool) return builderPlayerPool;
+  await competitionsReady;
+  if (!Object.keys(BUILDER_LEAGUES).length) {
+    getLeagueCompetitions().forEach(function (c) {
+      BUILDER_LEAGUES[c.key] = { label: c.label, file: c.files.squads };
+    });
+    var select = document.getElementById("builder-league-filter");
+    if (select) {
+      select.innerHTML = '<option value="">All Leagues</option>' +
+        Object.keys(BUILDER_LEAGUES).map(function (k) {
+          return '<option value="' + k + '">' + BUILDER_LEAGUES[k].label + "</option>";
+        }).join("");
+    }
+  }
   await ensureBuilderCrestLogos();
 
   var pool = [];

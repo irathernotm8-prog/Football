@@ -1,22 +1,6 @@
-var CLUB_SQUADS_LEAGUES = {
-  epl: "data/squads-epl.json",
-  laliga: "data/squads-laliga.json",
-  seriea: "data/squads-seriea.json",
-  ligue1: "data/squads-ligue1.json",
-  bundesliga: "data/squads-bundesliga.json",
-  mls: "data/squads-mls.json",
-  efl: "data/squads-efl.json"
-};
+var CLUB_SQUADS_LEAGUES = {};
 
-var CLUB_HISTORY_LEAGUES = {
-  epl: { label: "Premier League", file: "data/history-epl.json" },
-  laliga: { label: "La Liga", file: "data/history-laliga.json" },
-  seriea: { label: "Serie A", file: "data/history-seriea.json" },
-  ligue1: { label: "Ligue 1", file: "data/history-ligue1.json" },
-  bundesliga: { label: "Bundesliga", file: "data/history-bundesliga.json" },
-  mls: { label: "MLS", file: "data/history-mls.json" },
-  efl: { label: "EFL Championship", file: "data/history-efl.json" }
-};
+var CLUB_HISTORY_LEAGUES = {};
 
 // Same alias table used by history.js, so "Man City" clicked from a squad/fixture
 // still matches "Manchester City" in a history file's champion list, and vice versa.
@@ -106,7 +90,17 @@ async function ensureClubCrestLogos() {
   return clubCrestLogosCache;
 }
 
+async function ensureClubLeagueLists() {
+  await competitionsReady;
+  if (Object.keys(CLUB_SQUADS_LEAGUES).length) return;
+  getLeagueCompetitions().forEach(function (c) {
+    CLUB_SQUADS_LEAGUES[c.key] = c.files.squads;
+    CLUB_HISTORY_LEAGUES[c.key] = { label: c.label, file: c.files.history };
+  });
+}
+
 async function findClubRoster(teamName) {
+  await ensureClubLeagueLists();
   var keys = Object.keys(CLUB_SQUADS_LEAGUES);
   for (var i = 0; i < keys.length; i++) {
     var key = keys[i];

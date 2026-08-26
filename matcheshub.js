@@ -1,12 +1,4 @@
-var MH_LEAGUES = [
-  { key: "epl", label: "Premier League", file: "data/fixtures-epl.json", stream: "Peacock" },
-  { key: "laliga", label: "La Liga", file: "data/fixtures-laliga.json", stream: "ESPN+" },
-  { key: "seriea", label: "Serie A", file: "data/fixtures-seriea.json", stream: "Paramount+" },
-  { key: "ligue1", label: "Ligue 1", file: "data/fixtures-ligue1.json", stream: "beIN Sports" },
-  { key: "bundesliga", label: "Bundesliga", file: "data/fixtures-bundesliga.json", stream: "Fandango" },
-  { key: "mls", label: "MLS", file: "data/fixtures-mls.json", stream: "Apple TV" },
-  { key: "efl", label: "EFL Championship", file: "data/fixtures-efl.json", stream: "ESPN+" }
-];
+var MH_LEAGUES = [];
 
 var mhCrestLogos = {};
 var mhFlatCache = null;
@@ -81,6 +73,18 @@ function flagPlaceholderRounds(matches) {
 
 async function ensureMhData() {
   if (mhFlatCache) return mhFlatCache;
+
+  await competitionsReady;
+  if (!MH_LEAGUES.length) {
+    MH_LEAGUES = getFixtureCompetitions().map(function (c) {
+      return { key: c.key, label: c.label, file: c.files.fixtures, stream: c.stream };
+    });
+    var leagueSelect = document.getElementById("mh-league-filter");
+    if (leagueSelect && leagueSelect.options.length <= 1) {
+      leagueSelect.innerHTML = '<option value="">All Leagues</option>' +
+        MH_LEAGUES.map(function (l) { return '<option value="' + l.key + '">' + l.label + "</option>"; }).join("");
+    }
+  }
 
   if (!Object.keys(mhCrestLogos).length) {
     try {
