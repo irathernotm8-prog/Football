@@ -25,10 +25,9 @@
     <button class="main-tab active" data-target="page-standings">Standings</button>
     <button class="main-tab" data-target="page-matches-hub">Matches</button>
     <button class="main-tab" data-target="page-history">Title History</button>
-    <button class="main-tab" data-target="page-squads">Squads</button>
+    <button class="main-tab" data-target="page-team">Team</button>
     <button class="main-tab" data-target="page-search">Player Search</button>
     <button class="main-tab" data-target="page-builder">Squad Builder</button>
-    <button class="main-tab" data-target="page-map">Map</button>
   </div>
 
   <!-- STANDINGS PAGE -->
@@ -76,13 +75,13 @@
   </section>
 
   <!-- SQUADS PAGE -->
-  <section id="page-squads" class="page hidden">
-    <div class="tabs" id="squads-tabs"></div>
-    <div id="squads-team-select-wrap" class="squads-team-select-wrap hidden">
-      <select id="squads-team-select"></select>
+  <!-- TEAM PAGE (crest + colors, trophy cabinet, upcoming fixtures, full squad) -->
+  <section id="page-team" class="page hidden">
+    <div class="tabs" id="team-tabs"></div>
+    <div id="team-select-wrap" class="squads-team-select-wrap hidden">
+      <select id="team-select"></select>
     </div>
-    <div id="squads-team-header" class="squads-team-header"></div>
-    <div id="squads-list" class="squads-list"></div>
+    <div id="team-page-body"></div>
   </section>
 
   <!-- PLAYER SEARCH PAGE -->
@@ -144,32 +143,6 @@
       </div>
     </div>
   </section>
-
-  <!-- MAP PAGE -->
-  <section id="page-map" class="page hidden">
-    <div class="map-wrap">
-      <div class="map-region-sidebar" id="map-region-sidebar">
-        <button class="map-region-btn active" data-region="world">World</button>
-      </div>
-      <div class="map-main-col">
-        <div id="map-viewport" class="map-viewport">
-          <div class="map-loading" id="map-loading">Loading map...</div>
-          <div id="map-stage" class="map-stage"></div>
-          <div class="map-zoom-controls">
-            <button id="map-zoom-in" class="map-zoom-btn">+</button>
-            <button id="map-zoom-out" class="map-zoom-btn">&minus;</button>
-            <button id="map-zoom-reset" class="map-zoom-btn map-zoom-reset">Reset</button>
-          </div>
-        </div>
-        <div class="map-tooltip hidden" id="map-tooltip"></div>
-        <div class="map-hint">Drag to pan &middot; scroll to zoom &middot; click a crest for that club</div>
-      </div>
-    </div>
-    <div class="map-legend-wrap">
-      <div class="map-legend-title">Leagues</div>
-      <div class="globe-legend" id="map-legend"></div>
-    </div>
-  </section>
 </main>
 
 <!-- CLUB PAGE MODAL -->
@@ -206,12 +179,11 @@
 <script src="standings.js"></script>
 <script src="matcheshub.js"></script>
 <script src="history.js"></script>
-<script src="squads.js"></script>
+<script src="clubpage.js"></script>
+<script src="teampage.js"></script>
 <script src="players.js"></script>
 <script src="teambuilder.js"></script>
-<script src="clubpage.js"></script>
 <script src="matchup.js"></script>
-<script src="map.js"></script>
 
 </body>
 </html>

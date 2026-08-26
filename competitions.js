@@ -13,7 +13,7 @@ var competitionsReady = fetch("data/competitions.json")
   });
 
 // Every domestic league we currently have full data for (fixtures, squads,
-// history). This is the set used by Standings, Title History, Squads,
+// history). This is the set used by Standings, Title History, Team page,
 // Player Search, Squad Builder, and Club pages.
 function getLeagueCompetitions() {
   return Object.keys(COMPETITIONS)

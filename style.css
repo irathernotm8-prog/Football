@@ -1893,3 +1893,85 @@ section h2 {
   background: var(--surface-2);
   border-color: var(--green);
 }
+
+/* Team page (dedicated page version of the club modal, plus fixtures) */
+
+.team-page-card {
+  --club-primary: #30d158;
+  --club-secondary: #14311f;
+  --club-text: #ffffff;
+  background: var(--surface);
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
+.team-fixtures-list {
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0.25rem 1.25rem;
+}
+
+.team-fixture-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.92rem;
+  flex-wrap: wrap;
+}
+
+.team-fixture-row:last-child { border-bottom: none; }
+
+.team-fixture-comp {
+  flex: 0 0 140px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.team-fixture-opponent {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  min-width: 160px;
+}
+
+.team-fixture-ha {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.82rem;
+}
+
+.team-fixture-crest {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+
+.team-fixture-crest-fallback {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 9px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-fixture-date {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
