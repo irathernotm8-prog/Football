@@ -1,4 +1,5 @@
 var SEARCH_LEAGUES = [];
+var searchLeagueFilterKey = "";
 
 var playerIndex = null;
 var playerCrestLogos = null;
@@ -63,7 +64,8 @@ async function buildPlayerIndex() {
             position: p.position,
             nationality: p.nationality,
             photo: p.photo,
-            team: teamName
+            team: teamName,
+            league: league.key
           });
         });
       });
@@ -103,6 +105,9 @@ function renderPlayerResults(results) {
 async function handlePlayerSearch(query) {
   var container = document.getElementById("player-search-results");
   var index = await buildPlayerIndex();
+  if (searchLeagueFilterKey) {
+    index = index.filter(function (p) { return p.league === searchLeagueFilterKey; });
+  }
   var q = query.trim().toLowerCase();
   if (!q) {
     container.innerHTML = "<p class=\"muted-note\">Start typing a player's name.</p>";
@@ -112,6 +117,14 @@ async function handlePlayerSearch(query) {
     return p.name.toLowerCase().indexOf(q) !== -1;
   });
   renderPlayerResults(results);
+}
+
+// Called by leaguetheme.js when the top nav's active league changes, so a
+// search in progress re-scopes immediately instead of waiting for the next keystroke.
+function setSearchLeagueFilter(key) {
+  searchLeagueFilterKey = key || "";
+  var input = document.getElementById("player-search-input");
+  if (input && input.value.trim()) handlePlayerSearch(input.value);
 }
 
 var searchInput = document.getElementById("player-search-input");

@@ -29,7 +29,8 @@
       "linear1": "#3b123d",
       "linear3": "#1f071e",
       "titleTop": "#dd8dff",
-      "titleBot": "#7b1a8f"
+      "titleBot": "#7b1a8f",
+      "accentRgb": "174, 48, 209"
     }
   },
   "laliga": {
@@ -62,7 +63,8 @@
       "linear1": "#3d2312",
       "linear3": "#1f1307",
       "titleTop": "#ff9e8d",
-      "titleBot": "#8f3a1a"
+      "titleBot": "#8f3a1a",
+      "accentRgb": "209, 86, 48"
     }
   },
   "seriea": {
@@ -95,7 +97,8 @@
       "linear1": "#122b3d",
       "linear3": "#07131f",
       "titleTop": "#8decff",
-      "titleBot": "#1a6d8f"
+      "titleBot": "#1a6d8f",
+      "accentRgb": "48, 169, 209"
     }
   },
   "ligue1": {
@@ -128,7 +131,8 @@
       "linear1": "#12153d",
       "linear3": "#07071f",
       "titleTop": "#8db3ff",
-      "titleBot": "#1a328f"
+      "titleBot": "#1a328f",
+      "accentRgb": "48, 88, 209"
     }
   },
   "bundesliga": {
@@ -161,7 +165,8 @@
       "linear1": "#3d1612",
       "linear3": "#1f0b07",
       "titleTop": "#ff8da0",
-      "titleBot": "#8f1a1f"
+      "titleBot": "#8f1a1f",
+      "accentRgb": "209, 48, 61"
     }
   },
   "mls": {
@@ -194,7 +199,8 @@
       "linear1": "#1d123d",
       "linear3": "#0f071f",
       "titleTop": "#8d8dff",
-      "titleBot": "#291a8f"
+      "titleBot": "#291a8f",
+      "accentRgb": "61, 48, 209"
     }
   },
   "efl": {
@@ -227,7 +233,8 @@
       "linear1": "#3d3a12",
       "linear3": "#1f1f07",
       "titleTop": "#ffdb8d",
-      "titleBot": "#8f791a"
+      "titleBot": "#8f791a",
+      "accentRgb": "209, 171, 48"
     }
   },
   "ucl": {
