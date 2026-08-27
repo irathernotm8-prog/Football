@@ -143,6 +143,12 @@ async function renderTeamPage(leagueKey, teamName) {
   body.style.setProperty("--club-primary", theme.primary);
   body.style.setProperty("--club-secondary", theme.secondary);
   body.style.setProperty("--club-text", theme.text);
+  var pageSection = document.getElementById("page-team");
+  if (pageSection) {
+    pageSection.style.setProperty("--club-primary", theme.primary);
+    pageSection.style.setProperty("--club-secondary", theme.secondary);
+    pageSection.style.setProperty("--club-text", theme.text);
+  }
 
   body.innerHTML =
     '<div class="team-page-card">' +
