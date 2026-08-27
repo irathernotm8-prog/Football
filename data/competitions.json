@@ -6,11 +6,31 @@
     "country": "England",
     "source": "fixturedownload",
     "sourceSlug": "epl",
-    "files": { "fixtures": "data/fixtures-epl.json", "squads": "data/squads-epl.json", "history": "data/history-epl.json" },
+    "files": {
+      "fixtures": "data/fixtures-epl.json",
+      "squads": "data/squads-epl.json",
+      "history": "data/history-epl.json"
+    },
     "stream": "Peacock",
     "color": "#30d158",
     "standingsWidgetId": "6232265abf1fa71a672159ec",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/epl.png",
+    "theme": {
+      "bg": "#280a28",
+      "surface": "#2f1431",
+      "surface2": "#381b3d",
+      "line": "#512f5a",
+      "accent": "#ae30d1",
+      "accentDark": "#781f8f",
+      "radial1": "#64226b",
+      "radial2": "#561c5c",
+      "radial3": "#4e1753",
+      "linear1": "#3b123d",
+      "linear3": "#1f071e",
+      "titleTop": "#dd8dff",
+      "titleBot": "#7b1a8f"
+    }
   },
   "laliga": {
     "label": "La Liga",
@@ -19,11 +39,31 @@
     "country": "Spain",
     "source": "fixturedownload",
     "sourceSlug": "la-liga",
-    "files": { "fixtures": "data/fixtures-laliga.json", "squads": "data/squads-laliga.json", "history": "data/history-laliga.json" },
+    "files": {
+      "fixtures": "data/fixtures-laliga.json",
+      "squads": "data/squads-laliga.json",
+      "history": "data/history-laliga.json"
+    },
     "stream": "ESPN+",
     "color": "#ff9f0a",
     "standingsWidgetId": "62322c053617da0b83221cc6",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/laliga.png",
+    "theme": {
+      "bg": "#28180a",
+      "surface": "#311f14",
+      "surface2": "#3d251b",
+      "line": "#5a392f",
+      "accent": "#d15630",
+      "accentDark": "#8f3a1f",
+      "radial1": "#6b3c22",
+      "radial2": "#5c331c",
+      "radial3": "#532d17",
+      "linear1": "#3d2312",
+      "linear3": "#1f1307",
+      "titleTop": "#ff9e8d",
+      "titleBot": "#8f3a1a"
+    }
   },
   "seriea": {
     "label": "Serie A",
@@ -32,11 +72,31 @@
     "country": "Italy",
     "source": "fixturedownload",
     "sourceSlug": "serie-a",
-    "files": { "fixtures": "data/fixtures-seriea.json", "squads": "data/squads-seriea.json", "history": "data/history-seriea.json" },
+    "files": {
+      "fixtures": "data/fixtures-seriea.json",
+      "squads": "data/squads-seriea.json",
+      "history": "data/history-seriea.json"
+    },
     "stream": "Paramount+",
     "color": "#0a84ff",
     "standingsWidgetId": "62322b827aee66235a2be718",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/seriea.png",
+    "theme": {
+      "bg": "#0a1a28",
+      "surface": "#142631",
+      "surface2": "#1b323d",
+      "line": "#2f4f5a",
+      "accent": "#30a9d1",
+      "accentDark": "#1f728f",
+      "radial1": "#22506b",
+      "radial2": "#1c445c",
+      "radial3": "#173c53",
+      "linear1": "#122b3d",
+      "linear3": "#07131f",
+      "titleTop": "#8decff",
+      "titleBot": "#1a6d8f"
+    }
   },
   "ligue1": {
     "label": "Ligue 1",
@@ -45,11 +105,31 @@
     "country": "France",
     "source": "fixturedownload",
     "sourceSlug": "ligue-1",
-    "files": { "fixtures": "data/fixtures-ligue1.json", "squads": "data/squads-ligue1.json", "history": "data/history-ligue1.json" },
+    "files": {
+      "fixtures": "data/fixtures-ligue1.json",
+      "squads": "data/squads-ligue1.json",
+      "history": "data/history-ligue1.json"
+    },
     "stream": "beIN Sports",
     "color": "#bf5af2",
     "standingsWidgetId": "62322b4efd209951602c9096",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/ligue1.png",
+    "theme": {
+      "bg": "#0a0b28",
+      "surface": "#141731",
+      "surface2": "#1b213d",
+      "line": "#2f395a",
+      "accent": "#3058d1",
+      "accentDark": "#1f3a8f",
+      "radial1": "#222b6b",
+      "radial2": "#1c245c",
+      "radial3": "#171e53",
+      "linear1": "#12153d",
+      "linear3": "#07071f",
+      "titleTop": "#8db3ff",
+      "titleBot": "#1a328f"
+    }
   },
   "bundesliga": {
     "label": "Bundesliga",
@@ -58,11 +138,31 @@
     "country": "Germany",
     "source": "fixturedownload",
     "sourceSlug": "bundesliga",
-    "files": { "fixtures": "data/fixtures-bundesliga.json", "squads": "data/squads-bundesliga.json", "history": "data/history-bundesliga.json" },
+    "files": {
+      "fixtures": "data/fixtures-bundesliga.json",
+      "squads": "data/squads-bundesliga.json",
+      "history": "data/history-bundesliga.json"
+    },
     "stream": "Fandango",
     "color": "#ff375f",
     "standingsWidgetId": "62321f50f7016c22d3650732",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/bundesliga.png",
+    "theme": {
+      "bg": "#280e0a",
+      "surface": "#311514",
+      "surface2": "#3d1b1b",
+      "line": "#5a2f32",
+      "accent": "#d1303d",
+      "accentDark": "#8f1f27",
+      "radial1": "#6b2522",
+      "radial2": "#5c1f1c",
+      "radial3": "#531a17",
+      "linear1": "#3d1612",
+      "linear3": "#1f0b07",
+      "titleTop": "#ff8da0",
+      "titleBot": "#8f1a1f"
+    }
   },
   "mls": {
     "label": "MLS",
@@ -71,11 +171,31 @@
     "country": "USA/Canada",
     "source": "fixturedownload",
     "sourceSlug": "mls",
-    "files": { "fixtures": "data/fixtures-mls.json", "squads": "data/squads-mls.json", "history": "data/history-mls.json" },
+    "files": {
+      "fixtures": "data/fixtures-mls.json",
+      "squads": "data/squads-mls.json",
+      "history": "data/history-mls.json"
+    },
     "stream": "Apple TV",
     "color": "#ffd60a",
     "standingsWidgetId": "62322d88f6e8396290141c10",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/mls.png",
+    "theme": {
+      "bg": "#130a28",
+      "surface": "#1a1431",
+      "surface2": "#201b3d",
+      "line": "#332f5a",
+      "accent": "#3d30d1",
+      "accentDark": "#2a1f8f",
+      "radial1": "#31226b",
+      "radial2": "#291c5c",
+      "radial3": "#241753",
+      "linear1": "#1d123d",
+      "linear3": "#0f071f",
+      "titleTop": "#8d8dff",
+      "titleBot": "#291a8f"
+    }
   },
   "efl": {
     "label": "EFL Championship",
@@ -84,39 +204,67 @@
     "country": "England",
     "source": "fixturedownload",
     "sourceSlug": "championship",
-    "files": { "fixtures": "data/fixtures-efl.json", "squads": "data/squads-efl.json", "history": "data/history-efl.json" },
+    "files": {
+      "fixtures": "data/fixtures-efl.json",
+      "squads": "data/squads-efl.json",
+      "history": "data/history-efl.json"
+    },
     "stream": "ESPN+",
     "color": "#a2845e",
     "standingsWidgetId": "623226651944015a9f657040",
-    "hasStandings": true
+    "hasStandings": true,
+    "logo": "assets/league-logos/efl.png",
+    "theme": {
+      "bg": "#28280a",
+      "surface": "#312e14",
+      "surface2": "#3d381b",
+      "line": "#5a502f",
+      "accent": "#d1ab30",
+      "accentDark": "#8f761f",
+      "radial1": "#6b6322",
+      "radial2": "#5c551c",
+      "radial3": "#534d17",
+      "linear1": "#3d3a12",
+      "linear3": "#1f1f07",
+      "titleTop": "#ffdb8d",
+      "titleBot": "#8f791a"
+    }
   },
   "ucl": {
     "label": "Champions League",
     "type": "league_then_knockout",
-    "status": "pending",
+    "status": "standings-only",
     "country": "Europe",
     "source": "uefa_manual",
     "sourceSlug": null,
-    "files": { "fixtures": "data/fixtures-ucl.json", "squads": null, "history": null },
+    "files": {
+      "fixtures": "data/fixtures-ucl.json",
+      "squads": null,
+      "history": null
+    },
     "stream": "Paramount+",
     "color": "#0033a0",
-    "standingsWidgetId": null,
+    "standingsWidgetId": "6232267fbf1fa71a67215dfc",
     "hasStandings": true,
-    "notes": "36-team league phase has a fixed schedule published by UEFA (usually ~2 days after the draw) - same CSV-style pipeline works once available, sourced from UEFA directly since fixturedownload.com doesn't carry it. Knockout rounds from Feb onward are drawn incrementally and need manual updates."
+    "notes": "Standings page only for now - fixtures/squads deliberately left off to keep scope manageable. 36-team league phase has a fixed schedule published by UEFA (usually ~2 days after the draw); knockout rounds from Feb onward are drawn incrementally."
   },
   "europa": {
     "label": "Europa League",
     "type": "league_then_knockout",
-    "status": "pending",
+    "status": "standings-only",
     "country": "Europe",
     "source": "uefa_manual",
     "sourceSlug": null,
-    "files": { "fixtures": "data/fixtures-europa.json", "squads": null, "history": null },
+    "files": {
+      "fixtures": "data/fixtures-europa.json",
+      "squads": null,
+      "history": null
+    },
     "stream": "Paramount+",
     "color": "#ff8c00",
-    "standingsWidgetId": null,
+    "standingsWidgetId": "62322bf0ea44793ec978b7a6",
     "hasStandings": true,
-    "notes": "Same format/timing as UCL, roughly one day behind in the release schedule."
+    "notes": "Standings page only for now, same as UCL. Same format/timing as UCL, roughly one day behind in the release schedule."
   },
   "facup": {
     "label": "FA Cup",
@@ -125,7 +273,11 @@
     "country": "England",
     "source": "manual",
     "sourceSlug": null,
-    "files": { "fixtures": "data/fixtures-facup.json", "squads": null, "history": null },
+    "files": {
+      "fixtures": "data/fixtures-facup.json",
+      "squads": null,
+      "history": null
+    },
     "stream": "ESPN+",
     "color": "#c9a13b",
     "standingsWidgetId": null,
@@ -139,7 +291,11 @@
     "country": "England",
     "source": "manual",
     "sourceSlug": null,
-    "files": { "fixtures": "data/fixtures-eflcup.json", "squads": null, "history": null },
+    "files": {
+      "fixtures": "data/fixtures-eflcup.json",
+      "squads": null,
+      "history": null
+    },
     "stream": "ESPN+",
     "color": "#7ac9c9",
     "standingsWidgetId": null,

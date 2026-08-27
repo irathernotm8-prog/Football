@@ -29,7 +29,16 @@ function getFixtureCompetitions() {
     .map(function (k) { return Object.assign({ key: k }, COMPETITIONS[k]); });
 }
 
-// Active competitions with a meaningful league table.
+// Competitions with a meaningful league table to show on the Standings page.
+// Deliberately independent of getFixtureCompetitions(): a competition can be
+// "standings only" (status: "standings-only") to appear here without also
+// pulling it into the Matches hub, Team page, Squad Builder, etc. before its
+// fixtures/squads data is ready.
 function getStandingsCompetitions() {
-  return getFixtureCompetitions().filter(function (c) { return c.hasStandings; });
+  return Object.keys(COMPETITIONS)
+    .filter(function (k) {
+      var c = COMPETITIONS[k];
+      return c.hasStandings && (c.status === "active" || c.status === "standings-only");
+    })
+    .map(function (k) { return Object.assign({ key: k }, COMPETITIONS[k]); });
 }

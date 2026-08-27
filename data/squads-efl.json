@@ -1,0 +1,391 @@
+{
+  "Birmingham City": [
+    {
+      "number": 1,
+      "name": "James Beadle",
+      "position": "GK",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1431281.png"
+    },
+    {
+      "number": 21,
+      "name": "Ryan Allsop",
+      "position": "GK",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/172284.png"
+    },
+    {
+      "number": 30,
+      "name": "Bradley Mayo",
+      "position": "GK",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1533541.png"
+    },
+    {
+      "number": 24,
+      "name": "Tomoki Iwata",
+      "position": "RB",
+      "nationality": "Japan",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/648393.png"
+    },
+    {
+      "number": 26,
+      "name": "Bright Osayi-Samuel",
+      "position": "RB",
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/618718.png"
+    },
+    {
+      "number": 4,
+      "name": "Christoph Klarer",
+      "position": "CB",
+      "nationality": "Austria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/877701.png"
+    },
+    {
+      "number": 5,
+      "name": "Phil Neumann",
+      "position": "CB",
+      "nationality": "Germany",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/768169.png"
+    },
+    {
+      "number": 6,
+      "name": "Jack Robinson",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/202181.png"
+    },
+    {
+      "number": 23,
+      "name": "Dael Fry",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/664826.png"
+    },
+    {
+      "number": 2,
+      "name": "Ethan Laird",
+      "position": "LB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1077905.png"
+    },
+    {
+      "number": 3,
+      "name": "Lee Buchanan",
+      "position": "LB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1014976.png"
+    },
+    {
+      "number": 20,
+      "name": "Alexander Cochrane",
+      "position": "LB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/877690.png"
+    },
+    {
+      "number": 25,
+      "name": "Kristoffer Lund Hansen",
+      "position": "LB",
+      "nationality": "United States",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1235086.png"
+    },
+    {
+      "number": 8,
+      "name": "Seung-Ho Paik",
+      "position": "DM",
+      "nationality": "South Korea",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/848102.png"
+    },
+    {
+      "number": 12,
+      "name": "Marc Leonard",
+      "position": "DM",
+      "nationality": "Scotland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1109757.png"
+    },
+    {
+      "number": 14,
+      "name": "Jhon Solís",
+      "position": "DM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433032.png"
+    },
+    {
+      "number": 18,
+      "name": "Max Bird",
+      "position": "DM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/881558.png"
+    },
+    {
+      "number": 19,
+      "name": "Taylor Gardner-Hickman",
+      "position": "DM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/982361.png"
+    },
+    {
+      "number": 27,
+      "name": "Kanya Fujimoto",
+      "position": "LM",
+      "nationality": "Japan",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/924315.png"
+    },
+    {
+      "number": 28,
+      "name": "Jay Stansfield",
+      "position": "AM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1113816.png"
+    },
+    {
+      "number": 7,
+      "name": "Carlos Vicente",
+      "position": "RW",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1229177.png"
+    },
+    {
+      "number": 16,
+      "name": "Patrick Roberts",
+      "position": "RW",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/527549.png"
+    },
+    {
+      "number": 10,
+      "name": "Demarai Gray",
+      "position": "LW",
+      "nationality": "Jamaica",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/492586.png"
+    },
+    {
+      "number": 11,
+      "name": "Scott Wright",
+      "position": "LW",
+      "nationality": "Scotland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/553798.png"
+    },
+    {
+      "number": 9,
+      "name": "August Priske",
+      "position": "ST",
+      "nationality": "Denmark",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1311533.png"
+    },
+    {
+      "number": 32,
+      "name": "Luis Vázquez",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1215735.png"
+    },
+    {
+      "number": 33,
+      "name": "Marvin Ducksch",
+      "position": "ST",
+      "nationality": "Germany",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/343757.png"
+    }
+  ],
+  "Blackburn Rovers": [
+    {
+      "number": 1,
+      "name": "Aynsley Pears",
+      "position": "GK",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/807752.png"
+    },
+    {
+      "number": 22,
+      "name": "Balázs Tóth",
+      "position": "GK",
+      "nationality": "Hungary",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/861001.png"
+    },
+    {
+      "number": 6,
+      "name": "Tom Atcheson",
+      "position": "CB",
+      "nationality": "Northern Ireland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1443861.png"
+    },
+    {
+      "number": 12,
+      "name": "Lewis Miller",
+      "position": "CB",
+      "nationality": "Australia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1029024.png"
+    },
+    {
+      "number": 15,
+      "name": "Sean McLoughlin",
+      "position": "CB",
+      "nationality": "Ireland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/864266.png"
+    },
+    {
+      "number": 16,
+      "name": "Scott Wharton",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/765563.png"
+    },
+    {
+      "number": 17,
+      "name": "Hayden Carter",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1133564.png"
+    },
+    {
+      "number": 26,
+      "name": "Connor O'Riordan",
+      "position": "CB",
+      "nationality": "Ireland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1318728.png"
+    },
+    {
+      "number": 43,
+      "name": "George Pratt",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1683733.png"
+    },
+    {
+      "number": 2,
+      "name": "Ryan Alebiosu",
+      "position": "RWB",
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1187285.png"
+    },
+    {
+      "number": 11,
+      "name": "Jayden Fevrier",
+      "position": "RWB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1195742.png"
+    },
+    {
+      "number": 3,
+      "name": "Harry Pickering",
+      "position": "LWB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/827247.png"
+    },
+    {
+      "number": 4,
+      "name": "Yuri Ribeiro",
+      "position": "LWB",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/614956.png"
+    },
+    {
+      "number": 14,
+      "name": "Dion De Neve",
+      "position": "LWB",
+      "nationality": "Belgium",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1280022.png"
+    },
+    {
+      "number": 5,
+      "name": "Sidnei Tavares",
+      "position": "DM",
+      "nationality": "Cape Verde",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/982272.png"
+    },
+    {
+      "number": 8,
+      "name": "Sam Morsy",
+      "position": "DM",
+      "nationality": "Egypt",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/185326.png"
+    },
+    {
+      "number": 24,
+      "name": "Moussa Baradji",
+      "position": "DM",
+      "nationality": "Mali",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1662406.png"
+    },
+    {
+      "number": 28,
+      "name": "Adam Forshaw",
+      "position": "DM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/191175.png"
+    },
+    {
+      "number": 30,
+      "name": "Jake Garrett",
+      "position": "DM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1113804.png"
+    },
+    {
+      "number": 31,
+      "name": "Kristi Montgomery",
+      "position": "DM",
+      "nationality": "Scotland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1254270.png"
+    },
+    {
+      "number": 7,
+      "name": "Augustus Kargbo",
+      "position": "LM",
+      "nationality": "Sierra Leone",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1014981.png"
+    },
+    {
+      "number": 10,
+      "name": "Todd Cantwell",
+      "position": "AM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/789593.png"
+    },
+    {
+      "number": 18,
+      "name": "Axel Henriksson",
+      "position": "AM",
+      "nationality": "Sweden",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1239553.png"
+    },
+    {
+      "number": 25,
+      "name": "Ryoya Morishita",
+      "position": "AM",
+      "nationality": "Japan",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1055136.png"
+    },
+    {
+      "number": 21,
+      "name": "Oladapo Afolayan",
+      "position": "LW",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/823592.png"
+    },
+    {
+      "number": 9,
+      "name": "Andri Gudjohnsen",
+      "position": "ST",
+      "nationality": "Iceland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1050161.png"
+    },
+    {
+      "number": 23,
+      "name": "Yuki Ohashi",
+      "position": "ST",
+      "nationality": "Japan",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/988074.png"
+    },
+    {
+      "number": 29,
+      "name": "Mathias Jørgensen",
+      "position": "ST",
+      "nationality": "Denmark",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/930184.png"
+    }
+  ]
+}
