@@ -1,440 +1,3580 @@
 {
- "Paris Saint-Germain": [
-  {
-   "number": 30,
-   "name": "Lucas Chevalier",
-   "position": "GK",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1177131.png"
-  },
-  {
-   "number": 39,
-   "name": "Matvey Safonov",
-   "position": "GK",
-   "nationality": "Russia",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/800880.png"
-  },
-  {
-   "number": 60,
-   "name": "Martin James",
-   "position": "GK",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830671.png"
-  },
-  {
-   "number": 70,
-   "name": "Arthur Vignaud",
-   "position": "GK",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830676.png"
-  },
-  {
-   "number": 80,
-   "name": "Bilal Laurendon",
-   "position": "GK",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830677.png"
-  },
-  {
-   "number": 89,
-   "name": "Renato Marin",
-   "position": "GK",
-   "nationality": "Italy",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1602252.png"
-  },
-  {
-   "number": 2,
-   "name": "Achraf Hakimi",
-   "position": "RB",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/770881.png"
-  },
-  {
-   "number": 42,
-   "name": "David Boly",
-   "position": "RB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830689.png"
-  },
-  {
-   "number": 4,
-   "name": "Lucas Beraldo",
-   "position": "CB",
-   "nationality": "Brazil",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1255209.png"
-  },
-  {
-   "number": 5,
-   "name": "Marquinhos",
-   "position": "CB",
-   "nationality": "Brazil",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/267365.png"
-  },
-  {
-   "number": 6,
-   "name": "Ilya Zabarnyi",
-   "position": "CB",
-   "nationality": "Ukraine",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1140003.png"
-  },
-  {
-   "number": 51,
-   "name": "Willian Pacho",
-   "position": "CB",
-   "nationality": "Ecuador",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1137670.png"
-  },
-  {
-   "number": 54,
-   "name": "Dimitri Lucea",
-   "position": "CB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830648.png"
-  },
-  {
-   "number": 55,
-   "name": "Samba Coulibaly",
-   "position": "CB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1830647.png"
-  },
-  {
-   "number": 21,
-   "name": "Lucas Hernández",
-   "position": "LB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/504606.png"
-  },
-  {
-   "number": 25,
-   "name": "Nuno Mendes",
-   "position": "LB",
-   "nationality": "Portugal",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1158945.png"
-  },
-  {
-   "number": null,
-   "name": "Mathis Jangéal",
-   "position": "CM",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1819218.png"
-  },
-  {
-   "number": 8,
-   "name": "Fabián Ruiz",
-   "position": "CM",
-   "nationality": "Spain",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/605654.png"
-  },
-  {
-   "number": 17,
-   "name": "Vitinha",
-   "position": "CM",
-   "nationality": "Portugal",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1061249.png"
-  },
-  {
-   "number": 24,
-   "name": "Senny Mayulu",
-   "position": "CM",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1574189.png"
-  },
-  {
-   "number": 27,
-   "name": "Dro Fernández",
-   "position": "CM",
-   "nationality": "Spain",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1682313.png"
-  },
-  {
-   "number": 33,
-   "name": "Warren Zaïre-Emery",
-   "position": "CM",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1367615.png"
-  },
-  {
-   "number": 47,
-   "name": "Quentin Ndjantou",
-   "position": "CM",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1699549.png"
-  },
-  {
-   "number": 87,
-   "name": "João Neves",
-   "position": "CM",
-   "nationality": "Portugal",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1342757.png"
-  },
-  {
-   "number": 19,
-   "name": "Kang-In Lee",
-   "position": "RW",
-   "nationality": "South Korea",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/940976.png"
-  },
-  {
-   "number": 14,
-   "name": "Désiré Doué",
-   "position": "RW",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1339208.png"
-  },
-  {
-   "number": 49,
-   "name": "Ibrahim Mbaye",
-   "position": "RW",
-   "nationality": "Senegal",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1593857.png"
-  },
-  {
-   "number": 7,
-   "name": "Khvicha Kvaratskhelia",
-   "position": "LW",
-   "nationality": "Georgia",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/900433.png"
-  },
-  {
-   "number": 29,
-   "name": "Bradley Barcola",
-   "position": "LW",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1297165.png"
-  },
-  {
-   "number": null,
-   "name": "Ilyes Housni",
-   "position": "ST",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1404397.png"
-  },
-  {
-   "number": 9,
-   "name": "Gonçalo Ramos",
-   "position": "ST",
-   "nationality": "Portugal",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/940087.png"
-  },
-  {
-   "number": 10,
-   "name": "Ousmane Dembélé",
-   "position": "ST",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/692984.png"
-  }
- ],
- "Olympique de Marseille": [
-  {
-   "number": 1,
-   "name": "Gerónimo Rulli",
-   "position": "GK",
-   "nationality": "Argentina",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/245555.png"
-  },
-  {
-   "number": 12,
-   "name": "Jeffrey De Lange",
-   "position": "GK",
-   "nationality": "Netherlands",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/687868.png"
-  },
-  {
-   "number": 40,
-   "name": "Jelle Van Neck",
-   "position": "GK",
-   "nationality": "Belgium",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1347785.png"
-  },
-  {
-   "number": 92,
-   "name": "Théo Vermot",
-   "position": "GK",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1078904.png"
-  },
-  {
-   "number": 35,
-   "name": "Kelyann Bezahaf",
-   "position": "RB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1843428.png"
-  },
-  {
-   "number": null,
-   "name": "Bamo Meité",
-   "position": "CB",
-   "nationality": "Ivory Coast",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1287489.png"
-  },
-  {
-   "number": null,
-   "name": "Derek Cornelius",
-   "position": "CB",
-   "nationality": "Canada",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/847629.png"
-  },
-  {
-   "number": null,
-   "name": "Facundo Medina",
-   "position": "CB",
-   "nationality": "Argentina",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/812652.png"
-  },
-  {
-   "number": 4,
-   "name": "CJ Egan-Riley",
-   "position": "CB",
-   "nationality": "England",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1187227.png"
-  },
-  {
-   "number": 5,
-   "name": "Leonardo Balerdi",
-   "position": "CB",
-   "nationality": "Argentina",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/958464.png"
-  },
-  {
-   "number": 21,
-   "name": "Nayef Aguerd",
-   "position": "CB",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/617310.png"
-  },
-  {
-   "number": 72,
-   "name": "Hilan Hamzaoui Slimani",
-   "position": "CB",
-   "nationality": "France",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1827754.png"
-  },
-  {
-   "number": null,
-   "name": "Ulisses Garcia",
-   "position": "LB",
-   "nationality": "Switzerland",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/520979.png"
-  },
-  {
-   "number": 33,
-   "name": "Emerson",
-   "position": "LB",
-   "nationality": "Italy",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/267371.png"
-  },
-  {
-   "number": null,
-   "name": "Timothy Weah",
-   "position": "RWB",
-   "nationality": "United States",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/889536.png"
-  },
-  {
-   "number": 6,
-   "name": "Tochukwu Nnadi",
-   "position": "DM",
-   "nationality": "Nigeria",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1353104.png"
-  },
-  {
-   "number": 8,
-   "name": "Himad Abdelli",
-   "position": "DM",
-   "nationality": "Algeria",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/956659.png"
-  },
-  {
-   "number": 19,
-   "name": "Geoffrey Kondogbia",
-   "position": "DM",
-   "nationality": "Central African Rep.",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/214972.png"
-  },
-  {
-   "number": 23,
-   "name": "Pierre-Emile Højbjerg",
-   "position": "DM",
-   "nationality": "Denmark",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/266523.png"
-  },
-  {
-   "number": 27,
-   "name": "Quinten Timber",
-   "position": "DM",
-   "nationality": "Netherlands",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/970563.png"
-  },
-  {
-   "number": null,
-   "name": "Raimane Daou",
-   "position": "CM",
-   "nationality": "Comoros",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1404985.png"
-  },
-  {
-   "number": 71,
-   "name": "Nouhoum Kamissoko",
-   "position": "Midfielder",
-   "nationality": "Mali",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1698484.png"
-  },
-  {
-   "number": null,
-   "name": "Angel Gomes",
-   "position": "AM",
-   "nationality": "England",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/848667.png"
-  },
-  {
-   "number": null,
-   "name": "Hamed Traorè",
-   "position": "AM",
-   "nationality": "Ivory Coast",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/875672.png"
-  },
-  {
-   "number": null,
-   "name": "Amine Harit",
-   "position": "LW",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/780815.png"
-  },
-  {
-   "number": 14,
-   "name": "Igor Paixão",
-   "position": "LW",
-   "nationality": "Brazil",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1265963.png"
-  },
-  {
-   "number": 78,
-   "name": "Ange Lago",
-   "position": "Attacker",
-   "nationality": "Ivory Coast",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1843478.png"
-  },
-  {
-   "number": null,
-   "name": "Faris Moumbagna",
-   "position": "ST",
-   "nationality": "Cameroon",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/952325.png"
-  },
-  {
-   "number": 9,
-   "name": "Amine Gouiri",
-   "position": "ST",
-   "nationality": "Algeria",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/844437.png"
-  },
-  {
-   "number": 70,
-   "name": "Ugo Lamare El Kadmiri",
-   "position": "ST",
-   "nationality": "Morocco",
-   "photo": "https://images.fotmob.com/image_resources/playerimages/1820043.png"
-  }
- ]
+  "Paris Saint-Germain": [
+    {
+      "number": 30,
+      "name": "Lucas Chevalier",
+      "position": "GK",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1177131.png"
+    },
+    {
+      "number": 39,
+      "name": "Matvey Safonov",
+      "position": "GK",
+      "nationality": "Russia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/800880.png"
+    },
+    {
+      "number": 60,
+      "name": "Martin James",
+      "position": "GK",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830671.png"
+    },
+    {
+      "number": 70,
+      "name": "Arthur Vignaud",
+      "position": "GK",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830676.png"
+    },
+    {
+      "number": 80,
+      "name": "Bilal Laurendon",
+      "position": "GK",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830677.png"
+    },
+    {
+      "number": 89,
+      "name": "Renato Marin",
+      "position": "GK",
+      "nationality": "Italy",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1602252.png"
+    },
+    {
+      "number": 2,
+      "name": "Achraf Hakimi",
+      "position": "RB",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/770881.png"
+    },
+    {
+      "number": 42,
+      "name": "David Boly",
+      "position": "RB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830689.png"
+    },
+    {
+      "number": 4,
+      "name": "Lucas Beraldo",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1255209.png"
+    },
+    {
+      "number": 5,
+      "name": "Marquinhos",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/267365.png"
+    },
+    {
+      "number": 6,
+      "name": "Ilya Zabarnyi",
+      "position": "CB",
+      "nationality": "Ukraine",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1140003.png"
+    },
+    {
+      "number": 51,
+      "name": "Willian Pacho",
+      "position": "CB",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1137670.png"
+    },
+    {
+      "number": 54,
+      "name": "Dimitri Lucea",
+      "position": "CB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830648.png"
+    },
+    {
+      "number": 55,
+      "name": "Samba Coulibaly",
+      "position": "CB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830647.png"
+    },
+    {
+      "number": 21,
+      "name": "Lucas Hernández",
+      "position": "LB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/504606.png"
+    },
+    {
+      "number": 25,
+      "name": "Nuno Mendes",
+      "position": "LB",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1158945.png"
+    },
+    {
+      "number": null,
+      "name": "Mathis Jangéal",
+      "position": "CM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1819218.png"
+    },
+    {
+      "number": 8,
+      "name": "Fabián Ruiz",
+      "position": "CM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/605654.png"
+    },
+    {
+      "number": 17,
+      "name": "Vitinha",
+      "position": "CM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1061249.png"
+    },
+    {
+      "number": 24,
+      "name": "Senny Mayulu",
+      "position": "CM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1574189.png"
+    },
+    {
+      "number": 27,
+      "name": "Dro Fernández",
+      "position": "CM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1682313.png"
+    },
+    {
+      "number": 33,
+      "name": "Warren Zaïre-Emery",
+      "position": "CM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1367615.png"
+    },
+    {
+      "number": 47,
+      "name": "Quentin Ndjantou",
+      "position": "CM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1699549.png"
+    },
+    {
+      "number": 87,
+      "name": "João Neves",
+      "position": "CM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1342757.png"
+    },
+    {
+      "number": 19,
+      "name": "Kang-In Lee",
+      "position": "RW",
+      "nationality": "South Korea",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/940976.png"
+    },
+    {
+      "number": 14,
+      "name": "Désiré Doué",
+      "position": "RW",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1339208.png"
+    },
+    {
+      "number": 49,
+      "name": "Ibrahim Mbaye",
+      "position": "RW",
+      "nationality": "Senegal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1593857.png"
+    },
+    {
+      "number": 7,
+      "name": "Khvicha Kvaratskhelia",
+      "position": "LW",
+      "nationality": "Georgia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/900433.png"
+    },
+    {
+      "number": 29,
+      "name": "Bradley Barcola",
+      "position": "LW",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1297165.png"
+    },
+    {
+      "number": null,
+      "name": "Ilyes Housni",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1404397.png"
+    },
+    {
+      "number": 9,
+      "name": "Gonçalo Ramos",
+      "position": "ST",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/940087.png"
+    },
+    {
+      "number": 10,
+      "name": "Ousmane Dembélé",
+      "position": "ST",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/692984.png"
+    }
+  ],
+  "Olympique de Marseille": [
+    {
+      "number": 1,
+      "name": "Gerónimo Rulli",
+      "position": "GK",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/245555.png"
+    },
+    {
+      "number": 12,
+      "name": "Jeffrey De Lange",
+      "position": "GK",
+      "nationality": "Netherlands",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/687868.png"
+    },
+    {
+      "number": 40,
+      "name": "Jelle Van Neck",
+      "position": "GK",
+      "nationality": "Belgium",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1347785.png"
+    },
+    {
+      "number": 92,
+      "name": "Théo Vermot",
+      "position": "GK",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1078904.png"
+    },
+    {
+      "number": 35,
+      "name": "Kelyann Bezahaf",
+      "position": "RB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1843428.png"
+    },
+    {
+      "number": null,
+      "name": "Bamo Meité",
+      "position": "CB",
+      "nationality": "Ivory Coast",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1287489.png"
+    },
+    {
+      "number": null,
+      "name": "Derek Cornelius",
+      "position": "CB",
+      "nationality": "Canada",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/847629.png"
+    },
+    {
+      "number": null,
+      "name": "Facundo Medina",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/812652.png"
+    },
+    {
+      "number": 4,
+      "name": "CJ Egan-Riley",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1187227.png"
+    },
+    {
+      "number": 5,
+      "name": "Leonardo Balerdi",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/958464.png"
+    },
+    {
+      "number": 21,
+      "name": "Nayef Aguerd",
+      "position": "CB",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/617310.png"
+    },
+    {
+      "number": 72,
+      "name": "Hilan Hamzaoui Slimani",
+      "position": "CB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1827754.png"
+    },
+    {
+      "number": null,
+      "name": "Ulisses Garcia",
+      "position": "LB",
+      "nationality": "Switzerland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/520979.png"
+    },
+    {
+      "number": 33,
+      "name": "Emerson",
+      "position": "LB",
+      "nationality": "Italy",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/267371.png"
+    },
+    {
+      "number": null,
+      "name": "Timothy Weah",
+      "position": "RWB",
+      "nationality": "United States",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/889536.png"
+    },
+    {
+      "number": 6,
+      "name": "Tochukwu Nnadi",
+      "position": "DM",
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1353104.png"
+    },
+    {
+      "number": 8,
+      "name": "Himad Abdelli",
+      "position": "DM",
+      "nationality": "Algeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/956659.png"
+    },
+    {
+      "number": 19,
+      "name": "Geoffrey Kondogbia",
+      "position": "DM",
+      "nationality": "Central African Rep.",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/214972.png"
+    },
+    {
+      "number": 23,
+      "name": "Pierre-Emile Højbjerg",
+      "position": "DM",
+      "nationality": "Denmark",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/266523.png"
+    },
+    {
+      "number": 27,
+      "name": "Quinten Timber",
+      "position": "DM",
+      "nationality": "Netherlands",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/970563.png"
+    },
+    {
+      "number": null,
+      "name": "Raimane Daou",
+      "position": "CM",
+      "nationality": "Comoros",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1404985.png"
+    },
+    {
+      "number": 71,
+      "name": "Nouhoum Kamissoko",
+      "position": "Midfielder",
+      "nationality": "Mali",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1698484.png"
+    },
+    {
+      "number": null,
+      "name": "Angel Gomes",
+      "position": "AM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/848667.png"
+    },
+    {
+      "number": null,
+      "name": "Hamed Traorè",
+      "position": "AM",
+      "nationality": "Ivory Coast",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/875672.png"
+    },
+    {
+      "number": null,
+      "name": "Amine Harit",
+      "position": "LW",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/780815.png"
+    },
+    {
+      "number": 14,
+      "name": "Igor Paixão",
+      "position": "LW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1265963.png"
+    },
+    {
+      "number": 78,
+      "name": "Ange Lago",
+      "position": "Attacker",
+      "nationality": "Ivory Coast",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1843478.png"
+    },
+    {
+      "number": null,
+      "name": "Faris Moumbagna",
+      "position": "ST",
+      "nationality": "Cameroon",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/952325.png"
+    },
+    {
+      "number": 9,
+      "name": "Amine Gouiri",
+      "position": "ST",
+      "nationality": "Algeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/844437.png"
+    },
+    {
+      "number": 70,
+      "name": "Ugo Lamare El Kadmiri",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1820043.png"
+    }
+  ],
+  "RC Strasbourg Alsace": [
+    {
+      "number": null,
+      "name": "Filip Jörgensen",
+      "position": "GK",
+      "nationality": "Denmark",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200984.png"
+    },
+    {
+      "number": null,
+      "name": "Milosz Piekutowski",
+      "position": "GK",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Timeo Raffourt",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Abakar Sylla",
+      "position": "CB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hermann Diandaga",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Karim Coulibaly",
+      "position": "DEFENDER",
+      "nationality": "Germany",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Andrew Omobamidele",
+      "position": "CB",
+      "nationality": "Ireland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ben Chilwell",
+      "position": "LB",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jeyland Mitchell",
+      "position": "DEFENDER",
+      "nationality": "Costa Rica",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ismaël Doukouré",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mateo Del Blanco",
+      "position": "LB",
+      "nationality": "Argentina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Genesis Antwi",
+      "position": "RB",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Guéla Doué",
+      "position": "RB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Høgsberg",
+      "position": "CB",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yoann Becker",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Soumaïla Coulibaly",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Benjamin Brantlind",
+      "position": "MIDFIELDER",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pape Diong",
+      "position": "DM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Maxi Oyedele",
+      "position": "DM",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Giovanni Reyna",
+      "position": "AM",
+      "nationality": "United States",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sebastian Nanasi",
+      "position": "AM",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathis Amougou",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pape Demba Diop",
+      "position": "CM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Diogo Sousa",
+      "position": "MIDFIELDER",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Samir El Mourabet",
+      "position": "MIDFIELDER",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Milos Lukovic",
+      "position": "ST",
+      "nationality": "Serbia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Omari Kellyman",
+      "position": "ST",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1315477.png"
+    },
+    {
+      "number": null,
+      "name": "Samuel Amo-Ameyaw",
+      "position": "RW",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Joaquín Panichelli",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sékou Mara",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Fabio Baldé",
+      "position": "FORWARD",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Martial Godo",
+      "position": "LW",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jacobo Ortega",
+      "position": "FORWARD",
+      "nationality": "Spain",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yaya Dieme",
+      "position": "FORWARD",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gessime Yassine",
+      "position": "RW",
+      "nationality": "Morocco",
+      "photo": null
+    }
+  ],
+  "RC Lens": [
+    {
+      "number": null,
+      "name": "Régis Gurtner",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathieu Gorgelin",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Robin Risser",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ilan Jourdren",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jhoanner Chávez",
+      "position": "LB",
+      "nationality": "Ecuador",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Maik Nawrocki",
+      "position": "CB",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nidal Celik",
+      "position": "CB",
+      "nationality": "Bosnia and Herzegovina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Samson Baidoo",
+      "position": "CB",
+      "nationality": "Austria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jonathan Gradit",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ismaëlo Ganiou",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Souleymane Sagnan",
+      "position": "CB",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kyllian Antonio",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ruben Aguilar",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Andrija Bulatovic",
+      "position": "CM",
+      "nationality": "Montenegro",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Florian Sotoca",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yacine Titraoui",
+      "position": "CM",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Thorgan Hazard",
+      "position": "AM",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Florian Thauvin",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Matthieu Udol",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Abdallah Sima",
+      "position": "RW",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amadou Haidara",
+      "position": "CM",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Michal Skóras",
+      "position": "LW",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Saud Abdulhamid",
+      "position": "RB",
+      "nationality": "Saudi Arabia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Michaël Cuisance",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mezian Soares",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Odsonne Édouard",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rayan Fofana",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Franjo Ivanovic",
+      "position": "ST",
+      "nationality": "Croatia",
+      "photo": null
+    }
+  ],
+  "AJ Auxerre": [
+    {
+      "number": null,
+      "name": "Paul Nardi",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mamadou Diop",
+      "position": "GK",
+      "nationality": "Mauritania",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Louis Mezerette",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ackah-Tidiane Thiongane-Zoukrou",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Francisco Sierralta",
+      "position": "CB",
+      "nationality": "Chile",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Telli Siwe",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Christ Makosso",
+      "position": "DEFENDER",
+      "nationality": "Congo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sinaly Diomandé",
+      "position": "CB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Fredrik Oppegård",
+      "position": "LB",
+      "nationality": "Norway",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bryan Okoh",
+      "position": "CB",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lamine Sy",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Marvin Senaya",
+      "position": "RB",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Elikya Legros",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alvin Petit Dol",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Clément Akpa",
+      "position": "LB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sékou Fofana",
+      "position": "CM",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Eros Maddy",
+      "position": "RW",
+      "nationality": "Netherlands",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lamfia Dioubate",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kévin Danois",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Josué Casimir",
+      "position": "RW",
+      "nationality": "Haiti",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Naouirou Ahamada",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Danny Namaso",
+      "position": "ST",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Assane Dioussé",
+      "position": "DM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lasso Coulibaly",
+      "position": "RW",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tidiane Devernois",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Arthur Piedfort",
+      "position": "MIDFIELDER",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rémy Lascary",
+      "position": "ST",
+      "nationality": "Guadeloupe",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Thelonius Bair",
+      "position": "ST",
+      "nationality": "Canada",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Romain Faivre",
+      "position": "RW",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/904021.png"
+    },
+    {
+      "number": null,
+      "name": "Ryan Rodin",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rayan Mandengue",
+      "position": "FORWARD",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Xiangxin Wei",
+      "position": "FORWARD",
+      "nationality": "China",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Aristide Zossou",
+      "position": "FORWARD",
+      "nationality": "Ivory Coast",
+      "photo": null
+    }
+  ],
+  "Le Mans FC": [
+    {
+      "number": null,
+      "name": "Ewan Hatfout",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Augustin Delbecque",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nicolas Kocik",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Harold Voyer",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noa Boissé",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Raúl Torrente",
+      "position": "CB",
+      "nationality": "Spain",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Samuel Yohou",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Théo Eyoum",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Calodat",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yasser Larouci",
+      "position": "LB",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Edwin Quarshie",
+      "position": "MIDFIELDER",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alexandre Lauray",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jean Vercruysse",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Adil Bourabaa",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Buadés",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Djibril Sidibé",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Daouda Traoré",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Milan Robin",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rayan Bamba",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Martin Rossignol",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Bretelle",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Enzo Vágner",
+      "position": "FORWARD",
+      "nationality": "Brazil",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Billal Brahimi",
+      "position": "LW",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Antoine Rabillard",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Louis Mafouta",
+      "position": "ST",
+      "nationality": "Central African Rep.",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "William Harhouz",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Dame Gueye",
+      "position": "ST",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Erwan Colas",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Stade Brestois 29": [
+    {
+      "number": null,
+      "name": "Egil Selvik",
+      "position": "GK",
+      "nationality": "Norway",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noe Poillion",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Romain Cagnon",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Justin Bourgault",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bradley Locko",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gautier Lloris",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Brendan Chardonnet",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Luck Zogbé",
+      "position": "RB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Evan Mailly",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kenny Lala",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Raphaël Le Guen",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mamady Diambou",
+      "position": "DM",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Joseph Boende",
+      "position": "MIDFIELDER",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hugo Magnetti",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Joris Chotard",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kamory Doumbia",
+      "position": "AM",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Tousart",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hamidou Makalou",
+      "position": "MIDFIELDER",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pathé Mboup",
+      "position": "LW",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Romain Del Castillo",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Axel Camblan",
+      "position": "LW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mama Baldé",
+      "position": "ST",
+      "nationality": "Guinea-Bissau",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ludovic Ajorque",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathis Laine",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "OGC Nice": [
+    {
+      "number": null,
+      "name": "Yéhvann Diouf",
+      "position": "GK",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Teddy Boulhendi",
+      "position": "GK",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ali Abdi",
+      "position": "LB",
+      "nationality": "Tunisia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed Abdelmonem",
+      "position": "CB",
+      "nationality": "Egypt",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Melvin Bard",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Antoine Mendy",
+      "position": "RB",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Xavier Mandza",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Brad-Hamilton Mantsounga",
+      "position": "DEFENDER",
+      "nationality": "Congo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kojo Peprah Oppong",
+      "position": "DEFENDER",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Youssouf Ndayishimiye",
+      "position": "CB",
+      "nationality": "Burundi",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Moïse Bombito",
+      "position": "CB",
+      "nationality": "Canada",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hicham Boudaoui",
+      "position": "CM",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gauthier Hein",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Morgan Sanson",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sofiane Diop",
+      "position": "AM",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Laurent Abergel",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Issiaga Camara",
+      "position": "MIDFIELDER",
+      "nationality": "Guinea",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Axel Witsel",
+      "position": "DM",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Djibril Coulibaly",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hamza Koutoune",
+      "position": "MIDFIELDER",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Everton",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jonathan Clauss",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Salis Abdul Samed",
+      "position": "DM",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Elye Wahi",
+      "position": "ST",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Victor Orakpo",
+      "position": "FORWARD",
+      "nationality": "Nigeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Isak Jansson",
+      "position": "LW",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed-Ali Cho",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nathan N'Goumou",
+      "position": "RW",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Zoumana Diallo",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "FC Lorient": [
+    {
+      "number": null,
+      "name": "Benjamin Leroy",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bingourou Kamara",
+      "position": "GK",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yvon Mvogo",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alec Georgen",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Montassar Talbi",
+      "position": "CB",
+      "nationality": "Tunisia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nathaniel Adjei",
+      "position": "CB",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Souleymane Touré",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Formose Mendy",
+      "position": "CB",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jérémy Hatchi",
+      "position": "MIDFIELDER",
+      "nationality": "Guadeloupe",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bandiougou Fadiga",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noah Cadiou",
+      "position": "MIDFIELDER",
+      "nationality": "Guadeloupe",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Théo Le Bris",
+      "position": "LM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jean-Victor Makengo",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Dembo Sylla",
+      "position": "RB",
+      "nationality": "Guinea",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Arsène Kouassi",
+      "position": "LB",
+      "nationality": "Burkina Faso",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Arthur Avom",
+      "position": "CM",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noah Mbamba",
+      "position": "DM",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Panos Katseris",
+      "position": "RB",
+      "nationality": "Greece",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Isak Steiner Jensen",
+      "position": "FORWARD",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed Bamba",
+      "position": "ST",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Aiyegun Tosin",
+      "position": "ST",
+      "nationality": "Benin",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Souleymane Faye",
+      "position": "LW",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gabin Bernardeau",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mamadou Koné",
+      "position": "FORWARD",
+      "nationality": "Ivory Coast",
+      "photo": null
+    }
+  ],
+  "Toulouse FC": [
+    {
+      "number": null,
+      "name": "Guillaume Restes",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathys Niflore",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rasmus Nicolaisen",
+      "position": "CB",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mark McKenzie",
+      "position": "CB",
+      "nationality": "United States",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Seny Koumbassa",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Christ Tapé",
+      "position": "DEFENDER",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "David Odogu",
+      "position": "CB",
+      "nationality": "Germany",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1469996.png"
+    },
+    {
+      "number": null,
+      "name": "Ismaïl Diallo",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Thomas Jørgensen",
+      "position": "CM",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Santiago Hidalgo",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yann Gboho",
+      "position": "LW",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Aron Dønnum",
+      "position": "RW",
+      "nationality": "Norway",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Abu Francis",
+      "position": "CM",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rafik Messali",
+      "position": "MIDFIELDER",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Cristian Cásseres",
+      "position": "CM",
+      "nationality": "Venezuela",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathis Saka",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Niklas Schmidt",
+      "position": "CM",
+      "nationality": "Germany",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alexis Vossah",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Julián Vignolo",
+      "position": "FORWARD",
+      "nationality": "Argentina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sion Oppong",
+      "position": "FORWARD",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jacen Russell-Rowe",
+      "position": "ST",
+      "nationality": "Canada",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Enzo Faty",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ilyas Azizi",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Olympique Lyonnais": [
+    {
+      "number": null,
+      "name": "Dominik Greif",
+      "position": "GK",
+      "nationality": "Slovakia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Justin Bengui",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rémy Descamps",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lassine Diarra",
+      "position": "GK",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Duje Caleta-Car",
+      "position": "CB",
+      "nationality": "Croatia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nicolás Tagliafico",
+      "position": "LB",
+      "nationality": "Argentina",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Zachary Athekame",
+      "position": "RB",
+      "nationality": "Switzerland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1595629.png"
+    },
+    {
+      "number": null,
+      "name": "Abner",
+      "position": "LB",
+      "nationality": "Brazil",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Moussa Niakhaté",
+      "position": "CB",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Felix Bacher",
+      "position": "CB",
+      "nationality": "Austria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ruben Kluivert",
+      "position": "CB",
+      "nationality": "Netherlands",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Clinton Mata",
+      "position": "RB",
+      "nationality": "Angola",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Steeve Kango",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noham Kamara",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ainsley Maitland-Niles",
+      "position": "RB",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mahamadou Diawara",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Paul Akouokou",
+      "position": "DM",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mads Bidstrup",
+      "position": "CM",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tanner Tessmann",
+      "position": "CM",
+      "nationality": "United States",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Corentin Tolisso",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Khalis Merah",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tyler Morton",
+      "position": "DM",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kaïl Boudache",
+      "position": "MIDFIELDER",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathys de Carvalho",
+      "position": "MIDFIELDER",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed Ouédraogo",
+      "position": "MIDFIELDER",
+      "nationality": "Burkina Faso",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noah Nartey",
+      "position": "CM",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alejandro Gomes Rodríguez",
+      "position": "ST",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ernest Nuamah",
+      "position": "RW",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pavel Sulc",
+      "position": "AM",
+      "nationality": "Czechia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Malick Fofana",
+      "position": "LW",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Loïs Openda",
+      "position": "ST",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Julien Duranville",
+      "position": "RW",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rémi Himbert",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Estac Troyes": [
+    {
+      "number": null,
+      "name": "Zacharie Boucher",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Patrick Beach",
+      "position": "GK",
+      "nationality": "Australia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hillel Konaté",
+      "position": "GK",
+      "nationality": "Burkina Faso",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lucas Maronnier",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Anis Ouzenadji",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Michel Diaz",
+      "position": "CB",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Adrien Monfray",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ismaël Boura",
+      "position": "LB",
+      "nationality": "Comoros",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Paolo Gozzi",
+      "position": "CB",
+      "nationality": "Italy",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noah Donkor",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tom Akpakoun",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yvann Titi",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mouhamed Diop",
+      "position": "CM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Iron Gomis",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Roman Murcy",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Antoine Mille",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hugo Picard",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alexandre Phliponeau",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Dermane Karim",
+      "position": "CM",
+      "nationality": "Togo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amar Fatah",
+      "position": "LW",
+      "nationality": "Sweden",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yacouba Kone",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kandet Diawara",
+      "position": "LW",
+      "nationality": "Guinea",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Merwan Ifnaou",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Elijah Odede",
+      "position": "FORWARD",
+      "nationality": "Nigeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Renaud Ripart",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ibrahim Traoré",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amadou Diakité",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Paris FC": [
+    {
+      "number": null,
+      "name": "Kevin Trapp",
+      "position": "GK",
+      "nationality": "Germany",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Obed Nkambadio",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Emmanuel Mbemba",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yoan Koré",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mamadou Mbow",
+      "position": "CB",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Otávio",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hamari Traoré",
+      "position": "RB",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nhoa Sangui",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Thibault De Smet",
+      "position": "LB",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Samir Chergui",
+      "position": "DEFENDER",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Diego Coppola",
+      "position": "CB",
+      "nationality": "Italy",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Vincent Marchetti",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pablo Pagis",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Patrick Zabi",
+      "position": "MIDFIELDER",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Adama Camara",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Maxime Lopez",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rudy Matondo",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pierre Lees-Melou",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lassine Sinayoko",
+      "position": "ST",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ilan Kebbal",
+      "position": "AM",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jean-Philippe Krasso",
+      "position": "ST",
+      "nationality": "Ivory Coast",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Luca Koleosho",
+      "position": "LW",
+      "nationality": "Italy",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Omar Sissoko",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Moses Simon",
+      "position": "LW",
+      "nationality": "Nigeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jonathan Ikoné",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Angers SCO": [
+    {
+      "number": null,
+      "name": "Anthony Lopes",
+      "position": "GK",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Melvin Zinga",
+      "position": "GK",
+      "nationality": "Congo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Oumar Pona",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Carlens Arcus",
+      "position": "RB",
+      "nationality": "Haiti",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jacques Ekomié",
+      "position": "LB",
+      "nationality": "Gabon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ousmane Camara",
+      "position": "CB",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Joseph Kalulu",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Marius Louër",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jordan Lefort",
+      "position": "CB",
+      "nationality": "Mauritania",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Emmanuel Biumla",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mael Gernigon",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Louis Mouton",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Branco van den Boomen",
+      "position": "CM",
+      "nationality": "Netherlands",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bane Diatta",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Haris Belkebla",
+      "position": "DM",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Usman Simbakoli",
+      "position": "FORWARD",
+      "nationality": "Central African Rep.",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Prosper Peter",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amine Sbaï",
+      "position": "LW",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Harouna Djibirin",
+      "position": "FORWARD",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yassin Belkhdim",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jim Allevinah",
+      "position": "RW",
+      "nationality": "Gabon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amine El Ouazzani",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Anthony Bermont",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lilian Rao-Lisoa",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "LOSC Lille": [
+    {
+      "number": null,
+      "name": "Orlando Gill",
+      "position": "GK",
+      "nationality": "Paraguay",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Berke Özer",
+      "position": "GK",
+      "nationality": "Turkiye",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Arnaud Bodart",
+      "position": "GK",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Loun Srdanovic",
+      "position": "DEFENDER",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nathan Ngoy",
+      "position": "CB",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alexsandro Ribeiro",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Romain Perraud",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tiago Santos",
+      "position": "RB",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tanguy Nianzou",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Calvin Verdonk",
+      "position": "LB",
+      "nationality": "Indonesia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Isaac Cossier",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Nabil Bentaleb",
+      "position": "DM",
+      "nationality": "Algeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hákon Arnar Haraldsson",
+      "position": "AM",
+      "nationality": "Iceland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ngal Ayel Mukau",
+      "position": "CM",
+      "nationality": "DR Congo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Basar Önal",
+      "position": "MIDFIELDER",
+      "nationality": "Turkiye",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Benjamin André",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Dilane Bakwa",
+      "position": "RW",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1079539.png"
+    },
+    {
+      "number": null,
+      "name": "Mohamed Bayo",
+      "position": "ST",
+      "nationality": "Guinea",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Tiago Morais",
+      "position": "LW",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Matias Fernandez-Pardo",
+      "position": "LW",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ethan Mbappé",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Olivier Giroud",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Osame Sahraoui",
+      "position": "LW",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Noah Edjouma",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Félix Correia",
+      "position": "LW",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gaëtan Perrin",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Hamza Igamane",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Soriba Diaoune",
+      "position": "LW",
+      "nationality": "Guinea",
+      "photo": null
+    }
+  ],
+  "Havre Athletic Club": [
+    {
+      "number": null,
+      "name": "Paul Argney",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lionel Mpasi-Nzau",
+      "position": "GK",
+      "nationality": "DR Congo",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Elias Jelert",
+      "position": "RB",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ayumu Seko",
+      "position": "CB",
+      "nationality": "Japan",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yanis Zouaoui",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Vincent Sasso",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Enzo Koffi",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Stephan Zagadou",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Timothée Pembélé",
+      "position": "RB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Djibril Ouziad",
+      "position": "DEFENDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Junior Mwanga",
+      "position": "DM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Amir Richardson",
+      "position": "CM",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Rassoul Ndiaye",
+      "position": "DM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kaito Mizuta",
+      "position": "MIDFIELDER",
+      "nationality": "Japan",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Guy Zohouri",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Simon Ebonog",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sota Nakamura",
+      "position": "CM",
+      "nationality": "Japan",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ismaïl Bouneb",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Daren Mosengo",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Élysée Logbo",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Josh Maja",
+      "position": "ST",
+      "nationality": "Nigeria",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Felix Mambimbi",
+      "position": "LW",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Godson Kyeremeh",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Fodé Doucouré",
+      "position": "RW",
+      "nationality": "Mali",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Joan Tincrès",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mbwana Samatta",
+      "position": "ST",
+      "nationality": "Tanzania",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Makrane Bentoumi",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "AS Monaco": [
+    {
+      "number": null,
+      "name": "Lukás Hrádecky",
+      "position": "GK",
+      "nationality": "Finland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Philipp Köhn",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Yann Lienard",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Vanderson",
+      "position": "RB",
+      "nationality": "Brazil",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Eric Dier",
+      "position": "CB",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Thilo Kehrer",
+      "position": "CB",
+      "nationality": "Germany",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Denis Zakaria",
+      "position": "DM",
+      "nationality": "Switzerland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Christian Mawissa",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Flávio Nazinho",
+      "position": "LB",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mohammed Salisu",
+      "position": "CB",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Samuel Nibombé",
+      "position": "DEFENDER",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sadibou Sané",
+      "position": "CB",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jordan Teze",
+      "position": "RB",
+      "nationality": "Netherlands",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Paul Pogba",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Aleksandr Golovin",
+      "position": "AM",
+      "nationality": "Russia",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lamine Camara",
+      "position": "CM",
+      "nationality": "Senegal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Stanis Idumbo",
+      "position": "AM",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Takumi Minamino",
+      "position": "AM",
+      "nationality": "Japan",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Pape Cabral",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mamadou Coulibaly",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ansu Fati",
+      "position": "LW",
+      "nationality": "Spain",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Edan Diop",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Aymen Assab",
+      "position": "MIDFIELDER",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ilane Touré",
+      "position": "MIDFIELDER",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mathys Detourbet",
+      "position": "FORWARD",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Folarin Balogun",
+      "position": "ST",
+      "nationality": "United States",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mika Biereth",
+      "position": "ST",
+      "nationality": "Denmark",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Paris Brunner",
+      "position": "ST",
+      "nationality": "Germany",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Matthis Abline",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    }
+  ],
+  "Stade Rennais FC": [
+    {
+      "number": null,
+      "name": "Nicolas Lemaître",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Brice Samba",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Kilian Belazzoug",
+      "position": "GK",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Lilian Brassier",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Charlie Cresswell",
+      "position": "CB",
+      "nationality": "England",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Gonçalo Oliveira",
+      "position": "DEFENDER",
+      "nationality": "Portugal",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Bryan Reynolds",
+      "position": "RB",
+      "nationality": "United States",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mahamadou Nagida",
+      "position": "LB",
+      "nationality": "Cameroon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Anthony Rouault",
+      "position": "CB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Quentin Merlin",
+      "position": "LB",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Alidu Seidu",
+      "position": "RB",
+      "nationality": "Ghana",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Abdelhamid Aït Boudlal",
+      "position": "CB",
+      "nationality": "Morocco",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Jonathan Do Marcolino",
+      "position": "DEFENDER",
+      "nationality": "Gabon",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ayanda Sishuba",
+      "position": "MIDFIELDER",
+      "nationality": "Belgium",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Djaoui Cissé",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Ludovic Blas",
+      "position": "AM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mousa Tamari",
+      "position": "RW",
+      "nationality": "Jordan",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Sebastian Szymanski",
+      "position": "AM",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Valentin Rongier",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Adrien Thomasson",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Mahdi Camara",
+      "position": "CM",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Przemyslaw Frankowski",
+      "position": "RB",
+      "nationality": "Poland",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Estéban Lepaul",
+      "position": "ST",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Eliezer Mayenda",
+      "position": "ST",
+      "nationality": "Spain",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Elías Legendre",
+      "position": "FORWARD",
+      "nationality": "Ecuador",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Arnaud Nordin",
+      "position": "RW",
+      "nationality": "France",
+      "photo": null
+    },
+    {
+      "number": null,
+      "name": "Issa Soumaré",
+      "position": "LW",
+      "nationality": "Senegal",
+      "photo": null
+    }
+  ]
 }
