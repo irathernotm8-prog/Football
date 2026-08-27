@@ -1468,5 +1468,373 @@
    "nationality": "Spain",
    "photo": "https://images.fotmob.com/image_resources/playerimages/1732791.png"
   }
+ ],
+ "Rayo Vallecano": [
+  {
+   "number": 1,
+   "name": "Dani Cárdenas",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1041445.png"
+  },
+  {
+   "number": 13,
+   "name": "Augusto Batalla",
+   "position": "GK",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/621415.png"
+  },
+  {
+   "number": 30,
+   "name": "Adrián Molina",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1803292.png"
+  },
+  {
+   "number": null,
+   "name": "Miguel Morro",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/957199.png"
+  },
+  {
+   "number": 2,
+   "name": "Andrei Ratiu",
+   "position": "RB",
+   "nationality": "Romania",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/970578.png"
+  },
+  {
+   "number": 20,
+   "name": "Iván Balliu",
+   "position": "RB",
+   "nationality": "Albania",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/264885.png"
+  },
+  {
+   "number": null,
+   "name": "Marash Kumbulla",
+   "position": "CB",
+   "nationality": "Albania",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/872362.png"
+  },
+  {
+   "number": 5,
+   "name": "Luiz Felipe",
+   "position": "CB",
+   "nationality": "Italy",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/672840.png"
+  },
+  {
+   "number": 22,
+   "name": "Pelayo Fernández",
+   "position": "CB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1411818.png"
+  },
+  {
+   "number": 24,
+   "name": "Florian Lejeune",
+   "position": "CB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/184521.png"
+  },
+  {
+   "number": 33,
+   "name": "Jozhua Vertrouwd",
+   "position": "CB",
+   "nationality": "Netherlands",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1255090.png"
+  },
+  {
+   "number": 6,
+   "name": "Pathé Ciss",
+   "position": "CB",
+   "nationality": "Senegal",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/872396.png"
+  },
+  {
+   "number": 26,
+   "name": "Marco de Las Sias",
+   "position": "LB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1662963.png"
+  },
+  {
+   "number": 8,
+   "name": "Unai López",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/571615.png"
+  },
+  {
+   "number": 23,
+   "name": "Óscar Valentín",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/956622.png"
+  },
+  {
+   "number": 4,
+   "name": "Pedro Díaz",
+   "position": "CM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/715069.png"
+  },
+  {
+   "number": 7,
+   "name": "Isi Palazón",
+   "position": "AM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/638010.png"
+  },
+  {
+   "number": 8,
+   "name": "Óscar Trejo",
+   "position": "AM",
+   "nationality": "Argentina",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/21414.png"
+  },
+  {
+   "number": 28,
+   "name": "Samu Becerra",
+   "position": "RW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1797872.png"
+  },
+  {
+   "number": 19,
+   "name": "Jorge de Frutos",
+   "position": "RW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/797901.png"
+  },
+  {
+   "number": null,
+   "name": "Giorgi Tsitaishvili",
+   "position": "LW",
+   "nationality": "Georgia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/939061.png"
+  },
+  {
+   "number": 18,
+   "name": "Álvaro Garcia",
+   "position": "LW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/474658.png"
+  },
+  {
+   "number": 21,
+   "name": "Fran Pérez",
+   "position": "LW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1284430.png"
+  },
+  {
+   "number": null,
+   "name": "Etienne Eto'o",
+   "position": "ST",
+   "nationality": "Cameroon",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1670225.png"
+  },
+  {
+   "number": null,
+   "name": "Raúl de Tomás",
+   "position": "ST",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/359196.png"
+  },
+  {
+   "number": 9,
+   "name": "Alemão",
+   "position": "ST",
+   "nationality": "Brazil",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/924300.png"
+  },
+  {
+   "number": 10,
+   "name": "Sergio Camello",
+   "position": "ST",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/980422.png"
+  },
+  {
+   "number": 11,
+   "name": "Randy Nteka",
+   "position": "ST",
+   "nationality": "Angola",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/915264.png"
+  }
+ ],
+ "CA Osasuna": [
+  {
+   "number": 1,
+   "name": "Sergio Herrera",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/683762.png"
+  },
+  {
+   "number": 13,
+   "name": "Aitor Fernández",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/213471.png"
+  },
+  {
+   "number": 32,
+   "name": "Rafa Fernández",
+   "position": "GK",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1762938.png"
+  },
+  {
+   "number": 19,
+   "name": "Valentin Rosier",
+   "position": "RB",
+   "nationality": "France",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/763970.png"
+  },
+  {
+   "number": 41,
+   "name": "Iñigo Arguibide",
+   "position": "RB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1614872.png"
+  },
+  {
+   "number": null,
+   "name": "Rockson Yeboah",
+   "position": "CB",
+   "nationality": "Ghana",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1603025.png"
+  },
+  {
+   "number": 5,
+   "name": "Jorge Herrando",
+   "position": "CB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1098365.png"
+  },
+  {
+   "number": 22,
+   "name": "Flavien Boyomo",
+   "position": "CB",
+   "nationality": "Cameroon",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1187734.png"
+  },
+  {
+   "number": 24,
+   "name": "Alejandro Catena",
+   "position": "CB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/814663.png"
+  },
+  {
+   "number": 29,
+   "name": "Asier Osambela",
+   "position": "CB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1431121.png"
+  },
+  {
+   "number": null,
+   "name": "Diego Rico",
+   "position": "LB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/488718.png"
+  },
+  {
+   "number": null,
+   "name": "Ander Yoldi",
+   "position": "LWB",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1205430.png"
+  },
+  {
+   "number": 6,
+   "name": "Lucas Torró",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/303879.png"
+  },
+  {
+   "number": 7,
+   "name": "Jon Moncayola",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/921825.png"
+  },
+  {
+   "number": 8,
+   "name": "Iker Muñoz",
+   "position": "DM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1323863.png"
+  },
+  {
+   "number": 16,
+   "name": "Moi Gómez",
+   "position": "CM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/262592.png"
+  },
+  {
+   "number": 23,
+   "name": "Abel Bretones",
+   "position": "LM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1323398.png"
+  },
+  {
+   "number": 10,
+   "name": "Aimar Oroz",
+   "position": "AM",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1054786.png"
+  },
+  {
+   "number": null,
+   "name": "Jonathan Dubasin",
+   "position": "RW",
+   "nationality": "Belgium",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1242139.png"
+  },
+  {
+   "number": 14,
+   "name": "Rubén Garcia",
+   "position": "RW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/384413.png"
+  },
+  {
+   "number": 11,
+   "name": "Enrique Barja",
+   "position": "LW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/574624.png"
+  },
+  {
+   "number": 15,
+   "name": "Raúl Moro",
+   "position": "LW",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1169596.png"
+  },
+  {
+   "number": 9,
+   "name": "Raúl García",
+   "position": "ST",
+   "nationality": "Spain",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/1094778.png"
+  },
+  {
+   "number": 17,
+   "name": "Ante Budimir",
+   "position": "ST",
+   "nationality": "Croatia",
+   "photo": "https://images.fotmob.com/image_resources/playerimages/251269.png"
+  }
  ]
 }
