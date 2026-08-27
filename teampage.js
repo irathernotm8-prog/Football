@@ -59,6 +59,7 @@ async function renderTeamPage(leagueKey, teamName) {
   var body = document.getElementById("team-page-body");
   body.innerHTML = "<p class=\"muted-note\">Loading " + teamName + "...</p>";
 
+  await ensureClubLeagueLists();
   var colors = await ensureClubColors();
   var crests = await ensureClubCrestLogos();
   var theme = colors[teamName] || DEFAULT_CLUB_THEME;
@@ -105,7 +106,7 @@ async function renderTeamPage(leagueKey, teamName) {
       var items = t.seasons.map(function (season) {
         return (
           '<div class="trophy-item">' +
-          '<div class="trophy-icon-wrap">' + trophyIconSvg() + "</div>" +
+          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.continental) + "</div>" +
           '<div class="trophy-season">' + season + "</div>" +
           "</div>"
         );

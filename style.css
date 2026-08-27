@@ -1666,6 +1666,11 @@ section h2 {
   filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.45));
 }
 
+.trophy-icon-ucl {
+  object-fit: contain;
+  color: unset;
+}
+
 .trophy-season {
   font-size: 0.7rem;
   font-weight: 700;
@@ -2113,10 +2118,22 @@ section h2 {
   animation: live-pin-pulse 1.8s infinite;
 }
 
+.live-pin-dot.live-pin-dot-idle {
+  background: var(--muted);
+  box-shadow: none;
+  animation: none;
+}
+
 @keyframes live-pin-pulse {
   0% { box-shadow: 0 0 0 0 rgba(var(--accent-rgb), 0.55); }
   70% { box-shadow: 0 0 0 8px rgba(var(--accent-rgb), 0); }
   100% { box-shadow: 0 0 0 0 rgba(var(--accent-rgb), 0); }
+}
+
+@keyframes live-pin-pulse-red {
+  0% { box-shadow: 0 0 0 0 rgba(255, 69, 58, 0.55); }
+  70% { box-shadow: 0 0 0 6px rgba(255, 69, 58, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(255, 69, 58, 0); }
 }
 
 .live-pin-panel {
@@ -2179,6 +2196,102 @@ section h2 {
 .live-pin-body {
   overflow-y: auto;
   padding: 0.3rem;
+}
+
+.live-pin-empty {
+  padding: 0.9rem 0.6rem;
+  text-align: center;
+}
+
+.live-pin-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.55rem 0.5rem;
+  border-radius: 10px;
+}
+
+.live-pin-row + .live-pin-row {
+  border-top: 1px solid var(--line);
+}
+
+.live-pin-teams {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--ink);
+  overflow: hidden;
+}
+
+.live-pin-team-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 76px;
+}
+
+.live-pin-vs {
+  color: var(--muted);
+  font-size: 0.7rem;
+  flex: 0 0 auto;
+}
+
+.live-pin-crest {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+
+.live-pin-crest-fallback {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 8px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.live-pin-time {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.live-pin-badge {
+  flex: 0 0 auto;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.live-pin-badge-live {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: #ff453a;
+}
+
+.live-pin-row-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ff453a;
+  animation: live-pin-pulse-red 1.8s infinite;
 }
 
 @media (max-width: 640px) {

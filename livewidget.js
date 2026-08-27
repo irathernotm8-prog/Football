@@ -1,56 +1,100 @@
-// Small pinned live table in the corner of the screen. Collapsed by default
-// (just a pill button so it never blocks content); expands into a compact
-// league table on click, and tracks whichever league is active in the top
-// nav bar (falls back to Premier League while "All" is selected). The
-// ScoreAxis embed only needs to be (re)loaded when it's actually visible or
-// the league changes, so a click on a still-collapsed pin costs nothing.
+// Pinned "what's on today" widget. Deliberately reuses the exact same data
+// and status logic as the Matches hub's Today tab (ensureMhData,
+// getMatchStatus, isSameLocalDay, crestHtml, formatLocalTime all live in
+// matcheshub.js) rather than any external embed - no scores, just which
+// games are live right now or still to kick off today. It always mirrors
+// whatever league the #mh-league-filter select is set to, since that's the
+// same select the top nav bar locks when a league tab is active, and the
+// same one the Matches hub page itself uses.
 
-var LIVE_PIN_DEFAULT_LEAGUE = "epl";
-var livePinCurrentLeague = null;
 var livePinExpanded = false;
+var livePinRefreshTimer = null;
 
-function buildLivePinWidgetUrl(widgetId, key) {
-  return "https://widgets.scoreaxis.com/api/football/league-table/" + widgetId +
-    "?widgetId=livepin-" + key +
-    "&lang=en&teamLogo=1&tableLines=0&homeAway=0&header=0" +
-    "&position=1&goals=0&gamesCount=1&diff=0&winCount=0&drawCount=0&loseCount=0" +
-    "&lastGames=0&points=1&teamsLimit=8&links=1&font=heebo&fontSize=13&rowDensity=90" +
-    "&widgetWidth=auto&widgetHeight=auto&bodyColor=%23000000&textColor=%23ffffff" +
-    "&linkColor=%2330d158&borderColor=%232a2a2a&tabColor=%231d1d1d";
+function getLivePinLeagueKey() {
+  var select = document.getElementById("mh-league-filter");
+  return select ? select.value : "";
 }
 
-function renderLivePinWidget(key) {
-  var comp = COMPETITIONS && COMPETITIONS[key];
-  if (!comp || !comp.standingsWidgetId) return;
+function livePinMatchRowHtml(m) {
+  var status = getMatchStatus(m);
+  var right;
+  if (status === "live") {
+    right = '<span class="live-pin-badge live-pin-badge-live"><span class="live-pin-row-dot"></span>LIVE</span>';
+  } else if (status === "final") {
+    right = '<span class="live-pin-badge">FT</span>';
+  } else {
+    right = '<span class="live-pin-time">' + formatLocalTime(m.dateUtc) + "</span>";
+  }
+  return (
+    '<div class="live-pin-row">' +
+    '<span class="live-pin-teams">' +
+    crestHtml(m.home, "live-pin-crest") + '<span class="live-pin-team-name">' + m.home + "</span>" +
+    '<span class="live-pin-vs">v</span>' +
+    crestHtml(m.away, "live-pin-crest") + '<span class="live-pin-team-name">' + m.away + "</span>" +
+    "</span>" +
+    right +
+    "</div>"
+  );
+}
 
-  livePinCurrentLeague = key;
-  document.getElementById("live-pin-title").textContent = comp.label;
+function updateLivePinToggleLabel(liveCount, totalCount) {
+  var label = document.getElementById("live-pin-toggle-label");
+  var dot = document.querySelector("#live-pin-toggle .live-pin-dot");
+  if (!label) return;
+  if (liveCount > 0) {
+    label.textContent = liveCount + (liveCount === 1 ? " Live Now" : " Live Now");
+    if (dot) dot.classList.remove("live-pin-dot-idle");
+  } else if (totalCount > 0) {
+    label.textContent = totalCount + (totalCount === 1 ? " Match Today" : " Matches Today");
+    if (dot) dot.classList.add("live-pin-dot-idle");
+  } else {
+    label.textContent = "No Matches Today";
+    if (dot) dot.classList.add("live-pin-dot-idle");
+  }
+}
+
+async function renderLivePinToday() {
+  var body = document.getElementById("live-pin-body");
+  var titleEl = document.getElementById("live-pin-title");
   var logo = document.getElementById("live-pin-logo");
-  if (comp.logo) {
+  if (!body) return;
+
+  var all = await ensureMhData();
+  var now = new Date();
+  var key = getLivePinLeagueKey();
+  var comp = key ? COMPETITIONS[key] : null;
+
+  var today = all.filter(function (m) {
+    if (m.tbd) return false;
+    if (key && m.leagueKey !== key) return false;
+    return isSameLocalDay(new Date(m.dateUtc), now);
+  }).sort(function (a, b) { return new Date(a.dateUtc) - new Date(b.dateUtc); });
+
+  var liveCount = today.filter(function (m) { return getMatchStatus(m) === "live"; }).length;
+  updateLivePinToggleLabel(liveCount, today.length);
+
+  titleEl.textContent = comp ? comp.label + " \u2014 Today" : "Today's Matches";
+  if (comp && comp.logo) {
     logo.src = comp.logo;
     logo.classList.remove("hidden");
   } else {
     logo.classList.add("hidden");
   }
 
-  var body = document.getElementById("live-pin-body");
-  body.innerHTML = '<div class="live-pin-widget-mount" data-src="' +
-    buildLivePinWidgetUrl(comp.standingsWidgetId, key) + '"></div>';
+  if (!livePinExpanded) return; // don't bother touching the DOM list while collapsed
 
-  if (!livePinExpanded) return; // load lazily once actually shown
-
-  var mount = body.querySelector(".live-pin-widget-mount");
-  var script = document.createElement("script");
-  script.src = mount.dataset.src;
-  script.async = true;
-  mount.appendChild(script);
+  if (!today.length) {
+    body.innerHTML = '<p class="muted-note live-pin-empty">No matches today' + (comp ? " in " + comp.label : "") + ".</p>";
+    return;
+  }
+  body.innerHTML = today.map(livePinMatchRowHtml).join("");
 }
 
-// Called by leaguetheme.js whenever the top nav selection changes.
-function updateLivePinLeague(key) {
-  var target = (key && key !== "all") ? key : LIVE_PIN_DEFAULT_LEAGUE;
-  if (target === livePinCurrentLeague && document.getElementById("live-pin-body").firstElementChild) return;
-  renderLivePinWidget(target);
+// Called by leaguetheme.js whenever the top nav selection changes. By the
+// time this runs, applyLeagueFilter() has already synced #mh-league-filter's
+// value, so reading it back via getLivePinLeagueKey() is enough.
+function updateLivePinLeague() {
+  renderLivePinToday();
 }
 
 async function initLivePin() {
@@ -60,11 +104,13 @@ async function initLivePin() {
   var minimizeBtn = document.getElementById("live-pin-minimize");
   if (!toggle || !panel) return;
 
+  await renderLivePinToday(); // warm the pill label even while collapsed
+
   toggle.addEventListener("click", function () {
     livePinExpanded = true;
     panel.classList.remove("hidden");
     toggle.classList.add("hidden");
-    renderLivePinWidget(livePinCurrentLeague || LIVE_PIN_DEFAULT_LEAGUE);
+    renderLivePinToday();
   });
 
   minimizeBtn.addEventListener("click", function () {
@@ -73,9 +119,12 @@ async function initLivePin() {
     toggle.classList.remove("hidden");
   });
 
-  livePinCurrentLeague = LIVE_PIN_DEFAULT_LEAGUE;
-  var comp = COMPETITIONS[LIVE_PIN_DEFAULT_LEAGUE];
-  if (comp) document.getElementById("live-pin-title").textContent = comp.label;
+  // Covers the case where someone changes the league filter directly from
+  // the Matches hub tab rather than the top nav bar.
+  var mhSelect = document.getElementById("mh-league-filter");
+  if (mhSelect) mhSelect.addEventListener("change", renderLivePinToday);
+
+  livePinRefreshTimer = setInterval(renderLivePinToday, 60000);
 }
 
 initLivePin();

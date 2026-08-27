@@ -26,12 +26,15 @@ var CLUB_HISTORY_ALIASES = {
   "Strasbourg": "RC Strasbourg Alsace",
   "Bayer Leverkusen": "Bayer 04 Leverkusen",
   "Bayern Munich": "FC Bayern München",
+  "Bayern München": "FC Bayern München",
   "Werder Bremen": "SV Werder Bremen",
   "Atlanta United FC": "Atlanta United",
   "Chicago Fire FC": "Chicago Fire",
   "Houston Dynamo FC": "Houston Dynamo",
   "Los Angeles Football Club": "Los Angeles FC",
-  "Kansas City Wizards": "Sporting Kansas City"
+  "Kansas City Wizards": "Sporting Kansas City",
+  "Nottingham Forest": "Nott'm Forest",
+  "Olympique Marseille": "Olympique de Marseille"
 };
 
 var DEFAULT_CLUB_THEME = { primary: "#30d158", secondary: "#14311f", text: "#ffffff" };
@@ -40,6 +43,16 @@ var TROPHY_ICON_PATH = "M 146.359375 171.800781 C 146.179688 177.796875 144.3789
 
 function trophyIconSvg() {
   return '<svg viewBox="83.414062 158.304688 75.667969 96.273437" class="trophy-icon"><path d="' + TROPHY_ICON_PATH + '" fill="currentColor"/></svg>';
+}
+
+var UCL_HISTORY = { label: "Champions League", file: "data/history-ucl.json" };
+var uclHistoryCache = null;
+
+function trophyIconHtml(continental) {
+  if (continental) {
+    return '<img src="assets/trophies/ucl-silver.png" alt="Champions League" class="trophy-icon trophy-icon-ucl">';
+  }
+  return trophyIconSvg();
 }
 
 
@@ -137,9 +150,29 @@ async function findClubTrophies(teamName, knownLeagueKey) {
       return normalizedChampion === teamName;
     });
     if (wins.length) {
-      results.push({ leagueLabel: CLUB_HISTORY_LEAGUES[key].label, seasons: wins.map(function (w) { return w.season; }) });
+      results.push({ leagueLabel: CLUB_HISTORY_LEAGUES[key].label, seasons: wins.map(function (w) { return w.season; }), continental: false });
     }
   }
+
+  // Champions League is a continental competition, not tied to any one
+  // domestic league, so every club is checked against it regardless of
+  // which league their current squad lives in.
+  if (uclHistoryCache === null) {
+    try {
+      var uclRes = await fetch(UCL_HISTORY.file);
+      uclHistoryCache = uclRes.ok ? await uclRes.json() : [];
+    } catch (err) {
+      uclHistoryCache = [];
+    }
+  }
+  var uclWins = uclHistoryCache.filter(function (row) {
+    var normalizedChampion = CLUB_HISTORY_ALIASES[row.champion] || row.champion;
+    return normalizedChampion === teamName;
+  });
+  if (uclWins.length) {
+    results.unshift({ leagueLabel: UCL_HISTORY.label, seasons: uclWins.map(function (w) { return w.season; }), continental: true });
+  }
+
   return results;
 }
 
@@ -203,7 +236,7 @@ var trophyHtml;
       var items = t.seasons.map(function (season) {
         return (
           '<div class="trophy-item">' +
-          '<div class="trophy-icon-wrap">' + trophyIconSvg() + "</div>" +
+          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.continental) + "</div>" +
           '<div class="trophy-season">' + season + "</div>" +
           "</div>"
         );
