@@ -1,0 +1,12 @@
+{
+  "name": "football-dashboard",
+  "private": true,
+  "scripts": {
+    "squads": "node tools/update-squads.js",
+    "squads:ligue1": "node tools/update-squads.js ligue1",
+    "squads:ligue1:write": "node tools/update-squads.js ligue1 --write"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
