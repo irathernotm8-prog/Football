@@ -2033,9 +2033,6 @@ section h2 {
 /* Team page (dedicated page version of the club modal, plus fixtures) */
 
 .team-page-card {
-  --club-primary: #30d158;
-  --club-secondary: #14311f;
-  --club-text: #ffffff;
   background: var(--surface);
   border-radius: 20px;
   border: 1px solid var(--line);
