@@ -1,4 +1,5 @@
 var teamPageCache = {};
+var teamListCache = {};
 var currentTeamPageLeague = null;
 
 async function initTeamTabs() {
@@ -34,13 +35,28 @@ async function loadTeamPageLeague(key) {
   selectWrap.classList.add("hidden");
 
   try {
-    if (!teamPageCache[key]) {
-      var res = await fetch(comp.files.squads);
-      if (!res.ok) throw new Error("not found");
-      teamPageCache[key] = await res.json();
+    // Full team list comes from fixtures, not squads, so every club in the
+    // league is selectable/viewable even before a roster has been built for
+    // it - colors and the "coming soon" fallback still work with no squad.
+    if (!teamListCache[key]) {
+      var fxRes = await fetch(comp.files.fixtures);
+      if (!fxRes.ok) throw new Error("not found");
+      var fixtures = await fxRes.json();
+      var teamSet = new Set();
+      fixtures.forEach(function (m) { teamSet.add(m.home); teamSet.add(m.away); });
+      teamListCache[key] = Array.from(teamSet).sort();
     }
-    var data = teamPageCache[key];
-    var teams = Object.keys(data);
+
+    if (!teamPageCache[key]) {
+      try {
+        var res = await fetch(comp.files.squads);
+        teamPageCache[key] = res.ok ? await res.json() : {};
+      } catch (err) {
+        teamPageCache[key] = {};
+      }
+    }
+
+    var teams = teamListCache[key];
     if (!teams.length) {
       body.innerHTML = "<p class=\"muted-note\">" + comp.label + " team data is coming soon.</p>";
       return;

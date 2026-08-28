@@ -1,187 +1,752 @@
 {
- "Arsenal": {
-  "primary": "#EF0107",
-  "secondary": "#063672",
-  "text": "#ffffff"
- },
- "Aston Villa": {
-  "primary": "#670E36",
-  "secondary": "#95BFE5",
-  "text": "#ffffff"
- },
- "Bournemouth": {
-  "primary": "#DA291C",
-  "secondary": "#000000",
-  "text": "#ffffff"
- },
- "Brentford": {
-  "primary": "#D71920",
-  "secondary": "#000000",
-  "text": "#ffffff"
- },
- "Brighton": {
-  "primary": "#0057B8",
-  "secondary": "#FFCD00",
-  "text": "#ffffff"
- },
- "Chelsea": {
-  "primary": "#034694",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Coventry": {
-  "primary": "#78D0F7",
-  "secondary": "#000000",
-  "text": "#000000"
- },
- "Crystal Palace": {
-  "primary": "#1B458F",
-  "secondary": "#C4122E",
-  "text": "#ffffff"
- },
- "Everton": {
-  "primary": "#003399",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Fulham": {
-  "primary": "#000000",
-  "secondary": "#CC0000",
-  "text": "#ffffff"
- },
- "Hull": {
-  "primary": "#F18A01",
-  "secondary": "#000000",
-  "text": "#000000"
- },
- "Ipswich": {
-  "primary": "#0044A9",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Leeds": {
-  "primary": "#FFFFFF",
-  "secondary": "#1D428A",
-  "text": "#000000"
- },
- "Liverpool": {
-  "primary": "#C8102E",
-  "secondary": "#00B2A9",
-  "text": "#ffffff"
- },
- "Man City": {
-  "primary": "#6CABDD",
-  "secondary": "#1C2C5B",
-  "text": "#000000"
- },
- "Man Utd": {
-  "primary": "#DA291C",
-  "secondary": "#FBE122",
-  "text": "#ffffff"
- },
- "Newcastle": {
-  "primary": "#241F20",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Nott'm Forest": {
-  "primary": "#DD0000",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Sunderland": {
-  "primary": "#EB172B",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Spurs": {
-  "primary": "#FFFFFF",
-  "secondary": "#132257",
-  "text": "#000000"
- },
- "Real Madrid": {
-  "primary": "#FEBE10",
-  "secondary": "#00529F",
-  "text": "#000000"
- },
- "FC Barcelona": {
-  "primary": "#A50044",
-  "secondary": "#004D98",
-  "text": "#ffffff"
- },
- "Atlético de Madrid": {
-  "primary": "#CB3524",
-  "secondary": "#272E61",
-  "text": "#ffffff"
- },
- "Athletic Club": {
-  "primary": "#EE2523",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Villarreal CF": {
-  "primary": "#FFE667",
-  "secondary": "#005187",
-  "text": "#000000"
- },
- "Real Betis": {
-  "primary": "#00954C",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Milan": {
-  "primary": "#FB090B",
-  "secondary": "#000000",
-  "text": "#ffffff"
- },
- "Inter": {
-  "primary": "#010E80",
-  "secondary": "#000000",
-  "text": "#ffffff"
- },
- "Juventus": {
-  "primary": "#000000",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "Paris Saint-Germain": {
-  "primary": "#004170",
-  "secondary": "#DA291C",
-  "text": "#ffffff"
- },
- "Olympique de Marseille": {
-  "primary": "#2FAEE0",
-  "secondary": "#ffffff",
-  "text": "#ffffff"
- },
- "FC Bayern München": {
-  "primary": "#DC052D",
-  "secondary": "#0066B2",
-  "text": "#ffffff"
- },
- "Borussia Dortmund": {
-  "primary": "#FDE100",
-  "secondary": "#000000",
-  "text": "#000000"
- },
- "Inter Miami CF": {
-  "primary": "#F7B5CD",
-  "secondary": "#000000",
-  "text": "#000000"
- },
- "LA Galaxy": {
-  "primary": "#00245D",
-  "secondary": "#C9A227",
-  "text": "#ffffff"
- },
- "Chicago Fire FC": {
-  "primary": "#A6192E",
-  "secondary": "#0033A0",
-  "text": "#ffffff"
- },
- "Celta": {
-  "primary": "#8AC3EE",
-  "secondary": "#ffffff",
-  "text": "#000000"
- }
+  "Arsenal": {
+    "primary": "#EF0107",
+    "secondary": "#063672",
+    "text": "#ffffff"
+  },
+  "Aston Villa": {
+    "primary": "#670E36",
+    "secondary": "#95BFE5",
+    "text": "#ffffff"
+  },
+  "Bournemouth": {
+    "primary": "#DA291C",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Brentford": {
+    "primary": "#D71920",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Brighton": {
+    "primary": "#0057B8",
+    "secondary": "#FFCD00",
+    "text": "#ffffff"
+  },
+  "Chelsea": {
+    "primary": "#034694",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Coventry": {
+    "primary": "#78D0F7",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Crystal Palace": {
+    "primary": "#1B458F",
+    "secondary": "#C4122E",
+    "text": "#ffffff"
+  },
+  "Everton": {
+    "primary": "#003399",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Fulham": {
+    "primary": "#000000",
+    "secondary": "#CC0000",
+    "text": "#ffffff"
+  },
+  "Hull": {
+    "primary": "#F18A01",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Ipswich": {
+    "primary": "#0044A9",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Leeds": {
+    "primary": "#FFFFFF",
+    "secondary": "#1D428A",
+    "text": "#000000"
+  },
+  "Liverpool": {
+    "primary": "#C8102E",
+    "secondary": "#00B2A9",
+    "text": "#ffffff"
+  },
+  "Man City": {
+    "primary": "#6CABDD",
+    "secondary": "#1C2C5B",
+    "text": "#000000"
+  },
+  "Man Utd": {
+    "primary": "#DA291C",
+    "secondary": "#FBE122",
+    "text": "#ffffff"
+  },
+  "Newcastle": {
+    "primary": "#241F20",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Nott'm Forest": {
+    "primary": "#DD0000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sunderland": {
+    "primary": "#EB172B",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Spurs": {
+    "primary": "#FFFFFF",
+    "secondary": "#132257",
+    "text": "#000000"
+  },
+  "Real Madrid": {
+    "primary": "#FEBE10",
+    "secondary": "#00529F",
+    "text": "#000000"
+  },
+  "FC Barcelona": {
+    "primary": "#A50044",
+    "secondary": "#004D98",
+    "text": "#ffffff"
+  },
+  "Atlético de Madrid": {
+    "primary": "#CB3524",
+    "secondary": "#272E61",
+    "text": "#ffffff"
+  },
+  "Athletic Club": {
+    "primary": "#EE2523",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Villarreal CF": {
+    "primary": "#FFE667",
+    "secondary": "#005187",
+    "text": "#000000"
+  },
+  "Real Betis": {
+    "primary": "#00954C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Milan": {
+    "primary": "#FB090B",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Inter": {
+    "primary": "#010E80",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Juventus": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Paris Saint-Germain": {
+    "primary": "#004170",
+    "secondary": "#DA291C",
+    "text": "#ffffff"
+  },
+  "Olympique de Marseille": {
+    "primary": "#2FAEE0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Bayern München": {
+    "primary": "#DC052D",
+    "secondary": "#0066B2",
+    "text": "#ffffff"
+  },
+  "Borussia Dortmund": {
+    "primary": "#FDE100",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Inter Miami CF": {
+    "primary": "#F7B5CD",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "LA Galaxy": {
+    "primary": "#00245D",
+    "secondary": "#C9A227",
+    "text": "#ffffff"
+  },
+  "Chicago Fire FC": {
+    "primary": "#A6192E",
+    "secondary": "#0033A0",
+    "text": "#ffffff"
+  },
+  "Celta": {
+    "primary": "#8AC3EE",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "CA Osasuna": {
+    "primary": "#D2001C",
+    "secondary": "#0A2C59",
+    "text": "#ffffff"
+  },
+  "Deportivo Alavés": {
+    "primary": "#0055A4",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Elche CF": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Getafe CF": {
+    "primary": "#0A5FA8",
+    "secondary": "#002448",
+    "text": "#ffffff"
+  },
+  "Levante UD": {
+    "primary": "#002E62",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Málaga CF": {
+    "primary": "#0066B3",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "R. Racing Club": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "RC Deportivo": {
+    "primary": "#0033A0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "RCD Espanyol de Barcelona": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Rayo Vallecano": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Real Sociedad": {
+    "primary": "#0033A0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sevilla FC": {
+    "primary": "#D91A21",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Valencia CF": {
+    "primary": "#EE8613",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Atalanta": {
+    "primary": "#1E71B8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Bologna": {
+    "primary": "#C8102E",
+    "secondary": "#1C2C5B",
+    "text": "#ffffff"
+  },
+  "Cagliari": {
+    "primary": "#C8102E",
+    "secondary": "#001489",
+    "text": "#ffffff"
+  },
+  "Como": {
+    "primary": "#003DA5",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Fiorentina": {
+    "primary": "#482E92",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Frosinone": {
+    "primary": "#FFD500",
+    "secondary": "#0033A0",
+    "text": "#000000"
+  },
+  "Genoa": {
+    "primary": "#C8102E",
+    "secondary": "#002F6C",
+    "text": "#ffffff"
+  },
+  "Lazio": {
+    "primary": "#6FB8E6",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Lecce": {
+    "primary": "#FFD500",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Monza": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Napoli": {
+    "primary": "#12A0D7",
+    "secondary": "#003C71",
+    "text": "#ffffff"
+  },
+  "Parma": {
+    "primary": "#FFD500",
+    "secondary": "#002F6C",
+    "text": "#000000"
+  },
+  "Roma": {
+    "primary": "#8E1B2E",
+    "secondary": "#F0AB00",
+    "text": "#ffffff"
+  },
+  "Sassuolo": {
+    "primary": "#00A650",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Torino": {
+    "primary": "#7B1E3A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Udinese": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Venezia": {
+    "primary": "#FF8200",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "AJ Auxerre": {
+    "primary": "#002B5C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "AS Monaco": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Angers SCO": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Estac Troyes": {
+    "primary": "#0033A0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Lorient": {
+    "primary": "#FF6600",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Havre Athletic Club": {
+    "primary": "#00A9E0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "LOSC Lille": {
+    "primary": "#C8102E",
+    "secondary": "#003DA5",
+    "text": "#ffffff"
+  },
+  "Le Mans FC": {
+    "primary": "#002F6C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "OGC Nice": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Olympique Lyonnais": {
+    "primary": "#0A2240",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Paris FC": {
+    "primary": "#003DA5",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "RC Lens": {
+    "primary": "#C8102E",
+    "secondary": "#FFD500",
+    "text": "#ffffff"
+  },
+  "RC Strasbourg Alsace": {
+    "primary": "#0060A9",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Stade Brestois 29": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Stade Rennais FC": {
+    "primary": "#E2001A",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Toulouse FC": {
+    "primary": "#6E1E78",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "1. FC Köln": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "1. FC Union Berlin": {
+    "primary": "#C8102E",
+    "secondary": "#FFD500",
+    "text": "#ffffff"
+  },
+  "1. FSV Mainz 05": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Bayer 04 Leverkusen": {
+    "primary": "#E2001A",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Borussia Mönchengladbach": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Eintracht Frankfurt": {
+    "primary": "#E2001A",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "FC Augsburg": {
+    "primary": "#BA3733",
+    "secondary": "#009036",
+    "text": "#ffffff"
+  },
+  "FC Schalke 04": {
+    "primary": "#004B9B",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Hamburger SV": {
+    "primary": "#0F3A7D",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "RB Leipzig": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "SC Paderborn 07": {
+    "primary": "#0C3B7A",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "SV Elversberg": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "SV Werder Bremen": {
+    "primary": "#009036",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sport-Club Freiburg": {
+    "primary": "#000000",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "TSG Hoffenheim": {
+    "primary": "#1961B5",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "VfB Stuttgart": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Atlanta United": {
+    "primary": "#000000",
+    "secondary": "#A49664",
+    "text": "#ffffff"
+  },
+  "Austin FC": {
+    "primary": "#00B140",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "CF Montréal": {
+    "primary": "#0033A0",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Charlotte FC": {
+    "primary": "#1A85C8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Colorado Rapids": {
+    "primary": "#862633",
+    "secondary": "#003087",
+    "text": "#ffffff"
+  },
+  "Columbus Crew": {
+    "primary": "#FEDD00",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "D.C. United": {
+    "primary": "#000000",
+    "secondary": "#E51937",
+    "text": "#ffffff"
+  },
+  "FC Cincinnati": {
+    "primary": "#FE5000",
+    "secondary": "#003087",
+    "text": "#000000"
+  },
+  "FC Dallas": {
+    "primary": "#C8102E",
+    "secondary": "#002B5C",
+    "text": "#ffffff"
+  },
+  "Houston Dynamo FC": {
+    "primary": "#F7941E",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Los Angeles Football Club": {
+    "primary": "#000000",
+    "secondary": "#C39E6D",
+    "text": "#ffffff"
+  },
+  "Minnesota United FC": {
+    "primary": "#201547",
+    "secondary": "#8CD2F5",
+    "text": "#ffffff"
+  },
+  "Nashville SC": {
+    "primary": "#1E3A5F",
+    "secondary": "#F2A900",
+    "text": "#ffffff"
+  },
+  "New England Revolution": {
+    "primary": "#002868",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "New York City Football Club": {
+    "primary": "#6CACE4",
+    "secondary": "#F15A22",
+    "text": "#000000"
+  },
+  "Orlando City": {
+    "primary": "#612A79",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Philadelphia Union": {
+    "primary": "#071B2C",
+    "secondary": "#B18A2F",
+    "text": "#ffffff"
+  },
+  "Portland Timbers": {
+    "primary": "#00482B",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Real Salt Lake": {
+    "primary": "#B30838",
+    "secondary": "#013A81",
+    "text": "#ffffff"
+  },
+  "Red Bull New York": {
+    "primary": "#ED1E36",
+    "secondary": "#002B5C",
+    "text": "#ffffff"
+  },
+  "San Diego FC": {
+    "primary": "#0F284B",
+    "secondary": "#F26522",
+    "text": "#ffffff"
+  },
+  "San Jose Earthquakes": {
+    "primary": "#0F2143",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Seattle Sounders FC": {
+    "primary": "#5D9741",
+    "secondary": "#002F5F",
+    "text": "#ffffff"
+  },
+  "Sporting Kansas City": {
+    "primary": "#041E42",
+    "secondary": "#93B1D5",
+    "text": "#ffffff"
+  },
+  "St. Louis CITY SC": {
+    "primary": "#A71930",
+    "secondary": "#001E62",
+    "text": "#ffffff"
+  },
+  "Toronto FC": {
+    "primary": "#B81137",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Vancouver Whitecaps FC": {
+    "primary": "#00245D",
+    "secondary": "#8CCDEB",
+    "text": "#ffffff"
+  },
+  "Birmingham City": {
+    "primary": "#003090",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Blackburn Rovers": {
+    "primary": "#005DAA",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Bolton Wanderers": {
+    "primary": "#142650",
+    "secondary": "#D0021B",
+    "text": "#ffffff"
+  },
+  "Bristol City": {
+    "primary": "#E21C21",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Burnley": {
+    "primary": "#6C1D45",
+    "secondary": "#99D6EA",
+    "text": "#ffffff"
+  },
+  "Cardiff City": {
+    "primary": "#0070B5",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Charlton Athletic": {
+    "primary": "#D2122E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Derby County": {
+    "primary": "#ffffff",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Lincoln City": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Middlesbrough": {
+    "primary": "#E2231A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Millwall": {
+    "primary": "#001C58",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Norwich City": {
+    "primary": "#FFF200",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Portsmouth": {
+    "primary": "#001489",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Preston North End": {
+    "primary": "#ffffff",
+    "secondary": "#001C58",
+    "text": "#000000"
+  },
+  "Queens Park Rangers": {
+    "primary": "#1D5BA4",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sheffield United": {
+    "primary": "#EE2737",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Southampton": {
+    "primary": "#D71920",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Stoke City": {
+    "primary": "#E03A3E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Swansea City": {
+    "primary": "#ffffff",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Watford": {
+    "primary": "#FBEE23",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "West Bromwich Albion": {
+    "primary": "#122F67",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "West Ham United": {
+    "primary": "#7A263A",
+    "secondary": "#1BB1E7",
+    "text": "#ffffff"
+  },
+  "Wolverhampton Wanderers": {
+    "primary": "#FDB913",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Wrexham": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  }
 }
