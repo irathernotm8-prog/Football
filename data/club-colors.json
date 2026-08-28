@@ -748,5 +748,275 @@
     "primary": "#C8102E",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Ajax": {
+    "primary": "#D2122E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "PSV": {
+    "primary": "#ED1C24",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Feyenoord": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "AZ": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Twente": {
+    "primary": "#D2001C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Utrecht": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "FC Groningen": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Go Ahead Eagles": {
+    "primary": "#FFD700",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Fortuna Sittard": {
+    "primary": "#FFD700",
+    "secondary": "#009036",
+    "text": "#000000"
+  },
+  "sc Heerenveen": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "SC Cambuur": {
+    "primary": "#4EA5D9",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Sparta Rotterdam": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Willem II": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Excelsior Rotterdam": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Telstar": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "ADO Den Haag": {
+    "primary": "#FFD700",
+    "secondary": "#009036",
+    "text": "#000000"
+  },
+  "N.E.C. Nijmegen": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "PEC Zwolle": {
+    "primary": "#00A9E0",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Galatasaray": {
+    "primary": "#A90432",
+    "secondary": "#FDB913",
+    "text": "#ffffff"
+  },
+  "Fenerbahçe": {
+    "primary": "#FFE100",
+    "secondary": "#00285E",
+    "text": "#000000"
+  },
+  "Besiktas": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Trabzonspor": {
+    "primary": "#7A1E3C",
+    "secondary": "#6FB8E6",
+    "text": "#ffffff"
+  },
+  "Kasimpasa": {
+    "primary": "#002D62",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Konyaspor": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Samsunspor": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Alanyaspor": {
+    "primary": "#00A650",
+    "secondary": "#FF8200",
+    "text": "#ffffff"
+  },
+  "Gaziantep": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Göztepe": {
+    "primary": "#FFD700",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Istanbul Basaksehir": {
+    "primary": "#FF6600",
+    "secondary": "#002F6C",
+    "text": "#000000"
+  },
+  "Kocaelispor": {
+    "primary": "#00A650",
+    "secondary": "#7A1E3C",
+    "text": "#ffffff"
+  },
+  "Erzurumspor": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Eyüpspor": {
+    "primary": "#6E1E78",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Gençlerbirligi": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Çaykur Rizespor": {
+    "primary": "#00A650",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Amedspor": {
+    "primary": "#00A650",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Çorum": {
+    "primary": "#7A1E3C",
+    "secondary": "#002F6C",
+    "text": "#ffffff"
+  },
+  "SL Benfica": {
+    "primary": "#E2001A",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Porto": {
+    "primary": "#003DA5",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sporting CP": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "SC Braga": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Vitória SC": {
+    "primary": "#ffffff",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Moreirense FC": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Rio Ave FC": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Gil Vicente FC": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "FC Famalicão": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "FC Arouca": {
+    "primary": "#FFD700",
+    "secondary": "#002F6C",
+    "text": "#000000"
+  },
+  "FC Alverca": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Casa Pia AC": {
+    "primary": "#E85298",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Estoril Praia": {
+    "primary": "#FFD700",
+    "secondary": "#002F6C",
+    "text": "#000000"
+  },
+  "Estrela Amadora": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Santa Clara": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "CD Nacional": {
+    "primary": "#000000",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Marítimo M.": {
+    "primary": "#00A650",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Académico": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
   }
 }

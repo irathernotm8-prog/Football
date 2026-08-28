@@ -341,8 +341,8 @@
     },
     "stream": "ESPN+",
     "color": "#d18030",
-    "standingsWidgetId": null,
-    "hasStandings": false,
+    "standingsWidgetId": "62322b9003f74f47356935a4",
+    "hasStandings": true,
     "theme": {
       "bg": "#28200a",
       "surface": "#312614",
@@ -375,8 +375,8 @@
     },
     "stream": "beIN Sports",
     "color": "#d13058",
-    "standingsWidgetId": null,
-    "hasStandings": false,
+    "standingsWidgetId": "62322bd0c7f2c13284422b22",
+    "hasStandings": true,
     "theme": {
       "bg": "#280a0b",
       "surface": "#311417",
@@ -409,8 +409,8 @@
     },
     "stream": "ESPN+",
     "color": "#30d1c4",
-    "standingsWidgetId": null,
-    "hasStandings": false,
+    "standingsWidgetId": "623237abb593273124091ff8",
+    "hasStandings": true,
     "theme": {
       "bg": "#0a2428",
       "surface": "#143031",
