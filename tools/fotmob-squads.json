@@ -6,24 +6,78 @@
       "leagueId": 53,
       "countryCode": "FRA",
       "teams": {
-        "Paris Saint-Germain": { "fotmobId": 9847, "search": "Paris Saint-Germain" },
-        "Olympique de Marseille": { "fotmobId": 8592, "search": "Marseille" },
-        "RC Strasbourg Alsace": { "fotmobId": null, "search": "Strasbourg" },
-        "RC Lens": { "fotmobId": 8588, "search": "Lens" },
-        "AJ Auxerre": { "fotmobId": 8583, "search": "Auxerre" },
-        "Le Mans FC": { "fotmobId": 8682, "search": "Le Mans" },
-        "Stade Brestois 29": { "fotmobId": null, "search": "Brest" },
-        "OGC Nice": { "fotmobId": null, "search": "Nice" },
-        "FC Lorient": { "fotmobId": null, "search": "Lorient" },
-        "Toulouse FC": { "fotmobId": null, "search": "Toulouse" },
-        "Olympique Lyonnais": { "fotmobId": null, "search": "Lyon" },
-        "Estac Troyes": { "fotmobId": 10242, "search": "Troyes" },
-        "Paris FC": { "fotmobId": 6379, "search": "Paris FC" },
-        "Angers SCO": { "fotmobId": null, "search": "Angers" },
-        "LOSC Lille": { "fotmobId": 8639, "search": "Lille" },
-        "Havre Athletic Club": { "fotmobId": 9746, "search": "Le Havre" },
-        "AS Monaco": { "fotmobId": 9829, "search": "Monaco" },
-        "Stade Rennais FC": { "fotmobId": null, "search": "Rennes" }
+        "Paris Saint-Germain": {
+          "fotmobId": 9847,
+          "search": "Paris Saint-Germain"
+        },
+        "Olympique de Marseille": {
+          "fotmobId": 8592,
+          "search": "Marseille"
+        },
+        "RC Strasbourg Alsace": {
+          "fotmobId": 9848,
+          "search": "Strasbourg"
+        },
+        "RC Lens": {
+          "fotmobId": 8588,
+          "search": "Lens"
+        },
+        "AJ Auxerre": {
+          "fotmobId": 8583,
+          "search": "Auxerre"
+        },
+        "Le Mans FC": {
+          "fotmobId": 8682,
+          "search": "Le Mans"
+        },
+        "Stade Brestois 29": {
+          "fotmobId": 8521,
+          "search": "Brest"
+        },
+        "OGC Nice": {
+          "fotmobId": 9831,
+          "search": "Nice"
+        },
+        "FC Lorient": {
+          "fotmobId": 8689,
+          "search": "Lorient"
+        },
+        "Toulouse FC": {
+          "fotmobId": 9941,
+          "search": "Toulouse"
+        },
+        "Olympique Lyonnais": {
+          "fotmobId": 9748,
+          "search": "Lyon"
+        },
+        "Estac Troyes": {
+          "fotmobId": 10242,
+          "search": "Troyes"
+        },
+        "Paris FC": {
+          "fotmobId": 6379,
+          "search": "Paris FC"
+        },
+        "Angers SCO": {
+          "fotmobId": 8121,
+          "search": "Angers"
+        },
+        "LOSC Lille": {
+          "fotmobId": 8639,
+          "search": "Lille"
+        },
+        "Havre Athletic Club": {
+          "fotmobId": 9746,
+          "search": "Le Havre"
+        },
+        "AS Monaco": {
+          "fotmobId": 9829,
+          "search": "Monaco"
+        },
+        "Stade Rennais FC": {
+          "fotmobId": 9851,
+          "search": "Rennes"
+        }
       }
     }
   }
