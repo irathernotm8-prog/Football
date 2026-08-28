@@ -366,36 +366,101 @@ section h2 {
   flex-shrink: 0;
 }
 
-.history-crest {
-  width: 34px;
-  height: 34px;
-  object-fit: contain;
-  flex-shrink: 0;
-  margin-right: 0.75rem;
-  vertical-align: middle;
+/* Title History tab: card grid */
+
+.history-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1.25rem;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
 }
 
-.history-crest-fallback {
-  width: 34px;
-  height: 34px;
-  border-radius: 50%;
+.history-card {
+  position: relative;
+  flex: 0 0 auto;
+  width: 96px;
+  height: 112px;
+  border-radius: 14px;
   background: var(--surface-2);
   border: 1px solid var(--line);
-  color: var(--ink);
-  font-size: 13px;
-  font-weight: 700;
-  display: inline-flex;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  margin-right: 0.75rem;
-  vertical-align: middle;
+  justify-content: flex-end;
+  padding-bottom: 0.6rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: var(--theme-transition), transform 0.15s ease, border-color 0.15s ease;
 }
 
-.history-champion {
+.history-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--green);
+}
+
+.history-card-icon-bg {
+  position: absolute;
+  inset: 0;
   display: flex;
   align-items: center;
-  font-size: 1.05rem;
+  justify-content: center;
+  opacity: 0.18;
+  pointer-events: none;
+}
+
+.history-card-icon-bg .trophy-icon,
+.history-card-icon-bg .trophy-icon-img {
+  width: 80%;
+  height: 80%;
+  filter: none;
+}
+
+.history-card-crest {
+  position: relative;
+  z-index: 1;
+  width: 42px;
+  height: 42px;
+  margin-bottom: 0.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.history-card-crest img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.5));
+}
+
+.history-card-crest-fallback {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.history-card-season {
+  position: relative;
+  z-index: 1;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 /* Tabs (top-level and sub-tabs) */
@@ -496,24 +561,13 @@ section h2 {
   padding: 1.5rem 0;
 }
 
-.history-list, .squads-list {
+.squads-list {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 18px;
   padding: 0.5rem 1.5rem;
   box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
 }
-
-.history-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.9rem 0;
-  border-bottom: 1px solid var(--line);
-  font-size: 1.05rem;
-}
-
-.history-row:last-child { border-bottom: none; }
 
 .squad-row {
   display: grid;
@@ -572,9 +626,6 @@ section h2 {
     font-size: 0.8rem;
   }
 }
-
-.history-season { color: var(--muted); font-size: 1rem; }
-.history-champion { font-weight: 600; }
 
 .squads-team-select-wrap {
   margin-bottom: 1.25rem;
@@ -1732,87 +1783,36 @@ section h2 {
 
 .trophy-scroll {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.7rem;
+  gap: 1.1rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scrollbar-width: thin;
 }
 
-.trophy-card {
-  position: relative;
+.trophy-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.trophy-scroll::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 3px;
+}
+
+.trophy-item {
   flex: 0 0 auto;
-  width: 84px;
-  height: 100px;
-  border-radius: 12px;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-end;
-  padding-bottom: 0.5rem;
-  transition: var(--theme-transition), transform 0.15s ease, border-color 0.15s ease;
+  gap: 0.4rem;
+  width: 64px;
 }
 
-.trophy-card:hover {
-  transform: translateY(-2px);
-  border-color: var(--green);
-}
-
-.trophy-card-icon-bg {
-  position: absolute;
-  inset: 0;
+.trophy-icon-wrap {
+  width: 52px;
+  height: 66px;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
-  opacity: 0.16;
-  pointer-events: none;
-}
-
-.trophy-card-icon-bg .trophy-icon,
-.trophy-card-icon-bg .trophy-icon-img {
-  width: 78%;
-  height: 78%;
-  filter: none;
-}
-
-.trophy-card-crest {
-  position: relative;
-  z-index: 1;
-  width: 36px;
-  height: 36px;
-  margin-bottom: 0.4rem;
-}
-
-.trophy-card-crest img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.5));
-}
-
-.trophy-card-crest-fallback {
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  background: var(--surface-2);
-  border: 1px solid var(--line);
-  color: var(--ink);
-  font-size: 0.7rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.trophy-card-season {
-  position: relative;
-  z-index: 1;
-  font-size: 0.68rem;
-  font-weight: 700;
-  color: var(--ink);
-  text-align: center;
-  white-space: nowrap;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 .trophy-icon {
@@ -1826,6 +1826,14 @@ section h2 {
   object-fit: contain;
   color: unset;
   filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.45));
+}
+
+.trophy-season {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-align: center;
+  white-space: nowrap;
 }
 
 .club-modal-squad-list {

@@ -31,10 +31,9 @@ var HISTORY_NAME_ALIASES = {
   "Bayern Munich": "FC Bayern München",
   "Werder Bremen": "SV Werder Bremen",
   "Atlanta United FC": "Atlanta United",
-  "Chicago Fire FC": "Chicago Fire",
-  "Houston Dynamo FC": "Houston Dynamo",
-  "Los Angeles Football Club": "Los Angeles FC",
-  "Kansas City Wizards": "Sporting Kansas City"
+  "Chicago Fire": "Chicago Fire FC",
+  "Kansas City Wizards": "Sporting Kansas City",
+  "Heart of Midlothian": "Hearts"
 };
 
 function historyTeamInitials(name) {
@@ -50,10 +49,22 @@ function historyCrestHtml(teamName) {
   var lookupName = HISTORY_NAME_ALIASES[teamName] || teamName;
   var url = historyCrestLogos ? historyCrestLogos[lookupName] : null;
   if (url) {
-    return '<img src="' + url + '" alt="' + teamName + ' crest" class="history-crest" loading="lazy" ' +
-      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'history-crest-fallback\', textContent:\'' + historyTeamInitials(teamName) + '\'}))">';
+    return '<img src="' + url + '" alt="' + teamName + ' crest" loading="lazy" ' +
+      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'history-card-crest-fallback\', textContent:\'' + historyTeamInitials(teamName) + '\'}))">';
   }
-  return '<span class="history-crest-fallback">' + historyTeamInitials(teamName) + "</span>";
+  return '<span class="history-card-crest-fallback">' + historyTeamInitials(teamName) + "</span>";
+}
+
+function historyCardHtml(leagueKey, leagueLabel, row) {
+  var trophyBg = (typeof trophyIconHtml === "function") ? trophyIconHtml(leagueKey, leagueLabel) : "";
+  var lookupName = HISTORY_NAME_ALIASES[row.champion] || row.champion;
+  return (
+    '<div class="history-card club-link" data-club-link="' + lookupName.replace(/"/g, "&quot;") + '" title="' + row.champion.replace(/"/g, "&quot;") + " " + row.season + '">' +
+    '<div class="history-card-icon-bg">' + trophyBg + "</div>" +
+    '<div class="history-card-crest">' + historyCrestHtml(row.champion) + "</div>" +
+    '<div class="history-card-season">' + row.season + "</div>" +
+    "</div>"
+  );
 }
 
 async function loadHistory(key) {
@@ -81,14 +92,9 @@ async function loadHistory(key) {
       list.innerHTML = "<p class=\"muted-note\">" + info.label + " title history is coming soon.</p>";
       return;
     }
-    list.innerHTML = data.map(function (row) {
-      return (
-        '<div class="history-row">' +
-        '<span class="history-season">' + row.season + "</span>" +
-        '<span class="history-champion club-link" data-club-link="' + (HISTORY_NAME_ALIASES[row.champion] || row.champion).replace(/"/g, "&quot;") + '">' + historyCrestHtml(row.champion) + row.champion + "</span>" +
-        "</div>"
-      );
-    }).join("");
+    list.innerHTML = '<div class="history-grid">' +
+      data.map(function (row) { return historyCardHtml(key, info.label, row); }).join("") +
+      "</div>";
   } catch (err) {
     list.innerHTML = "<p class=\"muted-note\">" + info.label + " title history is coming soon.</p>";
   }

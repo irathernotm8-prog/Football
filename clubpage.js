@@ -77,19 +77,6 @@ function trophyIconHtml(leagueKey, label) {
   return trophyIconSvg();
 }
 
-function trophyCardHtml(t, season, crestUrl, teamName) {
-  var crestPart = crestUrl
-    ? '<img src="' + crestUrl + '" alt="' + escapeAttr(teamName) + '">'
-    : '<div class="trophy-card-crest-fallback">' + clubInitials(teamName) + "</div>";
-  return (
-    '<div class="trophy-card" title="' + escapeAttr(t.leagueLabel) + " " + escapeAttr(season) + '">' +
-    '<div class="trophy-card-icon-bg">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
-    '<div class="trophy-card-crest">' + crestPart + "</div>" +
-    '<div class="trophy-card-season">' + season + "</div>" +
-    "</div>"
-  );
-}
-
 
 var clubColorsCache = null;
 var clubCrestLogosCache = null;
@@ -269,7 +256,12 @@ var trophyHtml;
   if (trophies.length) {
     trophyHtml = trophies.map(function (t) {
       var items = t.seasons.map(function (season) {
-        return trophyCardHtml(t, season, crestUrl, teamName);
+        return (
+          '<div class="trophy-item">' +
+          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
+          '<div class="trophy-season">' + season + "</div>" +
+          "</div>"
+        );
       }).join("");
       return (
         '<div class="trophy-league-group">' +
