@@ -81,6 +81,7 @@ header h1 {
   margin: 0;
   font-family: "Oswald", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 3.4rem;
+  line-height: 1.35;
   font-weight: 800;
   letter-spacing: -0.01em;
   font-style: italic;
