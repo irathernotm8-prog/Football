@@ -643,6 +643,240 @@
           "search": "Wrexham"
         }
       }
+    },
+    "eredivisie": {
+      "leagueId": 57,
+      "countryCode": "NED",
+      "teams": {
+        "ADO Den Haag": {
+          "fotmobId": null,
+          "search": "ADO Den Haag"
+        },
+        "AZ": {
+          "fotmobId": null,
+          "search": "AZ Alkmaar"
+        },
+        "Ajax": {
+          "fotmobId": null,
+          "search": "Ajax"
+        },
+        "Excelsior Rotterdam": {
+          "fotmobId": null,
+          "search": "Excelsior"
+        },
+        "FC Groningen": {
+          "fotmobId": null,
+          "search": "FC Groningen"
+        },
+        "FC Twente": {
+          "fotmobId": null,
+          "search": "FC Twente"
+        },
+        "FC Utrecht": {
+          "fotmobId": null,
+          "search": "FC Utrecht"
+        },
+        "Feyenoord": {
+          "fotmobId": null,
+          "search": "Feyenoord"
+        },
+        "Fortuna Sittard": {
+          "fotmobId": null,
+          "search": "Fortuna Sittard"
+        },
+        "Go Ahead Eagles": {
+          "fotmobId": null,
+          "search": "Go Ahead Eagles"
+        },
+        "N.E.C. Nijmegen": {
+          "fotmobId": null,
+          "search": "NEC Nijmegen"
+        },
+        "PEC Zwolle": {
+          "fotmobId": null,
+          "search": "PEC Zwolle"
+        },
+        "PSV": {
+          "fotmobId": null,
+          "search": "PSV Eindhoven"
+        },
+        "SC Cambuur": {
+          "fotmobId": null,
+          "search": "Cambuur"
+        },
+        "Sparta Rotterdam": {
+          "fotmobId": null,
+          "search": "Sparta Rotterdam"
+        },
+        "Telstar": {
+          "fotmobId": null,
+          "search": "Telstar"
+        },
+        "Willem II": {
+          "fotmobId": null,
+          "search": "Willem II"
+        },
+        "sc Heerenveen": {
+          "fotmobId": null,
+          "search": "SC Heerenveen"
+        }
+      }
+    },
+    "superlig": {
+      "leagueId": 71,
+      "countryCode": "TUR",
+      "teams": {
+        "Alanyaspor": {
+          "fotmobId": null,
+          "search": "Alanyaspor"
+        },
+        "Amedspor": {
+          "fotmobId": null,
+          "search": "Amed SK"
+        },
+        "Besiktas": {
+          "fotmobId": null,
+          "search": "Besiktas"
+        },
+        "Erzurumspor": {
+          "fotmobId": null,
+          "search": "Erzurumspor FK"
+        },
+        "Eyüpspor": {
+          "fotmobId": null,
+          "search": "Eyupspor"
+        },
+        "Fenerbahçe": {
+          "fotmobId": null,
+          "search": "Fenerbahce"
+        },
+        "Galatasaray": {
+          "fotmobId": null,
+          "search": "Galatasaray"
+        },
+        "Gaziantep": {
+          "fotmobId": null,
+          "search": "Gaziantep FK"
+        },
+        "Gençlerbirligi": {
+          "fotmobId": null,
+          "search": "Genclerbirligi"
+        },
+        "Göztepe": {
+          "fotmobId": null,
+          "search": "Goztepe"
+        },
+        "Istanbul Basaksehir": {
+          "fotmobId": null,
+          "search": "Istanbul Basaksehir"
+        },
+        "Kasimpasa": {
+          "fotmobId": null,
+          "search": "Kasimpasa"
+        },
+        "Kocaelispor": {
+          "fotmobId": null,
+          "search": "Kocaelispor"
+        },
+        "Konyaspor": {
+          "fotmobId": null,
+          "search": "Konyaspor"
+        },
+        "Samsunspor": {
+          "fotmobId": null,
+          "search": "Samsunspor"
+        },
+        "Trabzonspor": {
+          "fotmobId": null,
+          "search": "Trabzonspor"
+        },
+        "Çaykur Rizespor": {
+          "fotmobId": null,
+          "search": "Rizespor"
+        },
+        "Çorum": {
+          "fotmobId": null,
+          "search": "Corum FK"
+        }
+      }
+    },
+    "primeiraliga": {
+      "leagueId": 61,
+      "countryCode": "POR",
+      "teams": {
+        "Académico": {
+          "fotmobId": null,
+          "search": "Academico Viseu"
+        },
+        "CD Nacional": {
+          "fotmobId": null,
+          "search": "Nacional"
+        },
+        "Casa Pia AC": {
+          "fotmobId": null,
+          "search": "Casa Pia"
+        },
+        "Estoril Praia": {
+          "fotmobId": null,
+          "search": "Estoril"
+        },
+        "Estrela Amadora": {
+          "fotmobId": null,
+          "search": "Estrela da Amadora"
+        },
+        "FC Alverca": {
+          "fotmobId": null,
+          "search": "Alverca"
+        },
+        "FC Arouca": {
+          "fotmobId": null,
+          "search": "Arouca"
+        },
+        "FC Famalicão": {
+          "fotmobId": null,
+          "search": "Famalicao"
+        },
+        "FC Porto": {
+          "fotmobId": null,
+          "search": "FC Porto"
+        },
+        "Gil Vicente FC": {
+          "fotmobId": null,
+          "search": "Gil Vicente"
+        },
+        "Marítimo M.": {
+          "fotmobId": null,
+          "search": "Maritimo"
+        },
+        "Moreirense FC": {
+          "fotmobId": null,
+          "search": "Moreirense"
+        },
+        "Rio Ave FC": {
+          "fotmobId": null,
+          "search": "Rio Ave"
+        },
+        "SC Braga": {
+          "fotmobId": null,
+          "search": "Braga"
+        },
+        "SL Benfica": {
+          "fotmobId": null,
+          "search": "Benfica"
+        },
+        "Santa Clara": {
+          "fotmobId": null,
+          "search": "Santa Clara"
+        },
+        "Sporting CP": {
+          "fotmobId": null,
+          "search": "Sporting CP"
+        },
+        "Vitória SC": {
+          "fotmobId": null,
+          "search": "Vitoria de Guimaraes"
+        }
+      }
     }
   }
 }

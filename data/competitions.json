@@ -336,7 +336,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-eredivisie.json",
-      "squads": null,
+      "squads": "data/squads-eredivisie.json",
       "history": null
     },
     "stream": "ESPN+",
@@ -370,7 +370,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-superlig.json",
-      "squads": null,
+      "squads": "data/squads-superlig.json",
       "history": null
     },
     "stream": "beIN Sports",
@@ -404,7 +404,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-primeiraliga.json",
-      "squads": null,
+      "squads": "data/squads-primeiraliga.json",
       "history": null
     },
     "stream": "ESPN+",

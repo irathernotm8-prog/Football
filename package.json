@@ -18,7 +18,13 @@
     "squads:efl": "node tools/update-squads.js efl",
     "squads:efl:write": "node tools/update-squads.js efl --write",
     "squads:all": "node tools/update-squads.js all",
-    "squads:all:write": "node tools/update-squads.js all --write"
+    "squads:all:write": "node tools/update-squads.js all --write",
+    "squads:eredivisie": "node tools/update-squads.js eredivisie",
+    "squads:eredivisie:write": "node tools/update-squads.js eredivisie --write",
+    "squads:superlig": "node tools/update-squads.js superlig",
+    "squads:superlig:write": "node tools/update-squads.js superlig --write",
+    "squads:primeiraliga": "node tools/update-squads.js primeiraliga",
+    "squads:primeiraliga:write": "node tools/update-squads.js primeiraliga --write"
   },
   "engines": {
     "node": ">=18"
