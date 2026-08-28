@@ -877,6 +877,428 @@
           "search": "Vitoria de Guimaraes"
         }
       }
+    },
+    "argentina": {
+      "leagueId": null,
+      "countryCode": "ARG",
+      "teams": {
+        "Aldosivi": {
+          "fotmobId": null,
+          "search": "Aldosivi"
+        },
+        "Argentinos Juniors": {
+          "fotmobId": null,
+          "search": "Argentinos Juniors"
+        },
+        "Atletico Tucuman": {
+          "fotmobId": null,
+          "search": "Atletico Tucuman"
+        },
+        "Banfield": {
+          "fotmobId": null,
+          "search": "Banfield"
+        },
+        "Barracas Central": {
+          "fotmobId": null,
+          "search": "Barracas Central"
+        },
+        "Belgrano": {
+          "fotmobId": null,
+          "search": "Belgrano"
+        },
+        "Boca Juniors": {
+          "fotmobId": null,
+          "search": "Boca Juniors"
+        },
+        "Central Cordoba": {
+          "fotmobId": null,
+          "search": "Central Cordoba de Santiago"
+        },
+        "Defensa y Justicia": {
+          "fotmobId": null,
+          "search": "Defensa y Justicia"
+        },
+        "Deportivo Riestra": {
+          "fotmobId": null,
+          "search": "Deportivo Riestra"
+        },
+        "Estudiantes": {
+          "fotmobId": null,
+          "search": "Estudiantes de La Plata"
+        },
+        "Estudiantes RC": {
+          "fotmobId": null,
+          "search": "Estudiantes de Rio Cuarto"
+        },
+        "Gimnasia LP": {
+          "fotmobId": null,
+          "search": "Gimnasia La Plata"
+        },
+        "Gimnasia y Esgrima": {
+          "fotmobId": null,
+          "search": "Gimnasia y Esgrima Mendoza"
+        },
+        "Huracan": {
+          "fotmobId": null,
+          "search": "Huracan"
+        },
+        "Independiente": {
+          "fotmobId": null,
+          "search": "Independiente"
+        },
+        "Independiente Rivadavia": {
+          "fotmobId": null,
+          "search": "Independiente Rivadavia"
+        },
+        "Instituto": {
+          "fotmobId": null,
+          "search": "Instituto"
+        },
+        "Lanus": {
+          "fotmobId": null,
+          "search": "Lanus"
+        },
+        "Newells Old Boys": {
+          "fotmobId": null,
+          "search": "Newell's Old Boys"
+        },
+        "Platense": {
+          "fotmobId": null,
+          "search": "Platense"
+        },
+        "Racing Club": {
+          "fotmobId": null,
+          "search": "Racing Club"
+        },
+        "River Plate": {
+          "fotmobId": null,
+          "search": "River Plate"
+        },
+        "Rosario Central": {
+          "fotmobId": null,
+          "search": "Rosario Central"
+        },
+        "San Lorenzo": {
+          "fotmobId": null,
+          "search": "San Lorenzo"
+        },
+        "Sarmiento": {
+          "fotmobId": null,
+          "search": "Sarmiento"
+        },
+        "Talleres": {
+          "fotmobId": null,
+          "search": "Talleres"
+        },
+        "Tigre": {
+          "fotmobId": null,
+          "search": "Tigre"
+        },
+        "Union": {
+          "fotmobId": null,
+          "search": "Union Santa Fe"
+        },
+        "Velez Sarsfield": {
+          "fotmobId": null,
+          "search": "Velez Sarsfield"
+        }
+      }
+    },
+    "brazil": {
+      "leagueId": null,
+      "countryCode": "BRA",
+      "teams": {
+        "Athletico Paranaense": {
+          "fotmobId": null,
+          "search": "Athletico Paranaense"
+        },
+        "Atletico Mineiro": {
+          "fotmobId": null,
+          "search": "Atletico Mineiro"
+        },
+        "Bahia": {
+          "fotmobId": null,
+          "search": "Bahia"
+        },
+        "Botafogo": {
+          "fotmobId": null,
+          "search": "Botafogo"
+        },
+        "Chapecoense": {
+          "fotmobId": null,
+          "search": "Chapecoense"
+        },
+        "Corinthians": {
+          "fotmobId": null,
+          "search": "Corinthians"
+        },
+        "Coritiba": {
+          "fotmobId": null,
+          "search": "Coritiba"
+        },
+        "Cruzeiro": {
+          "fotmobId": null,
+          "search": "Cruzeiro"
+        },
+        "Flamengo": {
+          "fotmobId": null,
+          "search": "Flamengo"
+        },
+        "Fluminense": {
+          "fotmobId": null,
+          "search": "Fluminense"
+        },
+        "Gremio": {
+          "fotmobId": null,
+          "search": "Gremio"
+        },
+        "Internacional": {
+          "fotmobId": null,
+          "search": "Internacional"
+        },
+        "Mirassol": {
+          "fotmobId": null,
+          "search": "Mirassol"
+        },
+        "Palmeiras": {
+          "fotmobId": null,
+          "search": "Palmeiras"
+        },
+        "RB Bragantino": {
+          "fotmobId": null,
+          "search": "Red Bull Bragantino"
+        },
+        "Remo": {
+          "fotmobId": null,
+          "search": "Remo"
+        },
+        "Santos": {
+          "fotmobId": null,
+          "search": "Santos"
+        },
+        "Sao Paulo": {
+          "fotmobId": null,
+          "search": "Sao Paulo"
+        },
+        "Vasco da Gama": {
+          "fotmobId": null,
+          "search": "Vasco da Gama"
+        },
+        "Vitoria": {
+          "fotmobId": null,
+          "search": "Vitoria"
+        }
+      }
+    },
+    "saudi": {
+      "leagueId": null,
+      "countryCode": "SAU",
+      "teams": {
+        "Abha": {
+          "fotmobId": null,
+          "search": "Abha"
+        },
+        "Al Ahli": {
+          "fotmobId": null,
+          "search": "Al Ahli"
+        },
+        "Al Ettifaq": {
+          "fotmobId": null,
+          "search": "Al Ettifaq"
+        },
+        "Al Faisaly": {
+          "fotmobId": null,
+          "search": "Al Faisaly"
+        },
+        "Al Fateh": {
+          "fotmobId": null,
+          "search": "Al Fateh"
+        },
+        "Al Fayha": {
+          "fotmobId": null,
+          "search": "Al Fayha"
+        },
+        "Al Hazem": {
+          "fotmobId": null,
+          "search": "Al Hazem"
+        },
+        "Al Hilal": {
+          "fotmobId": null,
+          "search": "Al Hilal"
+        },
+        "Al Ittihad": {
+          "fotmobId": null,
+          "search": "Al Ittihad"
+        },
+        "Al Khaleej": {
+          "fotmobId": null,
+          "search": "Al Khaleej"
+        },
+        "Al Kholood": {
+          "fotmobId": null,
+          "search": "Al Kholood"
+        },
+        "Al Nassr": {
+          "fotmobId": null,
+          "search": "Al Nassr"
+        },
+        "Al Qadsiah": {
+          "fotmobId": null,
+          "search": "Al Qadsiah"
+        },
+        "Al Riyadh": {
+          "fotmobId": null,
+          "search": "Al Riyadh"
+        },
+        "Al Shabab": {
+          "fotmobId": null,
+          "search": "Al Shabab"
+        },
+        "Al Taawoun": {
+          "fotmobId": null,
+          "search": "Al Taawoun"
+        },
+        "Diriyah": {
+          "fotmobId": null,
+          "search": "Al Diriyah"
+        },
+        "Neom": {
+          "fotmobId": null,
+          "search": "NEOM"
+        }
+      }
+    },
+    "scotland": {
+      "leagueId": null,
+      "countryCode": "SCO",
+      "teams": {
+        "Aberdeen": {
+          "fotmobId": null,
+          "search": "Aberdeen"
+        },
+        "Celtic": {
+          "fotmobId": null,
+          "search": "Celtic"
+        },
+        "Dundee": {
+          "fotmobId": null,
+          "search": "Dundee FC"
+        },
+        "Dundee United": {
+          "fotmobId": null,
+          "search": "Dundee United"
+        },
+        "Falkirk": {
+          "fotmobId": null,
+          "search": "Falkirk"
+        },
+        "Hearts": {
+          "fotmobId": null,
+          "search": "Hearts"
+        },
+        "Hibernian": {
+          "fotmobId": null,
+          "search": "Hibernian"
+        },
+        "Kilmarnock": {
+          "fotmobId": null,
+          "search": "Kilmarnock"
+        },
+        "Motherwell": {
+          "fotmobId": null,
+          "search": "Motherwell"
+        },
+        "Rangers": {
+          "fotmobId": null,
+          "search": "Rangers"
+        },
+        "St Johnstone": {
+          "fotmobId": null,
+          "search": "St Johnstone"
+        },
+        "St Mirren": {
+          "fotmobId": null,
+          "search": "St Mirren"
+        }
+      }
+    },
+    "ligamx": {
+      "leagueId": null,
+      "countryCode": "MEX",
+      "teams": {
+        "Atlante": {
+          "fotmobId": null,
+          "search": "Atlante"
+        },
+        "Atlas": {
+          "fotmobId": null,
+          "search": "Atlas"
+        },
+        "Atletico San Luis": {
+          "fotmobId": null,
+          "search": "Atletico de San Luis"
+        },
+        "Club America": {
+          "fotmobId": null,
+          "search": "Club America"
+        },
+        "Club Leon": {
+          "fotmobId": null,
+          "search": "Leon"
+        },
+        "Club Tijuana": {
+          "fotmobId": null,
+          "search": "Tijuana"
+        },
+        "Cruz Azul": {
+          "fotmobId": null,
+          "search": "Cruz Azul"
+        },
+        "FC Juarez": {
+          "fotmobId": null,
+          "search": "FC Juarez"
+        },
+        "Guadalajara": {
+          "fotmobId": null,
+          "search": "Guadalajara"
+        },
+        "Monterrey": {
+          "fotmobId": null,
+          "search": "Monterrey"
+        },
+        "Necaxa": {
+          "fotmobId": null,
+          "search": "Necaxa"
+        },
+        "Pachuca": {
+          "fotmobId": null,
+          "search": "Pachuca"
+        },
+        "Puebla": {
+          "fotmobId": null,
+          "search": "Puebla"
+        },
+        "Pumas UNAM": {
+          "fotmobId": null,
+          "search": "Pumas UNAM"
+        },
+        "Queretaro": {
+          "fotmobId": null,
+          "search": "Queretaro"
+        },
+        "Santos Laguna": {
+          "fotmobId": null,
+          "search": "Santos Laguna"
+        },
+        "Tigres UANL": {
+          "fotmobId": null,
+          "search": "Tigres"
+        },
+        "Toluca": {
+          "fotmobId": null,
+          "search": "Toluca"
+        }
+      }
     }
   }
 }

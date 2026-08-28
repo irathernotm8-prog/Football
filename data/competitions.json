@@ -347,7 +347,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-eredivisie.json",
-      "squads": null,
+      "squads": "data/squads-eredivisie.json",
       "history": "data/history-eredivisie.json"
     },
     "stream": "ESPN+",
@@ -382,7 +382,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-superlig.json",
-      "squads": null,
+      "squads": "data/squads-superlig.json",
       "history": "data/history-superlig.json"
     },
     "stream": "beIN Sports",
@@ -417,7 +417,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-primeiraliga.json",
-      "squads": null,
+      "squads": "data/squads-primeiraliga.json",
       "history": "data/history-primeiraliga.json"
     },
     "stream": "ESPN+",
@@ -452,7 +452,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-argentina.json",
       "history": null
     },
     "teamList": [
@@ -519,7 +519,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-brazil.json",
       "history": null
     },
     "teamList": [
@@ -576,7 +576,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-saudi.json",
       "history": null
     },
     "teamList": [
@@ -631,7 +631,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-scotland.json",
       "history": "data/history-scotland.json"
     },
     "teamList": [
@@ -680,7 +680,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-ligamx.json",
       "history": null
     },
     "teamList": [

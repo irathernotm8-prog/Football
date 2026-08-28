@@ -24,7 +24,17 @@
     "squads:superlig": "node tools/update-squads.js superlig",
     "squads:superlig:write": "node tools/update-squads.js superlig --write",
     "squads:primeiraliga": "node tools/update-squads.js primeiraliga",
-    "squads:primeiraliga:write": "node tools/update-squads.js primeiraliga --write"
+    "squads:primeiraliga:write": "node tools/update-squads.js primeiraliga --write",
+    "squads:argentina": "node tools/update-squads.js argentina",
+    "squads:argentina:write": "node tools/update-squads.js argentina --write",
+    "squads:brazil": "node tools/update-squads.js brazil",
+    "squads:brazil:write": "node tools/update-squads.js brazil --write",
+    "squads:saudi": "node tools/update-squads.js saudi",
+    "squads:saudi:write": "node tools/update-squads.js saudi --write",
+    "squads:scotland": "node tools/update-squads.js scotland",
+    "squads:scotland:write": "node tools/update-squads.js scotland --write",
+    "squads:ligamx": "node tools/update-squads.js ligamx",
+    "squads:ligamx:write": "node tools/update-squads.js ligamx --write"
   },
   "engines": {
     "node": ">=18"
