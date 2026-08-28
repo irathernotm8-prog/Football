@@ -1,354 +1,318 @@
 [
- {
-  "season": "2025–26",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2024–25",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2023–24",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2022–23",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2021–22",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2020–21",
-  "champion": "Lille"
- },
- {
-  "season": "2019–20",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2018–19",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2017–18",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2016–17",
-  "champion": "AS Monaco"
- },
- {
-  "season": "2015–16",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2014–15",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2013–14",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2012–13",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "2011–12",
-  "champion": "Montpellier"
- },
- {
-  "season": "2010–11",
-  "champion": "Lille"
- },
- {
-  "season": "2009–10",
-  "champion": "Marseille"
- },
- {
-  "season": "2008–09",
-  "champion": "Bordeaux"
- },
- {
-  "season": "2007–08",
-  "champion": "Lyon"
- },
- {
-  "season": "2006–07",
-  "champion": "Lyon"
- },
- {
-  "season": "2005–06",
-  "champion": "Lyon"
- },
- {
-  "season": "2004–05",
-  "champion": "Lyon"
- },
- {
-  "season": "2003–04",
-  "champion": "Lyon"
- },
- {
-  "season": "2002–03",
-  "champion": "Lyon"
- },
- {
-  "season": "2001–02",
-  "champion": "Lyon"
- },
- {
-  "season": "2000–01",
-  "champion": "Nantes"
- },
- {
-  "season": "1999–00",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1998–99",
-  "champion": "Bordeaux"
- },
- {
-  "season": "1997–98",
-  "champion": "Lens"
- },
- {
-  "season": "1996–97",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1995–96",
-  "champion": "Auxerre"
- },
- {
-  "season": "1994–95",
-  "champion": "Nantes"
- },
- {
-  "season": "1993–94",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "1992–93",
-  "champion": "No winner (title stripped)"
- },
- {
-  "season": "1991–92",
-  "champion": "Marseille"
- },
- {
-  "season": "1990–91",
-  "champion": "Marseille"
- },
- {
-  "season": "1989–90",
-  "champion": "Marseille"
- },
- {
-  "season": "1988–89",
-  "champion": "Marseille"
- },
- {
-  "season": "1987–88",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1986–87",
-  "champion": "Bordeaux"
- },
- {
-  "season": "1985–86",
-  "champion": "Paris Saint-Germain"
- },
- {
-  "season": "1984–85",
-  "champion": "Bordeaux"
- },
- {
-  "season": "1983–84",
-  "champion": "Bordeaux"
- },
- {
-  "season": "1982–83",
-  "champion": "Nantes"
- },
- {
-  "season": "1981–82",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1980–81",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1979–80",
-  "champion": "Nantes"
- },
- {
-  "season": "1978–79",
-  "champion": "Strasbourg"
- },
- {
-  "season": "1977–78",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1976–77",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1975–76",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1974–75",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1973–74",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1972–73",
-  "champion": "Nantes"
- },
- {
-  "season": "1971–72",
-  "champion": "Marseille"
- },
- {
-  "season": "1970–71",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1969–70",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1968–69",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1967–68",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1966–67",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1965–66",
-  "champion": "Nantes"
- },
- {
-  "season": "1964–65",
-  "champion": "Nantes"
- },
- {
-  "season": "1963–64",
-  "champion": "Saint-Étienne"
- },
- {
-  "season": "1962–63",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1961–62",
-  "champion": "Reims"
- },
- {
-  "season": "1960–61",
-  "champion": "AS Monaco"
- },
- {
-  "season": "1959–60",
-  "champion": "Reims"
- },
- {
-  "season": "1958–59",
-  "champion": "Nice"
- },
- {
-  "season": "1957–58",
-  "champion": "Reims"
- },
- {
-  "season": "1956–57",
-  "champion": "Nice"
- },
- {
-  "season": "1955–56",
-  "champion": "Nice"
- },
- {
-  "season": "1954–55",
-  "champion": "Reims"
- },
- {
-  "season": "1953–54",
-  "champion": "Lille"
- },
- {
-  "season": "1952–53",
-  "champion": "Reims"
- },
- {
-  "season": "1951–52",
-  "champion": "Nice"
- },
- {
-  "season": "1950–51",
-  "champion": "Nice"
- },
- {
-  "season": "1949–50",
-  "champion": "Bordeaux"
- },
- {
-  "season": "1948–49",
-  "champion": "Reims"
- },
- {
-  "season": "1947–48",
-  "champion": "Marseille"
- },
- {
-  "season": "1946–47",
-  "champion": "Lille"
- },
- {
-  "season": "1945–46",
-  "champion": "Lille"
- },
- {
-  "season": "1938–39",
-  "champion": "Sète"
- },
- {
-  "season": "1937–38",
-  "champion": "Sochaux"
- },
- {
-  "season": "1936–37",
-  "champion": "Marseille"
- },
- {
-  "season": "1935–36",
-  "champion": "Racing Paris"
- },
- {
-  "season": "1934–35",
-  "champion": "Sochaux"
- },
- {
-  "season": "1933–34",
-  "champion": "Sète"
- },
- {
-  "season": "1932–33",
-  "champion": "Olympique Lillois"
- }
+  {
+    "season": "2025–26",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2024–25",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2023–24",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2022–23",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2021–22",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2020–21",
+    "champion": "LOSC Lille"
+  },
+  {
+    "season": "2019–20",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2018–19",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2017–18",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2016–17",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "2015–16",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2014–15",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2013–14",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2012–13",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "2011–12",
+    "champion": "Montpellier"
+  },
+  {
+    "season": "2010–11",
+    "champion": "LOSC Lille"
+  },
+  {
+    "season": "2009–10",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "2008–09",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "2007–08",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2006–07",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2005–06",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2004–05",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2003–04",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2002–03",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2001–02",
+    "champion": "Olympique Lyonnais"
+  },
+  {
+    "season": "2000–01",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1999–2000",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1998–99",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "1997–98",
+    "champion": "RC Lens"
+  },
+  {
+    "season": "1996–97",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1995–96",
+    "champion": "AJ Auxerre"
+  },
+  {
+    "season": "1994–95",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1993–94",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "1991–92",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1990–91",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1989–90",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1988–89",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1987–88",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1986–87",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "1985–86",
+    "champion": "Paris Saint-Germain"
+  },
+  {
+    "season": "1984–85",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "1983–84",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "1982–83",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1981–82",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1980–81",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1979–80",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1978–79",
+    "champion": "RC Strasbourg"
+  },
+  {
+    "season": "1977–78",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1976–77",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1975–76",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1974–75",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1973–74",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1972–73",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1971–72",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1970–71",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1969–70",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1968–69",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1967–68",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1966–67",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1965–66",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1964–65",
+    "champion": "FC Nantes"
+  },
+  {
+    "season": "1963–64",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1962–63",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1961–62",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1960–61",
+    "champion": "AS Monaco"
+  },
+  {
+    "season": "1959–60",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1958–59",
+    "champion": "OGC Nice"
+  },
+  {
+    "season": "1957–58",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1956–57",
+    "champion": "AS Saint-Etienne"
+  },
+  {
+    "season": "1955–56",
+    "champion": "OGC Nice"
+  },
+  {
+    "season": "1954–55",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1953–54",
+    "champion": "LOSC Lille"
+  },
+  {
+    "season": "1952–53",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1951–52",
+    "champion": "OGC Nice"
+  },
+  {
+    "season": "1950–51",
+    "champion": "OGC Nice"
+  },
+  {
+    "season": "1949–50",
+    "champion": "FC Girondins de Bordeaux"
+  },
+  {
+    "season": "1948–49",
+    "champion": "Stade de Reims"
+  },
+  {
+    "season": "1947–48",
+    "champion": "Olympique de Marseille"
+  },
+  {
+    "season": "1945–46",
+    "champion": "LOSC Lille"
+  }
 ]

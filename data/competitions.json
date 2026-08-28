@@ -348,7 +348,7 @@
     "files": {
       "fixtures": "data/fixtures-eredivisie.json",
       "squads": null,
-      "history": null
+      "history": "data/history-eredivisie.json"
     },
     "stream": "ESPN+",
     "color": "#d18030",
@@ -383,7 +383,7 @@
     "files": {
       "fixtures": "data/fixtures-superlig.json",
       "squads": null,
-      "history": null
+      "history": "data/history-superlig.json"
     },
     "stream": "beIN Sports",
     "color": "#d13058",
@@ -418,7 +418,7 @@
     "files": {
       "fixtures": "data/fixtures-primeiraliga.json",
       "squads": null,
-      "history": null
+      "history": "data/history-primeiraliga.json"
     },
     "stream": "ESPN+",
     "color": "#30d1c4",
@@ -632,7 +632,7 @@
     "files": {
       "fixtures": null,
       "squads": null,
-      "history": null
+      "history": "data/history-scotland.json"
     },
     "teamList": [
       "Aberdeen",

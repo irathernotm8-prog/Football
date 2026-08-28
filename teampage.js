@@ -125,12 +125,7 @@ async function renderTeamPage(leagueKey, teamName) {
   if (trophies.length) {
     trophyHtml = trophies.map(function (t) {
       var items = t.seasons.map(function (season) {
-        return (
-          '<div class="trophy-item">' +
-          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
-          '<div class="trophy-season">' + season + "</div>" +
-          "</div>"
-        );
+        return trophyCardHtml(t, season, crestUrl, teamName);
       }).join("");
       return (
         '<div class="trophy-league-group">' +

@@ -29,9 +29,8 @@ var CLUB_HISTORY_ALIASES = {
   "Bayern München": "FC Bayern München",
   "Werder Bremen": "SV Werder Bremen",
   "Atlanta United FC": "Atlanta United",
-  "Chicago Fire FC": "Chicago Fire",
-  "Houston Dynamo FC": "Houston Dynamo",
-  "Los Angeles Football Club": "Los Angeles FC",
+  "Chicago Fire": "Chicago Fire FC",
+  "Heart of Midlothian": "Hearts",
   "Kansas City Wizards": "Sporting Kansas City",
   "Nottingham Forest": "Nott'm Forest",
   "Olympique Marseille": "Olympique de Marseille"
@@ -76,6 +75,19 @@ function trophyIconHtml(leagueKey, label) {
     return '<img src="' + asset + '" alt="' + escapeAttr(label || "") + '" class="trophy-icon trophy-icon-img">';
   }
   return trophyIconSvg();
+}
+
+function trophyCardHtml(t, season, crestUrl, teamName) {
+  var crestPart = crestUrl
+    ? '<img src="' + crestUrl + '" alt="' + escapeAttr(teamName) + '">'
+    : '<div class="trophy-card-crest-fallback">' + clubInitials(teamName) + "</div>";
+  return (
+    '<div class="trophy-card" title="' + escapeAttr(t.leagueLabel) + " " + escapeAttr(season) + '">' +
+    '<div class="trophy-card-icon-bg">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
+    '<div class="trophy-card-crest">' + crestPart + "</div>" +
+    '<div class="trophy-card-season">' + season + "</div>" +
+    "</div>"
+  );
 }
 
 
@@ -257,12 +269,7 @@ var trophyHtml;
   if (trophies.length) {
     trophyHtml = trophies.map(function (t) {
       var items = t.seasons.map(function (season) {
-        return (
-          '<div class="trophy-item">' +
-          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
-          '<div class="trophy-season">' + season + "</div>" +
-          "</div>"
-        );
+        return trophyCardHtml(t, season, crestUrl, teamName);
       }).join("");
       return (
         '<div class="trophy-league-group">' +

@@ -1732,36 +1732,87 @@ section h2 {
 
 .trophy-scroll {
   display: flex;
-  gap: 1.1rem;
-  overflow-x: auto;
-  padding-bottom: 0.5rem;
-  scrollbar-width: thin;
+  flex-wrap: wrap;
+  gap: 0.7rem;
 }
 
-.trophy-scroll::-webkit-scrollbar {
-  height: 6px;
-}
-
-.trophy-scroll::-webkit-scrollbar-thumb {
-  background: var(--line);
-  border-radius: 3px;
-}
-
-.trophy-item {
+.trophy-card {
+  position: relative;
   flex: 0 0 auto;
+  width: 84px;
+  height: 100px;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.4rem;
-  width: 64px;
+  justify-content: flex-end;
+  padding-bottom: 0.5rem;
+  transition: var(--theme-transition), transform 0.15s ease, border-color 0.15s ease;
 }
 
-.trophy-icon-wrap {
-  width: 52px;
-  height: 66px;
+.trophy-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--green);
+}
+
+.trophy-card-icon-bg {
+  position: absolute;
+  inset: 0;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
+  opacity: 0.16;
+  pointer-events: none;
+}
+
+.trophy-card-icon-bg .trophy-icon,
+.trophy-card-icon-bg .trophy-icon-img {
+  width: 78%;
+  height: 78%;
+  filter: none;
+}
+
+.trophy-card-crest {
+  position: relative;
+  z-index: 1;
+  width: 36px;
+  height: 36px;
+  margin-bottom: 0.4rem;
+}
+
+.trophy-card-crest img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.5));
+}
+
+.trophy-card-crest-fallback {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trophy-card-season {
+  position: relative;
+  z-index: 1;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 .trophy-icon {
@@ -1775,14 +1826,6 @@ section h2 {
   object-fit: contain;
   color: unset;
   filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.45));
-}
-
-.trophy-season {
-  font-size: 0.7rem;
-  font-weight: 700;
-  color: var(--muted);
-  text-align: center;
-  white-space: nowrap;
 }
 
 .club-modal-squad-list {
