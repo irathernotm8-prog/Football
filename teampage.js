@@ -35,16 +35,21 @@ async function loadTeamPageLeague(key) {
   selectWrap.classList.add("hidden");
 
   try {
-    // Full team list comes from fixtures, not squads, so every club in the
-    // league is selectable/viewable even before a roster has been built for
-    // it - colors and the "coming soon" fallback still work with no squad.
+    // Full team list normally comes from fixtures. Leagues that don't have
+    // fixtures yet (still just standings/colors) can supply a static
+    // "teamList" in competitions.json instead - same effect, no fixtures
+    // dependency.
     if (!teamListCache[key]) {
-      var fxRes = await fetch(comp.files.fixtures);
-      if (!fxRes.ok) throw new Error("not found");
-      var fixtures = await fxRes.json();
-      var teamSet = new Set();
-      fixtures.forEach(function (m) { teamSet.add(m.home); teamSet.add(m.away); });
-      teamListCache[key] = Array.from(teamSet).sort();
+      if (comp.teamList && comp.teamList.length) {
+        teamListCache[key] = comp.teamList.slice().sort();
+      } else {
+        var fxRes = await fetch(comp.files.fixtures);
+        if (!fxRes.ok) throw new Error("not found");
+        var fixtures = await fxRes.json();
+        var teamSet = new Set();
+        fixtures.forEach(function (m) { teamSet.add(m.home); teamSet.add(m.away); });
+        teamListCache[key] = Array.from(teamSet).sort();
+      }
     }
 
     if (!teamPageCache[key]) {

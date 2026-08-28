@@ -141,7 +141,7 @@ async function initLeagueTheme() {
   var allBtn = '<button class="league-tab active" data-league="all">All</button>';
   var leagueBtns = comps.map(function (c) {
     var logoImg = c.logo ? '<img src="' + c.logo + '" alt="">' : "";
-    return '<button class="league-tab" data-league="' + c.key + '">' + logoImg + c.label + "</button>";
+    return '<button class="league-tab" data-league="' + c.key + '">' + logoImg + (c.navLabel || c.label) + "</button>";
   }).join("");
 
   container.innerHTML = allBtn + leagueBtns;

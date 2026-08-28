@@ -31,7 +31,8 @@
       "titleTop": "#dd8dff",
       "titleBot": "#7b1a8f",
       "accentRgb": "174, 48, 209"
-    }
+    },
+    "standingsOrder": 1
   },
   "laliga": {
     "label": "La Liga",
@@ -65,7 +66,8 @@
       "titleTop": "#ff9e8d",
       "titleBot": "#8f3a1a",
       "accentRgb": "209, 86, 48"
-    }
+    },
+    "standingsOrder": 2
   },
   "seriea": {
     "label": "Serie A",
@@ -99,7 +101,8 @@
       "titleTop": "#8decff",
       "titleBot": "#1a6d8f",
       "accentRgb": "48, 169, 209"
-    }
+    },
+    "standingsOrder": 3
   },
   "ligue1": {
     "label": "Ligue 1",
@@ -133,7 +136,8 @@
       "titleTop": "#8db3ff",
       "titleBot": "#1a328f",
       "accentRgb": "48, 88, 209"
-    }
+    },
+    "standingsOrder": 4
   },
   "bundesliga": {
     "label": "Bundesliga",
@@ -167,7 +171,8 @@
       "titleTop": "#ff8da0",
       "titleBot": "#8f1a1f",
       "accentRgb": "209, 48, 61"
-    }
+    },
+    "standingsOrder": 5
   },
   "mls": {
     "label": "MLS",
@@ -201,7 +206,8 @@
       "titleTop": "#8d8dff",
       "titleBot": "#291a8f",
       "accentRgb": "61, 48, 209"
-    }
+    },
+    "standingsOrder": 7
   },
   "efl": {
     "label": "EFL Championship",
@@ -235,7 +241,9 @@
       "titleTop": "#ffdb8d",
       "titleBot": "#8f791a",
       "accentRgb": "209, 171, 48"
-    }
+    },
+    "standingsOrder": 8,
+    "navLabel": "EFL"
   },
   "ucl": {
     "label": "Champions League",
@@ -253,7 +261,8 @@
     "color": "#0033a0",
     "standingsWidgetId": "6232267fbf1fa71a67215dfc",
     "hasStandings": true,
-    "notes": "Standings page only for now - fixtures/squads deliberately left off to keep scope manageable. 36-team league phase has a fixed schedule published by UEFA (usually ~2 days after the draw); knockout rounds from Feb onward are drawn incrementally."
+    "notes": "Standings page only for now - fixtures/squads deliberately left off to keep scope manageable. 36-team league phase has a fixed schedule published by UEFA (usually ~2 days after the draw); knockout rounds from Feb onward are drawn incrementally.",
+    "standingsOrder": 6
   },
   "europa": {
     "label": "Europa League",
@@ -271,7 +280,8 @@
     "color": "#ff8c00",
     "standingsWidgetId": "62322bf0ea44793ec978b7a6",
     "hasStandings": true,
-    "notes": "Standings page only for now, same as UCL. Same format/timing as UCL, roughly one day behind in the release schedule."
+    "notes": "Standings page only for now, same as UCL. Same format/timing as UCL, roughly one day behind in the release schedule.",
+    "standingsOrder": 17
   },
   "conference": {
     "label": "Europa Conference League",
@@ -289,7 +299,8 @@
     "color": "#00a650",
     "standingsWidgetId": "6232378fe960277cec5c28b0",
     "hasStandings": true,
-    "notes": "Standings page only for now, same as UCL/Europa - also a 36-team league phase."
+    "notes": "Standings page only for now, same as UCL/Europa - also a 36-team league phase.",
+    "standingsOrder": 18
   },
   "facup": {
     "label": "FA Cup",
@@ -336,7 +347,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-eredivisie.json",
-      "squads": "data/squads-eredivisie.json",
+      "squads": null,
       "history": null
     },
     "stream": "ESPN+",
@@ -359,7 +370,8 @@
       "titleBot": "#8f591a",
       "accentRgb": "209, 128, 48"
     },
-    "logo": "assets/league-logos/eredivisie.png"
+    "logo": "assets/league-logos/eredivisie.png",
+    "standingsOrder": 9
   },
   "superlig": {
     "label": "Süper Lig",
@@ -370,7 +382,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-superlig.json",
-      "squads": "data/squads-superlig.json",
+      "squads": null,
       "history": null
     },
     "stream": "beIN Sports",
@@ -393,7 +405,8 @@
       "titleBot": "#8f1a32",
       "accentRgb": "209, 48, 88"
     },
-    "logo": "assets/league-logos/superlig.png"
+    "logo": "assets/league-logos/superlig.png",
+    "standingsOrder": 10
   },
   "primeiraliga": {
     "label": "Primeira Liga",
@@ -404,7 +417,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-primeiraliga.json",
-      "squads": "data/squads-primeiraliga.json",
+      "squads": null,
       "history": null
     },
     "stream": "ESPN+",
@@ -427,6 +440,290 @@
       "titleBot": "#1a8f8a",
       "accentRgb": "48, 209, 196"
     },
-    "logo": "assets/league-logos/primeiraliga.png"
+    "logo": "assets/league-logos/primeiraliga.png",
+    "standingsOrder": 11
+  },
+  "argentina": {
+    "label": "Liga Profesional",
+    "type": "league",
+    "status": "active",
+    "country": "Argentina",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": null,
+      "squads": null,
+      "history": null
+    },
+    "teamList": [
+      "Aldosivi",
+      "Argentinos Juniors",
+      "Atletico Tucuman",
+      "Banfield",
+      "Barracas Central",
+      "Belgrano",
+      "Boca Juniors",
+      "Central Cordoba",
+      "Defensa y Justicia",
+      "Deportivo Riestra",
+      "Estudiantes",
+      "Estudiantes RC",
+      "Gimnasia LP",
+      "Gimnasia y Esgrima",
+      "Huracan",
+      "Independiente",
+      "Independiente Rivadavia",
+      "Instituto",
+      "Lanus",
+      "Newells Old Boys",
+      "Platense",
+      "Racing Club",
+      "River Plate",
+      "Rosario Central",
+      "San Lorenzo",
+      "Sarmiento",
+      "Talleres",
+      "Tigre",
+      "Union",
+      "Velez Sarsfield"
+    ],
+    "stream": "TBD",
+    "color": "#30c6d1",
+    "standingsWidgetId": "62327c5e98b2e367f650e27c",
+    "hasStandings": true,
+    "logo": "assets/league-logos/argentina.png",
+    "theme": {
+      "bg": "#0a1f28",
+      "surface": "#142b31",
+      "surface2": "#1b383d",
+      "line": "#2f575a",
+      "accent": "#30c6d1",
+      "accentDark": "#1f868f",
+      "radial1": "#225d6b",
+      "radial2": "#1c505c",
+      "radial3": "#174753",
+      "linear1": "#12333d",
+      "linear3": "#07171f",
+      "titleTop": "#8dfffd",
+      "titleBot": "#1a828f",
+      "accentRgb": "48, 198, 209"
+    },
+    "standingsOrder": 12
+  },
+  "brazil": {
+    "label": "Brasileirao",
+    "type": "league",
+    "status": "active",
+    "country": "Brazil",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": null,
+      "squads": null,
+      "history": null
+    },
+    "teamList": [
+      "Athletico Paranaense",
+      "Atletico Mineiro",
+      "Bahia",
+      "Botafogo",
+      "Chapecoense",
+      "Corinthians",
+      "Coritiba",
+      "Cruzeiro",
+      "Flamengo",
+      "Fluminense",
+      "Gremio",
+      "Internacional",
+      "Mirassol",
+      "Palmeiras",
+      "RB Bragantino",
+      "Remo",
+      "Santos",
+      "Sao Paulo",
+      "Vasco da Gama",
+      "Vitoria"
+    ],
+    "stream": "TBD",
+    "color": "#aed130",
+    "standingsWidgetId": "6232314e47bdf7425577b4d8",
+    "hasStandings": true,
+    "logo": "assets/league-logos/brazil.png",
+    "theme": {
+      "bg": "#1b280a",
+      "surface": "#273114",
+      "surface2": "#333d1b",
+      "line": "#505a2f",
+      "accent": "#aed130",
+      "accentDark": "#768f1f",
+      "radial1": "#526b22",
+      "radial2": "#465c1c",
+      "radial3": "#3e5317",
+      "linear1": "#2c3d12",
+      "linear3": "#141f07",
+      "titleTop": "#f0ff8d",
+      "titleBot": "#718f1a",
+      "accentRgb": "174, 209, 48"
+    },
+    "standingsOrder": 13
+  },
+  "saudi": {
+    "label": "Saudi Pro League",
+    "type": "league",
+    "status": "active",
+    "country": "Saudi Arabia",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": null,
+      "squads": null,
+      "history": null
+    },
+    "teamList": [
+      "Abha",
+      "Al Ahli",
+      "Al Ettifaq",
+      "Al Faisaly",
+      "Al Fateh",
+      "Al Fayha",
+      "Al Hazem",
+      "Al Hilal",
+      "Al Ittihad",
+      "Al Khaleej",
+      "Al Kholood",
+      "Al Nassr",
+      "Al Qadsiah",
+      "Al Riyadh",
+      "Al Shabab",
+      "Al Taawoun",
+      "Diriyah",
+      "Neom"
+    ],
+    "stream": "TBD",
+    "color": "#7330d1",
+    "standingsWidgetId": "6232328281a87a6b7041ee08",
+    "hasStandings": true,
+    "logo": "assets/league-logos/saudi.png",
+    "theme": {
+      "bg": "#1d0a28",
+      "surface": "#241431",
+      "surface2": "#2c1b3d",
+      "line": "#412f5a",
+      "accent": "#7330d1",
+      "accentDark": "#4f1f8f",
+      "radial1": "#49226b",
+      "radial2": "#3f1c5c",
+      "radial3": "#381753",
+      "linear1": "#2b123d",
+      "linear3": "#17071f",
+      "titleTop": "#b38dff",
+      "titleBot": "#501a8f",
+      "accentRgb": "115, 48, 209"
+    },
+    "standingsOrder": 14
+  },
+  "scotland": {
+    "label": "Scottish Premiership",
+    "type": "league",
+    "status": "active",
+    "country": "Scotland",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": null,
+      "squads": null,
+      "history": null
+    },
+    "teamList": [
+      "Aberdeen",
+      "Celtic",
+      "Dundee",
+      "Dundee United",
+      "Falkirk",
+      "Hearts",
+      "Hibernian",
+      "Kilmarnock",
+      "Motherwell",
+      "Rangers",
+      "St Johnstone",
+      "St Mirren"
+    ],
+    "stream": "TBD",
+    "color": "#d130b6",
+    "standingsWidgetId": "62322ba3946b336c466ab6f2",
+    "hasStandings": true,
+    "logo": "assets/league-logos/scotland.png",
+    "theme": {
+      "bg": "#280a1c",
+      "surface": "#311428",
+      "surface2": "#3d1b35",
+      "line": "#5a2f53",
+      "accent": "#d130b6",
+      "accentDark": "#8f1f7b",
+      "radial1": "#6b2256",
+      "radial2": "#5c1c49",
+      "radial3": "#531741",
+      "linear1": "#3d122f",
+      "linear3": "#1f0715",
+      "titleTop": "#ff8df5",
+      "titleBot": "#8f1a77",
+      "accentRgb": "209, 48, 182"
+    },
+    "standingsOrder": 15
+  },
+  "ligamx": {
+    "label": "Liga MX",
+    "type": "league",
+    "status": "active",
+    "country": "Mexico",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": null,
+      "squads": null,
+      "history": null
+    },
+    "teamList": [
+      "Atlante",
+      "Atlas",
+      "Atletico San Luis",
+      "Club America",
+      "Club Leon",
+      "Club Tijuana",
+      "Cruz Azul",
+      "FC Juarez",
+      "Guadalajara",
+      "Monterrey",
+      "Necaxa",
+      "Pachuca",
+      "Puebla",
+      "Pumas UNAM",
+      "Queretaro",
+      "Santos Laguna",
+      "Tigres UANL",
+      "Toluca"
+    ],
+    "stream": "TBD",
+    "color": "#d13d30",
+    "standingsWidgetId": "623225b88bde14694d4e44f4",
+    "hasStandings": true,
+    "logo": "assets/league-logos/ligamx.png",
+    "theme": {
+      "bg": "#28130a",
+      "surface": "#311a14",
+      "surface2": "#3d201b",
+      "line": "#5a332f",
+      "accent": "#d13d30",
+      "accentDark": "#8f2a1f",
+      "radial1": "#6b3122",
+      "radial2": "#5c291c",
+      "radial3": "#532417",
+      "linear1": "#3d1d12",
+      "linear3": "#1f0f07",
+      "titleTop": "#ff8d8d",
+      "titleBot": "#8f291a",
+      "accentRgb": "209, 61, 48"
+    },
+    "standingsOrder": 16
   }
 }

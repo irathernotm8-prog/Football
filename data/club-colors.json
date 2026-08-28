@@ -1018,5 +1018,495 @@
     "primary": "#0057A8",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Boca Juniors": {
+    "primary": "#003893",
+    "secondary": "#FFD100",
+    "text": "#ffffff"
+  },
+  "River Plate": {
+    "primary": "#ffffff",
+    "secondary": "#E2001A",
+    "text": "#000000"
+  },
+  "Racing Club": {
+    "primary": "#6CACE4",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Independiente": {
+    "primary": "#D2001C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "San Lorenzo": {
+    "primary": "#003893",
+    "secondary": "#D2001C",
+    "text": "#ffffff"
+  },
+  "Estudiantes": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Velez Sarsfield": {
+    "primary": "#ffffff",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Newells Old Boys": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Rosario Central": {
+    "primary": "#FFD100",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Huracan": {
+    "primary": "#ffffff",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Lanus": {
+    "primary": "#7A1E3C",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Talleres": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Belgrano": {
+    "primary": "#6CACE4",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Instituto": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Argentinos Juniors": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Banfield": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Tigre": {
+    "primary": "#003893",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Defensa y Justicia": {
+    "primary": "#1B5E20",
+    "secondary": "#FFD100",
+    "text": "#ffffff"
+  },
+  "Central Cordoba": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Union": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sarmiento": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Atletico Tucuman": {
+    "primary": "#6CACE4",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Platense": {
+    "primary": "#C9A66B",
+    "secondary": "#7A4B27",
+    "text": "#000000"
+  },
+  "Gimnasia LP": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Gimnasia y Esgrima": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Independiente Rivadavia": {
+    "primary": "#C8102E",
+    "secondary": "#003893",
+    "text": "#ffffff"
+  },
+  "Barracas Central": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Deportivo Riestra": {
+    "primary": "#000000",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Estudiantes RC": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Aldosivi": {
+    "primary": "#00A650",
+    "secondary": "#FFD100",
+    "text": "#000000"
+  },
+  "Flamengo": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Palmeiras": {
+    "primary": "#006437",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Corinthians": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sao Paulo": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Santos": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Botafogo": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Fluminense": {
+    "primary": "#7A1E3C",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "Vasco da Gama": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Atletico Mineiro": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Cruzeiro": {
+    "primary": "#003DA5",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Internacional": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Gremio": {
+    "primary": "#0057A8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Bahia": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Vitoria": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Athletico Paranaense": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Coritiba": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Chapecoense": {
+    "primary": "#00A650",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Remo": {
+    "primary": "#003893",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Mirassol": {
+    "primary": "#FFD100",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "RB Bragantino": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Hilal": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Nassr": {
+    "primary": "#FFD100",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Al Ittihad": {
+    "primary": "#000000",
+    "secondary": "#FFD100",
+    "text": "#ffffff"
+  },
+  "Al Ahli": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Ettifaq": {
+    "primary": "#000000",
+    "secondary": "#C9A227",
+    "text": "#ffffff"
+  },
+  "Al Shabab": {
+    "primary": "#ffffff",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Al Fateh": {
+    "primary": "#C9A227",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Al Fayha": {
+    "primary": "#6CACE4",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Al Taawoun": {
+    "primary": "#FFD100",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Al Khaleej": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Riyadh": {
+    "primary": "#7A1E3C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Qadsiah": {
+    "primary": "#00A86B",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Kholood": {
+    "primary": "#FF8200",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Al Hazem": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Al Faisaly": {
+    "primary": "#003893",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "Abha": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Neom": {
+    "primary": "#0093D0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Diriyah": {
+    "primary": "#8A6D3B",
+    "secondary": "#14311F",
+    "text": "#ffffff"
+  },
+  "Celtic": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Rangers": {
+    "primary": "#0033A0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Aberdeen": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Hearts": {
+    "primary": "#7A1E3C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Hibernian": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Dundee United": {
+    "primary": "#FF8200",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Dundee": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Motherwell": {
+    "primary": "#C9A227",
+    "secondary": "#7A1E3C",
+    "text": "#000000"
+  },
+  "Kilmarnock": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "St Mirren": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "St Johnstone": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Falkirk": {
+    "primary": "#002D5C",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Club America": {
+    "primary": "#FFD100",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Guadalajara": {
+    "primary": "#C8102E",
+    "secondary": "#003893",
+    "text": "#ffffff"
+  },
+  "Cruz Azul": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Pumas UNAM": {
+    "primary": "#002D5C",
+    "secondary": "#FFD100",
+    "text": "#ffffff"
+  },
+  "Tigres UANL": {
+    "primary": "#FF6600",
+    "secondary": "#002D5C",
+    "text": "#000000"
+  },
+  "Monterrey": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Toluca": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Santos Laguna": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Pachuca": {
+    "primary": "#FF6600",
+    "secondary": "#003893",
+    "text": "#000000"
+  },
+  "Club Leon": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Atlas": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Atletico San Luis": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Puebla": {
+    "primary": "#003893",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Necaxa": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Queretaro": {
+    "primary": "#000000",
+    "secondary": "#003893",
+    "text": "#ffffff"
+  },
+  "Club Tijuana": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "FC Juarez": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Atlante": {
+    "primary": "#003893",
+    "secondary": "#7A1E3C",
+    "text": "#ffffff"
   }
 }

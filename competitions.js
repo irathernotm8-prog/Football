@@ -40,5 +40,10 @@ function getStandingsCompetitions() {
       var c = COMPETITIONS[k];
       return c.hasStandings && (c.status === "active" || c.status === "standings-only");
     })
-    .map(function (k) { return Object.assign({ key: k }, COMPETITIONS[k]); });
+    .map(function (k) { return Object.assign({ key: k }, COMPETITIONS[k]); })
+    .sort(function (a, b) {
+      var oa = a.standingsOrder != null ? a.standingsOrder : 999;
+      var ob = b.standingsOrder != null ? b.standingsOrder : 999;
+      return oa - ob;
+    });
 }
