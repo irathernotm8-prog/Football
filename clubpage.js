@@ -48,9 +48,32 @@ function trophyIconSvg() {
 var UCL_HISTORY = { label: "Champions League", file: "data/history-ucl.json" };
 var uclHistoryCache = null;
 
-function trophyIconHtml(continental) {
-  if (continental) {
-    return '<img src="assets/trophies/ucl-silver.png" alt="Champions League" class="trophy-icon trophy-icon-ucl">';
+// Real trophy artwork per competition. Any competition not listed here falls
+// back to the generic gold cup SVG - so new leagues (or ones without an
+// image yet) still render something sensible.
+var TROPHY_ICON_ASSETS = {
+  epl: "assets/trophies/epl.png",
+  laliga: "assets/trophies/laliga.png",
+  seriea: "assets/trophies/seriea.png",
+  ligue1: "assets/trophies/ligue1.png",
+  bundesliga: "assets/trophies/bundesliga.png",
+  mls: "assets/trophies/mls.png",
+  efl: "assets/trophies/efl.png",
+  eredivisie: "assets/trophies/eredivisie.png",
+  superlig: "assets/trophies/superlig.png",
+  primeiraliga: "assets/trophies/primeiraliga.png",
+  ucl: "assets/trophies/ucl-silver.png",
+  europa: "assets/trophies/europa.png",
+  conference: "assets/trophies/conference.png",
+  facup: "assets/trophies/facup.png",
+  eflcup: "assets/trophies/eflcup.png",
+  communityshield: "assets/trophies/communityshield.png"
+};
+
+function trophyIconHtml(leagueKey, label) {
+  var asset = TROPHY_ICON_ASSETS[leagueKey];
+  if (asset) {
+    return '<img src="' + asset + '" alt="' + escapeAttr(label || "") + '" class="trophy-icon trophy-icon-img">';
   }
   return trophyIconSvg();
 }
@@ -150,7 +173,7 @@ async function findClubTrophies(teamName, knownLeagueKey) {
       return normalizedChampion === teamName;
     });
     if (wins.length) {
-      results.push({ leagueLabel: CLUB_HISTORY_LEAGUES[key].label, seasons: wins.map(function (w) { return w.season; }), continental: false });
+      results.push({ leagueLabel: CLUB_HISTORY_LEAGUES[key].label, leagueKey: key, seasons: wins.map(function (w) { return w.season; }), continental: false });
     }
   }
 
@@ -170,7 +193,7 @@ async function findClubTrophies(teamName, knownLeagueKey) {
     return normalizedChampion === teamName;
   });
   if (uclWins.length) {
-    results.unshift({ leagueLabel: UCL_HISTORY.label, seasons: uclWins.map(function (w) { return w.season; }), continental: true });
+    results.unshift({ leagueLabel: UCL_HISTORY.label, leagueKey: "ucl", seasons: uclWins.map(function (w) { return w.season; }), continental: true });
   }
 
   return results;
@@ -236,7 +259,7 @@ var trophyHtml;
       var items = t.seasons.map(function (season) {
         return (
           '<div class="trophy-item">' +
-          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.continental) + "</div>" +
+          '<div class="trophy-icon-wrap">' + trophyIconHtml(t.leagueKey, t.leagueLabel) + "</div>" +
           '<div class="trophy-season">' + season + "</div>" +
           "</div>"
         );
