@@ -69,15 +69,19 @@ function normalizePosition(raw, groupTitle, existingPosition) {
   const t = normalizeText(original);
   const mappings = [
     [/^(gk|goalkeeper|keeper)$/, 'GK'],
-    [/(right back|rightback|rwb)/, 'RB'],
-    [/(left back|leftback|lwb)/, 'LB'],
-    [/(centre back|center back|centreback|centerback|cb)/, 'CB'],
-    [/(defensive midfield|defensive midfielder|holding midfield|dm)/, 'DM'],
-    [/(central midfield|central midfielder|centre midfield|cm)/, 'CM'],
-    [/(attacking midfield|attacking midfielder|number 10|am)/, 'AM'],
+    [/(right wing back|right wing-back|right wingback|rwb)/, 'RWB'],
+    [/(left wing back|left wing-back|left wingback|lwb)/, 'LWB'],
+    [/(right back|right-back|rightback|rb)/, 'RB'],
+    [/(left back|left-back|leftback|lb)/, 'LB'],
+    [/(centre back|center back|centre-back|center-back|centreback|centerback|cb)/, 'CB'],
+    [/(defensive midfield|defensive midfielder|holding midfield|holding midfielder|dm)/, 'DM'],
+    [/(central midfield|central midfielder|centre midfield|centre midfielder|cm)/, 'CM'],
+    [/(attacking midfield|attacking midfielder|number 10|advanced midfielder|am)/, 'AM'],
+    [/(right midfield|right midfielder|rm)/, 'RM'],
+    [/(left midfield|left midfielder|lm)/, 'LM'],
     [/(right wing|right winger|rw)/, 'RW'],
     [/(left wing|left winger|lw)/, 'LW'],
-    [/(centre forward|center forward|striker|cf|st)/, 'ST'],
+    [/(second striker|support striker|centre forward|center forward|centre-forward|center-forward|striker|cf|st)/, 'ST'],
     [/^defender$/, 'DEFENDER'],
     [/^midfielder$/, 'MIDFIELDER'],
     [/^(forward|attacker)$/, 'FORWARD']
@@ -146,19 +150,66 @@ function countryFromPlayerData(payload) {
   return null;
 }
 
-function positionFromPlayerData(payload, existingPosition) {
-  const raw = findFirstValueByKeys(payload, [
-    'positionDescription', 'positionName', 'primaryPosition', 'position', 'role'
-  ]);
-  if (!raw) return existingPosition;
+function findAllValuesByKeys(node, keys, maxDepth = 8) {
+  const wanted = new Set(keys.map((key) => key.toLowerCase()));
+  const found = [];
+  const seen = new Set();
 
-  let value = raw;
-  if (typeof raw === 'object') {
-    value = pick(raw, ['description', 'name', 'position', 'abbreviation', 'code']);
+  function walk(value, depth) {
+    if (!value || typeof value !== 'object' || depth > maxDepth || seen.has(value)) return;
+    seen.add(value);
+
+    if (!Array.isArray(value)) {
+      for (const [key, child] of Object.entries(value)) {
+        if (wanted.has(key.toLowerCase()) && child !== undefined && child !== null && child !== '') {
+          found.push({ key, value: child, depth });
+        }
+      }
+    }
+
+    const children = Array.isArray(value) ? value : Object.values(value);
+    for (const child of children) walk(child, depth + 1);
   }
-  if (!value) return existingPosition;
 
-  return normalizePosition(value, null, existingPosition);
+  walk(node, 0);
+  return found;
+}
+
+function positionCandidateValue(raw) {
+  if (typeof raw === 'string' || typeof raw === 'number') return String(raw);
+  if (!raw || typeof raw !== 'object') return null;
+  return pick(raw, [
+    'description', 'positionDescription', 'positionName', 'name',
+    'position', 'label', 'abbreviation', 'shortName', 'code'
+  ]);
+}
+
+function positionFromPlayerData(payload, existingPosition) {
+  const candidates = findAllValuesByKeys(payload, [
+    'positionDescription', 'positionName', 'primaryPosition', 'preferredPosition',
+    'specificPosition', 'position', 'role'
+  ]);
+
+  let best = existingPosition;
+  let bestScore = specificity(existingPosition);
+  let bestDepth = Number.POSITIVE_INFINITY;
+
+  for (const candidate of candidates) {
+    const value = positionCandidateValue(candidate.value);
+    if (!value) continue;
+    const normalized = normalizePosition(value, null, null);
+    const score = specificity(normalized);
+
+    // Prefer an actually specific football position over a broad group. When
+    // two candidates are equally specific, prefer the shallower profile field.
+    if (score > bestScore || (score === bestScore && candidate.depth < bestDepth)) {
+      best = normalized;
+      bestScore = score;
+      bestDepth = candidate.depth;
+    }
+  }
+
+  return best || existingPosition;
 }
 
 async function enrichPlayer(player, globalConfig) {
@@ -317,13 +368,14 @@ function normalizeSquad(payload, existingPlayers, imageBaseUrl, overrideMap = {}
 }
 
 function specificity(position) {
+  if (!position) return 0;
   if (position === 'GK') return 3;
   if (['DEFENDER', 'MIDFIELDER', 'FORWARD'].includes(position)) return 1;
-  return 2;
+  return 3;
 }
 
 function sortPlayers(a, b) {
-  const order = { GK: 0, RB: 1, CB: 2, LB: 3, DEFENDER: 4, DM: 5, CM: 6, AM: 7, MIDFIELDER: 8, RW: 9, LW: 10, ST: 11, FORWARD: 12 };
+  const order = { GK: 0, RWB: 1, RB: 2, CB: 3, LB: 4, LWB: 5, DEFENDER: 6, DM: 7, CM: 8, RM: 9, LM: 10, AM: 11, MIDFIELDER: 12, RW: 13, LW: 14, ST: 15, FORWARD: 16 };
   const pa = order[a.position] ?? 99;
   const pb = order[b.position] ?? 99;
   if (pa !== pb) return pa - pb;
