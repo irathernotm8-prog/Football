@@ -105,6 +105,98 @@ function countryName(member) {
   return pick(country, ['name', 'countryName', 'shortName', 'code']);
 }
 
+function broadPosition(position) {
+  return ['DEFENDER', 'MIDFIELDER', 'FORWARD'].includes(position);
+}
+
+function findFirstValueByKeys(node, keys, maxDepth = 5) {
+  const wanted = new Set(keys.map((key) => key.toLowerCase()));
+  const seen = new Set();
+
+  function walk(value, depth) {
+    if (!value || typeof value !== 'object' || depth > maxDepth || seen.has(value)) return null;
+    seen.add(value);
+
+    if (!Array.isArray(value)) {
+      for (const [key, child] of Object.entries(value)) {
+        if (wanted.has(key.toLowerCase()) && child !== undefined && child !== null && child !== '') {
+          return child;
+        }
+      }
+    }
+
+    const children = Array.isArray(value) ? value : Object.values(value);
+    for (const child of children) {
+      const found = walk(child, depth + 1);
+      if (found !== null) return found;
+    }
+    return null;
+  }
+
+  return walk(node, 0);
+}
+
+function countryFromPlayerData(payload) {
+  const raw = findFirstValueByKeys(payload, [
+    'nationality', 'country', 'countryName', 'birthCountry', 'citizenship'
+  ]);
+  if (!raw) return null;
+  if (typeof raw === 'string') return raw;
+  if (typeof raw === 'object') return pick(raw, ['name', 'countryName', 'shortName', 'code']);
+  return null;
+}
+
+function positionFromPlayerData(payload, existingPosition) {
+  const raw = findFirstValueByKeys(payload, [
+    'positionDescription', 'positionName', 'primaryPosition', 'position', 'role'
+  ]);
+  if (!raw) return existingPosition;
+
+  let value = raw;
+  if (typeof raw === 'object') {
+    value = pick(raw, ['description', 'name', 'position', 'abbreviation', 'code']);
+  }
+  if (!value) return existingPosition;
+
+  return normalizePosition(value, null, existingPosition);
+}
+
+async function enrichPlayer(player, globalConfig) {
+  if (!player?.fotmobId) return player;
+  const needsCountry = !player.nationality;
+  const needsPosition = broadPosition(player.position);
+  if (!needsCountry && !needsPosition) return player;
+
+  const url = `${globalConfig.baseUrl}/playerData?id=${player.fotmobId}`;
+  const payload = await fotmobFetch(url);
+  const enriched = { ...player };
+
+  if (needsCountry) enriched.nationality = countryFromPlayerData(payload) || player.nationality || null;
+  if (needsPosition) {
+    const candidate = positionFromPlayerData(payload, player.position);
+    if (candidate && !broadPosition(candidate)) enriched.position = candidate;
+  }
+
+  return enriched;
+}
+
+async function enrichSquad(players, globalConfig, teamName) {
+  const result = [];
+  for (const player of players) {
+    if (!player?.fotmobId || (player.nationality && !broadPosition(player.position))) {
+      result.push(player);
+      continue;
+    }
+    try {
+      result.push(await enrichPlayer(player, globalConfig));
+    } catch (error) {
+      if (VERBOSE) console.log(`  Enrichment skipped for ${teamName} / ${player.name}: ${error.message}`);
+      result.push(player);
+    }
+  }
+  return result.sort(sortPlayers);
+}
+
 function looksLikeStaff(member) {
   if (!member || typeof member !== 'object') return false;
   const staffText = normalizeText([
@@ -393,7 +485,8 @@ async function updateCompetition(key, globalConfig, overrides, competitions) {
       const payload = await fotmobFetch(url);
       const oldPlayers = current[teamName] || [];
       const playerOverrides = overrides?.[key]?.players || {};
-      const newPlayers = normalizeSquad(payload, oldPlayers, globalConfig.imageBaseUrl, playerOverrides);
+      const normalizedPlayers = normalizeSquad(payload, oldPlayers, globalConfig.imageBaseUrl, playerOverrides);
+      const newPlayers = await enrichSquad(normalizedPlayers, globalConfig, teamName);
       const diff = diffSquads(oldPlayers, newPlayers);
       const errors = validateTeam(teamName, oldPlayers, newPlayers, diff);
       printDiff(teamName, teamId, oldPlayers, newPlayers, diff, errors);
@@ -422,12 +515,9 @@ async function updateCompetition(key, globalConfig, overrides, competitions) {
     if (totals.blocked) {
       console.log(`\nSafe write: valid teams were updated; ${totals.blocked} blocked team(s) kept their existing squad.`);
     }
-    const backupPath = `${squadPath}.bak`;
-    fs.copyFileSync(squadPath, backupPath);
     writeJson(squadPath, next);
     if (configChanged) writeJson(CONFIG_PATH, globalConfig);
     console.log(`Wrote ${path.relative(ROOT, squadPath)}`);
-    console.log(`Backup: ${path.relative(ROOT, backupPath)}`);
   } else {
     console.log('\nDRY RUN complete. Re-run with --write to apply safe changes.');
     if (configChanged) console.log('Newly resolved team IDs will be saved to tools/fotmob-squads.json when run with --write.');
