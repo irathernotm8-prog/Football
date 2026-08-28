@@ -326,5 +326,107 @@
     "standingsWidgetId": null,
     "hasStandings": false,
     "notes": "Pure knockout, already underway each season from early August. No advance schedule - needs manual round-by-round updates."
+  },
+  "eredivisie": {
+    "label": "Eredivisie",
+    "type": "league",
+    "status": "active",
+    "country": "Netherlands",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": "data/fixtures-eredivisie.json",
+      "squads": null,
+      "history": null
+    },
+    "stream": "ESPN+",
+    "color": "#d18030",
+    "standingsWidgetId": null,
+    "hasStandings": false,
+    "theme": {
+      "bg": "#28200a",
+      "surface": "#312614",
+      "surface2": "#3d2f1b",
+      "line": "#5a452f",
+      "accent": "#d18030",
+      "accentDark": "#8f581f",
+      "radial1": "#6b4f22",
+      "radial2": "#5c441c",
+      "radial3": "#533d17",
+      "linear1": "#3d2f12",
+      "linear3": "#1f1907",
+      "titleTop": "#ffbd8d",
+      "titleBot": "#8f591a",
+      "accentRgb": "209, 128, 48"
+    },
+    "logo": "assets/league-logos/eredivisie.png"
+  },
+  "superlig": {
+    "label": "Süper Lig",
+    "type": "league",
+    "status": "active",
+    "country": "Turkey",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": "data/fixtures-superlig.json",
+      "squads": null,
+      "history": null
+    },
+    "stream": "beIN Sports",
+    "color": "#d13058",
+    "standingsWidgetId": null,
+    "hasStandings": false,
+    "theme": {
+      "bg": "#280a0b",
+      "surface": "#311417",
+      "surface2": "#3d1b21",
+      "line": "#5a2f39",
+      "accent": "#d13058",
+      "accentDark": "#8f1f3a",
+      "radial1": "#6b222b",
+      "radial2": "#5c1c24",
+      "radial3": "#53171e",
+      "linear1": "#3d1215",
+      "linear3": "#1f0707",
+      "titleTop": "#ff8db3",
+      "titleBot": "#8f1a32",
+      "accentRgb": "209, 48, 88"
+    },
+    "logo": "assets/league-logos/superlig.png"
+  },
+  "primeiraliga": {
+    "label": "Primeira Liga",
+    "type": "league",
+    "status": "active",
+    "country": "Portugal",
+    "source": "user_provided",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": "data/fixtures-primeiraliga.json",
+      "squads": null,
+      "history": null
+    },
+    "stream": "ESPN+",
+    "color": "#30d1c4",
+    "standingsWidgetId": null,
+    "hasStandings": false,
+    "theme": {
+      "bg": "#0a2428",
+      "surface": "#143031",
+      "surface2": "#1b3d3d",
+      "line": "#2f5a57",
+      "accent": "#30d1c4",
+      "accentDark": "#1f8f87",
+      "radial1": "#22686b",
+      "radial2": "#1c595c",
+      "radial3": "#175053",
+      "linear1": "#12393d",
+      "linear3": "#071b1f",
+      "titleTop": "#8dffec",
+      "titleBot": "#1a8f8a",
+      "accentRgb": "48, 209, 196"
+    },
+    "logo": "assets/league-logos/primeiraliga.png"
   }
 }

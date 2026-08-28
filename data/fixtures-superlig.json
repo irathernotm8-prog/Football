@@ -1,0 +1,2450 @@
+[
+  {
+    "round": 1,
+    "dateUtc": "2026-08-14T18:30:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Çorum",
+    "result": "2 - 2"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-15T16:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Trabzonspor",
+    "result": "1 - 1"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-15T16:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Çaykur Rizespor",
+    "result": "0 - 1"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-15T18:30:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Alanyaspor",
+    "result": "1 - 1"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-15T18:30:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Fenerbahçe",
+    "result": "2 - 1"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-16T16:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Kocaelispor",
+    "result": "2 - 0"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-16T18:30:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Erzurumspor",
+    "result": "3 - 0"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-16T18:30:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Eyüpspor",
+    "result": "1 - 0"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-17T18:30:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Göztepe",
+    "result": "3 - 3"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-21T18:30:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Galatasaray",
+    "result": "0 - 4"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-22T16:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Kasimpasa",
+    "result": "0 - 1"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-22T16:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Samsunspor",
+    "result": "0 - 2"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-22T18:30:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Konyaspor",
+    "result": "4 - 2"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-23T16:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Istanbul Basaksehir",
+    "result": "2 - 1"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-23T16:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Gaziantep",
+    "result": "0 - 1"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-23T18:30:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Besiktas",
+    "result": "1 - 0"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-23T18:30:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Gençlerbirligi",
+    "result": "0 - 1"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-24T18:30:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Amedspor",
+    "result": "2 - 0"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-28T18:30:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-29T16:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-29T18:30:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-29T18:30:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-30T16:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-30T18:30:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-30T18:30:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-31T18:30:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-08-31T18:30:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-10T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-17T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-24T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-31T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-21T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-28T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-05T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-12T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-19T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-16T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-23T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-30T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-02-06T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-13T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-20T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-27T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-03-06T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-13T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-20T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-04-03T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-10T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-17T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-08T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Erzurumspor",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Trabzonspor",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Kasimpasa",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Istanbul Basaksehir",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Gürsel Aksel Stadyumu",
+    "home": "Göztepe",
+    "away": "Amedspor",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Gençlerbirligi",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "TBA",
+    "home": "Eyüpspor",
+    "away": "Konyaspor",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Alanya Oba Stadyumu",
+    "home": "Alanyaspor",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Çaykur Didi",
+    "home": "Çaykur Rizespor",
+    "away": "Besiktas",
+    "result": null
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-15T21:00:00Z",
+    "venue": "Gaziantep Stadyumu",
+    "home": "Gaziantep",
+    "away": "Samsunspor",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Gaziantep",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Eyüpspor",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Alanyaspor",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Çaykur Rizespor",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Göztepe",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Çorum",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Diyarbakir Stadyumu",
+    "home": "Amedspor",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Kocaelispor",
+    "result": null
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-22T21:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Erzurumspor",
+    "result": null
+  }
+]
