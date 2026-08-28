@@ -165,8 +165,10 @@ function fixtureCardHtml(m) {
     metaHtml = formatLocalTime(m.dateUtc) + " &middot; " + m.venue;
   }
 
+  var matchupAttrs = 'data-matchup-home="' + m.home.replace(/"/g, "&quot;") + '" data-matchup-away="' + m.away.replace(/"/g, "&quot;") + '" data-matchup-league="' + m.leagueKey + '"';
+
   return (
-    '<div class="fixture-card matchup-trigger" data-matchup-home="' + m.home.replace(/"/g, "&quot;") + '" data-matchup-away="' + m.away.replace(/"/g, "&quot;") + '" data-matchup-league="' + m.leagueKey + '">' +
+    '<div class="fixture-card matchup-trigger" ' + matchupAttrs + '>' +
     '<div class="fixture-league-row">' +
     '<span class="fixture-league">' + m.leagueLabel + "</span>" +
     '<span class="fixture-stream">' + m.stream + "</span>" +
@@ -178,6 +180,7 @@ function fixtureCardHtml(m) {
     '<span class="club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + m.home + "</span>" +
     " vs " +
     '<span class="club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + m.away + "</span>" +
+    '<button class="fixture-details-btn matchup-trigger" ' + matchupAttrs + '>Match Details</button>' +
     "</span>" +
     '<span class="club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + crestHtml(m.away) + "</span>" +
     "</div>" +
