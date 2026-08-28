@@ -105,11 +105,28 @@ function countryName(member) {
   return pick(country, ['name', 'countryName', 'shortName', 'code']);
 }
 
-function looksLikePlayer(member) {
+function looksLikeStaff(member) {
   if (!member || typeof member !== 'object') return false;
+  const staffText = normalizeText([
+    pick(member, ['type', 'entityType', 'memberType']),
+    pick(member, ['role', 'job', 'title', 'position', 'positionDescription', 'positionName'])
+  ].filter(Boolean).join(' '));
+  return /(coach|manager|staff|head coach|assistant coach|technical staff)/.test(staffText);
+}
+
+function looksLikePlayer(member) {
+  if (!member || typeof member !== 'object' || looksLikeStaff(member)) return false;
   const name = pick(member, ['name', 'fullName', 'playerName']);
-  const id = pick(member, ['id', 'playerId']);
-  return Boolean(name && (id || member.shirtNumber !== undefined || member.position || member.role));
+  if (!name) return false;
+
+  // FotMob staff records can also have a name + numeric id. Require at least
+  // one player-specific field instead of treating every named/id'd member as a player.
+  const hasPlayerSignal = [
+    'shirtNumber', 'number', 'jerseyNumber',
+    'position', 'role', 'positionDescription', 'positionName'
+  ].some((key) => member[key] !== undefined && member[key] !== null && member[key] !== '');
+
+  return hasPlayerSignal;
 }
 
 function squadGroups(payload) {
@@ -166,6 +183,7 @@ function normalizeSquad(payload, existingPlayers, imageBaseUrl, overrideMap = {}
   const out = new Map();
 
   for (const group of groups) {
+    if (/(coach|manager|staff)/.test(normalizeText(group.title))) continue;
     for (const member of group.members) {
       if (!looksLikePlayer(member)) continue;
       const roleText = normalizeText(pick(member, ['role', 'position', 'positionDescription', 'positionName']));
@@ -177,7 +195,14 @@ function normalizeSquad(payload, existingPlayers, imageBaseUrl, overrideMap = {}
       const old = (id && existing.byId.get(id)) || existing.byName.get(normalizeText(name)) || {};
       const override = overrideMap[String(id)] || overrideMap[name] || {};
       const numberValue = pick(member, ['shirtNumber', 'number', 'jerseyNumber']);
-      const number = Number.isFinite(Number(numberValue)) ? Number(numberValue) : (old.number ?? null);
+      let number;
+      if (numberValue === null) {
+        number = old.number ?? null;
+      } else {
+        const parsedNumber = Number(numberValue);
+        // FotMob uses 0 for "no assigned squad number". Store that as null.
+        number = Number.isFinite(parsedNumber) && parsedNumber > 0 ? parsedNumber : null;
+      }
       const rawPosition = pick(member, ['positionDescription', 'positionName', 'position', 'role']);
 
       const player = {
