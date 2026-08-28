@@ -583,7 +583,12 @@ async function main() {
   const config = readJson(CONFIG_PATH);
   const overrides = fs.existsSync(OVERRIDES_PATH) ? readJson(OVERRIDES_PATH) : {};
   const competitions = readJson(COMPETITIONS_PATH);
-  await updateCompetition(target, config, overrides, competitions);
+
+  const targets = target === 'all' ? Object.keys(config.competitions) : [target];
+  for (let i = 0; i < targets.length; i++) {
+    if (i > 0) console.log('\n\n========================================\n');
+    await updateCompetition(targets[i], config, overrides, competitions);
+  }
 }
 
 main().catch((error) => {

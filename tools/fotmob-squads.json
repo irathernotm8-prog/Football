@@ -2,6 +2,264 @@
   "baseUrl": "https://www.fotmob.com/api/data",
   "imageBaseUrl": "https://images.fotmob.com/image_resources/playerimages",
   "competitions": {
+    "epl": {
+      "leagueId": 47,
+      "countryCode": "ENG",
+      "teams": {
+        "Arsenal": {
+          "fotmobId": null,
+          "search": "Arsenal"
+        },
+        "Aston Villa": {
+          "fotmobId": null,
+          "search": "Aston Villa"
+        },
+        "Bournemouth": {
+          "fotmobId": null,
+          "search": "Bournemouth"
+        },
+        "Brentford": {
+          "fotmobId": null,
+          "search": "Brentford"
+        },
+        "Brighton": {
+          "fotmobId": null,
+          "search": "Brighton & Hove Albion"
+        },
+        "Chelsea": {
+          "fotmobId": null,
+          "search": "Chelsea"
+        },
+        "Coventry": {
+          "fotmobId": null,
+          "search": "Coventry City"
+        },
+        "Crystal Palace": {
+          "fotmobId": null,
+          "search": "Crystal Palace"
+        },
+        "Everton": {
+          "fotmobId": null,
+          "search": "Everton"
+        },
+        "Fulham": {
+          "fotmobId": null,
+          "search": "Fulham"
+        },
+        "Hull": {
+          "fotmobId": null,
+          "search": "Hull City"
+        },
+        "Ipswich": {
+          "fotmobId": null,
+          "search": "Ipswich Town"
+        },
+        "Leeds": {
+          "fotmobId": null,
+          "search": "Leeds United"
+        },
+        "Liverpool": {
+          "fotmobId": null,
+          "search": "Liverpool"
+        },
+        "Man City": {
+          "fotmobId": null,
+          "search": "Manchester City"
+        },
+        "Man Utd": {
+          "fotmobId": null,
+          "search": "Manchester United"
+        },
+        "Newcastle": {
+          "fotmobId": null,
+          "search": "Newcastle United"
+        },
+        "Nott'm Forest": {
+          "fotmobId": null,
+          "search": "Nottingham Forest"
+        },
+        "Spurs": {
+          "fotmobId": null,
+          "search": "Tottenham Hotspur"
+        },
+        "Sunderland": {
+          "fotmobId": null,
+          "search": "Sunderland"
+        }
+      }
+    },
+    "laliga": {
+      "leagueId": 87,
+      "countryCode": "ESP",
+      "teams": {
+        "Athletic Club": {
+          "fotmobId": null,
+          "search": "Athletic Club"
+        },
+        "Atlético de Madrid": {
+          "fotmobId": null,
+          "search": "Atletico Madrid"
+        },
+        "CA Osasuna": {
+          "fotmobId": null,
+          "search": "Osasuna"
+        },
+        "Celta": {
+          "fotmobId": null,
+          "search": "Celta Vigo"
+        },
+        "Deportivo Alavés": {
+          "fotmobId": null,
+          "search": "Deportivo Alaves"
+        },
+        "Elche CF": {
+          "fotmobId": null,
+          "search": "Elche"
+        },
+        "FC Barcelona": {
+          "fotmobId": null,
+          "search": "Barcelona"
+        },
+        "Getafe CF": {
+          "fotmobId": null,
+          "search": "Getafe"
+        },
+        "Levante UD": {
+          "fotmobId": null,
+          "search": "Levante"
+        },
+        "Málaga CF": {
+          "fotmobId": null,
+          "search": "Malaga"
+        },
+        "R. Racing Club": {
+          "fotmobId": null,
+          "search": "Racing Santander"
+        },
+        "Rayo Vallecano": {
+          "fotmobId": null,
+          "search": "Rayo Vallecano"
+        },
+        "RC Deportivo": {
+          "fotmobId": null,
+          "search": "Deportivo La Coruna"
+        },
+        "RCD Espanyol de Barcelona": {
+          "fotmobId": null,
+          "search": "Espanyol"
+        },
+        "Real Betis": {
+          "fotmobId": null,
+          "search": "Real Betis"
+        },
+        "Real Madrid": {
+          "fotmobId": null,
+          "search": "Real Madrid"
+        },
+        "Real Sociedad": {
+          "fotmobId": null,
+          "search": "Real Sociedad"
+        },
+        "Sevilla FC": {
+          "fotmobId": null,
+          "search": "Sevilla"
+        },
+        "Valencia CF": {
+          "fotmobId": null,
+          "search": "Valencia"
+        },
+        "Villarreal CF": {
+          "fotmobId": null,
+          "search": "Villarreal"
+        }
+      }
+    },
+    "seriea": {
+      "leagueId": 55,
+      "countryCode": "ITA",
+      "teams": {
+        "Atalanta": {
+          "fotmobId": null,
+          "search": "Atalanta"
+        },
+        "Bologna": {
+          "fotmobId": null,
+          "search": "Bologna"
+        },
+        "Cagliari": {
+          "fotmobId": null,
+          "search": "Cagliari"
+        },
+        "Como": {
+          "fotmobId": null,
+          "search": "Como"
+        },
+        "Fiorentina": {
+          "fotmobId": null,
+          "search": "Fiorentina"
+        },
+        "Frosinone": {
+          "fotmobId": null,
+          "search": "Frosinone"
+        },
+        "Genoa": {
+          "fotmobId": null,
+          "search": "Genoa"
+        },
+        "Inter": {
+          "fotmobId": null,
+          "search": "Inter Milan"
+        },
+        "Juventus": {
+          "fotmobId": null,
+          "search": "Juventus"
+        },
+        "Lazio": {
+          "fotmobId": null,
+          "search": "Lazio"
+        },
+        "Lecce": {
+          "fotmobId": null,
+          "search": "Lecce"
+        },
+        "Milan": {
+          "fotmobId": null,
+          "search": "AC Milan"
+        },
+        "Monza": {
+          "fotmobId": null,
+          "search": "Monza"
+        },
+        "Napoli": {
+          "fotmobId": null,
+          "search": "Napoli"
+        },
+        "Parma": {
+          "fotmobId": null,
+          "search": "Parma"
+        },
+        "Roma": {
+          "fotmobId": null,
+          "search": "AS Roma"
+        },
+        "Sassuolo": {
+          "fotmobId": null,
+          "search": "Sassuolo"
+        },
+        "Torino": {
+          "fotmobId": null,
+          "search": "Torino"
+        },
+        "Udinese": {
+          "fotmobId": null,
+          "search": "Udinese"
+        },
+        "Venezia": {
+          "fotmobId": null,
+          "search": "Venezia"
+        }
+      }
+    },
     "ligue1": {
       "leagueId": 53,
       "countryCode": "FRA",
@@ -77,6 +335,312 @@
         "Stade Rennais FC": {
           "fotmobId": 9851,
           "search": "Rennes"
+        }
+      }
+    },
+    "bundesliga": {
+      "leagueId": 54,
+      "countryCode": "GER",
+      "teams": {
+        "1. FC Köln": {
+          "fotmobId": null,
+          "search": "FC Koln"
+        },
+        "1. FC Union Berlin": {
+          "fotmobId": null,
+          "search": "Union Berlin"
+        },
+        "1. FSV Mainz 05": {
+          "fotmobId": null,
+          "search": "Mainz 05"
+        },
+        "Bayer 04 Leverkusen": {
+          "fotmobId": null,
+          "search": "Bayer Leverkusen"
+        },
+        "Borussia Dortmund": {
+          "fotmobId": null,
+          "search": "Borussia Dortmund"
+        },
+        "Borussia Mönchengladbach": {
+          "fotmobId": null,
+          "search": "Borussia Monchengladbach"
+        },
+        "Eintracht Frankfurt": {
+          "fotmobId": null,
+          "search": "Eintracht Frankfurt"
+        },
+        "FC Augsburg": {
+          "fotmobId": null,
+          "search": "Augsburg"
+        },
+        "FC Bayern München": {
+          "fotmobId": null,
+          "search": "Bayern Munich"
+        },
+        "FC Schalke 04": {
+          "fotmobId": null,
+          "search": "Schalke 04"
+        },
+        "Hamburger SV": {
+          "fotmobId": null,
+          "search": "Hamburger SV"
+        },
+        "RB Leipzig": {
+          "fotmobId": null,
+          "search": "RB Leipzig"
+        },
+        "SC Paderborn 07": {
+          "fotmobId": null,
+          "search": "Paderborn"
+        },
+        "Sport-Club Freiburg": {
+          "fotmobId": null,
+          "search": "Freiburg"
+        },
+        "SV Elversberg": {
+          "fotmobId": null,
+          "search": "Elversberg"
+        },
+        "SV Werder Bremen": {
+          "fotmobId": null,
+          "search": "Werder Bremen"
+        },
+        "TSG Hoffenheim": {
+          "fotmobId": null,
+          "search": "Hoffenheim"
+        },
+        "VfB Stuttgart": {
+          "fotmobId": null,
+          "search": "VfB Stuttgart"
+        }
+      }
+    },
+    "mls": {
+      "leagueId": 130,
+      "countryCode": "USA",
+      "teams": {
+        "Atlanta United": {
+          "fotmobId": null,
+          "search": "Atlanta United"
+        },
+        "Austin FC": {
+          "fotmobId": null,
+          "search": "Austin FC"
+        },
+        "CF Montréal": {
+          "fotmobId": null,
+          "search": "CF Montreal"
+        },
+        "Charlotte FC": {
+          "fotmobId": null,
+          "search": "Charlotte FC"
+        },
+        "Chicago Fire FC": {
+          "fotmobId": null,
+          "search": "Chicago Fire"
+        },
+        "Colorado Rapids": {
+          "fotmobId": null,
+          "search": "Colorado Rapids"
+        },
+        "Columbus Crew": {
+          "fotmobId": null,
+          "search": "Columbus Crew"
+        },
+        "D.C. United": {
+          "fotmobId": null,
+          "search": "DC United"
+        },
+        "FC Cincinnati": {
+          "fotmobId": null,
+          "search": "FC Cincinnati"
+        },
+        "FC Dallas": {
+          "fotmobId": null,
+          "search": "FC Dallas"
+        },
+        "Houston Dynamo FC": {
+          "fotmobId": null,
+          "search": "Houston Dynamo"
+        },
+        "Inter Miami CF": {
+          "fotmobId": null,
+          "search": "Inter Miami"
+        },
+        "LA Galaxy": {
+          "fotmobId": null,
+          "search": "LA Galaxy"
+        },
+        "Los Angeles Football Club": {
+          "fotmobId": null,
+          "search": "Los Angeles FC"
+        },
+        "Minnesota United FC": {
+          "fotmobId": null,
+          "search": "Minnesota United"
+        },
+        "Nashville SC": {
+          "fotmobId": null,
+          "search": "Nashville SC"
+        },
+        "New England Revolution": {
+          "fotmobId": null,
+          "search": "New England Revolution"
+        },
+        "New York City Football Club": {
+          "fotmobId": null,
+          "search": "New York City FC"
+        },
+        "Orlando City": {
+          "fotmobId": null,
+          "search": "Orlando City"
+        },
+        "Philadelphia Union": {
+          "fotmobId": null,
+          "search": "Philadelphia Union"
+        },
+        "Portland Timbers": {
+          "fotmobId": null,
+          "search": "Portland Timbers"
+        },
+        "Real Salt Lake": {
+          "fotmobId": null,
+          "search": "Real Salt Lake"
+        },
+        "Red Bull New York": {
+          "fotmobId": null,
+          "search": "New York Red Bulls"
+        },
+        "San Diego FC": {
+          "fotmobId": null,
+          "search": "San Diego FC"
+        },
+        "San Jose Earthquakes": {
+          "fotmobId": null,
+          "search": "San Jose Earthquakes"
+        },
+        "Seattle Sounders FC": {
+          "fotmobId": null,
+          "search": "Seattle Sounders"
+        },
+        "Sporting Kansas City": {
+          "fotmobId": null,
+          "search": "Sporting Kansas City"
+        },
+        "St. Louis CITY SC": {
+          "fotmobId": null,
+          "search": "St. Louis City"
+        },
+        "Toronto FC": {
+          "fotmobId": null,
+          "search": "Toronto FC"
+        },
+        "Vancouver Whitecaps FC": {
+          "fotmobId": null,
+          "search": "Vancouver Whitecaps"
+        }
+      }
+    },
+    "efl": {
+      "leagueId": 48,
+      "countryCode": "ENG",
+      "teams": {
+        "Birmingham City": {
+          "fotmobId": null,
+          "search": "Birmingham City"
+        },
+        "Blackburn Rovers": {
+          "fotmobId": null,
+          "search": "Blackburn Rovers"
+        },
+        "Bolton Wanderers": {
+          "fotmobId": null,
+          "search": "Bolton Wanderers"
+        },
+        "Bristol City": {
+          "fotmobId": null,
+          "search": "Bristol City"
+        },
+        "Burnley": {
+          "fotmobId": null,
+          "search": "Burnley"
+        },
+        "Cardiff City": {
+          "fotmobId": null,
+          "search": "Cardiff City"
+        },
+        "Charlton Athletic": {
+          "fotmobId": null,
+          "search": "Charlton Athletic"
+        },
+        "Derby County": {
+          "fotmobId": null,
+          "search": "Derby County"
+        },
+        "Lincoln City": {
+          "fotmobId": null,
+          "search": "Lincoln City"
+        },
+        "Middlesbrough": {
+          "fotmobId": null,
+          "search": "Middlesbrough"
+        },
+        "Millwall": {
+          "fotmobId": null,
+          "search": "Millwall"
+        },
+        "Norwich City": {
+          "fotmobId": null,
+          "search": "Norwich City"
+        },
+        "Portsmouth": {
+          "fotmobId": null,
+          "search": "Portsmouth"
+        },
+        "Preston North End": {
+          "fotmobId": null,
+          "search": "Preston North End"
+        },
+        "Queens Park Rangers": {
+          "fotmobId": null,
+          "search": "QPR"
+        },
+        "Sheffield United": {
+          "fotmobId": null,
+          "search": "Sheffield United"
+        },
+        "Southampton": {
+          "fotmobId": null,
+          "search": "Southampton"
+        },
+        "Stoke City": {
+          "fotmobId": null,
+          "search": "Stoke City"
+        },
+        "Swansea City": {
+          "fotmobId": null,
+          "search": "Swansea City"
+        },
+        "Watford": {
+          "fotmobId": null,
+          "search": "Watford"
+        },
+        "West Bromwich Albion": {
+          "fotmobId": null,
+          "search": "West Brom"
+        },
+        "West Ham United": {
+          "fotmobId": null,
+          "search": "West Ham United"
+        },
+        "Wolverhampton Wanderers": {
+          "fotmobId": null,
+          "search": "Wolverhampton Wanderers"
+        },
+        "Wrexham": {
+          "fotmobId": null,
+          "search": "Wrexham"
         }
       }
     }

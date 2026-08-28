@@ -3,8 +3,22 @@
   "private": true,
   "scripts": {
     "squads": "node tools/update-squads.js",
+    "squads:epl": "node tools/update-squads.js epl",
+    "squads:epl:write": "node tools/update-squads.js epl --write",
+    "squads:laliga": "node tools/update-squads.js laliga",
+    "squads:laliga:write": "node tools/update-squads.js laliga --write",
+    "squads:seriea": "node tools/update-squads.js seriea",
+    "squads:seriea:write": "node tools/update-squads.js seriea --write",
     "squads:ligue1": "node tools/update-squads.js ligue1",
-    "squads:ligue1:write": "node tools/update-squads.js ligue1 --write"
+    "squads:ligue1:write": "node tools/update-squads.js ligue1 --write",
+    "squads:bundesliga": "node tools/update-squads.js bundesliga",
+    "squads:bundesliga:write": "node tools/update-squads.js bundesliga --write",
+    "squads:mls": "node tools/update-squads.js mls",
+    "squads:mls:write": "node tools/update-squads.js mls --write",
+    "squads:efl": "node tools/update-squads.js efl",
+    "squads:efl:write": "node tools/update-squads.js efl --write",
+    "squads:all": "node tools/update-squads.js all",
+    "squads:all:write": "node tools/update-squads.js all --write"
   },
   "engines": {
     "node": ">=18"
