@@ -273,6 +273,24 @@
     "hasStandings": true,
     "notes": "Standings page only for now, same as UCL. Same format/timing as UCL, roughly one day behind in the release schedule."
   },
+  "conference": {
+    "label": "Europa Conference League",
+    "type": "league_then_knockout",
+    "status": "standings-only",
+    "country": "Europe",
+    "source": "uefa_manual",
+    "sourceSlug": null,
+    "files": {
+      "fixtures": "data/fixtures-conference.json",
+      "squads": null,
+      "history": null
+    },
+    "stream": "Paramount+",
+    "color": "#00a650",
+    "standingsWidgetId": "6232378fe960277cec5c28b0",
+    "hasStandings": true,
+    "notes": "Standings page only for now, same as UCL/Europa - also a 36-team league phase."
+  },
   "facup": {
     "label": "FA Cup",
     "type": "knockout",

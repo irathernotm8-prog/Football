@@ -2069,11 +2069,11 @@ section h2 {
   gap: 0.8rem;
   padding: 2.5rem 1.5rem 2rem;
   text-align: center;
-  background-image: linear-gradient(100deg, var(--m-color) 0%, transparent 130%);
+  background-image: linear-gradient(90deg, var(--m-color) 0%, var(--m-color) 55%, transparent 100%);
 }
 
 .matchup-vs-side-away {
-  background-image: linear-gradient(260deg, var(--m-color) 0%, transparent 130%);
+  background-image: linear-gradient(270deg, var(--m-color) 0%, var(--m-color) 55%, transparent 100%);
 }
 
 .matchup-vs-crest {
