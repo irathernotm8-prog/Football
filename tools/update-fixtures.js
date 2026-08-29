@@ -9,6 +9,7 @@ const FIXTURE_CONFIG_PATH = path.join(__dirname, 'fotmob-fixtures.json');
 const TEAM_CONFIG_PATH = path.join(__dirname, 'fotmob-squads.json');
 const COMPETITIONS_PATH = path.join(ROOT, 'data', 'competitions.json');
 const TEAM_IDENTITIES_PATH = path.join(ROOT, 'data', 'team-identities.json');
+const TEAM_STADIUMS_PATH = path.join(ROOT, 'data', 'team-stadiums.json');
 
 const args = process.argv.slice(2);
 const target = args.find((arg) => !arg.startsWith('--')) || 'epl';
@@ -266,6 +267,48 @@ function inferVenueMap(fixtures) {
   return out;
 }
 
+function stadiumName(value) {
+  if (!value) return null;
+  if (typeof value === 'string') return value.trim() || null;
+  return pick(value, ['stadium', 'venue', 'name', 'fullName', 'title']) || null;
+}
+
+function loadStadiums() {
+  if (!fs.existsSync(TEAM_STADIUMS_PATH)) return {};
+  const raw = readJson(TEAM_STADIUMS_PATH);
+  return raw && typeof raw === 'object' && !Array.isArray(raw) ? raw : {};
+}
+
+function stadiumMapFromDatabase(database) {
+  const map = new Map();
+  for (const [team, value] of Object.entries(database || {})) {
+    const stadium = stadiumName(value);
+    if (stadium) map.set(team, stadium);
+  }
+  return map;
+}
+
+function learnVenueMap(fixtures, targetMap) {
+  const inferred = inferVenueMap(fixtures);
+  for (const [team, venue] of inferred) {
+    if (team && venue && !targetMap.has(team)) targetMap.set(team, venue);
+  }
+  return targetMap;
+}
+
+function updateStadiumDatabase(database, venueMap) {
+  let changed = 0;
+  for (const [team, venue] of venueMap) {
+    if (!team || !venue) continue;
+    const current = stadiumName(database[team]);
+    if (!current) {
+      database[team] = { stadium: venue };
+      changed++;
+    }
+  }
+  return changed;
+}
+
 function fixturePairKey(fixture) {
   return `${normalizeText(fixture.home)}|${normalizeText(fixture.away)}`;
 }
@@ -436,6 +479,7 @@ async function updateCompetition(key, shared = null) {
     kickoffUpdates: 0,
     resultUpdates: 0,
     metadataLinked: 0,
+    stadiumsLearned: 0,
     written: false,
     message: null
   };
@@ -483,7 +527,15 @@ async function updateCompetition(key, shared = null) {
       return summary;
     }
 
-    const venueMap = inferVenueMap(existing);
+    // Stadium fallback order: FotMob fixture venue -> existing fixture venue ->
+    // persistent home-stadium database. We also learn home grounds from any
+    // venue-bearing fixtures in both the local and current remote schedule.
+    const stadiumDatabase = shared?.stadiums || loadStadiums();
+    const venueMap = stadiumMapFromDatabase(stadiumDatabase);
+    learnVenueMap(existing, venueMap);
+    learnVenueMap(remote, venueMap);
+    const stadiumsLearned = updateStadiumDatabase(stadiumDatabase, venueMap);
+
     const lookup = buildExistingLookup(existing);
     const matchedExisting = new Set();
     const next = [];
@@ -525,7 +577,8 @@ async function updateCompetition(key, shared = null) {
       changes: changes.length,
       kickoffUpdates,
       resultUpdates,
-      metadataLinked
+      metadataLinked,
+      stadiumsLearned
     });
 
     console.log(`\nExisting fixtures: ${existing.length}`);
@@ -537,6 +590,7 @@ async function updateCompetition(key, shared = null) {
     console.log(`Kickoff updates:    ${kickoffUpdates}`);
     console.log(`Result updates:     ${resultUpdates}`);
     console.log(`FotMob IDs linked:  ${metadataLinked}`);
+    console.log(`Stadiums learned:   ${stadiumsLearned}`);
 
     const MAX_PRINT = VERBOSE ? Number.MAX_SAFE_INTEGER : (target === 'all' ? 12 : 50);
     if (changes.length) {
@@ -563,6 +617,7 @@ async function updateCompetition(key, shared = null) {
     if (WRITE) {
       fs.mkdirSync(path.dirname(fixturePath), { recursive: true });
       writeJson(fixturePath, next);
+      if (stadiumsLearned > 0) writeJson(TEAM_STADIUMS_PATH, stadiumDatabase);
       summary.written = true;
       console.log(`\nWrote ${path.relative(ROOT, fixturePath)}`);
     } else {
@@ -590,8 +645,9 @@ function printAllSummary(results) {
     acc.resultUpdates += r.resultUpdates || 0;
     acc.metadataLinked += r.metadataLinked || 0;
     acc.localOnly += r.localOnly || 0;
+    acc.stadiumsLearned += r.stadiumsLearned || 0;
     return acc;
-  }, { additions: 0, changes: 0, kickoffUpdates: 0, resultUpdates: 0, metadataLinked: 0, localOnly: 0 });
+  }, { additions: 0, changes: 0, kickoffUpdates: 0, resultUpdates: 0, metadataLinked: 0, localOnly: 0, stadiumsLearned: 0 });
 
   console.log('\n' + '='.repeat(64));
   console.log(`ALL FIXTURES — ${WRITE ? 'WRITE' : 'DRY RUN'} SUMMARY`);
@@ -611,6 +667,7 @@ function printAllSummary(results) {
   console.log(`${totals.kickoffUpdates} kickoff updates`);
   console.log(`${totals.resultUpdates} result updates`);
   console.log(`${totals.metadataLinked} FotMob IDs linked`);
+  console.log(`${totals.stadiumsLearned} stadium mappings learned`);
   console.log(`${totals.localOnly} local-only fixtures preserved`);
   console.log('0 fixtures automatically deleted');
 }
@@ -628,7 +685,8 @@ async function main() {
     fixtureConfig: readJson(FIXTURE_CONFIG_PATH),
     squadConfig: readJson(TEAM_CONFIG_PATH),
     competitions: readJson(COMPETITIONS_PATH),
-    identities: readJson(TEAM_IDENTITIES_PATH)
+    identities: readJson(TEAM_IDENTITIES_PATH),
+      stadiums: loadStadiums()
   };
   const keys = Object.keys(shared.fixtureConfig.competitions);
   const results = [];

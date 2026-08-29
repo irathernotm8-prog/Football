@@ -1,0 +1,614 @@
+{
+  "1. FC Köln": {
+    "stadium": "RheinEnergieSTADION"
+  },
+  "1. FC Union Berlin": {
+    "stadium": "An der Alten Försterei"
+  },
+  "1. FSV Mainz 05": {
+    "stadium": "MEWA ARENA"
+  },
+  "ADO Den Haag": {
+    "stadium": "ADO Den Haag Stadium"
+  },
+  "AJ Auxerre": {
+    "stadium": "Stade de l'Abbé-Deschamps"
+  },
+  "AS Monaco": {
+    "stadium": "Stade Louis II"
+  },
+  "AZ": {
+    "stadium": "AFAS Stadion"
+  },
+  "Académico": {
+    "stadium": "Estádio Municipal do Fontelo"
+  },
+  "Ajax": {
+    "stadium": "Johan Cruyff Arena"
+  },
+  "Alanyaspor": {
+    "stadium": "Alanya Oba Stadyumu"
+  },
+  "Amedspor": {
+    "stadium": "Diyarbakir Stadyumu"
+  },
+  "Angers SCO": {
+    "stadium": "Stade Raymond Kopa"
+  },
+  "Arsenal": {
+    "stadium": "Emirates Stadium"
+  },
+  "Aston Villa": {
+    "stadium": "Villa Park"
+  },
+  "Atalanta": {
+    "stadium": "New Balance Arena"
+  },
+  "Athletic Club": {
+    "stadium": "Estadio San Mamés"
+  },
+  "Atlanta United": {
+    "stadium": "Mercedes-Benz Stadium"
+  },
+  "Atlético de Madrid": {
+    "stadium": "Riyadh Air Metropolitano"
+  },
+  "Austin FC": {
+    "stadium": "Q2 Stadium"
+  },
+  "Bayer 04 Leverkusen": {
+    "stadium": "BayArena"
+  },
+  "Besiktas": {
+    "stadium": "Besiktas Park"
+  },
+  "Birmingham City": {
+    "stadium": "St. Andrew's @ Knighthead Park"
+  },
+  "Blackburn Rovers": {
+    "stadium": "Ewood Park"
+  },
+  "Bologna": {
+    "stadium": "Renato Dall'Ara"
+  },
+  "Bolton Wanderers": {
+    "stadium": "Toughsheet Community Stadium"
+  },
+  "Borussia Dortmund": {
+    "stadium": "SIGNAL IDUNA PARK"
+  },
+  "Borussia Mönchengladbach": {
+    "stadium": "ista-Borussia-Park"
+  },
+  "Bournemouth": {
+    "stadium": "Vitality Stadium"
+  },
+  "Brentford": {
+    "stadium": "Gtech Community Stadium"
+  },
+  "Brighton": {
+    "stadium": "American Express Stadium"
+  },
+  "Bristol City": {
+    "stadium": "Ashton Gate Stadium"
+  },
+  "Burnley": {
+    "stadium": "Turf Moor"
+  },
+  "CA Osasuna": {
+    "stadium": "Estadio El Sadar"
+  },
+  "CD Nacional": {
+    "stadium": "Estádio da Madeira"
+  },
+  "CF Montréal": {
+    "stadium": "Stade Saputo"
+  },
+  "Cagliari": {
+    "stadium": "Unipol Domus"
+  },
+  "Cardiff City": {
+    "stadium": "Cardiff City Stadium"
+  },
+  "Casa Pia AC": {
+    "stadium": "Estádio Municipal de Rio Maior"
+  },
+  "Celta": {
+    "stadium": "Estadio ABANCA Balaídos"
+  },
+  "Charlotte FC": {
+    "stadium": "Bank of America Stadium"
+  },
+  "Charlton Athletic": {
+    "stadium": "The Valley"
+  },
+  "Chelsea": {
+    "stadium": "Stamford Bridge"
+  },
+  "Chicago Fire FC": {
+    "stadium": "Soldier Field"
+  },
+  "Colorado Rapids": {
+    "stadium": "DICK'S Sporting Goods Park"
+  },
+  "Columbus Crew": {
+    "stadium": "ScottsMiracle-Gro Field"
+  },
+  "Como": {
+    "stadium": "Giuseppe Sinigaglia"
+  },
+  "Coventry": {
+    "stadium": "Coventry Building Society Arena"
+  },
+  "Crystal Palace": {
+    "stadium": "Selhurst Park"
+  },
+  "D.C. United": {
+    "stadium": "Audi Field"
+  },
+  "Deportivo Alavés": {
+    "stadium": "Mendizorroza"
+  },
+  "Derby County": {
+    "stadium": "Pride Park Stadium"
+  },
+  "Eintracht Frankfurt": {
+    "stadium": "Deutsche Bank Park"
+  },
+  "Elche CF": {
+    "stadium": "Estadio Martínez Valero"
+  },
+  "Erzurumspor": {
+    "stadium": "Erzurum Kâzim Karabekir"
+  },
+  "Estac Troyes": {
+    "stadium": "Stade de l'Aube"
+  },
+  "Estoril Praia": {
+    "stadium": "Estádio António Coimbra da Mota"
+  },
+  "Estrela Amadora": {
+    "stadium": "Estádio José Gomes"
+  },
+  "Everton": {
+    "stadium": "Hill Dickinson Stadium"
+  },
+  "Excelsior Rotterdam": {
+    "stadium": "Stadion Woudestein"
+  },
+  "Eyüpspor": {
+    "stadium": "Necmi Kadioglu Stadyumu"
+  },
+  "FC Alverca": {
+    "stadium": "Estádio do FC Alverca"
+  },
+  "FC Arouca": {
+    "stadium": "Estádio Municipal de Arouca"
+  },
+  "FC Augsburg": {
+    "stadium": "WWK ARENA"
+  },
+  "FC Barcelona": {
+    "stadium": "Spotify Camp Nou"
+  },
+  "FC Bayern München": {
+    "stadium": "Allianz Arena"
+  },
+  "FC Cincinnati": {
+    "stadium": "TQL Stadium"
+  },
+  "FC Dallas": {
+    "stadium": "Toyota Stadium"
+  },
+  "FC Famalicão": {
+    "stadium": "Estádio Municipal de Famalicão"
+  },
+  "FC Groningen": {
+    "stadium": "Euroborg"
+  },
+  "FC Lorient": {
+    "stadium": "Stade du Moustoir"
+  },
+  "FC Porto": {
+    "stadium": "Estádio do Dragão"
+  },
+  "FC Schalke 04": {
+    "stadium": "VELTINS-Arena"
+  },
+  "FC Twente": {
+    "stadium": "De Grolsch Veste"
+  },
+  "FC Utrecht": {
+    "stadium": "Stadion Galgenwaard"
+  },
+  "Fenerbahçe": {
+    "stadium": "Sükrü Saracoglu Spor Kompleksi"
+  },
+  "Feyenoord": {
+    "stadium": "De Kuip"
+  },
+  "Fiorentina": {
+    "stadium": "Artemio Franchi"
+  },
+  "Fortuna Sittard": {
+    "stadium": "Fortuna Sittard Stadion"
+  },
+  "Frosinone": {
+    "stadium": "Benito Stirpe"
+  },
+  "Fulham": {
+    "stadium": "Craven Cottage"
+  },
+  "Galatasaray": {
+    "stadium": "Ali Sami Yen Spor Kompleksi"
+  },
+  "Gaziantep": {
+    "stadium": "Gaziantep Stadyumu"
+  },
+  "Genoa": {
+    "stadium": "Luigi Ferraris"
+  },
+  "Gençlerbirligi": {
+    "stadium": "Eryaman Stadyumu"
+  },
+  "Getafe CF": {
+    "stadium": "Coliseum"
+  },
+  "Gil Vicente FC": {
+    "stadium": "Estádio Cidade de Barcelos"
+  },
+  "Go Ahead Eagles": {
+    "stadium": "De Adelaarshorst"
+  },
+  "Göztepe": {
+    "stadium": "Gürsel Aksel Stadyumu"
+  },
+  "Hamburger SV": {
+    "stadium": "Volksparkstadion"
+  },
+  "Havre Athletic Club": {
+    "stadium": "Stade Océane"
+  },
+  "Houston Dynamo FC": {
+    "stadium": "Shell Energy Stadium"
+  },
+  "Hull": {
+    "stadium": "MKM Stadium"
+  },
+  "Inter": {
+    "stadium": "Giuseppe Meazza"
+  },
+  "Inter Miami CF": {
+    "stadium": "Nu Stadium"
+  },
+  "Ipswich": {
+    "stadium": "Portman Road"
+  },
+  "Istanbul Basaksehir": {
+    "stadium": "Basaksehir Fatih Terim"
+  },
+  "Juventus": {
+    "stadium": "Allianz Stadium"
+  },
+  "Kasimpasa": {
+    "stadium": "Recep Tayyip Erdogan Stadyumu"
+  },
+  "Kocaelispor": {
+    "stadium": "Kocaeli Stadyumu"
+  },
+  "Konyaspor": {
+    "stadium": "Konya Büyüksehir Stadyumu"
+  },
+  "LA Galaxy": {
+    "stadium": "Dignity Health Sports Park"
+  },
+  "LOSC Lille": {
+    "stadium": "Stade Pierre-Mauroy"
+  },
+  "Lazio": {
+    "stadium": "Olimpico"
+  },
+  "Le Mans FC": {
+    "stadium": "Stade Marie-Marvingt"
+  },
+  "Lecce": {
+    "stadium": "Ettore Giardiniero - Via Del Mare"
+  },
+  "Leeds": {
+    "stadium": "Elland Road"
+  },
+  "Levante UD": {
+    "stadium": "Estadio Ciutat de València"
+  },
+  "Lincoln City": {
+    "stadium": "LNER Stadium"
+  },
+  "Liverpool": {
+    "stadium": "Anfield"
+  },
+  "Los Angeles Football Club": {
+    "stadium": "BMO Stadium"
+  },
+  "Man City": {
+    "stadium": "Etihad Stadium"
+  },
+  "Man Utd": {
+    "stadium": "Old Trafford"
+  },
+  "Marítimo M.": {
+    "stadium": "Estádio do Marítimo"
+  },
+  "Middlesbrough": {
+    "stadium": "Riverside Stadium"
+  },
+  "Milan": {
+    "stadium": "Giuseppe Meazza"
+  },
+  "Millwall": {
+    "stadium": "The Den"
+  },
+  "Minnesota United FC": {
+    "stadium": "Allianz Field"
+  },
+  "Monza": {
+    "stadium": "Brianteo"
+  },
+  "Moreirense FC": {
+    "stadium": "Parque Desportivo Comendador Joaquim de Almeida Fr"
+  },
+  "Málaga CF": {
+    "stadium": "La Rosaleda"
+  },
+  "N.E.C. Nijmegen": {
+    "stadium": "Goffertstadion"
+  },
+  "Napoli": {
+    "stadium": "Diego Armando Maradona"
+  },
+  "Nashville SC": {
+    "stadium": "GEODIS Park"
+  },
+  "New England Revolution": {
+    "stadium": "Gillette Stadium"
+  },
+  "New York City Football Club": {
+    "stadium": "Yankee Stadium"
+  },
+  "Newcastle": {
+    "stadium": "St. James' Park"
+  },
+  "Norwich City": {
+    "stadium": "Carrow Road"
+  },
+  "Nott'm Forest": {
+    "stadium": "The City Ground"
+  },
+  "OGC Nice": {
+    "stadium": "Allianz Riviera"
+  },
+  "Olympique Lyonnais": {
+    "stadium": "Parc Olympique Lyonnais"
+  },
+  "Olympique de Marseille": {
+    "stadium": "Stade Vélodrome"
+  },
+  "Orlando City": {
+    "stadium": "Inter.co Stadium"
+  },
+  "PEC Zwolle": {
+    "stadium": "MAC³PARK Stadion"
+  },
+  "PSV": {
+    "stadium": "Philips Stadion"
+  },
+  "Paris FC": {
+    "stadium": "Stade Charléty"
+  },
+  "Paris Saint-Germain": {
+    "stadium": "Parc des Princes"
+  },
+  "Parma": {
+    "stadium": "Ennio Tardini"
+  },
+  "Philadelphia Union": {
+    "stadium": "Subaru Park"
+  },
+  "Portland Timbers": {
+    "stadium": "Providence Park"
+  },
+  "Portsmouth": {
+    "stadium": "Fratton Park"
+  },
+  "Preston North End": {
+    "stadium": "Deepdale"
+  },
+  "Queens Park Rangers": {
+    "stadium": "MATRADE Loftus Road"
+  },
+  "R. Racing Club": {
+    "stadium": "El Sardinero"
+  },
+  "RB Leipzig": {
+    "stadium": "Red Bull Arena"
+  },
+  "RC Deportivo": {
+    "stadium": "Estadio ABANCA-RIAZOR"
+  },
+  "RC Lens": {
+    "stadium": "Stade Bollaert-Delelis"
+  },
+  "RC Strasbourg Alsace": {
+    "stadium": "Stade de la Meinau"
+  },
+  "RCD Espanyol de Barcelona": {
+    "stadium": "RCDE Stadium"
+  },
+  "Rayo Vallecano": {
+    "stadium": "Estadio de Vallecas"
+  },
+  "Real Betis": {
+    "stadium": "Estadio La Cartuja"
+  },
+  "Real Madrid": {
+    "stadium": "Bernabéu"
+  },
+  "Real Salt Lake": {
+    "stadium": "America First Field"
+  },
+  "Real Sociedad": {
+    "stadium": "Anoeta"
+  },
+  "Red Bull New York": {
+    "stadium": "Sports Illustrated Stadium"
+  },
+  "Rio Ave FC": {
+    "stadium": "Estádio do Rio Ave Futebol Clube"
+  },
+  "Roma": {
+    "stadium": "Olimpico"
+  },
+  "SC Braga": {
+    "stadium": "Estádio Municipal de Braga"
+  },
+  "SC Cambuur": {
+    "stadium": "Kooi Stadion"
+  },
+  "SC Paderborn 07": {
+    "stadium": "Home Deluxe Arena"
+  },
+  "SL Benfica": {
+    "stadium": "Estádio do Sport Lisboa e Benfica"
+  },
+  "SV Elversberg": {
+    "stadium": "URSAPHARM-Arena"
+  },
+  "SV Werder Bremen": {
+    "stadium": "Weserstadion"
+  },
+  "Samsunspor": {
+    "stadium": "Samsun 19 Mayis Stadyumu"
+  },
+  "San Diego FC": {
+    "stadium": "Snapdragon Stadium"
+  },
+  "San Jose Earthquakes": {
+    "stadium": "PayPal Park"
+  },
+  "Santa Clara": {
+    "stadium": "Estádio de São Miguel"
+  },
+  "Sassuolo": {
+    "stadium": "Mapei Stadium"
+  },
+  "Seattle Sounders FC": {
+    "stadium": "Lumen Field"
+  },
+  "Sevilla FC": {
+    "stadium": "Ramón Sánchez-Pizjuán"
+  },
+  "Sheffield United": {
+    "stadium": "Bramall Lane"
+  },
+  "Southampton": {
+    "stadium": "St. Mary's Stadium"
+  },
+  "Sparta Rotterdam": {
+    "stadium": "Sparta Stadion Het Kasteel"
+  },
+  "Sport-Club Freiburg": {
+    "stadium": "Europa-Park Stadion"
+  },
+  "Sporting CP": {
+    "stadium": "Estádio José Alvalade"
+  },
+  "Sporting Kansas City": {
+    "stadium": "Sporting Park"
+  },
+  "Spurs": {
+    "stadium": "Tottenham Hotspur Stadium"
+  },
+  "St. Louis CITY SC": {
+    "stadium": "Energizer Park"
+  },
+  "Stade Brestois 29": {
+    "stadium": "Stade Francis-Le Blé"
+  },
+  "Stade Rennais FC": {
+    "stadium": "Roazhon Park"
+  },
+  "Stoke City": {
+    "stadium": "bet365 Stadium"
+  },
+  "Sunderland": {
+    "stadium": "Stadium of Light"
+  },
+  "Swansea City": {
+    "stadium": "Swansea.com Stadium"
+  },
+  "TSG Hoffenheim": {
+    "stadium": "SNP Arena"
+  },
+  "Telstar": {
+    "stadium": "Sportpark Schoonenberg"
+  },
+  "Torino": {
+    "stadium": "Olimpico - Grande Torino"
+  },
+  "Toronto FC": {
+    "stadium": "BMO Field"
+  },
+  "Toulouse FC": {
+    "stadium": "Stadium de Toulouse"
+  },
+  "Trabzonspor": {
+    "stadium": "Papara Park"
+  },
+  "Udinese": {
+    "stadium": "Friuli/Bluenergy stadium"
+  },
+  "Valencia CF": {
+    "stadium": "Camp de Mestalla"
+  },
+  "Vancouver Whitecaps FC": {
+    "stadium": "BC Place"
+  },
+  "Venezia": {
+    "stadium": "Pier Luigi Penzo"
+  },
+  "VfB Stuttgart": {
+    "stadium": "MHPArena"
+  },
+  "Villarreal CF": {
+    "stadium": "Estadio de la Cerámica"
+  },
+  "Vitória SC": {
+    "stadium": "Estádio D. Afonso Henriques"
+  },
+  "Watford": {
+    "stadium": "Vicarage Road"
+  },
+  "West Bromwich Albion": {
+    "stadium": "The Hawthorns"
+  },
+  "West Ham United": {
+    "stadium": "London Stadium"
+  },
+  "Willem II": {
+    "stadium": "Koning Willem II Stadion"
+  },
+  "Wolverhampton Wanderers": {
+    "stadium": "Molineux Stadium"
+  },
+  "Wrexham": {
+    "stadium": "Racecourse Ground"
+  },
+  "sc Heerenveen": {
+    "stadium": "Abe Lenstra Stadion"
+  },
+  "Çaykur Rizespor": {
+    "stadium": "Çaykur Didi"
+  },
+  "Çorum": {
+    "stadium": "Çorum Sehir Stadyumu"
+  }
+}
