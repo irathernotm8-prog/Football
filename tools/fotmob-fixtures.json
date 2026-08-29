@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://www.fotmob.com/api/data",
+  "competitions": {
+    "epl": {
+      "leagueId": 47,
+      "countryCode": "ENG",
+      "season": "2026/2027",
+      "expectedMatches": 380
+    }
+  }
+}
