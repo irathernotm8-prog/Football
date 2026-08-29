@@ -23,16 +23,25 @@ async function loadMatchupRoster(leagueKey, teamName) {
     getLeagueCompetitions().forEach(function (c) { MATCHUP_SQUADS_FILES[c.key] = c.files.squads; });
   }
   var file = MATCHUP_SQUADS_FILES[leagueKey];
-  if (!file) return [];
-  if (!matchupSquadsCache[leagueKey]) {
-    try {
-      var res = await fetch(file);
-      matchupSquadsCache[leagueKey] = res.ok ? await res.json() : {};
-    } catch (err) {
-      matchupSquadsCache[leagueKey] = {};
+  var roster = [];
+  if (file) {
+    if (!matchupSquadsCache[leagueKey]) {
+      try {
+        var res = await fetch(file);
+        matchupSquadsCache[leagueKey] = res.ok ? await res.json() : {};
+      } catch (err) {
+        matchupSquadsCache[leagueKey] = {};
+      }
     }
+    roster = teamLookup(matchupSquadsCache[leagueKey], teamName) || [];
   }
-  return teamLookup(matchupSquadsCache[leagueKey], teamName) || [];
+  if (!roster.length && typeof findClubRoster === "function") {
+    // No squad file for this competition (e.g. UCL) - most of these clubs
+    // already have a roster from their domestic league.
+    var crossLeagueRoster = await findClubRoster(teamName);
+    if (crossLeagueRoster) roster = crossLeagueRoster.roster;
+  }
+  return roster;
 }
 
 function matchupSquadPhotoHtml(p) {

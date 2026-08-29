@@ -93,6 +93,13 @@ async function renderTeamPage(leagueKey, teamName) {
     : '<div class="club-modal-crest-fallback">' + clubInitials(teamName) + "</div>";
 
   var roster = teamPageCache[leagueKey] ? (teamLookup(teamPageCache[leagueKey], teamName) || []) : [];
+  if (!roster.length) {
+    // This league doesn't have its own squad data for this club (e.g. UCL) -
+    // most of these clubs already have a full roster from their domestic
+    // league, so fall back to the same cross-league search the club popup uses.
+    var crossLeagueRoster = await findClubRoster(teamName);
+    if (crossLeagueRoster) roster = crossLeagueRoster.roster;
+  }
   var trophies = await findClubTrophies(teamName, leagueKey);
 
   var allMatches = await ensureMhData();

@@ -179,21 +179,27 @@ async function findClubTrophies(teamName, knownLeagueKey) {
 
   // Champions League is a continental competition, not tied to any one
   // domestic league, so every club is checked against it regardless of
-  // which league their current squad lives in.
-  if (uclHistoryCache === null) {
-    try {
-      var uclRes = await fetch(UCL_HISTORY.file);
-      uclHistoryCache = uclRes.ok ? await uclRes.json() : [];
-    } catch (err) {
-      uclHistoryCache = [];
+  // which league their current squad lives in. Skip this if "ucl" was
+  // already covered by the loop above (viewing the team page under the UCL
+  // tab itself, or a null knownLeagueKey that checks every league) -
+  // otherwise it gets added twice.
+  var alreadyCheckedUcl = checkKeys.indexOf("ucl") !== -1;
+  if (!alreadyCheckedUcl) {
+    if (uclHistoryCache === null) {
+      try {
+        var uclRes = await fetch(UCL_HISTORY.file);
+        uclHistoryCache = uclRes.ok ? await uclRes.json() : [];
+      } catch (err) {
+        uclHistoryCache = [];
+      }
     }
-  }
-  var uclWins = uclHistoryCache.filter(function (row) {
-    var normalizedChampion = CLUB_HISTORY_ALIASES[row.champion] || row.champion;
-    return normalizedChampion === teamName;
-  });
-  if (uclWins.length) {
-    results.unshift({ leagueLabel: UCL_HISTORY.label, leagueKey: "ucl", seasons: uclWins.map(function (w) { return w.season; }), continental: true });
+    var uclWins = uclHistoryCache.filter(function (row) {
+      var normalizedChampion = CLUB_HISTORY_ALIASES[row.champion] || row.champion;
+      return normalizedChampion === teamName;
+    });
+    if (uclWins.length) {
+      results.unshift({ leagueLabel: UCL_HISTORY.label, leagueKey: "ucl", seasons: uclWins.map(function (w) { return w.season; }), continental: true });
+    }
   }
 
   return results;
