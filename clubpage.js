@@ -7,6 +7,10 @@ var CLUB_HISTORY_LEAGUES = {};
 var CLUB_HISTORY_ALIASES = {
   "Manchester City": "Man City",
   "Manchester United": "Man Utd",
+  "Coventry City": "Coventry",
+  "Leeds United": "Leeds",
+  "Newcastle United": "Newcastle",
+  "RC Strasbourg": "RC Strasbourg Alsace",
   "Athletic Bilbao": "Athletic Club",
   "Atlético Madrid": "Atlético de Madrid",
   "Atlético Aviación": "Atlético de Madrid",
