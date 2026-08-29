@@ -1,1 +1,3280 @@
-{}
+{
+  "Atlante": [
+    {
+      "fotmobId": 463774,
+      "number": 1,
+      "name": "Óscar Jiménez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/463774.png"
+    },
+    {
+      "fotmobId": 1793915,
+      "number": 22,
+      "name": "Roberto Barragán",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1793915.png"
+    },
+    {
+      "fotmobId": 50065,
+      "number": 26,
+      "name": "David Ospina",
+      "position": "GK",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/50065.png"
+    },
+    {
+      "fotmobId": 1604108,
+      "number": 33,
+      "name": "Jordan García",
+      "position": "GK",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1604108.png"
+    },
+    {
+      "fotmobId": 1190694,
+      "number": 29,
+      "name": "Walter Portales",
+      "position": "RWB",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1190694.png"
+    },
+    {
+      "fotmobId": 1044929,
+      "number": 3,
+      "name": "Gustavo Sánchez",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1044929.png"
+    },
+    {
+      "fotmobId": 862169,
+      "number": 4,
+      "name": "Eduardo Tercero",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/862169.png"
+    },
+    {
+      "fotmobId": 1309373,
+      "number": 6,
+      "name": "Nico Carrera",
+      "position": "CB",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1309373.png"
+    },
+    {
+      "fotmobId": 1832995,
+      "number": 14,
+      "name": "Cristóbal Alfaro",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1832995.png"
+    },
+    {
+      "fotmobId": 1028589,
+      "number": 27,
+      "name": "Armando Escobar",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1028589.png"
+    },
+    {
+      "fotmobId": 1682280,
+      "number": 32,
+      "name": "Diogo Bagüí",
+      "position": "CB",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1682280.png"
+    },
+    {
+      "fotmobId": 1244341,
+      "number": 44,
+      "name": "Aaron Quirós",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1244341.png"
+    },
+    {
+      "fotmobId": 1432353,
+      "number": 34,
+      "name": "Edgar Jiménez",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432353.png"
+    },
+    {
+      "fotmobId": 497408,
+      "number": 37,
+      "name": "Walter Clar",
+      "position": "LWB",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/497408.png"
+    },
+    {
+      "fotmobId": 1169788,
+      "number": 5,
+      "name": "Hardy Meza",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1169788.png"
+    },
+    {
+      "fotmobId": 1432163,
+      "number": 13,
+      "name": "Maximiliano García",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432163.png"
+    },
+    {
+      "fotmobId": 1107285,
+      "number": 8,
+      "name": "Eugenio Pizzuto",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1107285.png"
+    },
+    {
+      "fotmobId": 1888856,
+      "number": 10,
+      "name": "Octavio Vázquez",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888856.png"
+    },
+    {
+      "fotmobId": 1114432,
+      "number": 19,
+      "name": "Luis Calzadilla",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1114432.png"
+    },
+    {
+      "fotmobId": 1053835,
+      "number": 25,
+      "name": "Martín Fernández",
+      "position": "CM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1053835.png"
+    },
+    {
+      "fotmobId": 1169053,
+      "number": 21,
+      "name": "Javier Ibarra",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1169053.png"
+    },
+    {
+      "fotmobId": 1288844,
+      "number": 16,
+      "name": "Daniel González",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1288844.png"
+    },
+    {
+      "fotmobId": 1514621,
+      "number": 17,
+      "name": "Leonardo Mejía",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1514621.png"
+    },
+    {
+      "fotmobId": 70577,
+      "number": 18,
+      "name": "Christian Bermúdez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/70577.png"
+    },
+    {
+      "fotmobId": 1433833,
+      "number": 23,
+      "name": "Axl Padilla",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433833.png"
+    },
+    {
+      "fotmobId": 1504135,
+      "number": 15,
+      "name": "Jairón Charcopa",
+      "position": "RW",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1504135.png"
+    },
+    {
+      "fotmobId": 1793918,
+      "number": 184,
+      "name": "Rubén Coubert",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1793918.png"
+    },
+    {
+      "fotmobId": 816993,
+      "number": 30,
+      "name": "Martín Sarrafiore",
+      "position": "LW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/816993.png"
+    },
+    {
+      "fotmobId": 860927,
+      "number": 7,
+      "name": "Jhojan Julio",
+      "position": "ST",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/860927.png"
+    },
+    {
+      "fotmobId": 1109128,
+      "number": 9,
+      "name": "Luis Puente",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1109128.png"
+    },
+    {
+      "fotmobId": 1577972,
+      "number": 11,
+      "name": "Joaquín Moxica",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1577972.png"
+    }
+  ],
+  "Atlas": [
+    {
+      "fotmobId": 50207,
+      "number": 12,
+      "name": "Camilo Vargas",
+      "position": "GK",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/50207.png"
+    },
+    {
+      "fotmobId": 1203587,
+      "number": 22,
+      "name": "Antonio Sánchez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1203587.png"
+    },
+    {
+      "fotmobId": 727586,
+      "number": 3,
+      "name": "Jorge Sánchez",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/727586.png"
+    },
+    {
+      "fotmobId": 918828,
+      "number": 4,
+      "name": "Adrián Mora",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/918828.png"
+    },
+    {
+      "fotmobId": 721448,
+      "number": 13,
+      "name": "Gaddi Aguirre",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/721448.png"
+    },
+    {
+      "fotmobId": 838273,
+      "number": 21,
+      "name": "Rodrigo Schlegel",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/838273.png"
+    },
+    {
+      "fotmobId": 816132,
+      "number": 28,
+      "name": "Manuel Capasso",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/816132.png"
+    },
+    {
+      "fotmobId": 950069,
+      "number": 44,
+      "name": "Juan Purata",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950069.png"
+    },
+    {
+      "fotmobId": 950270,
+      "number": null,
+      "name": "Adonis Frías",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950270.png"
+    },
+    {
+      "fotmobId": 1222434,
+      "number": 5,
+      "name": "Jorge Rodríguez",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1222434.png"
+    },
+    {
+      "fotmobId": 724490,
+      "number": 16,
+      "name": "Milton Valenzuela",
+      "position": "LB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/724490.png"
+    },
+    {
+      "fotmobId": 1085770,
+      "number": 17,
+      "name": "Rivaldo Lozano",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1085770.png"
+    },
+    {
+      "fotmobId": 1696068,
+      "number": 23,
+      "name": "Sergio Hernández",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1696068.png"
+    },
+    {
+      "fotmobId": 766852,
+      "number": 6,
+      "name": "Édgar Zaldívar",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/766852.png"
+    },
+    {
+      "fotmobId": 1222175,
+      "number": 10,
+      "name": "Luís Esteves",
+      "position": "DM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1222175.png"
+    },
+    {
+      "fotmobId": 1664780,
+      "number": 15,
+      "name": "Paulo Ramírez",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1664780.png"
+    },
+    {
+      "fotmobId": 418259,
+      "number": 26,
+      "name": "Aldo Rocha",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/418259.png"
+    },
+    {
+      "fotmobId": 1520968,
+      "number": 27,
+      "name": "Víctor Ríos",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1520968.png"
+    },
+    {
+      "fotmobId": 292903,
+      "number": 58,
+      "name": "Arturo González",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/292903.png"
+    },
+    {
+      "fotmobId": 1635975,
+      "number": 192,
+      "name": "Jesús Serrato",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1635975.png"
+    },
+    {
+      "fotmobId": 1933132,
+      "number": 208,
+      "name": "Jesús Guillén",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1933132.png"
+    },
+    {
+      "fotmobId": 935033,
+      "number": 11,
+      "name": "Duk",
+      "position": "RW",
+      "nationality": "Cabo Verde",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/935033.png"
+    },
+    {
+      "fotmobId": 635606,
+      "number": 8,
+      "name": "Ryan Mmaee",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/635606.png"
+    },
+    {
+      "fotmobId": 1200720,
+      "number": 9,
+      "name": "Florián Monzón",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200720.png"
+    },
+    {
+      "fotmobId": 1783371,
+      "number": 203,
+      "name": "José Martín",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1783371.png"
+    },
+    {
+      "fotmobId": 1846742,
+      "number": 251,
+      "name": "Luis Gamboa",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1846742.png"
+    }
+  ],
+  "Atletico San Luis": [
+    {
+      "fotmobId": 1274477,
+      "number": 1,
+      "name": "Andrés Sánchez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1274477.png"
+    },
+    {
+      "fotmobId": 1432267,
+      "number": 23,
+      "name": "César López",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432267.png"
+    },
+    {
+      "fotmobId": 528122,
+      "number": 25,
+      "name": "Gibrán Lajud",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/528122.png"
+    },
+    {
+      "fotmobId": 1175824,
+      "number": null,
+      "name": "Diego Urtiaga",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1175824.png"
+    },
+    {
+      "fotmobId": 1435987,
+      "number": 2,
+      "name": "Román Torres",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1435987.png"
+    },
+    {
+      "fotmobId": 926136,
+      "number": 3,
+      "name": "Robson Bambu",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/926136.png"
+    },
+    {
+      "fotmobId": 174862,
+      "number": 6,
+      "name": "Juanpe",
+      "position": "CB",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/174862.png"
+    },
+    {
+      "fotmobId": 1432169,
+      "number": 14,
+      "name": "Miguel García",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432169.png"
+    },
+    {
+      "fotmobId": 933918,
+      "number": 30,
+      "name": "Benjamín Galindo",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/933918.png"
+    },
+    {
+      "fotmobId": 1428481,
+      "number": 31,
+      "name": "Eduardo Águila",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1428481.png"
+    },
+    {
+      "fotmobId": 902047,
+      "number": 18,
+      "name": "Aldo Cruz",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/902047.png"
+    },
+    {
+      "fotmobId": 1083055,
+      "number": 16,
+      "name": "Lucas Esteves",
+      "position": "LWB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1083055.png"
+    },
+    {
+      "fotmobId": 716998,
+      "number": 10,
+      "name": "Sébastien Salles-Lamonge",
+      "position": "DM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/716998.png"
+    },
+    {
+      "fotmobId": 914118,
+      "number": 5,
+      "name": "Roberto Meráz",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/914118.png"
+    },
+    {
+      "fotmobId": 1433113,
+      "number": 13,
+      "name": "Johan Caicedo",
+      "position": "CM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433113.png"
+    },
+    {
+      "fotmobId": 1109767,
+      "number": 19,
+      "name": "Santiago Muñóz",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1109767.png"
+    },
+    {
+      "fotmobId": 889869,
+      "number": 21,
+      "name": "Óscar Macías",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/889869.png"
+    },
+    {
+      "fotmobId": 1054352,
+      "number": 11,
+      "name": "David Rodríguez",
+      "position": "AM",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1054352.png"
+    },
+    {
+      "fotmobId": 1323651,
+      "number": 22,
+      "name": "Rafa Llorente",
+      "position": "AM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1323651.png"
+    },
+    {
+      "fotmobId": 1327605,
+      "number": 26,
+      "name": "Sebastián Pérez Bouquet",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1327605.png"
+    },
+    {
+      "fotmobId": 1280818,
+      "number": 8,
+      "name": "Luis Nájera",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1280818.png"
+    },
+    {
+      "fotmobId": 988124,
+      "number": 7,
+      "name": "Benjamín Galdames",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/988124.png"
+    },
+    {
+      "fotmobId": 497398,
+      "number": 28,
+      "name": "Jesús Medina",
+      "position": "RW",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/497398.png"
+    },
+    {
+      "fotmobId": 203739,
+      "number": 9,
+      "name": "João Pedro",
+      "position": "ST",
+      "nationality": "Italy",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/203739.png"
+    },
+    {
+      "fotmobId": 1383686,
+      "number": 17,
+      "name": "Anderson Duarte",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1383686.png"
+    },
+    {
+      "fotmobId": 1359533,
+      "number": 20,
+      "name": "Leonardo Flores",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1359533.png"
+    },
+    {
+      "fotmobId": 244571,
+      "number": 99,
+      "name": "Felipe Mora",
+      "position": "ST",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/244571.png"
+    }
+  ],
+  "Club Leon": [
+    {
+      "fotmobId": 242197,
+      "number": 12,
+      "name": "Julio González",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/242197.png"
+    },
+    {
+      "fotmobId": 1339704,
+      "number": 23,
+      "name": "Óscar García",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1339704.png"
+    },
+    {
+      "fotmobId": 1433093,
+      "number": 22,
+      "name": "Sebastián Santos",
+      "position": "RWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433093.png"
+    },
+    {
+      "fotmobId": 658480,
+      "number": 4,
+      "name": "Bryan Colula",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/658480.png"
+    },
+    {
+      "fotmobId": 949958,
+      "number": 7,
+      "name": "Iván Moreno",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/949958.png"
+    },
+    {
+      "fotmobId": 524850,
+      "number": 28,
+      "name": "David Ramírez",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/524850.png"
+    },
+    {
+      "fotmobId": 1399580,
+      "number": 2,
+      "name": "Valentín Gauthier",
+      "position": "CB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1399580.png"
+    },
+    {
+      "fotmobId": 1610383,
+      "number": 3,
+      "name": "Juan Guevara",
+      "position": "CB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1610383.png"
+    },
+    {
+      "fotmobId": 478454,
+      "number": 5,
+      "name": "Sebastián Vegas",
+      "position": "CB",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/478454.png"
+    },
+    {
+      "fotmobId": 1133142,
+      "number": 14,
+      "name": "Jhohan Romaña",
+      "position": "CB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1133142.png"
+    },
+    {
+      "fotmobId": 1203345,
+      "number": 25,
+      "name": "Paúl Bellón",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1203345.png"
+    },
+    {
+      "fotmobId": 914119,
+      "number": 26,
+      "name": "Salvador Reyes",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/914119.png"
+    },
+    {
+      "fotmobId": 517555,
+      "number": 20,
+      "name": "Rodrigo Echeverría",
+      "position": "DM",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/517555.png"
+    },
+    {
+      "fotmobId": 819851,
+      "number": 29,
+      "name": "Iván Rodríguez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/819851.png"
+    },
+    {
+      "fotmobId": 950599,
+      "number": null,
+      "name": "Nicolás Fonseca",
+      "position": "DM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950599.png"
+    },
+    {
+      "fotmobId": 686460,
+      "number": null,
+      "name": "Santiago Colombatto",
+      "position": "DM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/686460.png"
+    },
+    {
+      "fotmobId": 1433134,
+      "number": 13,
+      "name": "Daniel Arcila",
+      "position": "CM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433134.png"
+    },
+    {
+      "fotmobId": 861896,
+      "number": 6,
+      "name": "Fernando Beltrán",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/861896.png"
+    },
+    {
+      "fotmobId": 1428525,
+      "number": 15,
+      "name": "Sebastián Fierro",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1428525.png"
+    },
+    {
+      "fotmobId": 1639261,
+      "number": 30,
+      "name": "Ángel Estrada",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1639261.png"
+    },
+    {
+      "fotmobId": 1329551,
+      "number": 33,
+      "name": "Abraham Villegas",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1329551.png"
+    },
+    {
+      "fotmobId": 1658882,
+      "number": 35,
+      "name": "Luis Valadez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1658882.png"
+    },
+    {
+      "fotmobId": 1708022,
+      "number": 185,
+      "name": "Christopher Mora",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1708022.png"
+    },
+    {
+      "fotmobId": 1838718,
+      "number": 203,
+      "name": "Jesús Lara",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1838718.png"
+    },
+    {
+      "fotmobId": 1294724,
+      "number": 8,
+      "name": "Juan Domínguez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1294724.png"
+    },
+    {
+      "fotmobId": 737290,
+      "number": 16,
+      "name": "Jordi Cortizo",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/737290.png"
+    },
+    {
+      "fotmobId": 1200722,
+      "number": 18,
+      "name": "Edgar Guerra",
+      "position": "RW",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200722.png"
+    },
+    {
+      "fotmobId": 574077,
+      "number": 11,
+      "name": "Ismael Díaz",
+      "position": "LW",
+      "nationality": "Panama",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/574077.png"
+    },
+    {
+      "fotmobId": 921579,
+      "number": 19,
+      "name": "Alfonso Alvarado",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/921579.png"
+    },
+    {
+      "fotmobId": 1232523,
+      "number": 27,
+      "name": "Díber Cambindo",
+      "position": "ST",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1232523.png"
+    }
+  ],
+  "Club Tijuana": [
+    {
+      "fotmobId": 324432,
+      "number": 2,
+      "name": "Antonio Rodríguez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/324432.png"
+    },
+    {
+      "fotmobId": 1432285,
+      "number": 29,
+      "name": "Salim Hernández",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432285.png"
+    },
+    {
+      "fotmobId": 1169764,
+      "number": 3,
+      "name": "Rafael Fernández",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1169764.png"
+    },
+    {
+      "fotmobId": 1228559,
+      "number": 18,
+      "name": "Aarón Mejía",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1228559.png"
+    },
+    {
+      "fotmobId": 616540,
+      "number": 4,
+      "name": "Unai Bilbao",
+      "position": "CB",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/616540.png"
+    },
+    {
+      "fotmobId": 1010407,
+      "number": 6,
+      "name": "Alejandro Gómez",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1010407.png"
+    },
+    {
+      "fotmobId": 1032039,
+      "number": 12,
+      "name": "Jackson Porozo",
+      "position": "CB",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1032039.png"
+    },
+    {
+      "fotmobId": 1945812,
+      "number": 188,
+      "name": "Alejandro Magallon",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1945812.png"
+    },
+    {
+      "fotmobId": 1225758,
+      "number": 16,
+      "name": "Alan Vega",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1225758.png"
+    },
+    {
+      "fotmobId": 1504865,
+      "number": 33,
+      "name": "Pablo Ortíz",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1504865.png"
+    },
+    {
+      "fotmobId": 1071276,
+      "number": 8,
+      "name": "Iván Tona",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1071276.png"
+    },
+    {
+      "fotmobId": 1173461,
+      "number": 20,
+      "name": "Ángel Zapata",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1173461.png"
+    },
+    {
+      "fotmobId": 1572472,
+      "number": 26,
+      "name": "Aldahir Pérez",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1572472.png"
+    },
+    {
+      "fotmobId": 791820,
+      "number": 34,
+      "name": "Frank Boya",
+      "position": "CM",
+      "nationality": "Cameroon",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/791820.png"
+    },
+    {
+      "fotmobId": 1670377,
+      "number": 10,
+      "name": "Gilberto Mora",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1670377.png"
+    },
+    {
+      "fotmobId": 430015,
+      "number": 15,
+      "name": "Ignacio Rivero",
+      "position": "AM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/430015.png"
+    },
+    {
+      "fotmobId": 1457724,
+      "number": 31,
+      "name": "Yael Padilla",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1457724.png"
+    },
+    {
+      "fotmobId": 1729963,
+      "number": 202,
+      "name": "Joban González",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1729963.png"
+    },
+    {
+      "fotmobId": 1042571,
+      "number": 11,
+      "name": "Francisco González",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1042571.png"
+    },
+    {
+      "fotmobId": 1248672,
+      "number": 13,
+      "name": "Elias Manoel",
+      "position": "RW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1248672.png"
+    },
+    {
+      "fotmobId": 1455072,
+      "number": 17,
+      "name": "Ramiro Árciga",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1455072.png"
+    },
+    {
+      "fotmobId": 1072829,
+      "number": 7,
+      "name": "Adonis Preciado",
+      "position": "LW",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1072829.png"
+    },
+    {
+      "fotmobId": 1119943,
+      "number": 9,
+      "name": "Mourad El Ghezouani",
+      "position": "ST",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1119943.png"
+    },
+    {
+      "fotmobId": 1603564,
+      "number": 19,
+      "name": "Diego Abreu",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1603564.png"
+    }
+  ],
+  "Cruz Azul": [
+    {
+      "fotmobId": 1070198,
+      "number": 1,
+      "name": "Andrés Gudiño",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1070198.png"
+    },
+    {
+      "fotmobId": 1053720,
+      "number": 23,
+      "name": "Kevin Mier",
+      "position": "GK",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1053720.png"
+    },
+    {
+      "fotmobId": 1393572,
+      "number": 30,
+      "name": "Emmanuel Ochoa",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1393572.png"
+    },
+    {
+      "fotmobId": 1435880,
+      "number": 22,
+      "name": "Jorge Rodarte",
+      "position": "RWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1435880.png"
+    },
+    {
+      "fotmobId": 965205,
+      "number": 4,
+      "name": "Willer Ditta",
+      "position": "CB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/965205.png"
+    },
+    {
+      "fotmobId": 1249286,
+      "number": 5,
+      "name": "Jesús Orozco",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1249286.png"
+    },
+    {
+      "fotmobId": 971628,
+      "number": 6,
+      "name": "Érik Lira",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/971628.png"
+    },
+    {
+      "fotmobId": 1170826,
+      "number": 12,
+      "name": "Alán Montes",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1170826.png"
+    },
+    {
+      "fotmobId": 1084523,
+      "number": 17,
+      "name": "Amaury García",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1084523.png"
+    },
+    {
+      "fotmobId": 479220,
+      "number": 33,
+      "name": "Gonzalo Piovi",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/479220.png"
+    },
+    {
+      "fotmobId": 1222470,
+      "number": 3,
+      "name": "Omar Campos",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1222470.png"
+    },
+    {
+      "fotmobId": 855911,
+      "number": 29,
+      "name": "Carlos Rotondi",
+      "position": "LWB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/855911.png"
+    },
+    {
+      "fotmobId": 1125498,
+      "number": 16,
+      "name": "Jeremy Márquez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1125498.png"
+    },
+    {
+      "fotmobId": 769593,
+      "number": 19,
+      "name": "Carlos Rodríguez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/769593.png"
+    },
+    {
+      "fotmobId": 879858,
+      "number": 8,
+      "name": "Agustín Palavecino",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/879858.png"
+    },
+    {
+      "fotmobId": 1341356,
+      "number": 10,
+      "name": "Andrés Montaño",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1341356.png"
+    },
+    {
+      "fotmobId": 1160089,
+      "number": 18,
+      "name": "Luka Romero",
+      "position": "AM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1160089.png"
+    },
+    {
+      "fotmobId": 994917,
+      "number": 20,
+      "name": "José Paradela",
+      "position": "AM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/994917.png"
+    },
+    {
+      "fotmobId": 1786014,
+      "number": 25,
+      "name": "Fernando Sámano",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1786014.png"
+    },
+    {
+      "fotmobId": 1239645,
+      "number": 32,
+      "name": "Cristian Jiménez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1239645.png"
+    },
+    {
+      "fotmobId": 1504620,
+      "number": 35,
+      "name": "Karol Velázquez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1504620.png"
+    },
+    {
+      "fotmobId": 1283439,
+      "number": 49,
+      "name": "Josué Díaz",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1283439.png"
+    },
+    {
+      "fotmobId": 1888854,
+      "number": 55,
+      "name": "Rogelio González",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888854.png"
+    },
+    {
+      "fotmobId": 996018,
+      "number": 7,
+      "name": "Nicolás Ibáñez",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/996018.png"
+    },
+    {
+      "fotmobId": 692891,
+      "number": 11,
+      "name": "Christian Ebere",
+      "position": "ST",
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/692891.png"
+    },
+    {
+      "fotmobId": 434180,
+      "number": 21,
+      "name": "Gabriel Fernández",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/434180.png"
+    },
+    {
+      "fotmobId": 1529771,
+      "number": 27,
+      "name": "Bryan Gamboa",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1529771.png"
+    },
+    {
+      "fotmobId": 1603851,
+      "number": 214,
+      "name": "Mateo Levy",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1603851.png"
+    }
+  ],
+  "FC Juarez": [
+    {
+      "fotmobId": 876495,
+      "number": 1,
+      "name": "Sebastián Jurado",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/876495.png"
+    },
+    {
+      "fotmobId": 1168815,
+      "number": 24,
+      "name": "Benny Díaz",
+      "position": "GK",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1168815.png"
+    },
+    {
+      "fotmobId": 1707890,
+      "number": 27,
+      "name": "Guillermo Ruiz",
+      "position": "GK",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1707890.png"
+    },
+    {
+      "fotmobId": 172324,
+      "number": 20,
+      "name": "Javier Aquino",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/172324.png"
+    },
+    {
+      "fotmobId": 1071281,
+      "number": 33,
+      "name": "Francisco Nevárez",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1071281.png"
+    },
+    {
+      "fotmobId": 988723,
+      "number": 2,
+      "name": "Gilberto Sepúlveda",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/988723.png"
+    },
+    {
+      "fotmobId": 425744,
+      "number": 3,
+      "name": "Jesús Murillo",
+      "position": "CB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/425744.png"
+    },
+    {
+      "fotmobId": 1015112,
+      "number": 23,
+      "name": "Haret Ortega",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1015112.png"
+    },
+    {
+      "fotmobId": 1958654,
+      "number": 203,
+      "name": "Luis Carmona",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1958654.png"
+    },
+    {
+      "fotmobId": 848043,
+      "number": 4,
+      "name": "Alejandro Mayorga",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/848043.png"
+    },
+    {
+      "fotmobId": 1658522,
+      "number": 237,
+      "name": "Eder López",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1658522.png"
+    },
+    {
+      "fotmobId": 1347199,
+      "number": 5,
+      "name": "Denzell García",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1347199.png"
+    },
+    {
+      "fotmobId": 907253,
+      "number": 6,
+      "name": "Monchu",
+      "position": "DM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/907253.png"
+    },
+    {
+      "fotmobId": 391602,
+      "number": 13,
+      "name": "Rodrigo Dourado",
+      "position": "DM",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/391602.png"
+    },
+    {
+      "fotmobId": 1459751,
+      "number": 15,
+      "name": "Lucas Romero",
+      "position": "DM",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1459751.png"
+    },
+    {
+      "fotmobId": 1118569,
+      "number": 8,
+      "name": "Guilherme Castilho",
+      "position": "CM",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1118569.png"
+    },
+    {
+      "fotmobId": 952904,
+      "number": 7,
+      "name": "Raymundo Fulgencio",
+      "position": "LM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/952904.png"
+    },
+    {
+      "fotmobId": 1729961,
+      "number": 16,
+      "name": "Juan Sigala",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1729961.png"
+    },
+    {
+      "fotmobId": 1195451,
+      "number": 21,
+      "name": "Ricardinho",
+      "position": "AM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1195451.png"
+    },
+    {
+      "fotmobId": 1435885,
+      "number": 183,
+      "name": "Leonardo Rodríguez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1435885.png"
+    },
+    {
+      "fotmobId": 1290173,
+      "number": 184,
+      "name": "Bryan Romero",
+      "position": "MIDFIELDER",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1290173.png"
+    },
+    {
+      "fotmobId": 1748492,
+      "number": 198,
+      "name": "Ricardo Juárez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1748492.png"
+    },
+    {
+      "fotmobId": 1504439,
+      "number": 201,
+      "name": "Jan Carmona",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1504439.png"
+    },
+    {
+      "fotmobId": 1116481,
+      "number": 9,
+      "name": "Madson",
+      "position": "RW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1116481.png"
+    },
+    {
+      "fotmobId": 766853,
+      "number": 10,
+      "name": "Jairo Torres",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/766853.png"
+    },
+    {
+      "fotmobId": 940333,
+      "number": 11,
+      "name": "José Luis Rodríguez",
+      "position": "LW",
+      "nationality": "Panama",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/940333.png"
+    },
+    {
+      "fotmobId": 1200027,
+      "number": 17,
+      "name": "Luca Martínez Dupuy",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200027.png"
+    },
+    {
+      "fotmobId": 683880,
+      "number": 19,
+      "name": "Óscar Estupiñán",
+      "position": "ST",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/683880.png"
+    },
+    {
+      "fotmobId": 1302079,
+      "number": 29,
+      "name": "Ettson Ayón",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1302079.png"
+    }
+  ],
+  "Monterrey": [
+    {
+      "fotmobId": 184662,
+      "number": 1,
+      "name": "Esteban Andrada",
+      "position": "GK",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/184662.png"
+    },
+    {
+      "fotmobId": 514295,
+      "number": 22,
+      "name": "Luis Cárdenas",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/514295.png"
+    },
+    {
+      "fotmobId": 1173458,
+      "number": 31,
+      "name": "César Ramos",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1173458.png"
+    },
+    {
+      "fotmobId": 659597,
+      "number": 2,
+      "name": "Ricardo Chávez",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/659597.png"
+    },
+    {
+      "fotmobId": 564634,
+      "number": 14,
+      "name": "Érick Aguirre",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/564634.png"
+    },
+    {
+      "fotmobId": 1128493,
+      "number": 4,
+      "name": "Víctor Guzmán",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1128493.png"
+    },
+    {
+      "fotmobId": 431992,
+      "number": 13,
+      "name": "Carlos Salcedo",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/431992.png"
+    },
+    {
+      "fotmobId": 1203562,
+      "number": 19,
+      "name": "Alonso Aceves",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1203562.png"
+    },
+    {
+      "fotmobId": 206767,
+      "number": 33,
+      "name": "Stefan Medina",
+      "position": "CB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/206767.png"
+    },
+    {
+      "fotmobId": 1509761,
+      "number": 34,
+      "name": "César Bustos",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1509761.png"
+    },
+    {
+      "fotmobId": 797924,
+      "number": 3,
+      "name": "Gerardo Arteaga",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/797924.png"
+    },
+    {
+      "fotmobId": 766849,
+      "number": 21,
+      "name": "Luis Reyes",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/766849.png"
+    },
+    {
+      "fotmobId": 1110661,
+      "number": 5,
+      "name": "Fidel Ambríz",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1110661.png"
+    },
+    {
+      "fotmobId": 316771,
+      "number": 8,
+      "name": "Óliver Torres",
+      "position": "DM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/316771.png"
+    },
+    {
+      "fotmobId": 1513010,
+      "number": 11,
+      "name": "Iker Fimbres",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1513010.png"
+    },
+    {
+      "fotmobId": 1572849,
+      "number": 18,
+      "name": "César Garza",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1572849.png"
+    },
+    {
+      "fotmobId": 564610,
+      "number": 30,
+      "name": "Jorge Rodríguez",
+      "position": "DM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/564610.png"
+    },
+    {
+      "fotmobId": 559986,
+      "number": 25,
+      "name": "Orbelín Pineda",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/559986.png"
+    },
+    {
+      "fotmobId": 210956,
+      "number": 17,
+      "name": "Jesús Corona",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/210956.png"
+    },
+    {
+      "fotmobId": 1432154,
+      "number": 36,
+      "name": "Javier Casillas",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432154.png"
+    },
+    {
+      "fotmobId": 1888864,
+      "number": 246,
+      "name": "Omar Gálvez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888864.png"
+    },
+    {
+      "fotmobId": 988833,
+      "number": 10,
+      "name": "Luca Orellano",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/988833.png"
+    },
+    {
+      "fotmobId": 1603859,
+      "number": 194,
+      "name": "Cristian Reyes",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1603859.png"
+    },
+    {
+      "fotmobId": 357080,
+      "number": 7,
+      "name": "Lucas Ocampos",
+      "position": "LW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/357080.png"
+    },
+    {
+      "fotmobId": 743534,
+      "number": 9,
+      "name": "Diego Rossi",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/743534.png"
+    },
+    {
+      "fotmobId": 868061,
+      "number": 27,
+      "name": "Roberto de la Rosa",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/868061.png"
+    },
+    {
+      "fotmobId": 409152,
+      "number": 32,
+      "name": "Uros Djurdjevic",
+      "position": "ST",
+      "nationality": "Montenegro",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/409152.png"
+    },
+    {
+      "fotmobId": 737974,
+      "number": 99,
+      "name": "Hugo Cuypers",
+      "position": "ST",
+      "nationality": "Belgium",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/737974.png"
+    }
+  ],
+  "Necaxa": [
+    {
+      "fotmobId": 1602180,
+      "number": 12,
+      "name": "Luis Jiménez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1602180.png"
+    },
+    {
+      "fotmobId": 1289395,
+      "number": 7,
+      "name": "Kevin Rosero",
+      "position": "RWB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1289395.png"
+    },
+    {
+      "fotmobId": 952324,
+      "number": 3,
+      "name": "Agustín Oliveros",
+      "position": "CB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/952324.png"
+    },
+    {
+      "fotmobId": 671970,
+      "number": 4,
+      "name": "Alexis Peña",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/671970.png"
+    },
+    {
+      "fotmobId": 1320170,
+      "number": 5,
+      "name": "Kaiky Naves",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1320170.png"
+    },
+    {
+      "fotmobId": 1603102,
+      "number": 15,
+      "name": "Diego Ochoa",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1603102.png"
+    },
+    {
+      "fotmobId": 1669493,
+      "number": 20,
+      "name": "Francisco Méndez",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1669493.png"
+    },
+    {
+      "fotmobId": 1432376,
+      "number": 33,
+      "name": "Raúl Martínez",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432376.png"
+    },
+    {
+      "fotmobId": 1327395,
+      "number": 14,
+      "name": "Mauro Zaleta",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1327395.png"
+    },
+    {
+      "fotmobId": 832692,
+      "number": 88,
+      "name": "Carlos Vargas",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/832692.png"
+    },
+    {
+      "fotmobId": 1045163,
+      "number": 6,
+      "name": "Danny Leyva",
+      "position": "DM",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1045163.png"
+    },
+    {
+      "fotmobId": 245581,
+      "number": 8,
+      "name": "Lorenzo Faravelli",
+      "position": "DM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/245581.png"
+    },
+    {
+      "fotmobId": 1202775,
+      "number": 16,
+      "name": "Pedro Pedraza",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1202775.png"
+    },
+    {
+      "fotmobId": 1529775,
+      "number": 13,
+      "name": "Owen González",
+      "position": "RM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1529775.png"
+    },
+    {
+      "fotmobId": 1433035,
+      "number": 11,
+      "name": "Juan Torres",
+      "position": "AM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1433035.png"
+    },
+    {
+      "fotmobId": 1888853,
+      "number": 18,
+      "name": "Israel Tello",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888853.png"
+    },
+    {
+      "fotmobId": 1209379,
+      "number": 2,
+      "name": "Emilio Martínez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1209379.png"
+    },
+    {
+      "fotmobId": 1393763,
+      "number": 17,
+      "name": "Rogelio Cortéz",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1393763.png"
+    },
+    {
+      "fotmobId": 1327190,
+      "number": 27,
+      "name": "Miguel Pedroza",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1327190.png"
+    },
+    {
+      "fotmobId": 1023022,
+      "number": 30,
+      "name": "Ricardo Monreal",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1023022.png"
+    },
+    {
+      "fotmobId": 1502908,
+      "number": 99,
+      "name": "Emilio Rodríguez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1502908.png"
+    },
+    {
+      "fotmobId": 874618,
+      "number": 9,
+      "name": "Julián Carranza",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/874618.png"
+    },
+    {
+      "fotmobId": 1513420,
+      "number": 10,
+      "name": "Javier Ruiz",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1513420.png"
+    },
+    {
+      "fotmobId": 1343371,
+      "number": 21,
+      "name": "Matías Espíndola",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1343371.png"
+    },
+    {
+      "fotmobId": 1524299,
+      "number": 90,
+      "name": "Juan Valencia",
+      "position": "ST",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1524299.png"
+    }
+  ],
+  "Pachuca": [
+    {
+      "fotmobId": 991005,
+      "number": 25,
+      "name": "Carlos Moreno",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/991005.png"
+    },
+    {
+      "fotmobId": 1226238,
+      "number": 31,
+      "name": "José Eulogio",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1226238.png"
+    },
+    {
+      "fotmobId": 1432143,
+      "number": 14,
+      "name": "Carlos Sánchez",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432143.png"
+    },
+    {
+      "fotmobId": 671944,
+      "number": 22,
+      "name": "Alan Mozo",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/671944.png"
+    },
+    {
+      "fotmobId": 907723,
+      "number": 2,
+      "name": "Sergio Barreto",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/907723.png"
+    },
+    {
+      "fotmobId": 641247,
+      "number": 4,
+      "name": "Eduardo Bauermann",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/641247.png"
+    },
+    {
+      "fotmobId": 1502906,
+      "number": 13,
+      "name": "Jorge Berlanga",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1502906.png"
+    },
+    {
+      "fotmobId": 1128764,
+      "number": 6,
+      "name": "Mauricio Isaís",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1128764.png"
+    },
+    {
+      "fotmobId": 693677,
+      "number": 15,
+      "name": "Francisco Venegas",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/693677.png"
+    },
+    {
+      "fotmobId": 1502909,
+      "number": 10,
+      "name": "Elías Montiel",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1502909.png"
+    },
+    {
+      "fotmobId": 732548,
+      "number": 16,
+      "name": "Christian Rivera",
+      "position": "DM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/732548.png"
+    },
+    {
+      "fotmobId": 1292484,
+      "number": 26,
+      "name": "Alán Bautista",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1292484.png"
+    },
+    {
+      "fotmobId": 1789747,
+      "number": 30,
+      "name": "Sergio Rodríguez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1789747.png"
+    },
+    {
+      "fotmobId": 390785,
+      "number": 7,
+      "name": "Rodolfo Pizarro",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/390785.png"
+    },
+    {
+      "fotmobId": 1396770,
+      "number": 32,
+      "name": "Pedro Budib",
+      "position": "MIDFIELDER",
+      "nationality": "Lebanon",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1396770.png"
+    },
+    {
+      "fotmobId": 1510568,
+      "number": 8,
+      "name": "Alexéi Domínguez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1510568.png"
+    },
+    {
+      "fotmobId": 1280280,
+      "number": 19,
+      "name": "Illian Hernández",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1280280.png"
+    },
+    {
+      "fotmobId": 467354,
+      "number": 29,
+      "name": "Kenedy",
+      "position": "RW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/467354.png"
+    },
+    {
+      "fotmobId": 1959179,
+      "number": 139,
+      "name": "Jonatan Ramirez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1959179.png"
+    },
+    {
+      "fotmobId": 1658984,
+      "number": 187,
+      "name": "Gael Álvarez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1658984.png"
+    },
+    {
+      "fotmobId": 1888849,
+      "number": 211,
+      "name": "Cristóbal Hernández",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888849.png"
+    },
+    {
+      "fotmobId": 690188,
+      "number": 11,
+      "name": "Oussama Idrissi",
+      "position": "LW",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/690188.png"
+    },
+    {
+      "fotmobId": 1388237,
+      "number": 21,
+      "name": "Nicolás Vallejo",
+      "position": "LW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1388237.png"
+    },
+    {
+      "fotmobId": 1354553,
+      "number": 9,
+      "name": "Adrián Alcaraz",
+      "position": "ST",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1354553.png"
+    },
+    {
+      "fotmobId": 51545,
+      "number": 23,
+      "name": "Salomón Rondón",
+      "position": "ST",
+      "nationality": "Venezuela",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/51545.png"
+    }
+  ],
+  "Puebla": [
+    {
+      "fotmobId": 951053,
+      "number": 28,
+      "name": "Ricardo Gutiérrez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/951053.png"
+    },
+    {
+      "fotmobId": 716086,
+      "number": 33,
+      "name": "Jesús Rodríguez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/716086.png"
+    },
+    {
+      "fotmobId": 1832559,
+      "number": 195,
+      "name": "Álvaro de la Rosa",
+      "position": "RWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1832559.png"
+    },
+    {
+      "fotmobId": 1352812,
+      "number": 12,
+      "name": "Iker Moreno",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1352812.png"
+    },
+    {
+      "fotmobId": 1707538,
+      "number": 2,
+      "name": "Ángel Leyva",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1707538.png"
+    },
+    {
+      "fotmobId": 734283,
+      "number": 4,
+      "name": "Juan Vargas",
+      "position": "CB",
+      "nationality": "Costa Rica",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/734283.png"
+    },
+    {
+      "fotmobId": 995062,
+      "number": 5,
+      "name": "Facundo Almada",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/995062.png"
+    },
+    {
+      "fotmobId": 1658519,
+      "number": 13,
+      "name": "Eduardo Navarro",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1658519.png"
+    },
+    {
+      "fotmobId": 1504613,
+      "number": 20,
+      "name": "José Pachuca",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1504613.png"
+    },
+    {
+      "fotmobId": 1399027,
+      "number": 7,
+      "name": "Fernando Monárrez",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1399027.png"
+    },
+    {
+      "fotmobId": 1199210,
+      "number": 15,
+      "name": "Óscar Villa",
+      "position": "LWB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1199210.png"
+    },
+    {
+      "fotmobId": 1295524,
+      "number": 3,
+      "name": "Alberto Herrera",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1295524.png"
+    },
+    {
+      "fotmobId": 1342851,
+      "number": 16,
+      "name": "Alonso Ramírez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1342851.png"
+    },
+    {
+      "fotmobId": 1787334,
+      "number": 21,
+      "name": "Sergio Sanabria",
+      "position": "DM",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1787334.png"
+    },
+    {
+      "fotmobId": 1139937,
+      "number": 24,
+      "name": "Alejandro Organista",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1139937.png"
+    },
+    {
+      "fotmobId": 1432127,
+      "number": 8,
+      "name": "Omar Moreno",
+      "position": "RM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1432127.png"
+    },
+    {
+      "fotmobId": 996036,
+      "number": 22,
+      "name": "Carlos Baltazar",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/996036.png"
+    },
+    {
+      "fotmobId": 1927931,
+      "number": 34,
+      "name": "Lucas Camilo",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1927931.png"
+    },
+    {
+      "fotmobId": 1325351,
+      "number": 10,
+      "name": "Mathías Tomás",
+      "position": "RW",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1325351.png"
+    },
+    {
+      "fotmobId": 978252,
+      "number": 26,
+      "name": "Kevin Velasco",
+      "position": "RW",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/978252.png"
+    },
+    {
+      "fotmobId": 684129,
+      "number": 27,
+      "name": "Brayan Garnica",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/684129.png"
+    },
+    {
+      "fotmobId": 935366,
+      "number": 11,
+      "name": "Emiliano Gómez",
+      "position": "LW",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/935366.png"
+    },
+    {
+      "fotmobId": 1199711,
+      "number": 9,
+      "name": "Luifer Hernández",
+      "position": "ST",
+      "nationality": "Venezuela",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1199711.png"
+    },
+    {
+      "fotmobId": 1035189,
+      "number": 17,
+      "name": "Raúl Castillo",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1035189.png"
+    },
+    {
+      "fotmobId": 1221231,
+      "number": 19,
+      "name": "Ignacio Maestro Puch",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1221231.png"
+    },
+    {
+      "fotmobId": 1192467,
+      "number": 29,
+      "name": "Eduardo Mustre",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1192467.png"
+    }
+  ],
+  "Queretaro": [
+    {
+      "fotmobId": 716748,
+      "number": 1,
+      "name": "José Hernández",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/716748.png"
+    },
+    {
+      "fotmobId": 207791,
+      "number": 25,
+      "name": "Guillermo Allison",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/207791.png"
+    },
+    {
+      "fotmobId": 1554213,
+      "number": 24,
+      "name": "Bayron Duarte",
+      "position": "RB",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1554213.png"
+    },
+    {
+      "fotmobId": 942984,
+      "number": 2,
+      "name": "Lucas Abascia",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/942984.png"
+    },
+    {
+      "fotmobId": 1436165,
+      "number": 5,
+      "name": "Santiago Homenchenko",
+      "position": "CB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1436165.png"
+    },
+    {
+      "fotmobId": 201111,
+      "number": 13,
+      "name": "Diego Reyes",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/201111.png"
+    },
+    {
+      "fotmobId": 350568,
+      "number": 15,
+      "name": "Carlos Villanueva",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/350568.png"
+    },
+    {
+      "fotmobId": 772312,
+      "number": 27,
+      "name": "Daniel Parra",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/772312.png"
+    },
+    {
+      "fotmobId": 1198714,
+      "number": 4,
+      "name": "Carlo García",
+      "position": "CM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1198714.png"
+    },
+    {
+      "fotmobId": 1470112,
+      "number": 8,
+      "name": "Bernardo Parra",
+      "position": "CM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1470112.png"
+    },
+    {
+      "fotmobId": 1323022,
+      "number": 7,
+      "name": "Iker Benito",
+      "position": "RM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1323022.png"
+    },
+    {
+      "fotmobId": 1269652,
+      "number": 12,
+      "name": "Paulo Victor",
+      "position": "LM",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1269652.png"
+    },
+    {
+      "fotmobId": 1895026,
+      "number": 35,
+      "name": "Juan Pablo Cázares",
+      "position": "LM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1895026.png"
+    },
+    {
+      "fotmobId": 1253261,
+      "number": 20,
+      "name": "Álex Alcalá",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1253261.png"
+    },
+    {
+      "fotmobId": 2090276,
+      "number": 30,
+      "name": "Mono Martínez",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2090276.png"
+    },
+    {
+      "fotmobId": 1541556,
+      "number": 28,
+      "name": "Jesús Arellano",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1541556.png"
+    },
+    {
+      "fotmobId": 1251768,
+      "number": 29,
+      "name": "Waldo Madrid",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1251768.png"
+    },
+    {
+      "fotmobId": 2090277,
+      "number": 199,
+      "name": "Sergio Garcia Brothers",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2090277.png"
+    },
+    {
+      "fotmobId": 864978,
+      "number": 16,
+      "name": "Enzo Giménez",
+      "position": "RW",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/864978.png"
+    },
+    {
+      "fotmobId": 1166561,
+      "number": 18,
+      "name": "Erik Dueñas",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1166561.png"
+    },
+    {
+      "fotmobId": 1666305,
+      "number": 22,
+      "name": "Jean Unjanque",
+      "position": "RW",
+      "nationality": "Senegal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1666305.png"
+    },
+    {
+      "fotmobId": 1442404,
+      "number": 23,
+      "name": "Juan Robles",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1442404.png"
+    },
+    {
+      "fotmobId": 1109028,
+      "number": 9,
+      "name": "Alí Ávila",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1109028.png"
+    },
+    {
+      "fotmobId": 884282,
+      "number": 11,
+      "name": "Mateo Coronel",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/884282.png"
+    },
+    {
+      "fotmobId": 559997,
+      "number": 26,
+      "name": "Eduardo Pérez",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/559997.png"
+    }
+  ],
+  "Santos Laguna": [
+    {
+      "fotmobId": 751164,
+      "number": 1,
+      "name": "Carlos Acevedo",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/751164.png"
+    },
+    {
+      "fotmobId": 1169789,
+      "number": 33,
+      "name": "Héctor Holguín",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1169789.png"
+    },
+    {
+      "fotmobId": 1079040,
+      "number": 3,
+      "name": "Mauricio Cuevas",
+      "position": "RB",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1079040.png"
+    },
+    {
+      "fotmobId": 466755,
+      "number": 4,
+      "name": "Javier Abella",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/466755.png"
+    },
+    {
+      "fotmobId": 1435553,
+      "number": 22,
+      "name": "Kevin Picón",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1435553.png"
+    },
+    {
+      "fotmobId": 1910396,
+      "number": 185,
+      "name": "Juan Echilvestre",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1910396.png"
+    },
+    {
+      "fotmobId": 823038,
+      "number": 14,
+      "name": "Efraín Orona",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/823038.png"
+    },
+    {
+      "fotmobId": 845263,
+      "number": 18,
+      "name": "Franco Pardo",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/845263.png"
+    },
+    {
+      "fotmobId": 1436220,
+      "number": 25,
+      "name": "Felipe Sánchez",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1436220.png"
+    },
+    {
+      "fotmobId": 1621323,
+      "number": 28,
+      "name": "Jonathan Pérez",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1621323.png"
+    },
+    {
+      "fotmobId": 1192255,
+      "number": 2,
+      "name": "Bruno Amione",
+      "position": "LB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1192255.png"
+    },
+    {
+      "fotmobId": 1572473,
+      "number": 17,
+      "name": "Emmanuel Echeverría",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1572473.png"
+    },
+    {
+      "fotmobId": 1138422,
+      "number": 5,
+      "name": "Aldo López",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1138422.png"
+    },
+    {
+      "fotmobId": 471119,
+      "number": 6,
+      "name": "Javier Güémez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/471119.png"
+    },
+    {
+      "fotmobId": 1239856,
+      "number": 8,
+      "name": "Salvador Mariscal",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1239856.png"
+    },
+    {
+      "fotmobId": 317822,
+      "number": 11,
+      "name": "Carlos Gruezo",
+      "position": "DM",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/317822.png"
+    },
+    {
+      "fotmobId": 1817893,
+      "number": 195,
+      "name": "Nelson Cedillo",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1817893.png"
+    },
+    {
+      "fotmobId": 1348496,
+      "number": 7,
+      "name": "Diego González",
+      "position": "RM",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1348496.png"
+    },
+    {
+      "fotmobId": 972098,
+      "number": 10,
+      "name": "Ezequiel Bullaude",
+      "position": "AM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/972098.png"
+    },
+    {
+      "fotmobId": 638074,
+      "number": 21,
+      "name": "Fran Villalba",
+      "position": "AM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/638074.png"
+    },
+    {
+      "fotmobId": 1431197,
+      "number": 15,
+      "name": "Joshua Mancha",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1431197.png"
+    },
+    {
+      "fotmobId": 1096623,
+      "number": 24,
+      "name": "Diego Medina",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1096623.png"
+    },
+    {
+      "fotmobId": 1201409,
+      "number": 26,
+      "name": "Ramiro Sordo",
+      "position": "LW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1201409.png"
+    },
+    {
+      "fotmobId": 1300602,
+      "number": 77,
+      "name": "Kevin Palacios",
+      "position": "LW",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1300602.png"
+    },
+    {
+      "fotmobId": 1621326,
+      "number": 193,
+      "name": "Luis Gómez",
+      "position": "LW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1621326.png"
+    },
+    {
+      "fotmobId": 740753,
+      "number": 9,
+      "name": "Lucas Di Yorio",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/740753.png"
+    },
+    {
+      "fotmobId": 689693,
+      "number": 19,
+      "name": "Eduardo Aguirre",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/689693.png"
+    },
+    {
+      "fotmobId": 1580561,
+      "number": 29,
+      "name": "Tahiel Jiménez",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1580561.png"
+    }
+  ],
+  "Tigres UANL": [
+    {
+      "fotmobId": 193993,
+      "number": 1,
+      "name": "Nahuel Guzmán",
+      "position": "GK",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/193993.png"
+    },
+    {
+      "fotmobId": 182467,
+      "number": 25,
+      "name": "Felipe Rodríguez",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/182467.png"
+    },
+    {
+      "fotmobId": 1075104,
+      "number": 14,
+      "name": "Jesús Garza",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1075104.png"
+    },
+    {
+      "fotmobId": 832165,
+      "number": 15,
+      "name": "Alan Franco",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/832165.png"
+    },
+    {
+      "fotmobId": 1072253,
+      "number": 23,
+      "name": "Rômulo",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1072253.png"
+    },
+    {
+      "fotmobId": 882469,
+      "number": 27,
+      "name": "Jesús Angulo",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/882469.png"
+    },
+    {
+      "fotmobId": 1257033,
+      "number": 28,
+      "name": "Joaquim",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1257033.png"
+    },
+    {
+      "fotmobId": 1295538,
+      "number": 33,
+      "name": "Rafael Guerrero",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1295538.png"
+    },
+    {
+      "fotmobId": 1382531,
+      "number": 2,
+      "name": "Francisco Reyes",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1382531.png"
+    },
+    {
+      "fotmobId": 825589,
+      "number": 3,
+      "name": "Marco Farfán",
+      "position": "LB",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/825589.png"
+    },
+    {
+      "fotmobId": 950917,
+      "number": 32,
+      "name": "Vladimir Loroña",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950917.png"
+    },
+    {
+      "fotmobId": 643753,
+      "number": 35,
+      "name": "Osvaldo Rodríguez",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/643753.png"
+    },
+    {
+      "fotmobId": 1076308,
+      "number": 5,
+      "name": "César Araújo",
+      "position": "DM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1076308.png"
+    },
+    {
+      "fotmobId": 350153,
+      "number": 6,
+      "name": "Juan Vigón",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/350153.png"
+    },
+    {
+      "fotmobId": 495198,
+      "number": 8,
+      "name": "Fernando Gorriarán",
+      "position": "DM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/495198.png"
+    },
+    {
+      "fotmobId": 1926960,
+      "number": 34,
+      "name": "Henrique Simeone",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1926960.png"
+    },
+    {
+      "fotmobId": 643756,
+      "number": 19,
+      "name": "Mauro Laínez",
+      "position": "LM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/643756.png"
+    },
+    {
+      "fotmobId": 793586,
+      "number": 11,
+      "name": "Juan Brunetta",
+      "position": "AM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/793586.png"
+    },
+    {
+      "fotmobId": 1470110,
+      "number": 26,
+      "name": "Fernando Ordóñez",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1470110.png"
+    },
+    {
+      "fotmobId": 828972,
+      "number": 16,
+      "name": "Diego Lainez",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/828972.png"
+    },
+    {
+      "fotmobId": 1692804,
+      "number": 205,
+      "name": "Antonio de María y Campos",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1692804.png"
+    },
+    {
+      "fotmobId": 1186513,
+      "number": 20,
+      "name": "Marcelo Flores",
+      "position": "LW",
+      "nationality": "Canada",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1186513.png"
+    },
+    {
+      "fotmobId": 1612708,
+      "number": 30,
+      "name": "Diego Sánchez",
+      "position": "LW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1612708.png"
+    },
+    {
+      "fotmobId": 974948,
+      "number": 77,
+      "name": "Ozziel Herrera",
+      "position": "LW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/974948.png"
+    },
+    {
+      "fotmobId": 401095,
+      "number": 17,
+      "name": "Rodrigo Aguirre",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/401095.png"
+    },
+    {
+      "fotmobId": 1744427,
+      "number": 200,
+      "name": "Diego Ramirez",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1744427.png"
+    }
+  ],
+  "Toluca": [
+    {
+      "fotmobId": 188123,
+      "number": 1,
+      "name": "Hugo González",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/188123.png"
+    },
+    {
+      "fotmobId": 1344945,
+      "number": 12,
+      "name": "Ronaldo Beltrán",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1344945.png"
+    },
+    {
+      "fotmobId": 417520,
+      "number": 22,
+      "name": "Luis García",
+      "position": "GK",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/417520.png"
+    },
+    {
+      "fotmobId": 766850,
+      "number": 2,
+      "name": "Diego Barbosa",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/766850.png"
+    },
+    {
+      "fotmobId": 1208803,
+      "number": 19,
+      "name": "Santiago Simón",
+      "position": "RB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1208803.png"
+    },
+    {
+      "fotmobId": 291556,
+      "number": 3,
+      "name": "Antonio Briseño",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/291556.png"
+    },
+    {
+      "fotmobId": 933574,
+      "number": 4,
+      "name": "Bruno Méndez",
+      "position": "CB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/933574.png"
+    },
+    {
+      "fotmobId": 1053836,
+      "number": 6,
+      "name": "Federico Pereira",
+      "position": "CB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1053836.png"
+    },
+    {
+      "fotmobId": 387490,
+      "number": 13,
+      "name": "Luan",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/387490.png"
+    },
+    {
+      "fotmobId": 1353113,
+      "number": 25,
+      "name": "Everardo López",
+      "position": "CB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1353113.png"
+    },
+    {
+      "fotmobId": 1205874,
+      "number": 17,
+      "name": "Brian García",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1205874.png"
+    },
+    {
+      "fotmobId": 597976,
+      "number": 20,
+      "name": "Jesús Gallardo",
+      "position": "LB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/597976.png"
+    },
+    {
+      "fotmobId": 833581,
+      "number": 5,
+      "name": "Franco Romero",
+      "position": "DM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/833581.png"
+    },
+    {
+      "fotmobId": 643749,
+      "number": 7,
+      "name": "Víctor Guzmán",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/643749.png"
+    },
+    {
+      "fotmobId": 950681,
+      "number": 14,
+      "name": "Marcel Ruiz",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950681.png"
+    },
+    {
+      "fotmobId": 659034,
+      "number": 24,
+      "name": "Fernando Arce",
+      "position": "DM",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/659034.png"
+    },
+    {
+      "fotmobId": 497838,
+      "number": 35,
+      "name": "Érick Gutiérrez",
+      "position": "DM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/497838.png"
+    },
+    {
+      "fotmobId": 1099712,
+      "number": 8,
+      "name": "Nicolás Castro",
+      "position": "AM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1099712.png"
+    },
+    {
+      "fotmobId": 730888,
+      "number": 10,
+      "name": "Jesús Angulo",
+      "position": "AM",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/730888.png"
+    },
+    {
+      "fotmobId": 1783531,
+      "number": 184,
+      "name": "Sebastián Aceves",
+      "position": "MIDFIELDER",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1783531.png"
+    },
+    {
+      "fotmobId": 935183,
+      "number": 11,
+      "name": "Helinho",
+      "position": "RW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/935183.png"
+    },
+    {
+      "fotmobId": 728365,
+      "number": 9,
+      "name": "Alexis Vega",
+      "position": "LW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/728365.png"
+    },
+    {
+      "fotmobId": 1179357,
+      "number": 15,
+      "name": "Pável Pérez",
+      "position": "LW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1179357.png"
+    },
+    {
+      "fotmobId": 1032811,
+      "number": 16,
+      "name": "Federico Viñas",
+      "position": "ST",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1032811.png"
+    },
+    {
+      "fotmobId": 867741,
+      "number": 21,
+      "name": "Iván López",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/867741.png"
+    },
+    {
+      "fotmobId": 1367053,
+      "number": 23,
+      "name": "Oswaldo Virgen",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1367053.png"
+    },
+    {
+      "fotmobId": 361377,
+      "number": 26,
+      "name": "Paulinho",
+      "position": "ST",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/361377.png"
+    },
+    {
+      "fotmobId": 914079,
+      "number": 29,
+      "name": "Jorge Díaz",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/914079.png"
+    }
+  ]
+}
