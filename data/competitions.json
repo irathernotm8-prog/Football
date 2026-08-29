@@ -247,22 +247,39 @@
   },
   "ucl": {
     "label": "Champions League",
-    "type": "league_then_knockout",
-    "status": "standings-only",
+    "type": "league",
+    "status": "active",
     "country": "Europe",
     "source": "uefa_manual",
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-ucl.json",
       "squads": null,
-      "history": null
+      "history": "data/history-ucl.json"
     },
     "stream": "Paramount+",
-    "color": "#0033a0",
+    "color": "#306bd1",
     "standingsWidgetId": "6232267fbf1fa71a67215dfc",
     "hasStandings": true,
-    "notes": "Standings page only for now - fixtures/squads deliberately left off to keep scope manageable. 36-team league phase has a fixed schedule published by UEFA (usually ~2 days after the draw); knockout rounds from Feb onward are drawn incrementally.",
-    "standingsOrder": 6
+    "notes": "Full league phase now live: 36 teams, 144 fixtures (2026/27 season), sourced directly from UEFA's official schedule. Squads not built yet. Knockout-phase play-offs (Feb 2027 onward) will need to be appended once drawn.",
+    "standingsOrder": 6,
+    "logo": "assets/league-logos/ucl.png",
+    "theme": {
+      "bg": "#0a0e28",
+      "surface": "#141b31",
+      "surface2": "#1b253d",
+      "line": "#2f3e5a",
+      "accent": "#306bd1",
+      "accentDark": "#1f478f",
+      "radial1": "#22346b",
+      "radial2": "#1c2b5c",
+      "radial3": "#172553",
+      "linear1": "#121a3d",
+      "linear3": "#070a1f",
+      "titleTop": "#8dc0ff",
+      "titleBot": "#1a408f",
+      "accentRgb": "48, 107, 209"
+    }
   },
   "europa": {
     "label": "Europa League",

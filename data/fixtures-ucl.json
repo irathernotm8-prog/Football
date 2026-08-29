@@ -1,0 +1,1154 @@
+[
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T16:45:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "LASK",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T16:45:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Aston Villa",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T19:00:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "Villarreal CF",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T19:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Man City",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T19:00:00Z",
+    "venue": "Stade Pierre-Mauroy",
+    "home": "LOSC Lille",
+    "away": "Real Betis",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-08T19:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "Inter",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T16:45:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Feyenoord",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T16:45:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "Viking",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Atlético de Madrid",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "Slovan Bratislava",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Arsenal",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T16:45:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Roma",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T16:45:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "Shakhtar Donetsk",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T19:00:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "RB Leipzig",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T19:00:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Bodø/Glimt",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T19:00:00Z",
+    "venue": "Old Trafford",
+    "home": "Man Utd",
+    "away": "Sabah",
+    "result": null
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-10T19:00:00Z",
+    "venue": "Sinobo Stadium",
+    "home": "Slavia Praha",
+    "away": "RC Lens",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T16:45:00Z",
+    "venue": "Stade Bollaert-Delelis",
+    "home": "RC Lens",
+    "away": "Sporting CP",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T16:45:00Z",
+    "venue": "Dalga Arena",
+    "home": "Sabah",
+    "away": "Slavia Praha",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Emirates Stadium",
+    "home": "Arsenal",
+    "away": "LOSC Lille",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Riyadh Air Metropolitano",
+    "home": "Atlético de Madrid",
+    "away": "Man Utd",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Club Brugge",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "FC Barcelona",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Red Bull Arena",
+    "home": "RB Leipzig",
+    "away": "PSV",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "SR-Bank Arena",
+    "home": "Viking",
+    "away": "FC Bayern München",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Napoli",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T16:45:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "Como",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T16:45:00Z",
+    "venue": "Raiffeisen Arena",
+    "home": "LASK",
+    "away": "Liverpool",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Real Madrid",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Villa Park",
+    "home": "Aston Villa",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "AEK Athens",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Aspmyra Stadion",
+    "home": "Bodø/Glimt",
+    "away": "Borussia Dortmund",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Paris Saint-Germain",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Estadio La Cartuja",
+    "home": "Real Betis",
+    "away": "FC Porto",
+    "result": null
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Národný futbalový štadión",
+    "home": "Slovan Bratislava",
+    "away": "VfB Stuttgart",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T16:45:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Slavia Praha",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T16:45:00Z",
+    "venue": "Dalga Arena",
+    "home": "Sabah",
+    "away": "Borussia Dortmund",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Slovan Bratislava",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "PSV",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Villarreal CF",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "AEK Athens",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "FC Barcelona",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Bodø/Glimt",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "Atlético de Madrid",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T16:45:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Man Utd",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T16:45:00Z",
+    "venue": "Stade Pierre-Mauroy",
+    "home": "LOSC Lille",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Villa Park",
+    "home": "Aston Villa",
+    "away": "Viking",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "RC Lens",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Arsenal",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Shakhtar Donetsk",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "RB Leipzig",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Estadio La Cartuja",
+    "home": "Real Betis",
+    "away": "Feyenoord",
+    "result": null
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "LASK",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T17:45:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "Sporting CP",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T17:45:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "VfB Stuttgart",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Riyadh Air Metropolitano",
+    "home": "Atlético de Madrid",
+    "away": "FC Bayern München",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Aston Villa",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "Inter",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Aspmyra Stadion",
+    "home": "Bodø/Glimt",
+    "away": "LOSC Lille",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Raiffeisen Arena",
+    "home": "LASK",
+    "away": "Slovan Bratislava",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Old Trafford",
+    "home": "Man Utd",
+    "away": "Roma",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Paris Saint-Germain",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T17:45:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T17:45:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Liverpool",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "Real Betis",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Napoli",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "Club Brugge",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "Red Bull Arena",
+    "home": "RB Leipzig",
+    "away": "Man City",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "Stade Bollaert-Delelis",
+    "home": "RC Lens",
+    "away": "Como",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "Sinobo Stadium",
+    "home": "Slavia Praha",
+    "away": "Arsenal",
+    "result": null
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-04T20:00:00Z",
+    "venue": "SR-Bank Arena",
+    "home": "Viking",
+    "away": "Sabah",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T17:45:00Z",
+    "venue": "Aspmyra Stadion",
+    "home": "Bodø/Glimt",
+    "away": "LASK",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T17:45:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Aston Villa",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Emirates Stadium",
+    "home": "Arsenal",
+    "away": "Borussia Dortmund",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "AEK Athens",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "FC Porto",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Napoli",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Red Bull Arena",
+    "home": "RB Leipzig",
+    "away": "RC Lens",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "PSV",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-24T20:00:00Z",
+    "venue": "Národný futbalový štadión",
+    "home": "Slovan Bratislava",
+    "away": "Real Betis",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T17:45:00Z",
+    "venue": "Dalga Arena",
+    "home": "Sabah",
+    "away": "FC Barcelona",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T17:45:00Z",
+    "venue": "Sinobo Stadium",
+    "home": "Slavia Praha",
+    "away": "Villarreal CF",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Riyadh Air Metropolitano",
+    "home": "Atlético de Madrid",
+    "away": "Viking",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Liverpool",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "VfB Stuttgart",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Stade Pierre-Mauroy",
+    "home": "LOSC Lille",
+    "away": "FC Bayern München",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "Roma",
+    "result": null
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Man Utd",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T17:45:00Z",
+    "venue": "SR-Bank Arena",
+    "home": "Viking",
+    "away": "Feyenoord",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T17:45:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Sabah",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Sporting CP",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Villa Park",
+    "home": "Aston Villa",
+    "away": "Paris Saint-Germain",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Man City",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Slavia Praha",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Old Trafford",
+    "home": "Man Utd",
+    "away": "RB Leipzig",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Club Brugge",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T17:45:00Z",
+    "venue": "Estadio La Cartuja",
+    "home": "Real Betis",
+    "away": "Como",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T17:45:00Z",
+    "venue": "Národný futbalový štadión",
+    "home": "Slovan Bratislava",
+    "away": "Shakhtar Donetsk",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "Emirates Stadium",
+    "home": "Arsenal",
+    "away": "Real Madrid",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "Inter",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "Raiffeisen Arena",
+    "home": "LASK",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "FC Porto",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "Atlético de Madrid",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "Stade Bollaert-Delelis",
+    "home": "RC Lens",
+    "away": "Bodø/Glimt",
+    "result": null
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-09T20:00:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "LOSC Lille",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T17:45:00Z",
+    "venue": "Aspmyra Stadion",
+    "home": "Bodø/Glimt",
+    "away": "Atlético de Madrid",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T17:45:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "Feyenoord",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Roma",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Villa Park",
+    "home": "Aston Villa",
+    "away": "Borussia Dortmund",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Liverpool",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Slavia Praha",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Stade Pierre-Mauroy",
+    "home": "LOSC Lille",
+    "away": "Slovan Bratislava",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "LASK",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "Club Brugge",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T17:45:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Villarreal CF",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T17:45:00Z",
+    "venue": "Dalga Arena",
+    "home": "Sabah",
+    "away": "Napoli",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Paris Saint-Germain",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Old Trafford",
+    "home": "Man Utd",
+    "away": "FC Bayern München",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Red Bull Arena",
+    "home": "RB Leipzig",
+    "away": "Shakhtar Donetsk",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Stade Bollaert-Delelis",
+    "home": "RC Lens",
+    "away": "Man City",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Estadio La Cartuja",
+    "home": "Real Betis",
+    "away": "Arsenal",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "FC Barcelona",
+    "result": null
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-20T20:00:00Z",
+    "venue": "SR-Bank Arena",
+    "home": "Viking",
+    "away": "PSV",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Emirates Stadium",
+    "home": "Arsenal",
+    "away": "Sabah",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "LOSC Lille",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Riyadh Air Metropolitano",
+    "home": "Atlético de Madrid",
+    "away": "Fenerbahçe",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "AEK Athens",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Bodø/Glimt",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Real Betis",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Como",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "Real Madrid",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "RB Leipzig",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Raiffeisen Arena",
+    "home": "LASK",
+    "away": "FC Porto",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "RC Lens",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Sporting CP",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "Galatasaray",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "VfB Stuttgart",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Sinobo Stadium",
+    "home": "Slavia Praha",
+    "away": "Aston Villa",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Viking",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Man Utd",
+    "result": null
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Národný futbalový štadión",
+    "home": "Slovan Bratislava",
+    "away": "Inter",
+    "result": null
+  }
+]

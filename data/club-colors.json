@@ -1508,5 +1508,50 @@
     "primary": "#003893",
     "secondary": "#7A1E3C",
     "text": "#ffffff"
+  },
+  "AEK Athens": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "LASK": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Viking": {
+    "primary": "#ffffff",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Slovan Bratislava": {
+    "primary": "#0093D0",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Shakhtar Donetsk": {
+    "primary": "#FF6600",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Sabah": {
+    "primary": "#0057B8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Club Brugge": {
+    "primary": "#0057B8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Bodø/Glimt": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Slavia Praha": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
   }
 }
