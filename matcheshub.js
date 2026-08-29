@@ -157,13 +157,17 @@ async function populateMhTeamFilter() {
 function fixtureCardHtml(m) {
   var status = getMatchStatus(m);
   var metaHtml;
+  var venue = (m.venue != null && String(m.venue).trim() && String(m.venue).toLowerCase() !== "null")
+    ? String(m.venue).trim()
+    : "";
+  var venueSuffix = venue ? " &middot; " + venue : "";
   if (status === "live") {
     var scoreText = m.result ? m.result : "In progress";
-    metaHtml = '<span class="live-dot"></span>LIVE &middot; ' + scoreText + " &middot; " + m.venue;
+    metaHtml = '<span class="live-dot"></span>LIVE &middot; ' + scoreText + venueSuffix;
   } else if (status === "final") {
-    metaHtml = (m.result ? "FT " + m.result : "Full Time") + " &middot; " + m.venue;
+    metaHtml = (m.result ? "FT " + m.result : "Full Time") + venueSuffix;
   } else {
-    metaHtml = formatLocalTime(m.dateUtc) + " &middot; " + m.venue;
+    metaHtml = formatLocalTime(m.dateUtc) + venueSuffix;
   }
 
   var matchupAttrs = 'data-matchup-home="' + m.home.replace(/"/g, "&quot;") + '" data-matchup-away="' + m.away.replace(/"/g, "&quot;") + '" data-matchup-league="' + m.leagueKey + '"';
@@ -327,7 +331,7 @@ function matchRowHtml(m) {
     '<span class="match-row-team match-row-team-home club-link" data-club-link="' + m.home.replace(/"/g, "&quot;") + '">' + m.home + crestHtml(m.home, "match-row-crest") + "</span>" +
     '<span class="match-row-center">' + scoreOrTime + "</span>" +
     '<span class="match-row-team match-row-team-away club-link" data-club-link="' + m.away.replace(/"/g, "&quot;") + '">' + crestHtml(m.away, "match-row-crest") + m.away + "</span>" +
-    '<span class="match-row-venue">' + m.venue + "</span>" +
+    '<span class="match-row-venue">' + ((m.venue != null && String(m.venue).trim() && String(m.venue).toLowerCase() !== "null") ? String(m.venue).trim() : "") + "</span>" +
     "</div>"
   );
 }
