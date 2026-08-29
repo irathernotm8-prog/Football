@@ -5,7 +5,9 @@
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "FC Famalicão",
-    "result": "1 - 1"
+    "result": "1-1",
+    "fotmobId": 5887559,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -13,7 +15,9 @@
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "Casa Pia AC",
-    "result": "1 - 0"
+    "result": "1-0",
+    "fotmobId": 5887561,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -21,7 +25,9 @@
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "FC Arouca",
-    "result": "0 - 1"
+    "result": "0-1",
+    "fotmobId": 5887566,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -29,7 +35,9 @@
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "Sporting CP",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887558,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -37,7 +45,9 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "FC Alverca",
-    "result": "2 - 0"
+    "result": "2-0",
+    "fotmobId": 5887563,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -45,7 +55,9 @@
     "venue": "Estádio Cidade de Barcelos",
     "home": "Gil Vicente FC",
     "away": "Rio Ave FC",
-    "result": "1 - 0"
+    "result": "1-0",
+    "fotmobId": 5887560,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -53,7 +65,9 @@
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "SC Braga",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887562,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -61,7 +75,9 @@
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Académico",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887565,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -69,7 +85,9 @@
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "CD Nacional",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887564,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -77,7 +95,9 @@
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Vitória SC",
-    "result": "3 - 2"
+    "result": "3-2",
+    "fotmobId": 5887599,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -85,7 +105,9 @@
     "venue": "Estádio do FC Alverca",
     "home": "FC Alverca",
     "away": "Estrela Amadora",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887592,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -93,7 +115,9 @@
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Santa Clara",
-    "result": "0 - 1"
+    "result": "0-1",
+    "fotmobId": 5887591,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -101,7 +125,9 @@
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "FC Porto",
-    "result": "0 - 2"
+    "result": "0-2",
+    "fotmobId": 5887598,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -109,7 +135,9 @@
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Estoril Praia",
-    "result": "2 - 0"
+    "result": "2-0",
+    "fotmobId": 5887597,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -117,15 +145,9 @@
     "venue": "Estádio Municipal de Arouca",
     "home": "FC Arouca",
     "away": "Moreirense FC",
-    "result": "4 - 0"
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-08-16T19:30:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Gil Vicente FC",
-    "result": null
+    "result": "4-0",
+    "fotmobId": 5887593,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -133,7 +155,19 @@
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "Marítimo M.",
-    "result": "1 - 2"
+    "result": "1-2",
+    "fotmobId": 5887596,
+    "status": "finished"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-08-16T19:30:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887594,
+    "status": "cancelled"
   },
   {
     "round": 2,
@@ -141,7 +175,9 @@
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "SL Benfica",
-    "result": "0 - 7"
+    "result": "0-7",
+    "fotmobId": 5887595,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -149,7 +185,9 @@
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "Académico",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5887603,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -157,7 +195,9 @@
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "Rio Ave FC",
-    "result": "0 - 2"
+    "result": "0-2",
+    "fotmobId": 5887601,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -165,7 +205,9 @@
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "FC Alverca",
-    "result": "3 - 1"
+    "result": "3-1",
+    "fotmobId": 5887607,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -173,7 +215,9 @@
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "CD Nacional",
-    "result": "1 - 0"
+    "result": "1-0",
+    "fotmobId": 5887608,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -181,7 +225,9 @@
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "FC Famalicão",
-    "result": "1 - 0"
+    "result": "1-0",
+    "fotmobId": 5887606,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -189,7 +235,9 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "FC Arouca",
-    "result": "2 - 0"
+    "result": "2-0",
+    "fotmobId": 5887605,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -197,7 +245,9 @@
     "venue": "Estádio Cidade de Barcelos",
     "home": "Gil Vicente FC",
     "away": "Casa Pia AC",
-    "result": "2 - 0"
+    "result": "2-0",
+    "fotmobId": 5887602,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -205,7 +255,9 @@
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887604,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -213,7 +265,9 @@
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887600,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -221,7 +275,9 @@
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "Sporting CP",
-    "result": null
+    "result": "0-4",
+    "fotmobId": 5887616,
+    "status": "finished"
   },
   {
     "round": 4,
@@ -229,7 +285,9 @@
     "venue": "Estádio do FC Alverca",
     "home": "FC Alverca",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887610,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -237,7 +295,9 @@
     "venue": "Estádio Municipal de Arouca",
     "home": "FC Arouca",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887611,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -245,7 +305,9 @@
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887609,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -253,7 +315,9 @@
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Estrela Amadora",
-    "result": null
+    "result": null,
+    "fotmobId": 5887615,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -261,7 +325,9 @@
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887613,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -269,7 +335,9 @@
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "Gil Vicente FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887614,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -277,7 +345,9 @@
     "venue": "Estádio Municipal de Braga",
     "home": "SC Braga",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887612,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -285,2166 +355,2708 @@
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Estoril Praia",
-    "result": null
+    "result": null,
+    "fotmobId": 5887617,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "SC Braga",
-    "result": null
+    "dateUtc": "2026-09-04T19:15:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887623,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "FC Famalicão",
-    "result": null
+    "dateUtc": "2026-09-04T19:15:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887625,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "FC Arouca",
-    "result": null
+    "dateUtc": "2026-09-05T14:30:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887619,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Académico",
-    "result": null
+    "dateUtc": "2026-09-05T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887618,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
+    "dateUtc": "2026-09-05T17:00:00Z",
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887622,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2026-09-06T14:30:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887624,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2026-09-06T17:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887626,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "CD Nacional",
-    "result": null
+    "dateUtc": "2026-09-06T19:30:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887621,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-05T23:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-09-07T19:15:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887620,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
+    "dateUtc": "2026-09-13T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887627,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Santa Clara",
-    "result": null
+    "dateUtc": "2026-09-13T16:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887630,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Estoril Praia",
-    "result": null
+    "dateUtc": "2026-09-13T16:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887633,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "FC Porto",
-    "result": null
+    "dateUtc": "2026-09-13T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887628,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
+    "dateUtc": "2026-09-13T16:00:00Z",
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887631,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
+    "dateUtc": "2026-09-13T16:00:00Z",
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887632,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "FC Alverca",
-    "result": null
+    "dateUtc": "2026-09-13T16:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887634,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "Estrela Amadora",
-    "result": null
+    "dateUtc": "2026-09-13T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887629,
+    "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-12T23:00:00Z",
+    "dateUtc": "2026-09-13T16:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Gil Vicente FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887635,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887640,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Académico",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887638,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887637,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Marítimo M.",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887636,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "FC Famalicão",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887641,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887639,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
+    "dateUtc": "2026-09-20T16:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887642,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
+    "dateUtc": "2026-09-20T16:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "FC Arouca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887643,
+    "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-09-19T23:00:00Z",
+    "dateUtc": "2026-09-20T16:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887644,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
+    "dateUtc": "2026-10-11T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Estoril Praia",
-    "result": null
+    "result": null,
+    "fotmobId": 5887645,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Estrela Amadora",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887648,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887646,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Santa Clara",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887649,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "FC Alverca",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887650,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "FC Porto",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887651,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Gil Vicente FC",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887652,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "CD Nacional",
-    "result": null
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887647,
+    "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-10T23:00:00Z",
+    "dateUtc": "2026-10-11T16:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887653,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "FC Arouca",
-    "result": null
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887658,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887656,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887655,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "FC Porto",
-    "result": null
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887654,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "SC Braga",
-    "result": null
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887657,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
+    "dateUtc": "2026-10-25T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "FC Famalicão",
-    "result": null
+    "result": null,
+    "fotmobId": 5887659,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
+    "dateUtc": "2026-10-25T17:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887660,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
+    "dateUtc": "2026-10-25T17:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Académico",
-    "result": null
+    "result": null,
+    "fotmobId": 5887661,
+    "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-24T23:00:00Z",
+    "dateUtc": "2026-10-25T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887662,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887663,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "CD Nacional",
-    "result": null
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887666,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "FC Famalicão",
-    "result": null
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887664,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887670,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": "Estádio Cidade de Barcelos",
     "home": "Gil Vicente FC",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887667,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887668,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "Estrela Amadora",
-    "result": null
+    "result": null,
+    "fotmobId": 5887669,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Estoril Praia",
-    "result": null
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887665,
+    "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T00:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887671,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887676,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887674,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Marítimo M.",
-    "result": null
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887673,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "FC Arouca",
-    "result": null
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887672,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "Académico",
-    "result": null
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887675,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
+    "dateUtc": "2026-11-08T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887677,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
+    "dateUtc": "2026-11-08T17:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "Gil Vicente FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887678,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
+    "dateUtc": "2026-11-08T17:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887679,
+    "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T00:00:00Z",
+    "dateUtc": "2026-11-08T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887680,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
+    "dateUtc": "2026-11-29T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887681,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887683,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "SC Braga",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887682,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Estoril Praia",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887687,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "CD Nacional",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887684,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Santa Clara",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887685,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2026-11-29T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887686,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
+    "dateUtc": "2026-11-29T17:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "FC Famalicão",
-    "result": null
+    "result": null,
+    "fotmobId": 5887688,
+    "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-29T00:00:00Z",
+    "dateUtc": "2026-11-29T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "Estrela Amadora",
-    "result": null
+    "result": null,
+    "fotmobId": 5887689,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887695,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Gil Vicente FC",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887693,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "FC Arouca",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887691,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Vitória SC",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887690,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
+    "dateUtc": "2026-12-06T17:00:00Z",
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "Académico",
-    "result": null
+    "result": null,
+    "fotmobId": 5887694,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887696,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887697,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "FC Porto",
-    "result": null
+    "dateUtc": "2026-12-06T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887692,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-06T00:00:00Z",
+    "dateUtc": "2026-12-06T17:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887698,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
+    "dateUtc": "2026-12-13T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "FC Arouca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887699,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
+    "dateUtc": "2026-12-13T17:00:00Z",
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "CD Nacional",
-    "result": null
+    "result": null,
+    "fotmobId": 5887700,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
+    "dateUtc": "2026-12-13T17:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887701,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2026-12-13T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887705,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2026-12-13T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887702,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "FC Famalicão",
-    "result": null
+    "dateUtc": "2026-12-13T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887703,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Estrela Amadora",
-    "result": null
+    "dateUtc": "2026-12-13T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887704,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
+    "dateUtc": "2026-12-13T17:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887706,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-13T00:00:00Z",
+    "dateUtc": "2026-12-13T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887707,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Gil Vicente FC",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887713,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
+    "dateUtc": "2026-12-20T17:00:00Z",
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887709,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Casa Pia AC",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887708,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Académico",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887710,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
+    "dateUtc": "2026-12-20T17:00:00Z",
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887712,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887714,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887715,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "Vitória SC",
-    "result": null
+    "dateUtc": "2026-12-20T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887711,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-20T00:00:00Z",
+    "dateUtc": "2026-12-20T17:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Estoril Praia",
-    "result": null
+    "result": null,
+    "fotmobId": 5887716,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
+    "dateUtc": "2026-12-27T17:00:00Z",
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "FC Famalicão",
-    "result": null
+    "result": null,
+    "fotmobId": 5887717,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
+    "dateUtc": "2026-12-27T17:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887718,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "FC Arouca",
-    "result": null
+    "dateUtc": "2026-12-27T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887722,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "SC Braga",
-    "result": null
+    "dateUtc": "2026-12-27T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887719,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Académico",
-    "result": null
+    "dateUtc": "2026-12-27T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887720,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "CD Nacional",
-    "result": null
+    "dateUtc": "2026-12-27T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887721,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
+    "dateUtc": "2026-12-27T17:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "Estrela Amadora",
-    "result": null
+    "result": null,
+    "fotmobId": 5887723,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
+    "dateUtc": "2026-12-27T17:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887724,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-27T00:00:00Z",
+    "dateUtc": "2026-12-27T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887725,
+    "status": "scheduled"
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
+    "dateUtc": "2027-01-10T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Casa Pia AC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887726,
+    "status": "scheduled"
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Marítimo M.",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "SL Benfica",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "FC Porto",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Vitória SC",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
+    "dateUtc": "2027-01-10T17:00:00Z",
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Gil Vicente FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887732,
+    "status": "scheduled"
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
+    "dateUtc": "2027-01-10T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887728,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-10T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887727,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-10T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887729,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-10T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887731,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-10T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887733,
+    "status": "scheduled"
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-10T00:00:00Z",
+    "dateUtc": "2027-01-10T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887730,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-10T17:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887734,
+    "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "Estrela Amadora",
-    "result": null
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio Municipal do Fontelo",
+    "home": "Académico",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887742,
+    "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
+    "dateUtc": "2027-01-17T17:00:00Z",
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887738,
+    "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Moreirense FC",
-    "result": null
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "FC Porto",
-    "result": null
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
+    "dateUtc": "2027-01-17T17:00:00Z",
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887741,
+    "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
-    "venue": "Estádio Municipal do Fontelo",
-    "home": "Académico",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887740,
+    "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-17T00:00:00Z",
+    "dateUtc": "2027-01-17T17:00:00Z",
     "venue": "Estádio Municipal de Arouca",
     "home": "FC Arouca",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887743,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887736,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887737,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887739,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-17T17:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887735,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "Académico",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "SC Braga",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
+    "dateUtc": "2027-01-24T17:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "CD Nacional",
-    "result": null
+    "result": null,
+    "fotmobId": 5887750,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887745,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-24T00:00:00Z",
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887751,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887747,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887749,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887746,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887744,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887748,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-24T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887752,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
+    "dateUtc": "2027-01-31T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887756,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887755,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "FC Porto",
-    "result": null
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887761,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Santa Clara",
-    "result": null
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887760,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887758,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-31T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "Vitória SC",
-    "result": null
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887759,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887754,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887753,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-31T17:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887757,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Académico",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "SC Braga",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "Rio Ave FC",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-02-07T00:00:00Z",
+    "dateUtc": "2027-02-07T17:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887770,
+    "status": "scheduled"
   },
   {
-    "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887768,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887762,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887767,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887764,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887766,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887763,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887769,
+    "status": "scheduled"
+  },
+  {
+    "round": 21,
+    "dateUtc": "2027-02-07T17:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887765,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
+    "dateUtc": "2027-02-14T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Gil Vicente FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887774,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Marítimo M.",
-    "result": null
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887779,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887778,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887773,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887772,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-14T17:00:00Z",
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887776,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
+    "dateUtc": "2027-02-14T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887777,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "Sporting CP",
-    "result": null
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887771,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-14T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Vitória SC",
-    "result": null
+    "dateUtc": "2027-02-14T17:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887775,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "Académico",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
+    "dateUtc": "2027-02-21T17:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887782,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "Moreirense FC",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
+    "dateUtc": "2027-02-21T17:00:00Z",
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887787,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-21T00:00:00Z",
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887786,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887783,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
     "venue": "Estádio Cidade de Barcelos",
     "home": "Gil Vicente FC",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887788,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887785,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887781,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887784,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-21T17:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887780,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio Municipal do Fontelo",
+    "home": "Académico",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887790,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887791,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887796,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887793,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887792,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887797,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-28T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "FC Alverca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887789,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio Municipal do Fontelo",
-    "home": "Académico",
-    "away": "Estrela Amadora",
-    "result": null
+    "dateUtc": "2027-02-28T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887795,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
+    "dateUtc": "2027-02-28T17:00:00Z",
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "FC Porto",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Santa Clara",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Sporting CP",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-28T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887794,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Académico",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "SC Braga",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Marítimo M.",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Moreirense FC",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
+    "dateUtc": "2027-03-07T17:00:00Z",
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887805,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-07T00:00:00Z",
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887798,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887799,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887802,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887803,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887804,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887801,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887800,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-07T17:00:00Z",
     "venue": "Estádio D. Afonso Henriques",
     "home": "Vitória SC",
     "away": "SL Benfica",
-    "result": null
+    "result": null,
+    "fotmobId": 5887806,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Rio Ave FC",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Santa Clara",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
+    "dateUtc": "2027-03-14T17:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887814,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-14T00:00:00Z",
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887808,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887807,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887812,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887810,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887815,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887809,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887811,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-14T17:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887813,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887817,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "FC Porto",
+    "result": null,
+    "fotmobId": 5887823,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887822,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887824,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887818,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-21T17:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "Académico",
-    "result": null
+    "result": null,
+    "fotmobId": 5887816,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "SC Braga",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
+    "dateUtc": "2027-03-21T17:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "Marítimo M.",
-    "result": null
+    "result": null,
+    "fotmobId": 5887821,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Moreirense FC",
-    "result": null
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887819,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "FC Porto",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-21T00:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2027-03-21T17:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887820,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
+    "dateUtc": "2027-04-04T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "CD Nacional",
-    "result": null
+    "result": null,
+    "fotmobId": 5887829,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Rio Ave FC",
-    "result": null
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887825,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Santa Clara",
-    "result": null
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887828,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "Sporting CP",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T23:00:00Z",
+    "dateUtc": "2027-04-04T16:00:00Z",
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887833,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887831,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887827,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 5887832,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887830,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-04T16:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887826,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
+    "dateUtc": "2027-04-11T16:00:00Z",
+    "venue": "Estádio da Madeira",
+    "home": "CD Nacional",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887838,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-11T16:00:00Z",
+    "venue": "Estádio António Coimbra da Mota",
+    "home": "Estoril Praia",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887837,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-11T16:00:00Z",
+    "venue": "Estádio José Gomes",
+    "home": "Estrela Amadora",
+    "away": "Vitória SC",
+    "result": null,
+    "fotmobId": 5887842,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-11T16:00:00Z",
     "venue": "Estádio do FC Alverca",
     "home": "FC Alverca",
     "away": "Académico",
-    "result": null
+    "result": null,
+    "fotmobId": 5887834,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
+    "dateUtc": "2027-04-11T16:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887841,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-11T16:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "FC Arouca",
-    "result": null
+    "result": null,
+    "fotmobId": 5887835,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
-    "venue": "Estádio António Coimbra da Mota",
-    "home": "Estoril Praia",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
-    "venue": "Estádio da Madeira",
-    "home": "CD Nacional",
-    "away": "Marítimo M.",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
+    "dateUtc": "2027-04-11T16:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887839,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
+    "dateUtc": "2027-04-11T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887836,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-11T16:00:00Z",
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "FC Porto",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "SL Benfica",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T23:00:00Z",
-    "venue": "Estádio José Gomes",
-    "home": "Estrela Amadora",
-    "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887840,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "SC Braga",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
+    "dateUtc": "2027-04-18T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "FC Famalicão",
-    "result": null
+    "result": null,
+    "fotmobId": 5887847,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
+    "dateUtc": "2027-04-18T16:00:00Z",
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887849,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
+    "dateUtc": "2027-04-18T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "SC Braga",
+    "result": null,
+    "fotmobId": 5887845,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-18T16:00:00Z",
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887850,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-17T23:00:00Z",
+    "dateUtc": "2027-04-18T16:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887844,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-18T16:00:00Z",
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887851,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-18T16:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887843,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-18T16:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887848,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-18T16:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887846,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Académico",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
+    "dateUtc": "2027-04-25T16:00:00Z",
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Casa Pia AC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887853,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio de São Miguel",
-    "home": "Santa Clara",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio do Rio Ave Futebol Clube",
-    "home": "Rio Ave FC",
-    "away": "Marítimo M.",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Moreirense FC",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
+    "dateUtc": "2027-04-25T16:00:00Z",
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887858,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "SL Benfica",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-04-24T23:00:00Z",
+    "dateUtc": "2027-04-25T16:00:00Z",
     "venue": "Estádio do FC Alverca",
     "home": "FC Alverca",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887860,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Académico",
+    "result": null,
+    "fotmobId": 5887852,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Moreirense FC",
+    "result": null,
+    "fotmobId": 5887857,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "home": "Rio Ave FC",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887856,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio de São Miguel",
+    "home": "Santa Clara",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887854,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887859,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-04-25T16:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887855,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio Cidade de Barcelos",
-    "home": "Gil Vicente FC",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "Estrela Amadora",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
+    "dateUtc": "2027-05-02T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887864,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio do Dragão",
-    "home": "FC Porto",
-    "away": "FC Famalicão",
-    "result": null
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887863,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
-    "home": "Moreirense FC",
-    "away": "CD Nacional",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "Rio Ave FC",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "Santa Clara",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-01T23:00:00Z",
+    "dateUtc": "2027-05-02T16:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887869,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio do Dragão",
+    "home": "FC Porto",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887865,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio Cidade de Barcelos",
+    "home": "Gil Vicente FC",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887861,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "Estrela Amadora",
+    "result": null,
+    "fotmobId": 5887862,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
+    "home": "Moreirense FC",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887866,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "Rio Ave FC",
+    "result": null,
+    "fotmobId": 5887867,
+    "status": "scheduled"
+  },
+  {
+    "round": 32,
+    "dateUtc": "2027-05-02T16:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "Santa Clara",
+    "result": null,
+    "fotmobId": 5887868,
+    "status": "scheduled"
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
-    "venue": "Estádio Municipal de Famalicão",
-    "home": "FC Famalicão",
-    "away": "Casa Pia AC",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
-    "venue": "Estádio do FC Alverca",
-    "home": "FC Alverca",
-    "away": "Estoril Praia",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
-    "venue": "Estádio Municipal de Arouca",
-    "home": "FC Arouca",
-    "away": "Gil Vicente FC",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
-    "venue": "Estádio Municipal de Braga",
-    "home": "SC Braga",
-    "away": "Marítimo M.",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
+    "dateUtc": "2027-05-09T16:00:00Z",
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Moreirense FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887874,
+    "status": "scheduled"
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
+    "dateUtc": "2027-05-09T16:00:00Z",
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 5887875,
+    "status": "scheduled"
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
+    "dateUtc": "2027-05-09T16:00:00Z",
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
     "away": "Santa Clara",
-    "result": null
+    "result": null,
+    "fotmobId": 5887876,
+    "status": "scheduled"
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "SL Benfica",
-    "result": null
+    "dateUtc": "2027-05-09T16:00:00Z",
+    "venue": "Estádio do FC Alverca",
+    "home": "FC Alverca",
+    "away": "Estoril Praia",
+    "result": null,
+    "fotmobId": 5887871,
+    "status": "scheduled"
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-08T23:00:00Z",
+    "dateUtc": "2027-05-09T16:00:00Z",
+    "venue": "Estádio Municipal de Arouca",
+    "home": "FC Arouca",
+    "away": "Gil Vicente FC",
+    "result": null,
+    "fotmobId": 5887872,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-09T16:00:00Z",
+    "venue": "Estádio Municipal de Famalicão",
+    "home": "FC Famalicão",
+    "away": "Casa Pia AC",
+    "result": null,
+    "fotmobId": 5887870,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-09T16:00:00Z",
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "Vitória SC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887878,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-09T16:00:00Z",
+    "venue": "Estádio Municipal de Braga",
+    "home": "SC Braga",
+    "away": "Marítimo M.",
+    "result": null,
+    "fotmobId": 5887873,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-09T16:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "SL Benfica",
+    "result": null,
+    "fotmobId": 5887877,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "Académico",
-    "result": null
+    "result": null,
+    "fotmobId": 5887879,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
-    "venue": "Estádio do Marítimo",
-    "home": "Marítimo M.",
-    "away": "FC Alverca",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Estádio António Coimbra da Mota",
     "home": "Estoril Praia",
     "away": "Estrela Amadora",
-    "result": null
+    "result": null,
+    "fotmobId": 5887881,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
-    "venue": "Estádio do Sport Lisboa e Benfica",
-    "home": "SL Benfica",
-    "away": "FC Arouca",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "SC Braga",
-    "result": null
+    "result": null,
+    "fotmobId": 5887883,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
-    "venue": "Estádio D. Afonso Henriques",
-    "home": "Vitória SC",
-    "away": "FC Famalicão",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Estádio Cidade de Barcelos",
     "home": "Gil Vicente FC",
     "away": "CD Nacional",
-    "result": null
+    "result": null,
+    "fotmobId": 5887885,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
+    "venue": "Estádio do Marítimo",
+    "home": "Marítimo M.",
+    "away": "FC Alverca",
+    "result": null,
+    "fotmobId": 5887880,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "Rio Ave FC",
-    "result": null
+    "result": null,
+    "fotmobId": 5887886,
+    "status": "scheduled"
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-15T23:00:00Z",
+    "dateUtc": "2027-05-16T16:00:00Z",
     "venue": "Estádio de São Miguel",
     "home": "Santa Clara",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 5887887,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-16T16:00:00Z",
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "home": "SL Benfica",
+    "away": "FC Arouca",
+    "result": null,
+    "fotmobId": 5887882,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-16T16:00:00Z",
+    "venue": "Estádio D. Afonso Henriques",
+    "home": "Vitória SC",
+    "away": "FC Famalicão",
+    "result": null,
+    "fotmobId": 5887884,
+    "status": "scheduled"
   }
 ]

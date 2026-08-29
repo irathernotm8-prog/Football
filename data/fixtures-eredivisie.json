@@ -5,7 +5,9 @@
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "Excelsior Rotterdam",
-    "result": "0 - 4"
+    "result": "0-4",
+    "fotmobId": 5781701,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -13,7 +15,9 @@
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "Telstar",
-    "result": "1 - 2"
+    "result": "1-2",
+    "fotmobId": 5781698,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -21,7 +25,9 @@
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "Willem II",
-    "result": "4 - 1"
+    "result": "4-1",
+    "fotmobId": 5781702,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -29,7 +35,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Fortuna Sittard",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5781700,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -37,7 +45,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "ADO Den Haag",
-    "result": "2 - 0"
+    "result": "2-0",
+    "fotmobId": 5781699,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -45,15 +55,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "Feyenoord",
-    "result": "0 - 1"
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-08-09T12:30:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Ajax",
-    "result": "0 - 2"
+    "result": "0-1",
+    "fotmobId": 5781696,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -61,7 +65,19 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "FC Utrecht",
-    "result": "2 - 1"
+    "result": "2-1",
+    "fotmobId": 5781704,
+    "status": "finished"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-08-09T12:30:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Ajax",
+    "result": "0-2",
+    "fotmobId": 5781697,
+    "status": "finished"
   },
   {
     "round": 1,
@@ -69,7 +85,9 @@
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "FC Twente",
-    "result": "1 - 0"
+    "result": "1-0",
+    "fotmobId": 5781703,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -77,7 +95,9 @@
     "venue": "Sportpark Schoonenberg",
     "home": "Telstar",
     "away": "Sparta Rotterdam",
-    "result": "1 - 3"
+    "result": "1-3",
+    "fotmobId": 5781710,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -85,7 +105,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "N.E.C. Nijmegen",
-    "result": "1 - 4"
+    "result": "1-4",
+    "fotmobId": 5781706,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -93,7 +115,9 @@
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "AZ",
-    "result": "1 - 4"
+    "result": "1-4",
+    "fotmobId": 5781707,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -101,7 +125,9 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "PSV",
-    "result": "1 - 2"
+    "result": "1-2",
+    "fotmobId": 5781711,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -109,7 +135,9 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "SC Cambuur",
-    "result": "3 - 1"
+    "result": "3-1",
+    "fotmobId": 5781713,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -117,7 +145,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "FC Groningen",
-    "result": "1 - 4"
+    "result": "1-4",
+    "fotmobId": 5781712,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -125,7 +155,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "PEC Zwolle",
-    "result": "3 - 1"
+    "result": "3-1",
+    "fotmobId": 5781705,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -133,7 +165,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "Go Ahead Eagles",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5781708,
+    "status": "finished"
   },
   {
     "round": 2,
@@ -141,7 +175,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "sc Heerenveen",
-    "result": "2 - 2"
+    "result": "2-2",
+    "fotmobId": 5781709,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -149,7 +185,9 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "AZ",
-    "result": "0 - 2"
+    "result": "0-2",
+    "fotmobId": 5781716,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -157,15 +195,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "FC Utrecht",
-    "result": "3 - 3"
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-08-22T18:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "Excelsior Rotterdam",
-    "result": null
+    "result": "3-3",
+    "fotmobId": 5781715,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -173,7 +205,9 @@
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "PEC Zwolle",
-    "result": "0 - 2"
+    "result": "0-2",
+    "fotmobId": 5781719,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -181,7 +215,9 @@
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "ADO Den Haag",
-    "result": "3 - 1"
+    "result": "3-1",
+    "fotmobId": 5781717,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -189,7 +225,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "FC Groningen",
-    "result": "5 - 1"
+    "result": "5-1",
+    "fotmobId": 5781714,
+    "status": "finished"
   },
   {
     "round": 3,
@@ -197,7 +235,19 @@
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "Feyenoord",
-    "result": "2 - 5"
+    "result": "2-5",
+    "fotmobId": 5781721,
+    "status": "finished"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-08T16:45:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781720,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -205,7 +255,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781722,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -213,7 +265,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781718,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -221,7 +275,9 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": "2-3",
+    "fotmobId": 5781729,
+    "status": "finished"
   },
   {
     "round": 4,
@@ -229,7 +285,9 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781723,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -237,7 +295,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781724,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -245,7 +305,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781725,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -253,7 +315,9 @@
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781726,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -261,7 +325,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781727,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -269,7 +335,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781728,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -277,7 +345,9 @@
     "venue": "Sportpark Schoonenberg",
     "home": "Telstar",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781730,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -285,7 +355,9 @@
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "FC Twente",
-    "result": null
+    "result": null,
+    "fotmobId": 5781731,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -293,7 +365,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781738,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -301,7 +375,9 @@
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781737,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -309,7 +385,9 @@
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781733,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -317,7 +395,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781735,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -325,7 +405,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781739,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -333,15 +415,9 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-06T12:30:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781732,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -349,7 +425,19 @@
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781736,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-06T12:30:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781734,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -357,7 +445,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781740,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -365,7 +455,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781742,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -373,7 +465,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781746,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -381,7 +475,9 @@
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781748,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -389,15 +485,19 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781747,
+    "status": "scheduled"
   },
   {
     "round": 6,
     "dateUtc": "2026-09-12T19:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "Telstar",
-    "result": null
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781741,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -405,15 +505,9 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "FC Utrecht",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-13T12:30:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781745,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -421,7 +515,19 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781743,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-13T12:30:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781744,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -429,7 +535,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781749,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -437,7 +545,9 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781754,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -445,7 +555,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781755,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -453,7 +565,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781756,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -461,7 +575,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781757,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -469,7 +585,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781758,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -477,15 +595,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "FC Utrecht",
-    "result": null
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-09-20T12:30:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781750,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -493,7 +605,19 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781752,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-09-20T12:30:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781751,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -501,7 +625,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781753,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -509,7 +635,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781762,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -517,7 +645,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781759,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -525,7 +655,9 @@
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781765,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -533,7 +665,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781764,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -541,7 +675,9 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "FC Twente",
-    "result": null
+    "result": null,
+    "fotmobId": 5781767,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -549,7 +685,9 @@
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781761,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -557,7 +695,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781763,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -565,7 +705,9 @@
     "venue": "Sportpark Schoonenberg",
     "home": "Telstar",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781766,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -573,7 +715,9 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781760,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -581,7 +725,9 @@
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781769,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -589,15 +735,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-17T16:45:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781776,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -605,7 +745,9 @@
     "venue": "Sportpark Schoonenberg",
     "home": "Telstar",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781774,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -613,7 +755,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781768,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -621,15 +765,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "Go Ahead Eagles",
-    "result": null
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-18T12:30:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781775,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -637,7 +775,19 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781773,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-18T12:30:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781771,
+    "status": "scheduled"
   },
   {
     "round": 9,
@@ -645,7 +795,19 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781772,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-18T18:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781770,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -653,7 +815,9 @@
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781781,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -661,7 +825,9 @@
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781784,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -669,7 +835,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781785,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -677,7 +845,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781779,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -685,7 +855,9 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781780,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -693,7 +865,9 @@
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781777,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -701,7 +875,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781783,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -709,7 +885,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781778,
+    "status": "scheduled"
   },
   {
     "round": 10,
@@ -717,7 +895,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "FC Twente",
-    "result": null
+    "result": null,
+    "fotmobId": 5781782,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -725,15 +905,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-10-31T17:45:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781787,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -741,7 +915,19 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781793,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-10-31T17:45:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781791,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -749,7 +935,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781786,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -757,7 +945,9 @@
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781788,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -765,15 +955,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-01T13:30:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781792,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -781,7 +965,19 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "FC Twente",
-    "result": null
+    "result": null,
+    "fotmobId": 5781794,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-01T13:30:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781790,
+    "status": "scheduled"
   },
   {
     "round": 11,
@@ -789,7 +985,9 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781789,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -797,7 +995,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781802,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -805,7 +1005,9 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781801,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -813,7 +1015,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781799,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -821,7 +1025,9 @@
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781796,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -829,7 +1035,9 @@
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781800,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -837,15 +1045,9 @@
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "Feyenoord",
-    "result": null
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-08T13:30:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781797,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -853,7 +1055,19 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781803,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-08T13:30:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781795,
+    "status": "scheduled"
   },
   {
     "round": 12,
@@ -861,367 +1075,459 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781798,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
+    "dateUtc": "2026-11-21T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781804,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "PEC Zwolle",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
+    "dateUtc": "2026-11-21T19:00:00Z",
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781808,
+    "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "AZ",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-11-21T00:00:00Z",
+    "dateUtc": "2026-11-21T19:00:00Z",
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781812,
+    "status": "scheduled"
   },
   {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "AZ",
-    "result": null
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781811,
+    "status": "scheduled"
   },
   {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "Fortuna Sittard Stadion",
-    "home": "Fortuna Sittard",
-    "away": "sc Heerenveen",
-    "result": null
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "Euroborg",
-    "home": "FC Groningen",
-    "away": "Willem II",
-    "result": null
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
     "venue": "De Kuip",
     "home": "Feyenoord",
-    "away": "Ajax",
-    "result": null
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781806,
+    "status": "scheduled"
   },
   {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781809,
+    "status": "scheduled"
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
-    "away": "FC Twente",
-    "result": null
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781805,
+    "status": "scheduled"
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781810,
+    "status": "scheduled"
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-11-21T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "PEC Zwolle",
+    "result": null,
+    "fotmobId": 5781807,
+    "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "Sparta Rotterdam",
-    "result": null
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "Go Ahead Eagles",
-    "result": null
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-11-28T00:00:00Z",
+    "dateUtc": "2026-11-28T19:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781821,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781816,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Euroborg",
+    "home": "FC Groningen",
+    "away": "Willem II",
+    "result": null,
+    "fotmobId": 5781815,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781817,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Fortuna Sittard Stadion",
+    "home": "Fortuna Sittard",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781814,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781818,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781813,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781820,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-11-28T19:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781819,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
+    "dateUtc": "2026-12-05T19:00:00Z",
+    "venue": "ADO Den Haag Stadium",
+    "home": "ADO Den Haag",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781825,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-05T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781822,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "Feyenoord",
-    "result": null
-  },
-  {
-    "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
+    "dateUtc": "2026-12-05T19:00:00Z",
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781824,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
-    "venue": "ADO Den Haag Stadium",
-    "home": "ADO Den Haag",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
+    "dateUtc": "2026-12-05T19:00:00Z",
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781829,
+    "status": "scheduled"
   },
   {
     "round": 15,
-    "dateUtc": "2026-12-05T00:00:00Z",
+    "dateUtc": "2026-12-05T19:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781828,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-05T19:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781827,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-05T19:00:00Z",
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781830,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-05T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781826,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2026-12-05T19:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "Feyenoord",
+    "result": null,
+    "fotmobId": 5781823,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "AFAS Stadion",
-    "home": "AZ",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
+    "dateUtc": "2026-12-12T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781832,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "ADO Den Haag",
-    "result": null
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": "AFAS Stadion",
+    "home": "AZ",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781831,
+    "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "Go Ahead Eagles",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "Sparta Rotterdam",
-    "result": null
-  },
-  {
-    "round": 16,
-    "dateUtc": "2026-12-12T00:00:00Z",
+    "dateUtc": "2026-12-12T19:00:00Z",
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781839,
+    "status": "scheduled"
   },
   {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "Fortuna Sittard Stadion",
-    "home": "Fortuna Sittard",
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781838,
+    "status": "scheduled"
   },
   {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "Ajax",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
-    "away": "sc Heerenveen",
-    "result": null
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781835,
+    "status": "scheduled"
   },
   {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781836,
+    "status": "scheduled"
+  },
+  {
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
     "venue": "Philips Stadion",
     "home": "PSV",
-    "away": "PEC Zwolle",
-    "result": null
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781834,
+    "status": "scheduled"
   },
   {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "Willem II",
-    "result": null
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781837,
+    "status": "scheduled"
   },
   {
-    "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
+    "round": 16,
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781833,
+    "status": "scheduled"
   },
   {
     "round": 17,
-    "dateUtc": "2026-12-19T00:00:00Z",
+    "dateUtc": "2026-12-19T19:00:00Z",
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781848,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781844,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781843,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Fortuna Sittard Stadion",
+    "home": "Fortuna Sittard",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781840,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781841,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781847,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "PEC Zwolle",
+    "result": null,
+    "fotmobId": 5781845,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781842,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2026-12-19T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "Willem II",
+    "result": null,
+    "fotmobId": 5781846,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1229,7 +1535,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781850,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1237,7 +1545,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781855,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1245,7 +1555,9 @@
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781857,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1253,7 +1565,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781851,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1261,7 +1575,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781852,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1269,7 +1585,9 @@
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781856,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1277,7 +1595,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781849,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1285,7 +1605,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781854,
+    "status": "scheduled"
   },
   {
     "round": 18,
@@ -1293,1055 +1615,1269 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781853,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Fortuna Sittard Stadion",
-    "home": "Fortuna Sittard",
-    "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "Feyenoord",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Johan Cruyff Arena",
-    "home": "Ajax",
-    "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
+    "dateUtc": "2027-01-16T19:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781862,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Johan Cruyff Arena",
+    "home": "Ajax",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781861,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "Feyenoord",
+    "result": null,
+    "fotmobId": 5781860,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781859,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Fortuna Sittard Stadion",
+    "home": "Fortuna Sittard",
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781858,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781863,
+    "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "Sparta Rotterdam",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 19,
-    "dateUtc": "2027-01-16T00:00:00Z",
+    "dateUtc": "2027-01-16T19:00:00Z",
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781866,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781864,
+    "status": "scheduled"
+  },
+  {
+    "round": 19,
+    "dateUtc": "2027-01-16T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781865,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "PEC Zwolle",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
+    "dateUtc": "2027-01-23T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Telstar",
-    "result": null
+    "result": null,
+    "fotmobId": 5781872,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "AFAS Stadion",
+    "home": "AZ",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781874,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781870,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781875,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "PEC Zwolle",
+    "result": null,
+    "fotmobId": 5781867,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781868,
+    "status": "scheduled"
+  },
+  {
+    "round": 20,
+    "dateUtc": "2027-01-23T19:00:00Z",
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781873,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "AFAS Stadion",
-    "home": "AZ",
-    "away": "FC Utrecht",
-    "result": null
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781871,
+    "status": "scheduled"
   },
   {
     "round": 20,
-    "dateUtc": "2027-01-23T00:00:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "sc Heerenveen",
-    "result": null
+    "dateUtc": "2027-01-23T19:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781869,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "Euroborg",
-    "home": "FC Groningen",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
+    "dateUtc": "2027-01-30T19:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781877,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
+    "dateUtc": "2027-01-30T19:00:00Z",
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781880,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Fortuna Sittard",
-    "result": null
+    "dateUtc": "2027-01-30T19:00:00Z",
+    "venue": "Euroborg",
+    "home": "FC Groningen",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781876,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "PSV",
-    "result": null
+    "dateUtc": "2027-01-30T19:00:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781879,
+    "status": "scheduled"
   },
   {
     "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "Ajax",
-    "result": null
-  },
-  {
-    "round": 21,
-    "dateUtc": "2027-01-30T00:00:00Z",
+    "dateUtc": "2027-01-30T19:00:00Z",
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781884,
+    "status": "scheduled"
   },
   {
-    "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "FC Utrecht",
-    "result": null
+    "round": 21,
+    "dateUtc": "2027-01-30T19:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781881,
+    "status": "scheduled"
   },
   {
-    "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "sc Heerenveen",
-    "result": null
+    "round": 21,
+    "dateUtc": "2027-01-30T19:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781883,
+    "status": "scheduled"
   },
   {
-    "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "FC Twente",
-    "result": null
+    "round": 21,
+    "dateUtc": "2027-01-30T19:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781878,
+    "status": "scheduled"
   },
   {
-    "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
+    "round": 21,
+    "dateUtc": "2027-01-30T19:00:00Z",
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
-    "away": "Sparta Rotterdam",
-    "result": null
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781882,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "Fortuna Sittard Stadion",
-    "home": "Fortuna Sittard",
-    "away": "ADO Den Haag",
-    "result": null
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781893,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
+    "dateUtc": "2027-02-13T19:00:00Z",
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781891,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781888,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Fortuna Sittard Stadion",
+    "home": "Fortuna Sittard",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781890,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-13T19:00:00Z",
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781892,
+    "status": "scheduled"
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-13T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "Ajax",
-    "result": null
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781887,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781885,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781886,
+    "status": "scheduled"
+  },
+  {
+    "round": 22,
+    "dateUtc": "2027-02-13T19:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781889,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
+    "dateUtc": "2027-02-20T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781896,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "Willem II",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "Sparta Rotterdam",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
+    "dateUtc": "2027-02-20T19:00:00Z",
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781901,
+    "status": "scheduled"
   },
   {
     "round": 23,
-    "dateUtc": "2027-02-20T00:00:00Z",
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781900,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781895,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781894,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781899,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
     "venue": "MAC³PARK Stadion",
     "home": "PEC Zwolle",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781902,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781897,
+    "status": "scheduled"
+  },
+  {
+    "round": 23,
+    "dateUtc": "2027-02-20T19:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "Willem II",
+    "result": null,
+    "fotmobId": 5781898,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "ADO Den Haag Stadium",
+    "home": "ADO Den Haag",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781908,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-27T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781903,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "Go Ahead Eagles",
-    "result": null
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781907,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "PSV",
-    "result": null
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "Fortuna Sittard Stadion",
+    "home": "Fortuna Sittard",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781911,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781910,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2027-02-27T19:00:00Z",
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781906,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "sc Heerenveen",
-    "result": null
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781905,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "ADO Den Haag Stadium",
-    "home": "ADO Den Haag",
-    "away": "FC Twente",
-    "result": null
+    "dateUtc": "2027-02-27T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781904,
+    "status": "scheduled"
   },
   {
     "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
+    "dateUtc": "2027-02-27T19:00:00Z",
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "AZ",
-    "result": null
-  },
-  {
-    "round": 24,
-    "dateUtc": "2027-02-27T00:00:00Z",
-    "venue": "Fortuna Sittard Stadion",
-    "home": "Fortuna Sittard",
-    "away": "FC Utrecht",
-    "result": null
+    "result": null,
+    "fotmobId": 5781909,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "FC Utrecht",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "Euroborg",
-    "home": "FC Groningen",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
+    "dateUtc": "2027-03-06T19:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781914,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Willem II",
-    "result": null
+    "dateUtc": "2027-03-06T19:00:00Z",
+    "venue": "Euroborg",
+    "home": "FC Groningen",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781913,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "sc Heerenveen",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
+    "dateUtc": "2027-03-06T19:00:00Z",
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781919,
+    "status": "scheduled"
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-06T00:00:00Z",
+    "dateUtc": "2027-03-06T19:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781917,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-06T19:00:00Z",
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781920,
+    "status": "scheduled"
   },
   {
-    "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
+    "round": 25,
+    "dateUtc": "2027-03-06T19:00:00Z",
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
-    "away": "Feyenoord",
-    "result": null
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781916,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-06T19:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Willem II",
+    "result": null,
+    "fotmobId": 5781915,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-06T19:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781912,
+    "status": "scheduled"
+  },
+  {
+    "round": 25,
+    "dateUtc": "2027-03-06T19:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781918,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
+    "dateUtc": "2027-03-13T19:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781922,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "FC Groningen",
-    "result": null
+    "dateUtc": "2027-03-13T19:00:00Z",
+    "venue": "AFAS Stadion",
+    "home": "AZ",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781929,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
+    "dateUtc": "2027-03-13T19:00:00Z",
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781926,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
+    "dateUtc": "2027-03-13T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781923,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-13T19:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "Feyenoord",
+    "result": null,
+    "fotmobId": 5781921,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-13T19:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781924,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-13T19:00:00Z",
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781927,
+    "status": "scheduled"
   },
   {
     "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
+    "dateUtc": "2027-03-13T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781925,
+    "status": "scheduled"
+  },
+  {
+    "round": 26,
+    "dateUtc": "2027-03-13T19:00:00Z",
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 26,
-    "dateUtc": "2027-03-13T00:00:00Z",
-    "venue": "AFAS Stadion",
-    "home": "AZ",
-    "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781928,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "Sparta Rotterdam",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "Ajax",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
-    "venue": "AFAS Stadion",
-    "home": "AZ",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
+    "dateUtc": "2027-03-20T19:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781933,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
+    "dateUtc": "2027-03-20T19:00:00Z",
+    "venue": "AFAS Stadion",
+    "home": "AZ",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781932,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-20T19:00:00Z",
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781934,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
+    "dateUtc": "2027-03-20T19:00:00Z",
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781936,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "sc Heerenveen",
-    "result": null
+    "dateUtc": "2027-03-20T19:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781930,
+    "status": "scheduled"
   },
   {
     "round": 27,
-    "dateUtc": "2027-03-20T00:00:00Z",
+    "dateUtc": "2027-03-20T19:00:00Z",
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781938,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-20T19:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781931,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-20T19:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781937,
+    "status": "scheduled"
+  },
+  {
+    "round": 27,
+    "dateUtc": "2027-03-20T19:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781935,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "FC Utrecht",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "PEC Zwolle",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
+    "dateUtc": "2027-04-03T18:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "FC Twente",
-    "result": null
+    "result": null,
+    "fotmobId": 5781942,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "AZ",
-    "result": null
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "PEC Zwolle",
+    "result": null,
+    "fotmobId": 5781941,
+    "status": "scheduled"
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "FC Groningen",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 28,
-    "dateUtc": "2027-04-03T00:00:00Z",
+    "dateUtc": "2027-04-03T18:00:00Z",
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781947,
+    "status": "scheduled"
   },
   {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "Euroborg",
-    "home": "FC Groningen",
-    "away": "Excelsior Rotterdam",
-    "result": null
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781945,
+    "status": "scheduled"
   },
   {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "sc Heerenveen",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "Go Ahead Eagles",
-    "result": null
-  },
-  {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5781943,
+    "status": "scheduled"
   },
   {
-    "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
     "venue": "Kooi Stadion",
     "home": "SC Cambuur",
-    "away": "Fortuna Sittard",
-    "result": null
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781946,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5781944,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781940,
+    "status": "scheduled"
+  },
+  {
+    "round": 28,
+    "dateUtc": "2027-04-03T18:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781939,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
+    "dateUtc": "2027-04-10T18:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 5781955,
+    "status": "scheduled"
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-10T00:00:00Z",
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Euroborg",
+    "home": "FC Groningen",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781948,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
     "venue": "Stadion Galgenwaard",
     "home": "FC Utrecht",
     "away": "Ajax",
-    "result": null
+    "result": null,
+    "fotmobId": 5781956,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781949,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781951,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781954,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781952,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781950,
+    "status": "scheduled"
+  },
+  {
+    "round": 29,
+    "dateUtc": "2027-04-10T18:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781953,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
+    "dateUtc": "2027-04-24T18:00:00Z",
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "SC Cambuur",
-    "result": null
+    "result": null,
+    "fotmobId": 5781957,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "N.E.C. Nijmegen",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
+    "dateUtc": "2027-04-24T18:00:00Z",
     "venue": "Stadion Woudestein",
     "home": "Excelsior Rotterdam",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781959,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
-    "away": "FC Utrecht",
-    "result": null
+    "dateUtc": "2027-04-24T18:00:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781958,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "Ajax",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
+    "dateUtc": "2027-04-24T18:00:00Z",
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781964,
+    "status": "scheduled"
   },
   {
     "round": 30,
-    "dateUtc": "2027-04-24T00:00:00Z",
+    "dateUtc": "2027-04-24T18:00:00Z",
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781965,
+    "status": "scheduled"
   },
   {
-    "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
+    "round": 30,
+    "dateUtc": "2027-04-24T18:00:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781960,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T18:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781963,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T18:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781962,
+    "status": "scheduled"
+  },
+  {
+    "round": 30,
+    "dateUtc": "2027-04-24T18:00:00Z",
     "venue": "Abe Lenstra Stadion",
     "home": "sc Heerenveen",
-    "away": "FC Utrecht",
-    "result": null
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781961,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
+    "dateUtc": "2027-05-01T18:00:00Z",
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Fortuna Sittard",
-    "result": null
+    "result": null,
+    "fotmobId": 5781967,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "FC Twente",
-    "result": null
+    "dateUtc": "2027-05-01T18:00:00Z",
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781974,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "AZ",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
+    "dateUtc": "2027-05-01T18:00:00Z",
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "ADO Den Haag",
-    "result": null
+    "result": null,
+    "fotmobId": 5781970,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
+    "dateUtc": "2027-05-01T18:00:00Z",
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781971,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "PEC Zwolle",
-    "result": null
-  },
-  {
-    "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
+    "dateUtc": "2027-05-01T18:00:00Z",
     "venue": "De Adelaarshorst",
     "home": "Go Ahead Eagles",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 5781973,
+    "status": "scheduled"
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-01T00:00:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "SC Cambuur",
-    "result": null
+    "dateUtc": "2027-05-01T18:00:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "PEC Zwolle",
+    "result": null,
+    "fotmobId": 5781972,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T18:00:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781966,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T18:00:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781968,
+    "status": "scheduled"
+  },
+  {
+    "round": 31,
+    "dateUtc": "2027-05-01T18:00:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "AZ",
+    "result": null,
+    "fotmobId": 5781969,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
-    "venue": "AFAS Stadion",
-    "home": "AZ",
-    "away": "Ajax",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
+    "dateUtc": "2027-05-08T18:00:00Z",
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "N.E.C. Nijmegen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781976,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "Sparta Rotterdam",
-    "result": null
+    "dateUtc": "2027-05-08T18:00:00Z",
+    "venue": "AFAS Stadion",
+    "home": "AZ",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781975,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
+    "dateUtc": "2027-05-08T18:00:00Z",
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "FC Groningen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781978,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "Telstar",
-    "result": null
+    "dateUtc": "2027-05-08T18:00:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "Feyenoord",
+    "result": null,
+    "fotmobId": 5781981,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
+    "dateUtc": "2027-05-08T18:00:00Z",
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Go Ahead Eagles",
-    "result": null
+    "result": null,
+    "fotmobId": 5781980,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "Feyenoord",
-    "result": null
+    "dateUtc": "2027-05-08T18:00:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "Sparta Rotterdam",
+    "result": null,
+    "fotmobId": 5781977,
+    "status": "scheduled"
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "sc Heerenveen",
-    "result": null
-  },
-  {
-    "round": 32,
-    "dateUtc": "2027-05-08T00:00:00Z",
+    "dateUtc": "2027-05-08T18:00:00Z",
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Excelsior Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781983,
+    "status": "scheduled"
   },
   {
-    "round": 33,
-    "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "Euroborg",
-    "home": "FC Groningen",
-    "away": "SC Cambuur",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "Stadion Galgenwaard",
-    "home": "FC Utrecht",
-    "away": "Telstar",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "Stadion Woudestein",
-    "home": "Excelsior Rotterdam",
-    "away": "ADO Den Haag",
-    "result": null
-  },
-  {
-    "round": 33,
-    "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "De Adelaarshorst",
-    "home": "Go Ahead Eagles",
+    "round": 32,
+    "dateUtc": "2027-05-08T18:00:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
     "away": "sc Heerenveen",
-    "result": null
+    "result": null,
+    "fotmobId": 5781982,
+    "status": "scheduled"
   },
   {
-    "round": 33,
-    "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "De Grolsch Veste",
-    "home": "FC Twente",
-    "away": "Feyenoord",
-    "result": null
+    "round": 32,
+    "dateUtc": "2027-05-08T18:00:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781979,
+    "status": "scheduled"
   },
   {
     "round": 33,
@@ -2349,7 +2885,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Sparta Rotterdam",
-    "result": null
+    "result": null,
+    "fotmobId": 5781989,
+    "status": "scheduled"
   },
   {
     "round": 33,
@@ -2357,15 +2895,49 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "PEC Zwolle",
-    "result": null
+    "result": null,
+    "fotmobId": 5781990,
+    "status": "scheduled"
   },
   {
     "round": 33,
     "dateUtc": "2027-05-16T12:30:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "N.E.C. Nijmegen",
-    "result": null
+    "venue": "Stadion Woudestein",
+    "home": "Excelsior Rotterdam",
+    "away": "ADO Den Haag",
+    "result": null,
+    "fotmobId": 5781986,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-16T12:30:00Z",
+    "venue": "Euroborg",
+    "home": "FC Groningen",
+    "away": "SC Cambuur",
+    "result": null,
+    "fotmobId": 5781984,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-16T12:30:00Z",
+    "venue": "De Grolsch Veste",
+    "home": "FC Twente",
+    "away": "Feyenoord",
+    "result": null,
+    "fotmobId": 5781988,
+    "status": "scheduled"
+  },
+  {
+    "round": 33,
+    "dateUtc": "2027-05-16T12:30:00Z",
+    "venue": "Stadion Galgenwaard",
+    "home": "FC Utrecht",
+    "away": "Telstar",
+    "result": null,
+    "fotmobId": 5781985,
+    "status": "scheduled"
   },
   {
     "round": 33,
@@ -2373,71 +2945,29 @@
     "venue": "Fortuna Sittard Stadion",
     "home": "Fortuna Sittard",
     "away": "Willem II",
-    "result": null
+    "result": null,
+    "fotmobId": 5781992,
+    "status": "scheduled"
   },
   {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Kooi Stadion",
-    "home": "SC Cambuur",
-    "away": "Ajax",
-    "result": null
+    "round": 33,
+    "dateUtc": "2027-05-16T12:30:00Z",
+    "venue": "De Adelaarshorst",
+    "home": "Go Ahead Eagles",
+    "away": "sc Heerenveen",
+    "result": null,
+    "fotmobId": 5781987,
+    "status": "scheduled"
   },
   {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Goffertstadion",
-    "home": "N.E.C. Nijmegen",
-    "away": "FC Utrecht",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Koning Willem II Stadion",
-    "home": "Willem II",
-    "away": "Go Ahead Eagles",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Sportpark Schoonenberg",
-    "home": "Telstar",
-    "away": "Excelsior Rotterdam",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Abe Lenstra Stadion",
-    "home": "sc Heerenveen",
-    "away": "PSV",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "Sparta Stadion Het Kasteel",
-    "home": "Sparta Rotterdam",
-    "away": "Fortuna Sittard",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "MAC³PARK Stadion",
-    "home": "PEC Zwolle",
-    "away": "FC Twente",
-    "result": null
-  },
-  {
-    "round": 34,
-    "dateUtc": "2027-05-23T12:30:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "FC Groningen",
-    "result": null
+    "round": 33,
+    "dateUtc": "2027-05-16T12:30:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "N.E.C. Nijmegen",
+    "result": null,
+    "fotmobId": 5781991,
+    "status": "scheduled"
   },
   {
     "round": 34,
@@ -2445,6 +2975,88 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "AZ",
-    "result": null
+    "result": null,
+    "fotmobId": 5782001,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "FC Groningen",
+    "result": null,
+    "fotmobId": 5782000,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Goffertstadion",
+    "home": "N.E.C. Nijmegen",
+    "away": "FC Utrecht",
+    "result": null,
+    "fotmobId": 5781994,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "MAC³PARK Stadion",
+    "home": "PEC Zwolle",
+    "away": "FC Twente",
+    "result": null,
+    "fotmobId": 5781999,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Kooi Stadion",
+    "home": "SC Cambuur",
+    "away": "Ajax",
+    "result": null,
+    "fotmobId": 5781993,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Abe Lenstra Stadion",
+    "home": "sc Heerenveen",
+    "away": "PSV",
+    "result": null,
+    "fotmobId": 5781997,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Sparta Stadion Het Kasteel",
+    "home": "Sparta Rotterdam",
+    "away": "Fortuna Sittard",
+    "result": null,
+    "fotmobId": 5781998,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Sportpark Schoonenberg",
+    "home": "Telstar",
+    "away": "Excelsior Rotterdam",
+    "result": null,
+    "fotmobId": 5781996,
+    "status": "scheduled"
+  },
+  {
+    "round": 34,
+    "dateUtc": "2027-05-23T12:30:00Z",
+    "venue": "Koning Willem II Stadion",
+    "home": "Willem II",
+    "away": "Go Ahead Eagles",
+    "result": null,
+    "fotmobId": 5781995,
+    "status": "scheduled"
   }
 ]
