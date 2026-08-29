@@ -388,6 +388,9 @@ function validateRemote(existing, remote, cfg) {
   if (cfg.expectedMatches && remote.length < Math.floor(cfg.expectedMatches * 0.9)) {
     errors.push(`FotMob returned ${remote.length} fixtures; expected roughly ${cfg.expectedMatches}`);
   }
+  if (cfg.minMatches && remote.length < cfg.minMatches) {
+    errors.push(`FotMob returned ${remote.length} fixtures; expected at least ${cfg.minMatches}`);
+  }
   return errors;
 }
 
@@ -395,120 +398,227 @@ function display(value) {
   return value === null || value === undefined || value === '' ? '—' : String(value);
 }
 
-async function updateCompetition(key) {
-  const fixtureConfig = readJson(FIXTURE_CONFIG_PATH);
-  const squadConfig = readJson(TEAM_CONFIG_PATH);
-  const competitions = readJson(COMPETITIONS_PATH);
+async function updateCompetition(key, shared = null) {
+  const fixtureConfig = shared?.fixtureConfig || readJson(FIXTURE_CONFIG_PATH);
+  const squadConfig = shared?.squadConfig || readJson(TEAM_CONFIG_PATH);
+  const competitions = shared?.competitions || readJson(COMPETITIONS_PATH);
   const cfg = fixtureConfig.competitions[key];
   const teamCfg = squadConfig.competitions[key];
   const competition = competitions[key];
 
-  if (!cfg) throw new Error(`No FotMob fixture config for competition "${key}"`);
-  if (!teamCfg) throw new Error(`No FotMob team mapping for competition "${key}" in tools/fotmob-squads.json`);
-  if (!competition?.files?.fixtures) throw new Error(`Competition "${key}" has no fixture file configured`);
+  const summary = {
+    key,
+    label: competition?.label || key,
+    status: 'failed',
+    existing: 0,
+    remote: 0,
+    matched: 0,
+    additions: 0,
+    localOnly: 0,
+    changes: 0,
+    kickoffUpdates: 0,
+    resultUpdates: 0,
+    metadataLinked: 0,
+    written: false,
+    message: null
+  };
 
-  const fixturePath = path.join(ROOT, competition.files.fixtures);
-  const existing = readJson(fixturePath);
-  const maps = buildTeamMaps(teamCfg);
-  const season = cfg.season ? `&season=${encodeURIComponent(cfg.season)}` : '';
-  const ccode = cfg.countryCode ? `&ccode3=${encodeURIComponent(cfg.countryCode)}` : '';
-  const url = `${fixtureConfig.baseUrl}/leagues?id=${cfg.leagueId}${ccode}${season}`;
+  try {
+    if (!cfg) throw new Error(`No FotMob fixture config for competition "${key}"`);
+    if (!teamCfg) throw new Error(`No FotMob team mapping for competition "${key}" in tools/fotmob-squads.json`);
+    if (!competition?.files?.fixtures) throw new Error(`Competition "${key}" has no fixture file configured`);
 
-  console.log(`${competition.label.toUpperCase()} — FotMob fixture refresh`);
-  console.log(WRITE ? 'WRITE MODE' : 'DRY RUN — no files will be modified');
-  if (VERBOSE) console.log(`Fetching ${url}`);
+    const fixturePath = path.join(ROOT, competition.files.fixtures);
+    const existing = fs.existsSync(fixturePath) ? readJson(fixturePath) : [];
+    if (!Array.isArray(existing)) throw new Error(`${competition.files.fixtures} must contain a JSON array`);
+    summary.existing = existing.length;
 
-  const payload = await fotmobFetch(url);
-  const rawMatches = extractMatches(payload);
-  if (!rawMatches.length) throw new Error('Could not find a fixture list in FotMob league response');
+    const maps = buildTeamMaps(teamCfg);
+    const season = cfg.season ? `&season=${encodeURIComponent(cfg.season)}` : '';
+    const ccode = cfg.countryCode ? `&ccode3=${encodeURIComponent(cfg.countryCode)}` : '';
+    const url = `${fixtureConfig.baseUrl}/leagues?id=${cfg.leagueId}${ccode}${season}`;
 
-  const remote = rawMatches.map((m) => normalizeRemoteFixture(m, maps));
-  const validationErrors = validateRemote(existing, remote, cfg);
-  if (validationErrors.length) {
-    console.log('\nBLOCKED — fixture file will not be written');
-    validationErrors.forEach((error) => console.log(`  - ${error}`));
-    console.log(`\nExisting fixtures: ${existing.length}`);
-    console.log(`FotMob fixtures:   ${remote.length}`);
-    return;
-  }
+    console.log(`${competition.label.toUpperCase()} — FotMob fixture refresh`);
+    console.log(WRITE ? 'WRITE MODE' : 'DRY RUN — no files will be modified');
+    if (VERBOSE) console.log(`Fetching ${url}`);
 
-  const venueMap = inferVenueMap(existing);
-  const lookup = buildExistingLookup(existing);
-  const matchedExisting = new Set();
-  const next = [];
-  const changes = [];
-  const additions = [];
-  let metadataLinked = 0;
-  let resultUpdates = 0;
-  let kickoffUpdates = 0;
+    const payload = await fotmobFetch(url);
+    const rawMatches = extractMatches(payload);
+    if (!rawMatches.length) throw new Error('Could not find a fixture list in FotMob league response');
 
-  for (const remoteFixture of remote) {
-    const oldFixture = findExistingFixture(remoteFixture, lookup);
-    if (!oldFixture) {
-      const created = createFixture(remoteFixture, venueMap);
-      additions.push(created);
-      next.push(created);
-      continue;
+    const remote = rawMatches.map((m) => normalizeRemoteFixture(m, maps));
+    summary.remote = remote.length;
+    const validationErrors = validateRemote(existing, remote, cfg);
+    if (validationErrors.length) {
+      summary.status = 'blocked';
+      summary.message = validationErrors.join('; ');
+      console.log('\nBLOCKED — fixture file will not be written');
+      validationErrors.forEach((error) => console.log(`  - ${error}`));
+      console.log(`\nExisting fixtures: ${existing.length}`);
+      console.log(`FotMob fixtures:   ${remote.length}`);
+      return summary;
     }
 
-    matchedExisting.add(oldFixture);
-    const merged = mergeFixture(oldFixture, remoteFixture, venueMap);
-    const fields = meaningfulDiff(oldFixture, merged);
-    if (metadataDiff(oldFixture, merged)) metadataLinked++;
-    if (fields.includes('result')) resultUpdates++;
-    if (fields.includes('dateUtc')) kickoffUpdates++;
-    if (fields.length) changes.push({ old: oldFixture, next: merged, fields });
-    next.push(merged);
-  }
+    const venueMap = inferVenueMap(existing);
+    const lookup = buildExistingLookup(existing);
+    const matchedExisting = new Set();
+    const next = [];
+    const changes = [];
+    const additions = [];
+    let metadataLinked = 0;
+    let resultUpdates = 0;
+    let kickoffUpdates = 0;
 
-  // FotMob omissions never delete local fixtures. Keep them and report them.
-  const unmatchedExisting = existing.filter((fixture) => !matchedExisting.has(fixture));
-  next.push(...unmatchedExisting);
-  sortFixtures(next);
+    for (const remoteFixture of remote) {
+      const oldFixture = findExistingFixture(remoteFixture, lookup);
+      if (!oldFixture) {
+        const created = createFixture(remoteFixture, venueMap);
+        additions.push(created);
+        next.push(created);
+        continue;
+      }
 
-  console.log(`\nExisting fixtures: ${existing.length}`);
-  console.log(`FotMob fixtures:   ${remote.length}`);
-  console.log(`Matched:            ${matchedExisting.size}`);
-  console.log(`New fixtures:       ${additions.length}`);
-  console.log(`Local-only kept:    ${unmatchedExisting.length}`);
-  console.log(`Meaningful changes: ${changes.length}`);
-  console.log(`Kickoff updates:    ${kickoffUpdates}`);
-  console.log(`Result updates:     ${resultUpdates}`);
-  console.log(`FotMob IDs linked:  ${metadataLinked}`);
+      matchedExisting.add(oldFixture);
+      const merged = mergeFixture(oldFixture, remoteFixture, venueMap);
+      const fields = meaningfulDiff(oldFixture, merged);
+      if (metadataDiff(oldFixture, merged)) metadataLinked++;
+      if (fields.includes('result')) resultUpdates++;
+      if (fields.includes('dateUtc')) kickoffUpdates++;
+      if (fields.length) changes.push({ old: oldFixture, next: merged, fields });
+      next.push(merged);
+    }
 
-  const MAX_PRINT = VERBOSE ? Number.MAX_SAFE_INTEGER : 50;
-  if (changes.length) {
-    console.log('\nChanges:');
-    changes.slice(0, MAX_PRINT).forEach(({ old, next: neu, fields }) => {
-      const details = fields.map((field) => `${field}: ${display(old[field])} -> ${display(neu[field])}`).join('; ');
-      console.log(`  ~ R${display(neu.round)} ${neu.home} vs ${neu.away}: ${details}`);
+    // FotMob omissions never delete local fixtures. Keep them and report them.
+    const unmatchedExisting = existing.filter((fixture) => !matchedExisting.has(fixture));
+    next.push(...unmatchedExisting);
+    sortFixtures(next);
+
+    Object.assign(summary, {
+      status: 'safe',
+      matched: matchedExisting.size,
+      additions: additions.length,
+      localOnly: unmatchedExisting.length,
+      changes: changes.length,
+      kickoffUpdates,
+      resultUpdates,
+      metadataLinked
     });
-    if (changes.length > MAX_PRINT) console.log(`  ... ${changes.length - MAX_PRINT} more (run with --verbose to show all)`);
-  }
 
-  if (additions.length) {
-    console.log('\nAdditions:');
-    additions.slice(0, MAX_PRINT).forEach((m) => console.log(`  + R${display(m.round)} ${m.home} vs ${m.away} — ${display(m.dateUtc)}`));
-    if (additions.length > MAX_PRINT) console.log(`  ... ${additions.length - MAX_PRINT} more`);
-  }
+    console.log(`\nExisting fixtures: ${existing.length}`);
+    console.log(`FotMob fixtures:   ${remote.length}`);
+    console.log(`Matched:            ${matchedExisting.size}`);
+    console.log(`New fixtures:       ${additions.length}`);
+    console.log(`Local-only kept:    ${unmatchedExisting.length}`);
+    console.log(`Meaningful changes: ${changes.length}`);
+    console.log(`Kickoff updates:    ${kickoffUpdates}`);
+    console.log(`Result updates:     ${resultUpdates}`);
+    console.log(`FotMob IDs linked:  ${metadataLinked}`);
 
-  if (unmatchedExisting.length) {
-    console.log('\nLocal fixtures not returned by FotMob (preserved):');
-    unmatchedExisting.slice(0, 20).forEach((m) => console.log(`  = R${display(m.round)} ${m.home} vs ${m.away}`));
-    if (unmatchedExisting.length > 20) console.log(`  ... ${unmatchedExisting.length - 20} more`);
-  }
+    const MAX_PRINT = VERBOSE ? Number.MAX_SAFE_INTEGER : (target === 'all' ? 12 : 50);
+    if (changes.length) {
+      console.log('\nChanges:');
+      changes.slice(0, MAX_PRINT).forEach(({ old, next: neu, fields }) => {
+        const details = fields.map((field) => `${field}: ${display(old[field])} -> ${display(neu[field])}`).join('; ');
+        console.log(`  ~ R${display(neu.round)} ${neu.home} vs ${neu.away}: ${details}`);
+      });
+      if (changes.length > MAX_PRINT) console.log(`  ... ${changes.length - MAX_PRINT} more (run with --verbose to show all)`);
+    }
 
-  if (WRITE) {
-    writeJson(fixturePath, next);
-    console.log(`\nWrote ${path.relative(ROOT, fixturePath)}`);
-  } else {
-    console.log('\nDRY RUN complete. Re-run with --write to apply these safe changes.');
+    if (additions.length) {
+      console.log('\nAdditions:');
+      additions.slice(0, MAX_PRINT).forEach((m) => console.log(`  + R${display(m.round)} ${m.home} vs ${m.away} — ${display(m.dateUtc)}`));
+      if (additions.length > MAX_PRINT) console.log(`  ... ${additions.length - MAX_PRINT} more`);
+    }
+
+    if (unmatchedExisting.length) {
+      console.log('\nLocal fixtures not returned by FotMob (preserved):');
+      unmatchedExisting.slice(0, Math.min(MAX_PRINT, 20)).forEach((m) => console.log(`  = R${display(m.round)} ${m.home} vs ${m.away}`));
+      if (unmatchedExisting.length > Math.min(MAX_PRINT, 20)) console.log(`  ... ${unmatchedExisting.length - Math.min(MAX_PRINT, 20)} more`);
+    }
+
+    if (WRITE) {
+      fs.mkdirSync(path.dirname(fixturePath), { recursive: true });
+      writeJson(fixturePath, next);
+      summary.written = true;
+      console.log(`\nWrote ${path.relative(ROOT, fixturePath)}`);
+    } else {
+      console.log('\nDRY RUN complete. Re-run with --write to apply these safe changes.');
+    }
+    return summary;
+  } catch (error) {
+    summary.status = 'failed';
+    summary.message = error.message;
+    console.log(`\nFAILED — ${summary.label} was not written`);
+    console.log(`  - ${error.message}`);
+    return summary;
   }
+}
+
+function printAllSummary(results) {
+  const safe = results.filter((r) => r.status === 'safe');
+  const blocked = results.filter((r) => r.status === 'blocked');
+  const failed = results.filter((r) => r.status === 'failed');
+  const written = results.filter((r) => r.written);
+  const totals = results.reduce((acc, r) => {
+    acc.additions += r.additions || 0;
+    acc.changes += r.changes || 0;
+    acc.kickoffUpdates += r.kickoffUpdates || 0;
+    acc.resultUpdates += r.resultUpdates || 0;
+    acc.metadataLinked += r.metadataLinked || 0;
+    acc.localOnly += r.localOnly || 0;
+    return acc;
+  }, { additions: 0, changes: 0, kickoffUpdates: 0, resultUpdates: 0, metadataLinked: 0, localOnly: 0 });
+
+  console.log('\n' + '='.repeat(64));
+  console.log(`ALL FIXTURES — ${WRITE ? 'WRITE' : 'DRY RUN'} SUMMARY`);
+  console.log('='.repeat(64));
+  for (const r of results) {
+    const mark = r.status === 'safe' ? '✓' : r.status === 'blocked' ? '!' : '✗';
+    const action = r.written ? 'written' : r.status === 'safe' ? (WRITE ? 'safe' : 'preview') : r.status;
+    console.log(`${mark} ${r.label.padEnd(24)} ${String(r.existing).padStart(4)} → ${String(r.remote).padEnd(4)}  ${action}`);
+    if (r.status !== 'safe' && r.message) console.log(`    ${r.message}`);
+  }
+  console.log('-'.repeat(64));
+  console.log(`${results.length} competitions checked`);
+  if (WRITE) console.log(`${written.length} written, ${blocked.length} blocked, ${failed.length} failed`);
+  else console.log(`${safe.length} safe, ${blocked.length} blocked, ${failed.length} failed`);
+  console.log(`${totals.additions} new fixtures`);
+  console.log(`${totals.changes} meaningful fixture changes`);
+  console.log(`${totals.kickoffUpdates} kickoff updates`);
+  console.log(`${totals.resultUpdates} result updates`);
+  console.log(`${totals.metadataLinked} FotMob IDs linked`);
+  console.log(`${totals.localOnly} local-only fixtures preserved`);
+  console.log('0 fixtures automatically deleted');
 }
 
 async function main() {
   if (typeof fetch !== 'function') throw new Error('This updater requires Node.js 18+ (native fetch).');
-  await updateCompetition(target);
+
+  if (target !== 'all') {
+    const result = await updateCompetition(target);
+    if (result.status !== 'safe') process.exitCode = 1;
+    return;
+  }
+
+  const shared = {
+    fixtureConfig: readJson(FIXTURE_CONFIG_PATH),
+    squadConfig: readJson(TEAM_CONFIG_PATH),
+    competitions: readJson(COMPETITIONS_PATH)
+  };
+  const keys = Object.keys(shared.fixtureConfig.competitions);
+  const results = [];
+
+  console.log(`ALL LEAGUES — FotMob fixture refresh (${keys.length} competitions)`);
+  console.log(WRITE ? 'WRITE MODE — safe leagues will be written independently' : 'DRY RUN — no files will be modified');
+  console.log('='.repeat(64));
+
+  for (let i = 0; i < keys.length; i++) {
+    if (i) console.log('\n' + '-'.repeat(64) + '\n');
+    results.push(await updateCompetition(keys[i], shared));
+  }
+
+  printAllSummary(results);
+  if (results.some((r) => r.status !== 'safe')) process.exitCode = 1;
 }
 
 main().catch((error) => {

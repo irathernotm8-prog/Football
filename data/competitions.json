@@ -451,7 +451,7 @@
     "source": "user_provided",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
+      "fixtures": "data/fixtures-argentina.json",
       "squads": "data/squads-argentina.json",
       "history": null
     },
@@ -518,7 +518,7 @@
     "source": "user_provided",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
+      "fixtures": "data/fixtures-brazil.json",
       "squads": "data/squads-brazil.json",
       "history": null
     },
@@ -575,7 +575,7 @@
     "source": "user_provided",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
+      "fixtures": "data/fixtures-saudi.json",
       "squads": "data/squads-saudi.json",
       "history": null
     },
@@ -630,7 +630,7 @@
     "source": "user_provided",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
+      "fixtures": "data/fixtures-scotland.json",
       "squads": "data/squads-scotland.json",
       "history": "data/history-scotland.json"
     },
@@ -679,7 +679,7 @@
     "source": "user_provided",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
+      "fixtures": "data/fixtures-ligamx.json",
       "squads": "data/squads-ligamx.json",
       "history": null
     },
