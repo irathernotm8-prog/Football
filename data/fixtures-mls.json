@@ -3482,16 +3482,6 @@
   {
     "round": 24,
     "dateUtc": "2026-09-09T23:30:00Z",
-    "venue": "Citi Field",
-    "home": "New York City Football Club",
-    "away": "New England Revolution",
-    "result": null,
-    "fotmobId": 5071339,
-    "status": "scheduled"
-  },
-  {
-    "round": 24,
-    "dateUtc": "2026-09-09T23:30:00Z",
     "venue": "Subaru Park",
     "home": "Philadelphia Union",
     "away": "FC Cincinnati",
@@ -3507,6 +3497,16 @@
     "away": "Nashville SC",
     "result": null,
     "fotmobId": 5071341,
+    "status": "scheduled"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2026-09-10T00:00:00Z",
+    "venue": "Citi Field",
+    "home": "New York City Football Club",
+    "away": "New England Revolution",
+    "result": null,
+    "fotmobId": 5071339,
     "status": "scheduled"
   },
   {

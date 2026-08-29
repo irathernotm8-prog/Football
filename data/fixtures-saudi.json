@@ -316,8 +316,8 @@
     "venue": null,
     "home": "Al Kholood",
     "away": "Al Ahli",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970112,
@@ -326,8 +326,8 @@
     "venue": null,
     "home": "Al Ettifaq",
     "away": "Diriyah",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "live"
   },
   {
     "fotmobId": 5970113,
@@ -336,8 +336,8 @@
     "venue": null,
     "home": "Al Fateh",
     "away": "Al Ittihad",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-0",
+    "status": "live"
   },
   {
     "fotmobId": 5970114,

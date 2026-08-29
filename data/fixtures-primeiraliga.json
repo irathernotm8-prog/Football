@@ -285,9 +285,9 @@
     "venue": "Estádio do FC Alverca",
     "home": "FC Alverca",
     "away": "Santa Clara",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5887610,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -295,9 +295,9 @@
     "venue": "Estádio Municipal de Arouca",
     "home": "FC Arouca",
     "away": "Marítimo M.",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5887611,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -305,9 +305,9 @@
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "FC Porto",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5887609,
-    "status": "scheduled"
+    "status": "live"
   },
   {
     "round": 4,

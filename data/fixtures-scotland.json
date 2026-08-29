@@ -120,26 +120,6 @@
     "status": "finished"
   },
   {
-    "fotmobId": 5793914,
-    "round": 3,
-    "dateUtc": "2026-08-22T14:00:00Z",
-    "venue": null,
-    "home": "Rangers",
-    "away": "St Mirren",
-    "result": null,
-    "status": "cancelled"
-  },
-  {
-    "fotmobId": 5793915,
-    "round": 3,
-    "dateUtc": "2026-08-22T14:00:00Z",
-    "venue": null,
-    "home": "St Johnstone",
-    "away": "Celtic",
-    "result": null,
-    "status": "cancelled"
-  },
-  {
     "fotmobId": 5793910,
     "round": 3,
     "dateUtc": "2026-08-22T16:45:00Z",
@@ -148,6 +128,26 @@
     "away": "Dundee",
     "result": "0-2",
     "status": "finished"
+  },
+  {
+    "fotmobId": 5793914,
+    "round": 3,
+    "dateUtc": "2026-09-09T18:45:00Z",
+    "venue": null,
+    "home": "Rangers",
+    "away": "St Mirren",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5793915,
+    "round": 3,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": null,
+    "home": "St Johnstone",
+    "away": "Celtic",
+    "result": null,
+    "status": "scheduled"
   },
   {
     "fotmobId": 5793911,
@@ -186,8 +186,8 @@
     "venue": null,
     "home": "Celtic",
     "away": "Falkirk",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793919,
@@ -196,8 +196,8 @@
     "venue": null,
     "home": "Hearts",
     "away": "St Johnstone",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793920,
@@ -206,8 +206,8 @@
     "venue": null,
     "home": "Kilmarnock",
     "away": "Dundee United",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5793916,

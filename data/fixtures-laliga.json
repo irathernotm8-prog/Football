@@ -225,9 +225,9 @@
     "venue": "Estadio Ciutat de València",
     "home": "Levante UD",
     "away": "Real Betis",
-    "result": null,
+    "result": "5-2",
     "fotmobId": 5868035,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -235,9 +235,9 @@
     "venue": "Anoeta",
     "home": "Real Sociedad",
     "away": "RCD Espanyol de Barcelona",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5868039,
-    "status": "scheduled"
+    "status": "live"
   },
   {
     "round": 3,

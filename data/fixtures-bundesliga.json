@@ -15,9 +15,9 @@
     "venue": "RheinEnergieSTADION",
     "home": "1. FC Köln",
     "away": "TSG Hoffenheim",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5881147,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -25,9 +25,9 @@
     "venue": "An der Alten Försterei",
     "home": "1. FC Union Berlin",
     "away": "Eintracht Frankfurt",
-    "result": null,
+    "result": "3-3",
     "fotmobId": 5881151,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -35,9 +35,9 @@
     "venue": "MEWA ARENA",
     "home": "1. FSV Mainz 05",
     "away": "SC Paderborn 07",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5881149,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -45,9 +45,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "Borussia Mönchengladbach",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5881150,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -55,9 +55,9 @@
     "venue": "URSAPHARM-Arena",
     "home": "SV Elversberg",
     "away": "Bayer 04 Leverkusen",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5881146,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -65,9 +65,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "Hamburger SV",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5881145,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,

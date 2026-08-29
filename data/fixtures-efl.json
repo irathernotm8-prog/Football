@@ -255,9 +255,9 @@
     "venue": "Pride Park Stadium",
     "home": "Derby County",
     "away": "Swansea City",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5836783,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -265,9 +265,9 @@
     "venue": "Riverside Stadium",
     "home": "Middlesbrough",
     "away": "West Bromwich Albion",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5836784,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -275,9 +275,9 @@
     "venue": "Molineux Stadium",
     "home": "Wolverhampton Wanderers",
     "away": "Stoke City",
-    "result": null,
+    "result": "4-1",
     "fotmobId": 5836788,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -285,9 +285,9 @@
     "venue": "Ewood Park",
     "home": "Blackburn Rovers",
     "away": "Queens Park Rangers",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5836778,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -295,9 +295,9 @@
     "venue": "Toughsheet Community Stadium",
     "home": "Bolton Wanderers",
     "away": "Lincoln City",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5836779,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -305,9 +305,9 @@
     "venue": "Ashton Gate Stadium",
     "home": "Bristol City",
     "away": "Portsmouth",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5836780,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -315,9 +315,9 @@
     "venue": "Cardiff City Stadium",
     "home": "Cardiff City",
     "away": "Sheffield United",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5836781,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -325,9 +325,9 @@
     "venue": "The Valley",
     "home": "Charlton Athletic",
     "away": "Preston North End",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5836782,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -335,9 +335,9 @@
     "venue": "Carrow Road",
     "home": "Norwich City",
     "away": "Burnley",
-    "result": null,
+    "result": "4-1",
     "fotmobId": 5836785,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -345,9 +345,9 @@
     "venue": "St. Mary's Stadium",
     "home": "Southampton",
     "away": "Millwall",
-    "result": null,
+    "result": "5-1",
     "fotmobId": 5836786,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -355,9 +355,9 @@
     "venue": "Vicarage Road",
     "home": "Watford",
     "away": "West Ham United",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5836787,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -612,16 +612,6 @@
   {
     "round": 6,
     "dateUtc": "2026-09-08T18:45:00Z",
-    "venue": "Ashton Gate Stadium",
-    "home": "Bristol City",
-    "away": "Lincoln City",
-    "result": null,
-    "fotmobId": 5836816,
-    "status": "cancelled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-08T18:45:00Z",
     "venue": "Cardiff City Stadium",
     "home": "Cardiff City",
     "away": "Stoke City",
@@ -691,16 +681,6 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-09-09T18:45:00Z",
-    "venue": "Molineux Stadium",
-    "home": "Wolverhampton Wanderers",
-    "away": "Portsmouth",
-    "result": null,
-    "fotmobId": 5836821,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
     "dateUtc": "2026-09-09T19:00:00Z",
     "venue": "The Valley",
     "home": "Charlton Athletic",
@@ -712,11 +692,31 @@
   {
     "round": 6,
     "dateUtc": "2026-09-15T18:45:00Z",
+    "venue": "Ashton Gate Stadium",
+    "home": "Bristol City",
+    "away": "Lincoln City",
+    "result": null,
+    "fotmobId": 5836816,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-15T18:45:00Z",
     "venue": "Riverside Stadium",
     "home": "Middlesbrough",
     "away": "Millwall",
     "result": null,
     "fotmobId": 5836818,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-16T18:45:00Z",
+    "venue": "Molineux Stadium",
+    "home": "Wolverhampton Wanderers",
+    "away": "Portsmouth",
+    "result": null,
+    "fotmobId": 5836821,
     "status": "scheduled"
   },
   {
@@ -912,16 +912,6 @@
   {
     "round": 8,
     "dateUtc": "2026-09-19T14:00:00Z",
-    "venue": "Carrow Road",
-    "home": "Norwich City",
-    "away": "Bolton Wanderers",
-    "result": null,
-    "fotmobId": 5836844,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-09-19T14:00:00Z",
     "venue": "Fratton Park",
     "home": "Portsmouth",
     "away": "Blackburn Rovers",
@@ -957,6 +947,16 @@
     "away": "West Bromwich Albion",
     "result": null,
     "fotmobId": 5836848,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-09-20T12:30:00Z",
+    "venue": "Carrow Road",
+    "home": "Norwich City",
+    "away": "Bolton Wanderers",
+    "result": null,
+    "fotmobId": 5836844,
     "status": "scheduled"
   },
   {

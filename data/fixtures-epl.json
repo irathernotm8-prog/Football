@@ -115,9 +115,9 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "Nott'm Forest",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5795431,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -125,9 +125,9 @@
     "venue": "Vitality Stadium",
     "home": "Bournemouth",
     "away": "Everton",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5795425,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -135,9 +135,9 @@
     "venue": "Coventry Building Society Arena",
     "home": "Coventry",
     "away": "Hull",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5795428,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -145,9 +145,9 @@
     "venue": "Tottenham Hotspur Stadium",
     "home": "Spurs",
     "away": "Newcastle",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5795434,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -452,16 +452,6 @@
   {
     "round": 5,
     "dateUtc": "2026-09-19T14:00:00Z",
-    "venue": "Etihad Stadium",
-    "home": "Man City",
-    "away": "Sunderland",
-    "result": null,
-    "fotmobId": 5795461,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T14:00:00Z",
     "venue": "St. James' Park",
     "home": "Newcastle",
     "away": "Hull",
@@ -487,6 +477,16 @@
     "away": "Liverpool",
     "result": null,
     "fotmobId": 5795455,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-20T13:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Sunderland",
+    "result": null,
+    "fotmobId": 5795461,
     "status": "scheduled"
   },
   {

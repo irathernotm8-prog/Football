@@ -115,9 +115,9 @@
     "venue": "Artemio Franchi",
     "home": "Fiorentina",
     "away": "Frosinone",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5749653,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -125,9 +125,9 @@
     "venue": "Brianteo",
     "home": "Monza",
     "away": "Udinese",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5749657,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -135,9 +135,9 @@
     "venue": "Mapei Stadium",
     "home": "Sassuolo",
     "away": "Torino",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5749659,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -281,7 +281,7 @@
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-07T16:00:00Z",
+    "dateUtc": "2026-09-07T16:30:00Z",
     "venue": "Unipol Domus",
     "home": "Cagliari",
     "away": "Lecce",
