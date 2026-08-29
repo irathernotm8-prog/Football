@@ -8,6 +8,7 @@ const ROOT = path.resolve(__dirname, '..');
 const FIXTURE_CONFIG_PATH = path.join(__dirname, 'fotmob-fixtures.json');
 const TEAM_CONFIG_PATH = path.join(__dirname, 'fotmob-squads.json');
 const COMPETITIONS_PATH = path.join(ROOT, 'data', 'competitions.json');
+const TEAM_IDENTITIES_PATH = path.join(ROOT, 'data', 'team-identities.json');
 
 const args = process.argv.slice(2);
 const target = args.find((arg) => !arg.startsWith('--')) || 'epl';
@@ -182,13 +183,29 @@ function extractMatches(payload) {
   return candidates[0].matches;
 }
 
-function buildTeamMaps(teamConfig) {
+function buildTeamMaps(teamConfig, identities, allowedTeams) {
   const byId = new Map();
   const byName = new Map();
+  const allowed = new Set(allowedTeams || []);
+
+  function register(repoName, name) {
+    if (!repoName || !name) return;
+    byName.set(normalizeText(name), repoName);
+  }
 
   for (const [repoName, cfg] of Object.entries(teamConfig?.teams || {})) {
+    allowed.add(repoName);
     if (cfg?.fotmobId) byId.set(Number(cfg.fotmobId), repoName);
-    [repoName, cfg?.search].filter(Boolean).forEach((name) => byName.set(normalizeText(name), repoName));
+    register(repoName, repoName);
+    register(repoName, cfg?.search);
+  }
+
+  // Central aliases shared by the UI and updater. Only register identities that
+  // belong to this competition, which avoids cross-league name collisions.
+  for (const repoName of allowed) {
+    register(repoName, repoName);
+    const identity = identities?.[repoName];
+    for (const alias of identity?.aliases || []) register(repoName, alias);
   }
 
   return { byId, byName };
@@ -433,7 +450,14 @@ async function updateCompetition(key, shared = null) {
     if (!Array.isArray(existing)) throw new Error(`${competition.files.fixtures} must contain a JSON array`);
     summary.existing = existing.length;
 
-    const maps = buildTeamMaps(teamCfg);
+    const identities = shared?.identities || readJson(TEAM_IDENTITIES_PATH);
+    const allowedTeams = new Set(Object.keys(teamCfg?.teams || {}));
+    for (const name of competition?.teamList || []) allowedTeams.add(name);
+    for (const fixture of existing) {
+      if (fixture.home) allowedTeams.add(fixture.home);
+      if (fixture.away) allowedTeams.add(fixture.away);
+    }
+    const maps = buildTeamMaps(teamCfg, identities, [...allowedTeams]);
     const season = cfg.season ? `&season=${encodeURIComponent(cfg.season)}` : '';
     const ccode = cfg.countryCode ? `&ccode3=${encodeURIComponent(cfg.countryCode)}` : '';
     const url = `${fixtureConfig.baseUrl}/leagues?id=${cfg.leagueId}${ccode}${season}`;
@@ -603,7 +627,8 @@ async function main() {
   const shared = {
     fixtureConfig: readJson(FIXTURE_CONFIG_PATH),
     squadConfig: readJson(TEAM_CONFIG_PATH),
-    competitions: readJson(COMPETITIONS_PATH)
+    competitions: readJson(COMPETITIONS_PATH),
+    identities: readJson(TEAM_IDENTITIES_PATH)
   };
   const keys = Object.keys(shared.fixtureConfig.competitions);
   const results = [];

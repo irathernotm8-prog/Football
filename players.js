@@ -14,7 +14,7 @@ function searchPlayerInitials(name) {
 }
 
 function searchTeamCrestHtml(teamName) {
-  var url = playerCrestLogos ? playerCrestLogos[teamName] : null;
+  var url = playerCrestLogos ? teamLookup(playerCrestLogos, teamName) : null;
   if (url) {
     return '<img src="' + url + '" alt="' + teamName + '" class="search-team-crest" loading="lazy" ' +
       'onerror="this.style.visibility=\'hidden\'">';
@@ -34,6 +34,7 @@ async function buildPlayerIndex() {
   if (playerIndex) return playerIndex;
 
   await competitionsReady;
+  await teamIdentityReady;
   if (!SEARCH_LEAGUES.length) {
     SEARCH_LEAGUES = getLeagueCompetitions().map(function (c) {
       return { key: c.key, file: c.files.squads };

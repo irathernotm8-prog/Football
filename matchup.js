@@ -32,7 +32,7 @@ async function loadMatchupRoster(leagueKey, teamName) {
       matchupSquadsCache[leagueKey] = {};
     }
   }
-  return matchupSquadsCache[leagueKey][teamName] || [];
+  return teamLookup(matchupSquadsCache[leagueKey], teamName) || [];
 }
 
 function matchupSquadPhotoHtml(p) {
@@ -62,18 +62,21 @@ function renderMatchupSquadListHtml(roster) {
 }
 
 function matchupCrestHtmlFor(teamName) {
-  var crest = matchupCrestLogos[teamName];
+  var crest = teamLookup(matchupCrestLogos, teamName);
   return crest
     ? '<img class="matchup-vs-crest" src="' + crest + '" alt="' + teamName + '">'
     : '<div class="matchup-vs-crest matchup-vs-crest-fallback">' + clubInitials(teamName) + "</div>";
 }
 
 async function renderMatchupBody() {
+  await teamIdentityReady;
+  matchupHomeTeam = canonicalTeamName(matchupHomeTeam);
+  matchupAwayTeam = canonicalTeamName(matchupAwayTeam);
   var body = document.getElementById("matchup-modal-body");
 
   var colors = await ensureClubColors();
-  var homeTheme = colors[matchupHomeTeam] || DEFAULT_CLUB_THEME;
-  var awayTheme = colors[matchupAwayTeam] || DEFAULT_CLUB_THEME;
+  var homeTheme = teamLookup(colors, matchupHomeTeam) || DEFAULT_CLUB_THEME;
+  var awayTheme = teamLookup(colors, matchupAwayTeam) || DEFAULT_CLUB_THEME;
 
   var headerHtml =
     '<div class="matchup-vs-header">' +

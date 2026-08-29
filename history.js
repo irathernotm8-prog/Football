@@ -46,8 +46,8 @@ function historyTeamInitials(name) {
 }
 
 function historyCrestHtml(teamName) {
-  var lookupName = HISTORY_NAME_ALIASES[teamName] || teamName;
-  var url = historyCrestLogos ? historyCrestLogos[lookupName] : null;
+  var lookupName = canonicalTeamName(HISTORY_NAME_ALIASES[teamName] || teamName);
+  var url = historyCrestLogos ? teamLookup(historyCrestLogos, lookupName) : null;
   if (url) {
     return '<img src="' + url + '" alt="' + teamName + ' crest" loading="lazy" ' +
       'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'), {className:\'history-card-crest-fallback\', textContent:\'' + historyTeamInitials(teamName) + '\'}))">';
@@ -57,7 +57,7 @@ function historyCrestHtml(teamName) {
 
 function historyCardHtml(leagueKey, leagueLabel, row) {
   var trophyBg = (typeof trophyIconHtml === "function") ? trophyIconHtml(leagueKey, leagueLabel) : "";
-  var lookupName = HISTORY_NAME_ALIASES[row.champion] || row.champion;
+  var lookupName = canonicalTeamName(HISTORY_NAME_ALIASES[row.champion] || row.champion);
   return (
     '<div class="history-card club-link" data-club-link="' + lookupName.replace(/"/g, "&quot;") + '" title="' + row.champion.replace(/"/g, "&quot;") + " " + row.season + '">' +
     '<div class="history-card-icon-bg">' + trophyBg + "</div>" +

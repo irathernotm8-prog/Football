@@ -204,7 +204,7 @@ async function buildBuilderPlayerPool() {
 }
 
 function builderTeamCrestHtml(teamName, sizeClass) {
-  var url = builderCrestLogos ? builderCrestLogos[teamName] : null;
+  var url = builderCrestLogos ? teamLookup(builderCrestLogos, teamName) : null;
   if (url) {
     return '<img src="' + url + '" alt="' + teamName + '" class="' + sizeClass + '" loading="lazy" onerror="this.style.visibility=\'hidden\'">';
   }

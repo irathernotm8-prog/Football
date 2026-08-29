@@ -77,20 +77,22 @@ async function loadTeamPageLeague(key) {
 }
 
 async function renderTeamPage(leagueKey, teamName) {
+  await teamIdentityReady;
+  teamName = canonicalTeamName(teamName);
   var body = document.getElementById("team-page-body");
   body.innerHTML = "<p class=\"muted-note\">Loading " + teamName + "...</p>";
 
   await ensureClubLeagueLists();
   var colors = await ensureClubColors();
   var crests = await ensureClubCrestLogos();
-  var theme = colors[teamName] || DEFAULT_CLUB_THEME;
+  var theme = teamLookup(colors, teamName) || DEFAULT_CLUB_THEME;
 
-  var crestUrl = crests[teamName];
+  var crestUrl = teamLookup(crests, teamName);
   var crestHtmlStr = crestUrl
     ? '<img src="' + crestUrl + '" alt="' + teamName + '" class="club-modal-crest" onerror="this.style.visibility=\'hidden\'">'
     : '<div class="club-modal-crest-fallback">' + clubInitials(teamName) + "</div>";
 
-  var roster = (teamPageCache[leagueKey] && teamPageCache[leagueKey][teamName]) || [];
+  var roster = teamPageCache[leagueKey] ? (teamLookup(teamPageCache[leagueKey], teamName) || []) : [];
   var trophies = await findClubTrophies(teamName, leagueKey);
 
   var allMatches = await ensureMhData();

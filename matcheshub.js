@@ -26,7 +26,7 @@ function teamInitials(name) {
 }
 
 function crestHtml(teamName, cls) {
-  var url = mhCrestLogos[teamName];
+  var url = teamLookup(mhCrestLogos, teamName);
   var klass = cls || "team-crest";
   if (url) {
     return '<img src="' + url + '" alt="' + teamName + ' crest" class="' + klass + '" loading="lazy" ' +
@@ -75,6 +75,7 @@ async function ensureMhData() {
   if (mhFlatCache) return mhFlatCache;
 
   await competitionsReady;
+  await teamIdentityReady;
   if (!MH_LEAGUES.length) {
     MH_LEAGUES = getFixtureCompetitions().map(function (c) {
       return { key: c.key, label: c.label, file: c.files.fixtures, stream: c.stream };
@@ -107,8 +108,8 @@ async function ensureMhData() {
           round: m.round,
           dateUtc: m.dateUtc,
           venue: m.venue,
-          home: m.home,
-          away: m.away,
+          home: canonicalTeamName(m.home),
+          away: canonicalTeamName(m.away),
           result: m.result,
           tbd: !!m.tbd,
           leagueKey: league.key,

@@ -147,8 +147,9 @@ async function findClubRoster(teamName) {
         clubSquadsCache[key] = {};
       }
     }
-    if (clubSquadsCache[key][teamName]) {
-      return { leagueKey: key, roster: clubSquadsCache[key][teamName] };
+    var roster = teamLookup(clubSquadsCache[key], teamName);
+    if (roster) {
+      return { leagueKey: key, roster: roster };
     }
   }
   return null;
@@ -207,6 +208,8 @@ function clubPlayerPhotoHtml(p) {
 }
 
 async function openClubPage(teamName) {
+  await teamIdentityReady;
+  teamName = canonicalTeamName(teamName);
   var modal = document.getElementById("club-modal");
   var body = document.getElementById("club-modal-body");
   var panel = document.getElementById("club-modal-panel");
@@ -220,13 +223,13 @@ async function openClubPage(teamName) {
 
   var colors = await ensureClubColors();
   var crests = await ensureClubCrestLogos();
-  var theme = colors[teamName] || DEFAULT_CLUB_THEME;
+  var theme = teamLookup(colors, teamName) || DEFAULT_CLUB_THEME;
 
   panel.style.setProperty("--club-primary", theme.primary);
   panel.style.setProperty("--club-secondary", theme.secondary);
   panel.style.setProperty("--club-text", theme.text);
 
-  var crestUrl = crests[teamName];
+  var crestUrl = teamLookup(crests, teamName);
   var crestHtml = crestUrl
     ? '<img src="' + crestUrl + '" alt="' + teamName + '" class="club-modal-crest" onerror="this.style.visibility=\'hidden\'">'
     : '<div class="club-modal-crest-fallback">' + clubInitials(teamName) + "</div>";
