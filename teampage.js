@@ -66,14 +66,36 @@ async function loadTeamPageLeague(key) {
       body.innerHTML = "<p class=\"muted-note\">" + comp.label + " team data is coming soon.</p>";
       return;
     }
-    select.innerHTML = teams.map(function (t) {
+    select.innerHTML = '<option value="">All Teams</option>' + teams.map(function (t) {
       return '<option value="' + t + '">' + t + "</option>";
     }).join("");
+    select.value = "";
     selectWrap.classList.remove("hidden");
-    renderTeamPage(key, teams[0]);
+    renderTeamGrid(key, teams);
   } catch (err) {
     body.innerHTML = "<p class=\"muted-note\">" + comp.label + " team data is coming soon.</p>";
   }
+}
+
+async function renderTeamGrid(key, teams) {
+  currentTeamPageLeague = key;
+  var body = document.getElementById("team-page-body");
+  body.innerHTML = '<p class="muted-note">Loading teams...</p>';
+
+  var crests = await ensureClubCrestLogos();
+
+  body.innerHTML = '<div class="team-grid">' + teams.map(function (t) {
+    var crestUrl = teamLookup(crests, t);
+    var crestPart = crestUrl
+      ? '<img src="' + crestUrl + '" alt="" class="team-grid-crest" loading="lazy" onerror="this.style.visibility=\'hidden\'">'
+      : '<div class="team-grid-crest-fallback">' + clubInitials(t) + "</div>";
+    return (
+      '<button type="button" class="team-grid-tile" data-team="' + t.replace(/"/g, "&quot;") + '">' +
+      crestPart +
+      '<span class="team-grid-name">' + t + "</span>" +
+      "</button>"
+    );
+  }).join("") + "</div>";
 }
 
 async function renderTeamPage(leagueKey, teamName) {
@@ -181,6 +203,7 @@ async function renderTeamPage(leagueKey, teamName) {
   }
 
   body.innerHTML =
+    '<button type="button" class="team-back-btn" id="team-back-btn">&larr; All Teams</button>' +
     '<div class="team-page-card">' +
     '<div class="club-modal-header">' +
     crestHtmlStr +
@@ -201,8 +224,31 @@ async function renderTeamPage(leagueKey, teamName) {
     "</div>";
 }
 
+var teamPageBodyEl = document.getElementById("team-page-body");
+if (teamPageBodyEl) {
+  teamPageBodyEl.addEventListener("click", function (e) {
+    var tile = e.target.closest(".team-grid-tile");
+    if (tile) {
+      var team = tile.dataset.team;
+      var selectEl = document.getElementById("team-select");
+      if (selectEl) selectEl.value = team;
+      renderTeamPage(currentTeamPageLeague, team);
+      return;
+    }
+    if (e.target.closest("#team-back-btn")) {
+      var selectEl2 = document.getElementById("team-select");
+      if (selectEl2) selectEl2.value = "";
+      renderTeamGrid(currentTeamPageLeague, teamListCache[currentTeamPageLeague] || []);
+    }
+  });
+}
+
 document.getElementById("team-select") && document.getElementById("team-select").addEventListener("change", function (e) {
-  renderTeamPage(currentTeamPageLeague, e.target.value);
+  if (!e.target.value) {
+    renderTeamGrid(currentTeamPageLeague, teamListCache[currentTeamPageLeague] || []);
+  } else {
+    renderTeamPage(currentTeamPageLeague, e.target.value);
+  }
 });
 
 initTeamTabs();
