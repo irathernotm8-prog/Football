@@ -99,24 +99,32 @@ function updateLivePinLeague() {
 
 async function initLivePin() {
   await competitionsReady;
+  var pinRoot = document.getElementById("live-pin");
   var toggle = document.getElementById("live-pin-toggle");
   var panel = document.getElementById("live-pin-panel");
-  var minimizeBtn = document.getElementById("live-pin-minimize");
-  if (!toggle || !panel) return;
+  if (!pinRoot || !toggle || !panel) return;
 
   await renderLivePinToday(); // warm the pill label even while collapsed
 
-  toggle.addEventListener("click", function () {
-    livePinExpanded = true;
-    panel.classList.remove("hidden");
-    toggle.classList.add("hidden");
-    renderLivePinToday();
-  });
-
-  minimizeBtn.addEventListener("click", function () {
-    livePinExpanded = false;
-    panel.classList.add("hidden");
-    toggle.classList.remove("hidden");
+  // Delegated on the (confirmed-present) container rather than binding
+  // directly to the toggle/minimize buttons individually - if either button
+  // were ever missing or swapped out, a direct addEventListener on it would
+  // throw and silently kill the rest of this function (including the
+  // refresh timer set up below), which is exactly the kind of thing that
+  // could make "minimize" quietly stop working with no visible error.
+  pinRoot.addEventListener("click", function (e) {
+    if (e.target.closest("#live-pin-toggle")) {
+      livePinExpanded = true;
+      panel.classList.remove("hidden");
+      toggle.classList.add("hidden");
+      renderLivePinToday();
+      return;
+    }
+    if (e.target.closest("#live-pin-minimize")) {
+      livePinExpanded = false;
+      panel.classList.add("hidden");
+      toggle.classList.remove("hidden");
+    }
   });
 
   // Covers the case where someone changes the league filter directly from

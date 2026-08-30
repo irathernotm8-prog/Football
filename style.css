@@ -81,7 +81,7 @@ header h1 {
   margin: 0;
   font-family: "Oswald", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 3.4rem;
-  line-height: 1.35;
+  line-height: 1.5;
   font-weight: 800;
   letter-spacing: -0.01em;
   font-style: italic;
@@ -90,10 +90,12 @@ header h1 {
   gap: 0.5rem;
   justify-content: center;
   width: 100%;
+  padding-top: 0.35em;
 }
 
 .title-main {
   color: #ffffff;
+  line-height: 1.5;
   -webkit-text-stroke: 1.5px #05130b;
   paint-order: stroke fill;
   text-shadow: 0 5px 14px rgba(0, 0, 0, 0.55);
@@ -104,6 +106,7 @@ header h1 {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  line-height: 1.5;
   -webkit-text-stroke: 1.5px #05130b;
   paint-order: stroke fill;
   text-shadow: 0 0 24px rgba(var(--accent-rgb), 0.65), 0 5px 14px rgba(0, 0, 0, 0.55);
