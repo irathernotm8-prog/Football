@@ -2594,7 +2594,36 @@ section h2 {
   transform: translateX(-2px);
 }
 
-/* Player profile modal */
+
+/* Player profile page (full sub-page, not a modal) */
+
+.player-page-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0 0 1.5rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: inherit;
+  transition: var(--theme-transition), transform 0.15s ease;
+}
+
+.player-page-back:hover {
+  color: var(--ink);
+  border-color: var(--green);
+  transform: translateX(-2px);
+}
+
+.player-page-body {
+  max-width: 900px;
+  margin: 0 auto;
+}
 
 .player-link {
   cursor: pointer;
@@ -2606,32 +2635,35 @@ section h2 {
   text-decoration: underline;
 }
 
-.player-modal-header {
+.player-page-hero {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid var(--line);
-  margin-bottom: 1.25rem;
+  gap: 2rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 2.5rem;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
 }
 
-.player-modal-photo {
-  width: 88px;
-  height: 88px;
+.player-page-photo {
+  width: 148px;
+  height: 148px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid var(--line);
+  border: 3px solid var(--line);
   flex-shrink: 0;
 }
 
-.player-modal-photo-fallback {
-  width: 88px;
-  height: 88px;
+.player-page-photo-fallback {
+  width: 148px;
+  height: 148px;
   border-radius: 50%;
   background: var(--surface-2);
-  border: 2px solid var(--line);
+  border: 3px solid var(--line);
   color: var(--ink);
-  font-size: 1.4rem;
+  font-size: 2.2rem;
   font-weight: 700;
   display: flex;
   align-items: center;
@@ -2639,80 +2671,111 @@ section h2 {
   flex-shrink: 0;
 }
 
-.player-modal-header-info {
+.player-page-hero-info {
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.9rem;
 }
 
-.player-modal-name {
-  font-size: 1.5rem;
+.player-page-name {
+  font-size: 2.1rem;
   font-weight: 800;
   color: var(--ink);
   margin: 0;
+  line-height: 1.15;
 }
 
-.player-modal-meta {
+.player-page-meta {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  color: var(--muted);
-  font-size: 0.9rem;
+  gap: 0.6rem;
 }
 
-.player-modal-meta-dot { opacity: 0.6; }
+.player-page-meta-chip {
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
 
-.player-modal-current-team {
+.player-page-current-team {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  font-size: 0.85rem;
-  font-weight: 600;
+  gap: 0.6rem;
+  font-size: 0.95rem;
+  font-weight: 700;
   color: var(--green);
   width: fit-content;
 }
 
-.player-modal-team-crest {
-  width: 22px;
-  height: 22px;
+.player-page-team-crest {
+  width: 26px;
+  height: 26px;
   object-fit: contain;
 }
 
-.player-modal-section {
-  margin-bottom: 1.5rem;
+.player-page-section {
+  margin-bottom: 2.5rem;
 }
 
-.player-career-list {
+.player-page-section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.player-career-timeline {
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.9rem;
 }
 
-.player-career-row {
+.player-career-card {
   display: flex;
   align-items: center;
-  gap: 0.85rem;
-  padding: 0.7rem 0.9rem;
-  border-radius: 12px;
-  background: var(--surface-2);
+  gap: 1.1rem;
+  padding: 1.1rem 1.4rem;
+  border-radius: 16px;
+  background: var(--surface);
   border: 1px solid var(--line);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  transition: var(--theme-transition), transform 0.15s ease, border-color 0.15s ease;
+}
+
+.player-career-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--green);
+}
+
+.player-career-crest-wrap {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .player-career-crest {
-  width: 32px;
-  height: 32px;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
-  flex-shrink: 0;
 }
 
 .player-career-crest-fallback {
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
-  background: var(--surface);
+  background: var(--surface-2);
   border: 1px solid var(--line);
   color: var(--ink);
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   font-weight: 700;
   display: flex;
   align-items: center;
@@ -2720,15 +2783,66 @@ section h2 {
   flex-shrink: 0;
 }
 
+.player-career-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
 .player-career-club {
-  flex: 1;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--ink);
+  font-size: 1.05rem;
 }
 
 .player-career-years {
   color: var(--muted);
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   font-weight: 600;
-  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .player-page-hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem 1.5rem;
+  }
+  .player-page-meta { justify-content: center; }
+  .player-page-current-team { align-self: center; }
+}
+.standings-no-table {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.4);
+}
+
+.standings-no-table p {
+  color: var(--muted);
+  font-size: 1rem;
+  margin: 0 0 1.25rem;
+}
+
+.standings-goto-matches {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--green);
+  background: rgba(var(--accent-rgb), 0.12);
+  color: var(--green);
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: inherit;
+  transition: var(--theme-transition), transform 0.15s ease;
+}
+
+.standings-goto-matches:hover {
+  background: var(--green);
+  color: #05130b;
+  transform: translateY(-1px);
 }

@@ -1,11 +1,17 @@
-// Player profile modal. Current team/position/nationality/photo come from
+// Player profile page. Current team/position/nationality/photo come from
 // whichever league's squad data already has this player (reuses the same
 // cross-league search clubpage.js built for club rosters). Club career
 // history (past clubs + years) is separate, hand-curated data in
 // data/player-profiles.json since none of our squad sources carry it -
 // national-team history is deliberately left for later.
+//
+// This renders as its own full page (like Team/Title History) rather than a
+// modal - clicking a player swaps out whichever main tab you were on, and a
+// "Back" button restores it. Clicking a club from within the player page
+// still opens the normal club popup (that part didn't change).
 
 var playerProfilesCache = null;
+var playerPagePreviousTab = null;
 
 async function ensurePlayerProfiles() {
   if (playerProfilesCache) return playerProfilesCache;
@@ -54,11 +60,23 @@ function careerRangeLabel(entry) {
   return entry.start + "\u2013" + (entry.end || "Present");
 }
 
-async function openPlayerPage(playerName) {
-  document.body.style.overflow = "hidden";
-  var modal = document.getElementById("player-modal");
-  var body = document.getElementById("player-modal-body");
-  modal.classList.remove("hidden");
+async function showPlayerPage(playerName) {
+  // If this was triggered from inside an open club/matchup popup, close it
+  // first - otherwise it just sits on top of the page underneath at a
+  // higher z-index and the new page is invisible.
+  if (typeof closeClubPage === "function") closeClubPage();
+  if (typeof closeMatchup === "function") closeMatchup();
+
+  // Remember whatever main tab was showing so "Back" can restore it exactly.
+  var currentActiveTab = document.querySelector(".main-tab.active");
+  if (currentActiveTab) playerPagePreviousTab = currentActiveTab;
+
+  document.querySelectorAll(".main-tab").forEach(function (t) { t.classList.remove("active"); });
+  document.querySelectorAll(".page").forEach(function (p) { p.classList.add("hidden"); });
+  document.getElementById("page-player").classList.remove("hidden");
+  window.scrollTo(0, 0);
+
+  var body = document.getElementById("player-page-body");
   body.innerHTML = '<p class="muted-note">Loading...</p>';
 
   var found = await findPlayerAcrossLeagues(playerName);
@@ -67,35 +85,38 @@ async function openPlayerPage(playerName) {
   var crests = await ensureClubCrestLogos();
 
   var photoHtml = found && found.player.photo
-    ? '<img src="' + found.player.photo + '" alt="' + playerName + '" class="player-modal-photo" onerror="this.style.visibility=\'hidden\'">'
-    : '<div class="player-modal-photo-fallback">' + searchPlayerInitials(playerName) + "</div>";
+    ? '<img src="' + found.player.photo + '" alt="' + playerName + '" class="player-page-photo" onerror="this.style.visibility=\'hidden\'">'
+    : '<div class="player-page-photo-fallback">' + searchPlayerInitials(playerName) + "</div>";
 
   var currentTeamHtml = "";
   if (found) {
     var currentCrestUrl = teamLookup(crests, found.team);
     currentTeamHtml =
-      '<span class="player-modal-current-team club-link" data-club-link="' + found.team.replace(/"/g, "&quot;") + '">' +
-      (currentCrestUrl ? '<img src="' + currentCrestUrl + '" alt="" class="player-modal-team-crest">' : "") +
+      '<span class="player-page-current-team club-link" data-club-link="' + found.team.replace(/"/g, "&quot;") + '">' +
+      (currentCrestUrl ? '<img src="' + currentCrestUrl + '" alt="" class="player-page-team-crest">' : "") +
       "<span>" + found.team + "</span>" +
       "</span>";
   }
 
   var metaHtml = found
-    ? '<span>' + found.player.position + '</span><span class="player-modal-meta-dot">&middot;</span><span>' + (found.player.nationality || "") + "</span>"
+    ? '<span class="player-page-meta-chip">' + found.player.position + "</span>" +
+      '<span class="player-page-meta-chip">' + (found.player.nationality || "") + "</span>"
     : "";
 
   var careerHtml;
   if (profile && profile.career && profile.career.length) {
-    careerHtml = '<div class="player-career-list">' + profile.career.slice().reverse().map(function (entry) {
+    careerHtml = '<div class="player-career-timeline">' + profile.career.slice().reverse().map(function (entry) {
       var crestUrl = teamLookup(crests, entry.club);
       var crestPart = crestUrl
         ? '<img src="' + crestUrl + '" alt="" class="player-career-crest">'
         : '<div class="player-career-crest-fallback">' + searchPlayerInitials(entry.club) + "</div>";
       return (
-        '<div class="player-career-row club-link" data-club-link="' + entry.club.replace(/"/g, "&quot;") + '">' +
-        crestPart +
+        '<div class="player-career-card club-link" data-club-link="' + entry.club.replace(/"/g, "&quot;") + '">' +
+        '<div class="player-career-crest-wrap">' + crestPart + "</div>" +
+        '<div class="player-career-info">' +
         '<span class="player-career-club">' + entry.club + "</span>" +
         '<span class="player-career-years">' + careerRangeLabel(entry) + "</span>" +
+        "</div>" +
         "</div>"
       );
     }).join("") + "</div>";
@@ -104,42 +125,40 @@ async function openPlayerPage(playerName) {
   }
 
   body.innerHTML =
-    '<div class="player-modal-header">' +
+    '<div class="player-page-hero">' +
     photoHtml +
-    '<div class="player-modal-header-info">' +
-    '<h2 class="player-modal-name">' + playerName + "</h2>" +
-    '<div class="player-modal-meta">' + metaHtml + "</div>" +
+    '<div class="player-page-hero-info">' +
+    '<h1 class="player-page-name">' + playerName + "</h1>" +
+    '<div class="player-page-meta">' + metaHtml + "</div>" +
     currentTeamHtml +
     "</div>" +
     "</div>" +
-    '<div class="player-modal-section">' +
-    '<h3 class="club-modal-section-title">Club Career</h3>' +
+    '<div class="player-page-section">' +
+    '<h2 class="player-page-section-title">Club Career</h2>' +
     careerHtml +
     "</div>" +
-    '<div class="player-modal-section">' +
-    '<h3 class="club-modal-section-title">National Team</h3>' +
+    '<div class="player-page-section">' +
+    '<h2 class="player-page-section-title">National Team</h2>' +
     '<p class="muted-note">Coming soon.</p>' +
     "</div>";
 }
 
-function closePlayerPage() {
-  document.getElementById("player-modal").classList.add("hidden");
-  document.body.style.overflow = "";
+function goBackFromPlayerPage() {
+  document.getElementById("page-player").classList.add("hidden");
+  var tab = playerPagePreviousTab || document.querySelector(".main-tab");
+  if (tab) {
+    tab.classList.add("active");
+    document.getElementById(tab.dataset.target).classList.remove("hidden");
+  }
 }
+
+document.getElementById("player-page-back").addEventListener("click", goBackFromPlayerPage);
 
 document.addEventListener("click", function (e) {
   var link = e.target.closest(".player-link");
   if (link) {
     e.preventDefault();
     e.stopPropagation();
-    openPlayerPage(link.dataset.playerLink);
-    return;
+    showPlayerPage(link.dataset.playerLink);
   }
-  if (e.target.id === "player-modal-close" || e.target.id === "player-modal-backdrop") {
-    closePlayerPage();
-  }
-});
-
-document.addEventListener("keydown", function (e) {
-  if (e.key === "Escape") closePlayerPage();
 });

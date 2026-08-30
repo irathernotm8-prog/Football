@@ -1583,5 +1583,245 @@
     "primary": "#0057A8",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Algeria": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Argentina": {
+    "primary": "#6CACE4",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Australia": {
+    "primary": "#FFD700",
+    "secondary": "#00843D",
+    "text": "#000000"
+  },
+  "Austria": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Belgium": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Bosnia and Herzegovina": {
+    "primary": "#0057A8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Brazil": {
+    "primary": "#FFD700",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Cabo Verde": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Canada": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Colombia": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "DR Congo": {
+    "primary": "#0057A8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Ivory Coast": {
+    "primary": "#FF8200",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Croatia": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Curacao": {
+    "primary": "#0057A8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Czech Republic": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Netherlands": {
+    "primary": "#FF6600",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "Ecuador": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Egypt": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "England": {
+    "primary": "#ffffff",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "France": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Germany": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Ghana": {
+    "primary": "#FFD700",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Haiti": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Iran": {
+    "primary": "#00A650",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Iraq": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Japan": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Jordan": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Mexico": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Morocco": {
+    "primary": "#C8102E",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "New Zealand": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Norway": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Panama": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Paraguay": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Portugal": {
+    "primary": "#C8102E",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "Qatar": {
+    "primary": "#8A1538",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Saudi Arabia": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Scotland": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Senegal": {
+    "primary": "#00A650",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "South Africa": {
+    "primary": "#00A650",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "South Korea": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Spain": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Sweden": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Switzerland": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Tunisia": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Turkey": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Uruguay": {
+    "primary": "#6CACE4",
+    "secondary": "#ffffff",
+    "text": "#000000"
+  },
+  "USA": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Uzbekistan": {
+    "primary": "#00A650",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
   }
 }
