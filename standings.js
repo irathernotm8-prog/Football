@@ -5,7 +5,7 @@ async function initStandings() {
   // knockouts with no meaningful table, so they never got a ScoreAxis widget -
   // but they should still get a tab here rather than vanish from the page.
   var withoutStandings = getLeagueCompetitions().filter(function (c) {
-    return !c.hasStandings && !withStandings.some(function (w) { return w.key === c.key; });
+    return !c.hasStandings && !c.hideFromStandings && !withStandings.some(function (w) { return w.key === c.key; });
   });
   var comps = withStandings.concat(withoutStandings).sort(function (a, b) {
     var oa = a.standingsOrder != null ? a.standingsOrder : 999;

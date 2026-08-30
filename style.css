@@ -932,6 +932,16 @@ section h2 {
   text-align: right;
 }
 
+.search-result-retired {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+}
+
 @media (max-width: 640px) {
   .search-result-team-name { display: none; }
 }
@@ -2845,4 +2855,85 @@ section h2 {
   background: var(--green);
   color: #05130b;
   transform: translateY(-1px);
+}
+
+/* Hall of Fame tab */
+
+.halloffame-intro {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.5rem;
+}
+
+.halloffame-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1.1rem;
+}
+
+.halloffame-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 1.4rem 1rem;
+  border-radius: 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-align: center;
+  transition: var(--theme-transition), transform 0.15s ease, border-color 0.15s ease;
+}
+
+.halloffame-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--green);
+}
+
+.halloffame-photo {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--line);
+}
+
+.halloffame-photo-fallback {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 2px solid var(--line);
+  color: var(--ink);
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.halloffame-name {
+  font-weight: 700;
+  color: var(--ink);
+  font-size: 0.92rem;
+  line-height: 1.25;
+}
+
+.halloffame-meta {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.player-page-retired-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  width: fit-content;
 }

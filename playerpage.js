@@ -84,8 +84,17 @@ async function showPlayerPage(playerName) {
   var profile = profiles[playerName];
   var crests = await ensureClubCrestLogos();
 
-  var photoHtml = found && found.player.photo
-    ? '<img src="' + found.player.photo + '" alt="' + playerName + '" class="player-page-photo" onerror="this.style.visibility=\'hidden\'">'
+  // Not on any current squad? Check the Hall of Fame for retired players -
+  // gives us position/nationality/photo the same way a current squad would.
+  var hallEntry = null;
+  if (!found) {
+    var hallOfFame = await ensureHallOfFame();
+    if (hallOfFame[playerName]) hallEntry = hallOfFame[playerName];
+  }
+
+  var photoSource = found ? found.player.photo : (hallEntry ? hallEntry.photo : null);
+  var photoHtml = photoSource
+    ? '<img src="' + photoSource + '" alt="' + playerName + '" class="player-page-photo" onerror="this.style.visibility=\'hidden\'">'
     : '<div class="player-page-photo-fallback">' + searchPlayerInitials(playerName) + "</div>";
 
   var currentTeamHtml = "";
@@ -96,12 +105,17 @@ async function showPlayerPage(playerName) {
       (currentCrestUrl ? '<img src="' + currentCrestUrl + '" alt="" class="player-page-team-crest">' : "") +
       "<span>" + found.team + "</span>" +
       "</span>";
+  } else if (hallEntry) {
+    currentTeamHtml = '<span class="player-page-retired-badge">' + (hallEntry.status || "Retired") + "</span>";
   }
 
   var metaHtml = found
     ? '<span class="player-page-meta-chip">' + found.player.position + "</span>" +
       '<span class="player-page-meta-chip">' + (found.player.nationality || "") + "</span>"
-    : "";
+    : (hallEntry
+      ? '<span class="player-page-meta-chip">' + (hallEntry.position || "") + "</span>" +
+        '<span class="player-page-meta-chip">' + (hallEntry.nationality || "") + "</span>"
+      : "");
 
   var careerHtml;
   if (profile && profile.career && profile.career.length) {

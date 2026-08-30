@@ -74,6 +74,33 @@ async function buildPlayerIndex() {
       // league not available yet, skip
     }
   }
+
+  // Hall of Fame players aren't tied to a current squad, so they come from
+  // their own data file rather than the league loop above. Tagged with
+  // their own "league" key so the nav-bar league filter can still narrow to
+  // just them, same mechanism as every other competition.
+  try {
+    var hallOfFame = await ensureHallOfFame();
+    var profiles = await ensurePlayerProfiles();
+    Object.keys(hallOfFame).forEach(function (name) {
+      var p = hallOfFame[name];
+      var career = profiles[name] && profiles[name].career;
+      var lastClub = career && career.length ? career[career.length - 1].club : null;
+      index.push({
+        name: name,
+        number: null,
+        position: p.position,
+        nationality: p.nationality,
+        photo: p.photo,
+        team: lastClub,
+        retiredStatus: p.status || "Retired",
+        league: "halloffame"
+      });
+    });
+  } catch (err) {
+    // Hall of Fame data not available, skip
+  }
+
   playerIndex = index;
   return index;
 }
@@ -86,6 +113,13 @@ function renderPlayerResults(results) {
   }
   container.innerHTML = results.slice(0, 60).map(function (p) {
     var number = p.number ? p.number : "\u2014";
+    var teamPart = p.team
+      ? '<span class="search-result-team club-link" data-club-link="' + p.team.replace(/"/g, "&quot;") + '">' +
+        searchTeamCrestHtml(p.team) +
+        '<span class="search-result-team-name">' + p.team + "</span>" +
+        (p.retiredStatus ? '<span class="search-result-retired">' + p.retiredStatus + "</span>" : '<span class="search-result-number">#' + number + "</span>") +
+        "</span>"
+      : (p.retiredStatus ? '<span class="search-result-team"><span class="search-result-retired">' + p.retiredStatus + "</span></span>" : "");
     return (
       '<div class="search-result-row">' +
       searchPlayerPhotoHtml(p) +
@@ -93,11 +127,7 @@ function renderPlayerResults(results) {
       '<span class="search-result-name player-link" data-player-link="' + p.name.replace(/"/g, "&quot;") + '">' + p.name + "</span>" +
       '<span class="search-result-meta">' + p.position + " \u00b7 " + (p.nationality || "") + "</span>" +
       "</span>" +
-      '<span class="search-result-team club-link" data-club-link="' + p.team.replace(/"/g, "&quot;") + '">' +
-      searchTeamCrestHtml(p.team) +
-      '<span class="search-result-team-name">' + p.team + "</span>" +
-      '<span class="search-result-number">#' + number + "</span>" +
-      "</span>" +
+      teamPart +
       "</div>"
     );
   }).join("");

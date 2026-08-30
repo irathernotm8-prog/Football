@@ -1,9 +1,50 @@
 {
   "Lionel Messi": {
     "career": [
-      { "club": "FC Barcelona", "start": "2004", "end": "2021" },
-      { "club": "Paris Saint-Germain", "start": "2021", "end": "2023" },
-      { "club": "Inter Miami CF", "start": "2023", "end": null }
+      {
+        "club": "FC Barcelona",
+        "start": "2004",
+        "end": "2021"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2021",
+        "end": "2023"
+      },
+      {
+        "club": "Inter Miami CF",
+        "start": "2023",
+        "end": null
+      }
+    ]
+  },
+  "Thierry Henry": {
+    "career": [
+      {
+        "club": "AS Monaco",
+        "start": "1994",
+        "end": "1999"
+      },
+      {
+        "club": "Juventus",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1999",
+        "end": "2007"
+      },
+      {
+        "club": "FC Barcelona",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "New York Red Bulls",
+        "start": "2010",
+        "end": "2014"
+      }
     ]
   }
 }
