@@ -827,7 +827,7 @@
     "color": "#d1308e",
     "standingsWidgetId": null,
     "hasStandings": false,
-    "logo": null,
+    "logo": "assets/league-logos/world-cup.png",
     "theme": {
       "bg": "#280a15",
       "surface": "#311421",
