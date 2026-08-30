@@ -254,14 +254,14 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-ucl.json",
-      "squads": null,
+      "squads": "data/squads-ucl.json",
       "history": "data/history-ucl.json"
     },
     "stream": "Paramount+",
     "color": "#306bd1",
     "standingsWidgetId": "6232267fbf1fa71a67215dfc",
     "hasStandings": true,
-    "notes": "Full league phase now live: 36 teams, 144 fixtures (2026/27 season), sourced directly from UEFA's official schedule. Squads not built yet. Knockout-phase play-offs (Feb 2027 onward) will need to be appended once drawn.",
+    "notes": "Full league phase now live: 36 teams, 144 fixtures (2026/27 season), sourced directly from UEFA's official schedule. Knockout-phase play-offs (Feb 2027 onward) will need to be appended once drawn.",
     "standingsOrder": 6,
     "logo": "assets/league-logos/ucl.png",
     "theme": {
@@ -346,14 +346,14 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-eflcup.json",
-      "squads": null,
+      "squads": "data/squads-eflcup.json",
       "history": "data/history-eflcup.json"
     },
     "stream": "ESPN+",
     "color": "#c4d130",
     "standingsWidgetId": null,
     "hasStandings": false,
-    "notes": "Round 3 draw confirmed (2026-27): 16 ties, played across w/c Sep 7 and Sep 14 - exact per-match days/times not yet set by broadcasters, so all Round 3 fixtures share a placeholder date and render as TBD. Rounds 4/5/semis/final aren't drawn yet - append them here once each draw happens. No squads or standings (pure knockout).",
+    "notes": "Round 3 draw confirmed (2026-27): 16 ties, played across w/c Sep 7 and Sep 14 - exact per-match days/times not yet set by broadcasters, so all Round 3 fixtures share a placeholder date and render as TBD. Rounds 4/5/semis/final aren't drawn yet - append them here once each draw happens. Squads enabled; no standings (pure knockout).",
     "logo": "assets/league-logos/eflcup.png",
     "theme": {
       "bg": "#1f280a",

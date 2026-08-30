@@ -1299,6 +1299,290 @@
           "search": "Toluca"
         }
       }
+    },
+    "ucl": {
+      "leagueId": null,
+      "countryCode": "",
+      "teams": {
+        "AEK Athens": {
+          "fotmobId": 8563,
+          "search": "AEK Athens"
+        },
+        "LASK": {
+          "fotmobId": 9977,
+          "search": "LASK"
+        },
+        "Club Brugge": {
+          "fotmobId": 8342,
+          "search": "Club Brugge"
+        },
+        "Aston Villa": {
+          "fotmobId": 10252,
+          "search": "Aston Villa"
+        },
+        "Borussia Dortmund": {
+          "fotmobId": 9789,
+          "search": "Borussia Dortmund"
+        },
+        "Villarreal CF": {
+          "fotmobId": 10205,
+          "search": "Villarreal"
+        },
+        "FC Porto": {
+          "fotmobId": 9773,
+          "search": "FC Porto"
+        },
+        "Man City": {
+          "fotmobId": 8456,
+          "search": "Manchester City"
+        },
+        "LOSC Lille": {
+          "fotmobId": 8639,
+          "search": "Lille"
+        },
+        "Real Betis": {
+          "fotmobId": 8603,
+          "search": "Real Betis"
+        },
+        "Real Madrid": {
+          "fotmobId": 8633,
+          "search": "Real Madrid"
+        },
+        "Inter": {
+          "fotmobId": 8636,
+          "search": "Inter Milan"
+        },
+        "FC Barcelona": {
+          "fotmobId": 8634,
+          "search": "Barcelona"
+        },
+        "Feyenoord": {
+          "fotmobId": 10235,
+          "search": "Feyenoord"
+        },
+        "VfB Stuttgart": {
+          "fotmobId": 10269,
+          "search": "VfB Stuttgart"
+        },
+        "Viking": {
+          "fotmobId": null,
+          "search": "Viking FK"
+        },
+        "Liverpool": {
+          "fotmobId": 8650,
+          "search": "Liverpool"
+        },
+        "Atlético de Madrid": {
+          "fotmobId": 9906,
+          "search": "Atletico Madrid"
+        },
+        "Paris Saint-Germain": {
+          "fotmobId": 9847,
+          "search": "Paris Saint-Germain"
+        },
+        "Slovan Bratislava": {
+          "fotmobId": 6019,
+          "search": "Slovan Bratislava"
+        },
+        "Sporting CP": {
+          "fotmobId": 9768,
+          "search": "Sporting CP"
+        },
+        "Galatasaray": {
+          "fotmobId": 8637,
+          "search": "Galatasaray"
+        },
+        "Napoli": {
+          "fotmobId": 9875,
+          "search": "Napoli"
+        },
+        "Arsenal": {
+          "fotmobId": 9825,
+          "search": "Arsenal"
+        },
+        "Fenerbahçe": {
+          "fotmobId": 8695,
+          "search": "Fenerbahce"
+        },
+        "Roma": {
+          "fotmobId": null,
+          "search": "AS Roma"
+        },
+        "PSV": {
+          "fotmobId": 8640,
+          "search": "PSV Eindhoven"
+        },
+        "Shakhtar Donetsk": {
+          "fotmobId": 9728,
+          "search": "Shakhtar Donetsk"
+        },
+        "Como": {
+          "fotmobId": 10171,
+          "search": "Como"
+        },
+        "RB Leipzig": {
+          "fotmobId": 178475,
+          "search": "RB Leipzig"
+        },
+        "FC Bayern München": {
+          "fotmobId": null,
+          "search": "Bayern Munich"
+        },
+        "Bodø/Glimt": {
+          "fotmobId": null,
+          "search": "Bodo/Glimt"
+        },
+        "Man Utd": {
+          "fotmobId": 10260,
+          "search": "Manchester United"
+        },
+        "Sabah": {
+          "fotmobId": 951893,
+          "search": "Sabah FK"
+        },
+        "Slavia Praha": {
+          "fotmobId": 7787,
+          "search": "Slavia Prague"
+        },
+        "RC Lens": {
+          "fotmobId": 8588,
+          "search": "Lens"
+        }
+      }
+    },
+    "eflcup": {
+      "leagueId": null,
+      "countryCode": "ENG",
+      "teams": {
+        "Crystal Palace": {
+          "fotmobId": 9826,
+          "search": "Crystal Palace"
+        },
+        "Middlesbrough": {
+          "fotmobId": 8549,
+          "search": "Middlesbrough"
+        },
+        "Man Utd": {
+          "fotmobId": 10260,
+          "search": "Manchester United"
+        },
+        "Brighton": {
+          "fotmobId": 10204,
+          "search": "Brighton & Hove Albion"
+        },
+        "Man City": {
+          "fotmobId": 8456,
+          "search": "Manchester City"
+        },
+        "Norwich City": {
+          "fotmobId": 9850,
+          "search": "Norwich City"
+        },
+        "Sunderland": {
+          "fotmobId": 8472,
+          "search": "Sunderland"
+        },
+        "Hull": {
+          "fotmobId": 8667,
+          "search": "Hull City"
+        },
+        "Ipswich": {
+          "fotmobId": 9902,
+          "search": "Ipswich Town"
+        },
+        "Arsenal": {
+          "fotmobId": 9825,
+          "search": "Arsenal"
+        },
+        "Coventry": {
+          "fotmobId": 8669,
+          "search": "Coventry City"
+        },
+        "Aston Villa": {
+          "fotmobId": 10252,
+          "search": "Aston Villa"
+        },
+        "Bournemouth": {
+          "fotmobId": 8678,
+          "search": "Bournemouth"
+        },
+        "Lincoln City": {
+          "fotmobId": 8430,
+          "search": "Lincoln City"
+        },
+        "Liverpool": {
+          "fotmobId": 8650,
+          "search": "Liverpool"
+        },
+        "Spurs": {
+          "fotmobId": 8586,
+          "search": "Tottenham Hotspur"
+        },
+        "Chelsea": {
+          "fotmobId": 8455,
+          "search": "Chelsea"
+        },
+        "Leeds": {
+          "fotmobId": 8463,
+          "search": "Leeds United"
+        },
+        "Millwall": {
+          "fotmobId": 10004,
+          "search": "Millwall"
+        },
+        "Newcastle": {
+          "fotmobId": 10261,
+          "search": "Newcastle United"
+        },
+        "Fleetwood Town": {
+          "fotmobId": 45723,
+          "search": "Fleetwood Town"
+        },
+        "Sheffield United": {
+          "fotmobId": 8657,
+          "search": "Sheffield United"
+        },
+        "Everton": {
+          "fotmobId": 8668,
+          "search": "Everton"
+        },
+        "Wolverhampton Wanderers": {
+          "fotmobId": 8602,
+          "search": "Wolverhampton Wanderers"
+        },
+        "Leyton Orient": {
+          "fotmobId": 8351,
+          "search": "Leyton Orient"
+        },
+        "Bradford City": {
+          "fotmobId": 8484,
+          "search": "Bradford City"
+        },
+        "Reading": {
+          "fotmobId": 9798,
+          "search": "Reading"
+        },
+        "Brentford": {
+          "fotmobId": 9937,
+          "search": "Brentford"
+        },
+        "Peterborough United": {
+          "fotmobId": 8677,
+          "search": "Peterborough United"
+        },
+        "Barnsley": {
+          "fotmobId": 8283,
+          "search": "Barnsley"
+        },
+        "West Ham United": {
+          "fotmobId": 8654,
+          "search": "West Ham United"
+        },
+        "Fulham": {
+          "fotmobId": 9879,
+          "search": "Fulham"
+        }
+      }
     }
   }
 }
