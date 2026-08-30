@@ -71,7 +71,12 @@
     "squads:ucl": "node tools/update-squads.js ucl",
     "squads:ucl:write": "node tools/update-squads.js ucl --write",
     "squads:eflcup": "node tools/update-squads.js eflcup",
-    "squads:eflcup:write": "node tools/update-squads.js eflcup --write"
+    "squads:eflcup:write": "node tools/update-squads.js eflcup --write",
+    "history": "node tools/update-player-history.js",
+    "history:epl": "node tools/update-player-history.js epl",
+    "history:epl:write": "node tools/update-player-history.js epl --write",
+    "history:all": "node tools/update-player-history.js all",
+    "history:all:write": "node tools/update-player-history.js all --write"
   },
   "engines": {
     "node": ">=18"
