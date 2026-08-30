@@ -120,7 +120,7 @@ async function initLivePin() {
       renderLivePinToday();
       return;
     }
-    if (e.target.closest("#live-pin-minimize")) {
+    if (e.target.closest("#live-pin-minimize") || e.target.closest(".live-pin-header")) {
       livePinExpanded = false;
       panel.classList.add("hidden");
       toggle.classList.remove("hidden");

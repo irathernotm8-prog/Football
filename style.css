@@ -2355,6 +2355,7 @@ section h2 {
   padding: 0.7rem 0.6rem 0.7rem 0.9rem;
   background: var(--surface-2);
   border-bottom: 1px solid var(--line);
+  cursor: pointer;
 }
 
 .live-pin-logo {
