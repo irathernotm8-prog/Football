@@ -144,6 +144,34 @@ async function showPlayerPage(playerName) {
     careerHtml = '<p class="muted-note">Club history hasn&rsquo;t been added for this player yet.</p>';
   }
 
+  var nationalHtml;
+  if (profile && profile.nationalCareer && profile.nationalCareer.length) {
+    var worldCupTeams = (typeof COMPETITIONS !== "undefined" && COMPETITIONS.worldcup && COMPETITIONS.worldcup.teamList)
+      ? COMPETITIONS.worldcup.teamList
+      : [];
+    nationalHtml = '<div class="player-career-timeline">' + profile.nationalCareer.slice().reverse().map(function (entry) {
+      var crestUrl = teamLookup(crests, entry.team);
+      var crestPart = crestUrl
+        ? '<img src="' + crestUrl + '" alt="" class="player-career-crest">'
+        : '<div class="player-career-crest-fallback">' + searchPlayerInitials(entry.team) + "</div>";
+      var linked = worldCupTeams.indexOf(entry.team) !== -1;
+      return (
+        '<div class="player-career-card' + (linked ? ' national-team-link' : '') + '"' +
+        (linked ? ' data-national-team-link="' + entry.team.replace(/"/g, "&quot;") + '"' : '') + '>' +
+        '<div class="player-career-crest-wrap">' + crestPart + "</div>" +
+        '<div class="player-career-info">' +
+        '<span class="player-career-club">' + entry.team + "</span>" +
+        '<span class="player-career-years">' + careerRangeLabel(entry) + "</span>" +
+        "</div>" +
+        "</div>"
+      );
+    }).join("") + "</div>";
+  } else if (profile && profile.nationalHistoryChecked) {
+    nationalHtml = '<p class="muted-note">No senior national-team history is listed for this player.</p>';
+  } else {
+    nationalHtml = '<p class="muted-note">National-team history hasn&rsquo;t been added for this player yet.</p>';
+  }
+
   body.innerHTML =
     '<div class="player-page-hero">' +
     photoHtml +
@@ -159,7 +187,7 @@ async function showPlayerPage(playerName) {
     "</div>" +
     '<div class="player-page-section">' +
     '<h2 class="player-page-section-title">National Team</h2>' +
-    '<p class="muted-note">Coming soon.</p>' +
+    nationalHtml +
     "</div>";
 }
 
@@ -178,7 +206,32 @@ function goBackFromPlayerPage() {
 
 document.getElementById("player-page-back").addEventListener("click", goBackFromPlayerPage);
 
+async function openWorldCupTeamFromPlayer(teamName) {
+  document.querySelectorAll(".main-tab").forEach(function (t) { t.classList.remove("active"); });
+  document.querySelectorAll(".page").forEach(function (p) { p.classList.add("hidden"); });
+  var teamMainTab = document.querySelector('.main-tab[data-target="page-team"]');
+  if (teamMainTab) teamMainTab.classList.add("active");
+  document.getElementById("page-team").classList.remove("hidden");
+
+  await loadTeamPageLeague("worldcup");
+  document.querySelectorAll(".team-tab").forEach(function (t) {
+    t.classList.toggle("active", t.dataset.league === "worldcup");
+  });
+  var select = document.getElementById("team-select");
+  if (select) select.value = teamName;
+  await renderTeamPage("worldcup", teamName);
+  window.scrollTo(0, 0);
+}
+
 document.addEventListener("click", function (e) {
+  var nationalLink = e.target.closest(".national-team-link");
+  if (nationalLink) {
+    e.preventDefault();
+    e.stopPropagation();
+    openWorldCupTeamFromPlayer(nationalLink.dataset.nationalTeamLink);
+    return;
+  }
+
   var link = e.target.closest(".player-link");
   if (link) {
     e.preventDefault();

@@ -307,7 +307,7 @@
     "away": "FC Porto",
     "result": "0-3",
     "fotmobId": 5887609,
-    "status": "live"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -315,9 +315,9 @@
     "venue": "Estádio da Madeira",
     "home": "CD Nacional",
     "away": "Estrela Amadora",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5887615,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -325,9 +325,9 @@
     "venue": "Estádio Municipal de Rio Maior",
     "home": "Casa Pia AC",
     "away": "Moreirense FC",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5887613,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -335,9 +335,9 @@
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "Gil Vicente FC",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5887614,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -371,16 +371,6 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-04T19:15:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "CD Nacional",
-    "result": null,
-    "fotmobId": 5887625,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
     "dateUtc": "2026-09-05T14:30:00Z",
     "venue": "Estádio José Gomes",
     "home": "Estrela Amadora",
@@ -407,6 +397,16 @@
     "away": "SL Benfica",
     "result": null,
     "fotmobId": 5887622,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-05T19:30:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "CD Nacional",
+    "result": null,
+    "fotmobId": 5887625,
     "status": "scheduled"
   },
   {

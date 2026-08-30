@@ -326,8 +326,8 @@
     "venue": null,
     "home": "Al Ettifaq",
     "away": "Diriyah",
-    "result": "0-1",
-    "status": "live"
+    "result": "0-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5970113,
@@ -337,7 +337,7 @@
     "home": "Al Fateh",
     "away": "Al Ittihad",
     "result": "0-0",
-    "status": "live"
+    "status": "finished"
   },
   {
     "fotmobId": 5970114,
@@ -346,8 +346,8 @@
     "venue": null,
     "home": "Al Hazem",
     "away": "Al Shabab",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970115,
@@ -356,8 +356,8 @@
     "venue": null,
     "home": "Al Qadsiah",
     "away": "Al Faisaly",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970117,

@@ -115,9 +115,9 @@
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Angers SCO",
-    "result": null,
+    "result": "1-3",
     "fotmobId": 5802910,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -125,9 +125,9 @@
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Estac Troyes",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5802912,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -135,9 +135,9 @@
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Havre Athletic Club",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5802913,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -145,9 +145,9 @@
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Toulouse FC",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5802911,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -155,9 +155,9 @@
     "venue": "Stade Jean-Bouin",
     "home": "Paris FC",
     "away": "OGC Nice",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5802915,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -165,9 +165,9 @@
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Le Mans FC",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5802916,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -175,9 +175,9 @@
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Olympique de Marseille",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802914,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,

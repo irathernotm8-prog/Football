@@ -75,9 +75,9 @@
     "venue": "Europa-Park Stadion",
     "home": "Sport-Club Freiburg",
     "away": "SV Werder Bremen",
-    "result": null,
+    "result": "4-1",
     "fotmobId": 5881148,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 1,
@@ -85,9 +85,9 @@
     "venue": "WWK ARENA",
     "home": "FC Augsburg",
     "away": "FC Schalke 04",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5881144,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,

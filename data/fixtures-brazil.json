@@ -2406,8 +2406,8 @@
     "venue": null,
     "home": "Atletico Mineiro",
     "away": "Vitoria",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103606,
@@ -2416,8 +2416,8 @@
     "venue": null,
     "home": "Sao Paulo",
     "away": "RB Bragantino",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103605,
@@ -2426,8 +2426,8 @@
     "venue": null,
     "home": "Vasco da Gama",
     "away": "Cruzeiro",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103611,
@@ -2436,8 +2436,8 @@
     "venue": null,
     "home": "Athletico Paranaense",
     "away": "Fluminense",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5103607,
@@ -2446,8 +2446,8 @@
     "venue": null,
     "home": "Corinthians",
     "away": "Santos",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103604,
@@ -2456,8 +2456,8 @@
     "venue": null,
     "home": "Flamengo",
     "away": "Botafogo",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5103610,
@@ -2466,8 +2466,8 @@
     "venue": null,
     "home": "Gremio",
     "away": "Chapecoense",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "live"
   },
   {
     "fotmobId": 5103608,
@@ -2476,8 +2476,8 @@
     "venue": null,
     "home": "Mirassol",
     "away": "Palmeiras",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "live"
   },
   {
     "fotmobId": 5103612,
@@ -2486,8 +2486,8 @@
     "venue": null,
     "home": "Bahia",
     "away": "Internacional",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "live"
   },
   {
     "fotmobId": 5103613,

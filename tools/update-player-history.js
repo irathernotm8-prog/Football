@@ -8,6 +8,7 @@ const ROOT = path.resolve(__dirname, '..');
 const COMPETITIONS_PATH = path.join(ROOT, 'data', 'competitions.json');
 const PROFILES_PATH = path.join(ROOT, 'data', 'player-profiles.json');
 const IDENTITIES_PATH = path.join(ROOT, 'data', 'team-identities.json');
+const NATIONAL_IDENTITIES_PATH = path.join(ROOT, 'data', 'national-team-identities.json');
 
 const args = process.argv.slice(2);
 const target = args.find((arg) => !arg.startsWith('--')) || 'all';
@@ -51,7 +52,7 @@ function buildIdentityResolver(identities) {
     lookup.set(normalizeText(canonical), canonical);
     for (const alias of data?.aliases || []) lookup.set(normalizeText(alias), canonical);
   }
-  return function canonicalTeamName(name) {
+  return function canonicalName(name) {
     const raw = String(name || '').trim();
     if (!raw) return raw;
     return lookup.get(normalizeText(raw)) || raw;
@@ -60,9 +61,7 @@ function buildIdentityResolver(identities) {
 
 function squadFilesForTarget(competitions) {
   if (target === 'all') {
-    return [...new Set(Object.values(competitions)
-      .map((c) => c?.files?.squads)
-      .filter(Boolean))];
+    return [...new Set(Object.values(competitions).map((c) => c?.files?.squads).filter(Boolean))];
   }
   const competition = competitions[target];
   if (!competition) throw new Error(`Unknown competition key: ${target}`);
@@ -104,7 +103,6 @@ function parseDateYear(value) {
 function unwrapPlayer(payload) {
   if (!payload || typeof payload !== 'object') return payload;
   if (payload.careerHistory) return payload;
-  // Tolerate Next.js/fallback-style wrappers if FotMob changes the route shape.
   const queue = [payload];
   const seen = new Set();
   while (queue.length) {
@@ -112,45 +110,61 @@ function unwrapPlayer(payload) {
     if (!node || typeof node !== 'object' || seen.has(node)) continue;
     seen.add(node);
     if (node.careerHistory) return node;
-    for (const child of Object.values(node)) {
-      if (child && typeof child === 'object') queue.push(child);
-    }
+    for (const child of Object.values(node)) if (child && typeof child === 'object') queue.push(child);
   }
   return payload;
 }
 
-function extractSeniorEntries(payload) {
+function extractCareerGroup(payload, groupName) {
   const player = unwrapPlayer(payload);
-  const career = player?.careerHistory?.careerItems;
-  const senior = career?.senior || career?.Senior;
-  if (Array.isArray(senior)) return senior;
-  if (Array.isArray(senior?.teamEntries)) return senior.teamEntries;
-  if (Array.isArray(senior?.teams)) return senior.teams;
+  const items = player?.careerHistory?.careerItems || {};
+  const keys = Object.keys(items);
+  const wanted = normalizeText(groupName);
+  const key = keys.find((k) => normalizeText(k) === wanted);
+  const group = key ? items[key] : null;
+  if (Array.isArray(group)) return group;
+  if (Array.isArray(group?.teamEntries)) return group.teamEntries;
+  if (Array.isArray(group?.teams)) return group.teams;
   return [];
 }
 
-function normalizeCareer(payload, canonicalTeamName) {
-  const entries = extractSeniorEntries(payload);
-  const career = entries.map((entry) => {
-    const clubRaw = entry?.team || entry?.teamName || entry?.name;
-    if (!clubRaw) return null;
+function normalizeClubCareer(payload, canonicalTeamName) {
+  const entries = extractCareerGroup(payload, 'senior');
+  return normalizeTimeline(entries, (raw) => canonicalTeamName(raw), 'club');
+}
+
+function isYouthOrSecondaryNationalTeam(name) {
+  const n = normalizeText(name);
+  if (!n) return true;
+  return /(?:^| )(u ?(?:15|16|17|18|19|20|21|22|23)|under ?(?:15|16|17|18|19|20|21|22|23)|youth|olympic|olympics|reserve|reserves|b team|ii)(?: |$)/.test(n);
+}
+
+function normalizeNationalCareer(payload, canonicalNationalTeamName) {
+  const entries = extractCareerGroup(payload, 'national team');
+  const seniorOnly = entries.filter((entry) => {
+    const raw = entry?.team || entry?.teamName || entry?.name;
+    return raw && !isYouthOrSecondaryNationalTeam(raw);
+  });
+  return normalizeTimeline(seniorOnly, (raw) => canonicalNationalTeamName(raw), 'team');
+}
+
+function normalizeTimeline(entries, resolver, nameKey) {
+  const timeline = entries.map((entry) => {
+    const raw = entry?.team || entry?.teamName || entry?.name;
+    if (!raw) return null;
     const start = parseDateYear(entry.startDate || entry.from || entry.start);
     let end = parseDateYear(entry.endDate || entry.to || entry.end);
     if (entry.active === true || entry.current === true) end = null;
-    return {
-      club: canonicalTeamName(clubRaw),
-      start,
-      end
-    };
-  }).filter((entry) => entry && entry.club && entry.start);
+    const result = { start, end };
+    result[nameKey] = resolver(raw);
+    return result;
+  }).filter((entry) => entry && entry[nameKey] && entry.start);
 
-  // Sort chronologically, preserve separate loan/permanent stints, but remove
-  // exact duplicates that can occur in hydrated FotMob payloads.
-  career.sort((a, b) => Number(a.start) - Number(b.start) || String(a.end || '9999').localeCompare(String(b.end || '9999')));
+  timeline.sort((a, b) => Number(a.start) - Number(b.start) || String(a.end || '9999').localeCompare(String(b.end || '9999')));
   const unique = [];
   const seen = new Set();
-  for (const entry of career) {
-    const key = `${normalizeText(entry.club)}|${entry.start}|${entry.end || ''}`;
+  for (const entry of timeline) {
+    const key = `${normalizeText(entry[nameKey])}|${entry.start}|${entry.end || ''}`;
     if (seen.has(key)) continue;
     seen.add(key);
     unique.push(entry);
@@ -158,13 +172,8 @@ function normalizeCareer(payload, canonicalTeamName) {
   return unique;
 }
 
-function sameCareer(a, b) {
-  return JSON.stringify(a || []) === JSON.stringify(b || []);
-}
-
-async function sleep(ms) {
-  if (ms > 0) await new Promise((resolve) => setTimeout(resolve, ms));
-}
+function sameTimeline(a, b) { return JSON.stringify(a || []) === JSON.stringify(b || []); }
+async function sleep(ms) { if (ms > 0) await new Promise((resolve) => setTimeout(resolve, ms)); }
 
 async function fotmobFetch(playerId) {
   const url = `https://www.fotmob.com/api/data/playerData?id=${playerId}&includeMarketValues=false`;
@@ -176,9 +185,9 @@ async function fotmobFetch(playerId) {
       const res = await fetch(url, {
         signal: controller.signal,
         headers: {
-          'accept': 'application/json,text/plain,*/*',
+          accept: 'application/json,text/plain,*/*',
           'accept-language': 'en-US,en;q=0.9',
-          'user-agent': 'Mozilla/5.0 PlayerHistoryUpdater/1.0'
+          'user-agent': 'Mozilla/5.0 PlayerHistoryUpdater/2.0'
         }
       });
       if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
@@ -188,23 +197,26 @@ async function fotmobFetch(playerId) {
     } catch (err) {
       lastErr = err;
       if (attempt < 3) await sleep(600 * attempt);
-    } finally {
-      clearTimeout(timeout);
-    }
+    } finally { clearTimeout(timeout); }
   }
   throw lastErr;
 }
 
-function statusForProfile(profile) {
-  if (!profile) return 'missing';
-  if (profile.source === 'fotmob') return REFRESH ? 'refresh' : 'skip-generated';
-  return 'skip-manual';
+function workNeeded(profile) {
+  if (!profile) return { club: true, national: true };
+  const generated = profile.source === 'fotmob';
+  return {
+    club: !Array.isArray(profile.career) || (REFRESH && generated),
+    national: !profile.nationalHistoryChecked || REFRESH
+  };
 }
 
 async function main() {
   const competitions = readJson(COMPETITIONS_PATH, {});
-  const identities = readJson(IDENTITIES_PATH, {});
-  const canonicalTeamName = buildIdentityResolver(identities);
+  const clubIdentities = readJson(IDENTITIES_PATH, {});
+  const nationalIdentities = readJson(NATIONAL_IDENTITIES_PATH, {});
+  const canonicalTeamName = buildIdentityResolver(clubIdentities);
+  const canonicalNationalTeamName = buildIdentityResolver(nationalIdentities);
   const profiles = readJson(PROFILES_PATH, {});
   const squadFiles = squadFilesForTarget(competitions);
   let { players, withoutId } = collectPlayers(squadFiles);
@@ -224,30 +236,24 @@ async function main() {
   const ambiguousNames = new Set([...duplicateNames.entries()].filter(([, ids]) => ids.size > 1).map(([name]) => name));
 
   const queue = players.filter((p) => {
-    if (ambiguousNames.has(normalizeText(p.name))) return false; // current UI is name-keyed; don't overwrite ambiguous names.
-    const state = statusForProfile(profiles[p.name]);
-    return state === 'missing' || state === 'refresh';
+    if (ambiguousNames.has(normalizeText(p.name))) return false;
+    const needed = workNeeded(profiles[p.name]);
+    return needed.club || needed.national;
   });
   const selected = LIMIT > 0 ? queue.slice(0, LIMIT) : queue;
 
-  console.log(`PLAYER CLUB HISTORY — FotMob refresh (${target})`);
-  console.log(WRITE ? 'WRITE MODE — safe player profiles will be saved' : 'DRY RUN — no files will be modified');
+  console.log(`PLAYER HISTORY — FotMob refresh (${target})`);
+  console.log(WRITE ? 'WRITE MODE — club + senior national-team history will be saved' : 'DRY RUN — no files will be modified');
   console.log('');
   console.log(`Unique players with FotMob IDs: ${players.length}`);
-  console.log(`Already profiled:              ${players.length - queue.length - ambiguousNames.size}`);
+  console.log(`Fully up to date:               ${players.length - queue.length - ambiguousNames.size}`);
   console.log(`Queued for FotMob:             ${selected.length}${LIMIT > 0 && queue.length > selected.length ? ` of ${queue.length}` : ''}`);
   console.log(`Squad rows without FotMob ID:  ${withoutId}`);
   if (ambiguousNames.size) console.log(`Ambiguous duplicate names:     ${ambiguousNames.size} (skipped for safety)`);
   console.log('');
 
-  let fetched = 0;
-  let added = 0;
-  let refreshed = 0;
-  let unchanged = 0;
-  let noCareer = 0;
-  let failed = 0;
-  let pendingWrites = 0;
-  const changes = [];
+  let fetched = 0, changedCount = 0, unchanged = 0, failed = 0, pendingWrites = 0;
+  let clubUpdates = 0, nationalUpdates = 0, noNational = 0;
   const failures = [];
 
   for (let i = 0; i < selected.length; i += 1) {
@@ -255,43 +261,68 @@ async function main() {
     try {
       const payload = await fotmobFetch(p.id);
       fetched += 1;
-      const career = normalizeCareer(payload, canonicalTeamName);
-      if (!career.length) {
-        noCareer += 1;
-        if (VERBOSE || PLAYER_NAME) console.log(`! ${p.name} [${p.id}] — no senior club history returned`);
-      } else {
-        const old = profiles[p.name];
-        const changed = !old || !sameCareer(old.career, career);
-        if (!changed) {
-          unchanged += 1;
-          if (VERBOSE || PLAYER_NAME) console.log(`= ${p.name} — ${career.length} club stint(s), no change`);
-        } else {
-          if (old) refreshed += 1; else added += 1;
-          changes.push({ name: p.name, id: p.id, career });
-          if (VERBOSE || PLAYER_NAME || changes.length <= 20) {
-            console.log(`${old ? '~' : '+'} ${p.name} [${p.id}] — ${career.map((c) => `${c.club} ${c.start}–${c.end || 'Present'}`).join(' | ')}`);
-          }
-          if (WRITE) {
-            profiles[p.name] = {
-              career,
-              source: 'fotmob',
-              fotmobId: p.id,
-              updatedAt: new Date().toISOString().slice(0, 10)
-            };
-            pendingWrites += 1;
-            if (pendingWrites >= CHECKPOINT_EVERY) {
-              writeJson(PROFILES_PATH, profiles);
-              pendingWrites = 0;
-            }
+      const old = profiles[p.name] || {};
+      const needed = workNeeded(old);
+      const clubCareer = normalizeClubCareer(payload, canonicalTeamName);
+      const nationalCareer = normalizeNationalCareer(payload, canonicalNationalTeamName);
+
+      const next = { ...old };
+      let changed = false;
+
+      if (needed.club) {
+        if (clubCareer.length && !sameTimeline(old.career, clubCareer)) {
+          next.career = clubCareer;
+          clubUpdates += 1;
+          changed = true;
+        }
+      }
+
+      if (needed.national) {
+        if (!sameTimeline(old.nationalCareer, nationalCareer) || !old.nationalHistoryChecked) {
+          next.nationalCareer = nationalCareer;
+          next.nationalHistoryChecked = true;
+          next.nationalSource = 'fotmob';
+          next.nationalUpdatedAt = new Date().toISOString().slice(0, 10);
+          nationalUpdates += 1;
+          changed = true;
+        }
+        if (!nationalCareer.length) noNational += 1;
+      }
+
+      if (!old.source && !old.career && clubCareer.length) next.source = 'fotmob';
+      if (old.source === 'fotmob' || (!old.source && !old.career)) {
+        next.source = 'fotmob';
+        next.fotmobId = p.id;
+        next.updatedAt = new Date().toISOString().slice(0, 10);
+      } else if (!next.fotmobId) {
+        // Safe additive metadata for hand-curated profiles; their club career is preserved.
+        next.fotmobId = p.id;
+      }
+
+      if (changed) {
+        changedCount += 1;
+        if (VERBOSE || PLAYER_NAME || changedCount <= 20) {
+          const clubText = needed.club && clubCareer.length ? `${clubCareer.length} club stint(s)` : 'club history preserved';
+          const natText = nationalCareer.length ? nationalCareer.map((n) => `${n.team} ${n.start}–${n.end || 'Present'}`).join(' | ') : 'no senior national-team stint';
+          console.log(`~ ${p.name} [${p.id}] — ${clubText}; ${natText}`);
+        }
+        if (WRITE) {
+          profiles[p.name] = next;
+          pendingWrites += 1;
+          if (pendingWrites >= CHECKPOINT_EVERY) {
+            writeJson(PROFILES_PATH, profiles);
+            pendingWrites = 0;
           }
         }
+      } else {
+        unchanged += 1;
+        if (VERBOSE || PLAYER_NAME) console.log(`= ${p.name} — no history changes`);
       }
     } catch (err) {
       failed += 1;
       failures.push({ name: p.name, id: p.id, error: err.message });
       console.log(`! ${p.name} [${p.id}] — ${err.message}`);
     }
-
     if (i < selected.length - 1) await sleep(DELAY_MS);
   }
 
@@ -300,14 +331,14 @@ async function main() {
   console.log('');
   console.log('----------------------------------------');
   console.log(`${fetched} player profiles fetched`);
-  console.log(`${added} histories added, ${refreshed} refreshed, ${unchanged} unchanged`);
-  console.log(`${noCareer} returned no senior club history, ${failed} failed`);
-  if (changes.length > 20 && !VERBOSE && !PLAYER_NAME) console.log(`${changes.length - 20} additional changes omitted (use --verbose to show all)`);
+  console.log(`${changedCount} player profiles changed, ${unchanged} unchanged`);
+  console.log(`${clubUpdates} club-history updates, ${nationalUpdates} senior national-team updates`);
+  console.log(`${noNational} players returned no senior national-team history, ${failed} failed`);
   if (failures.length) console.log('Failed players are left untouched and can be retried safely.');
   console.log('');
   if (WRITE) {
     console.log(`WRITE complete. Updated ${path.relative(ROOT, PROFILES_PATH)}.`);
-    console.log('Hand-curated profiles were preserved. Re-run to continue any remaining missing players.');
+    console.log('Hand-curated club careers were preserved; senior national-team history is additive.');
   } else {
     console.log('DRY RUN complete. Re-run with --write to save these histories.');
   }

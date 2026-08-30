@@ -155,9 +155,9 @@
     "venue": "Stamford Bridge",
     "home": "Chelsea",
     "away": "Brighton",
-    "result": null,
+    "result": "4-3",
     "fotmobId": 5795427,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -165,9 +165,9 @@
     "venue": "Elland Road",
     "home": "Leeds",
     "away": "Brentford",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5795430,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -175,9 +175,9 @@
     "venue": "Stadium of Light",
     "home": "Sunderland",
     "away": "Fulham",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5795433,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -185,9 +185,9 @@
     "venue": "Old Trafford",
     "home": "Man Utd",
     "away": "Ipswich",
-    "result": null,
+    "result": "5-2",
     "fotmobId": 5795432,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,

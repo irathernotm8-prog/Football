@@ -145,9 +145,9 @@
     "venue": "Allianz Stadium",
     "home": "Juventus",
     "away": "Parma",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5749654,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -155,9 +155,9 @@
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Como",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5749658,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -165,9 +165,9 @@
     "venue": "Unipol Domus",
     "home": "Cagliari",
     "away": "Inter",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5749652,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -175,9 +175,9 @@
     "venue": "Olimpico",
     "home": "Lazio",
     "away": "Genoa",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5749655,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,

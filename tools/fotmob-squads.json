@@ -1583,6 +1583,204 @@
           "search": "Fulham"
         }
       }
+    },
+    "worldcup": {
+      "leagueId": 77,
+      "countryCode": "",
+      "teams": {
+        "Algeria": {
+          "fotmobId": null,
+          "search": "Algeria"
+        },
+        "Argentina": {
+          "fotmobId": null,
+          "search": "Argentina"
+        },
+        "Australia": {
+          "fotmobId": null,
+          "search": "Australia"
+        },
+        "Austria": {
+          "fotmobId": null,
+          "search": "Austria"
+        },
+        "Belgium": {
+          "fotmobId": null,
+          "search": "Belgium"
+        },
+        "Bosnia and Herzegovina": {
+          "fotmobId": null,
+          "search": "Bosnia and Herzegovina"
+        },
+        "Brazil": {
+          "fotmobId": null,
+          "search": "Brazil"
+        },
+        "Cabo Verde": {
+          "fotmobId": null,
+          "search": "Cape Verde"
+        },
+        "Canada": {
+          "fotmobId": null,
+          "search": "Canada"
+        },
+        "Colombia": {
+          "fotmobId": null,
+          "search": "Colombia"
+        },
+        "DR Congo": {
+          "fotmobId": null,
+          "search": "Congo DR"
+        },
+        "Ivory Coast": {
+          "fotmobId": null,
+          "search": "Cote d'Ivoire"
+        },
+        "Croatia": {
+          "fotmobId": null,
+          "search": "Croatia"
+        },
+        "Curacao": {
+          "fotmobId": null,
+          "search": "Curacao"
+        },
+        "Czech Republic": {
+          "fotmobId": null,
+          "search": "Czechia"
+        },
+        "Netherlands": {
+          "fotmobId": null,
+          "search": "Netherlands"
+        },
+        "Ecuador": {
+          "fotmobId": null,
+          "search": "Ecuador"
+        },
+        "Egypt": {
+          "fotmobId": null,
+          "search": "Egypt"
+        },
+        "England": {
+          "fotmobId": null,
+          "search": "England"
+        },
+        "France": {
+          "fotmobId": null,
+          "search": "France"
+        },
+        "Germany": {
+          "fotmobId": null,
+          "search": "Germany"
+        },
+        "Ghana": {
+          "fotmobId": null,
+          "search": "Ghana"
+        },
+        "Haiti": {
+          "fotmobId": null,
+          "search": "Haiti"
+        },
+        "Iran": {
+          "fotmobId": null,
+          "search": "Iran"
+        },
+        "Iraq": {
+          "fotmobId": null,
+          "search": "Iraq"
+        },
+        "Japan": {
+          "fotmobId": null,
+          "search": "Japan"
+        },
+        "Jordan": {
+          "fotmobId": null,
+          "search": "Jordan"
+        },
+        "Mexico": {
+          "fotmobId": null,
+          "search": "Mexico"
+        },
+        "Morocco": {
+          "fotmobId": null,
+          "search": "Morocco"
+        },
+        "New Zealand": {
+          "fotmobId": null,
+          "search": "New Zealand"
+        },
+        "Norway": {
+          "fotmobId": null,
+          "search": "Norway"
+        },
+        "Panama": {
+          "fotmobId": null,
+          "search": "Panama"
+        },
+        "Paraguay": {
+          "fotmobId": null,
+          "search": "Paraguay"
+        },
+        "Portugal": {
+          "fotmobId": null,
+          "search": "Portugal"
+        },
+        "Qatar": {
+          "fotmobId": null,
+          "search": "Qatar"
+        },
+        "Saudi Arabia": {
+          "fotmobId": null,
+          "search": "Saudi Arabia"
+        },
+        "Scotland": {
+          "fotmobId": null,
+          "search": "Scotland"
+        },
+        "Senegal": {
+          "fotmobId": null,
+          "search": "Senegal"
+        },
+        "South Africa": {
+          "fotmobId": null,
+          "search": "South Africa"
+        },
+        "South Korea": {
+          "fotmobId": null,
+          "search": "South Korea"
+        },
+        "Spain": {
+          "fotmobId": null,
+          "search": "Spain"
+        },
+        "Sweden": {
+          "fotmobId": null,
+          "search": "Sweden"
+        },
+        "Switzerland": {
+          "fotmobId": null,
+          "search": "Switzerland"
+        },
+        "Tunisia": {
+          "fotmobId": null,
+          "search": "Tunisia"
+        },
+        "Turkey": {
+          "fotmobId": null,
+          "search": "Turkey"
+        },
+        "Uruguay": {
+          "fotmobId": null,
+          "search": "Uruguay"
+        },
+        "USA": {
+          "fotmobId": null,
+          "search": "United States"
+        },
+        "Uzbekistan": {
+          "fotmobId": null,
+          "search": "Uzbekistan"
+        }
+      }
     }
   }
 }

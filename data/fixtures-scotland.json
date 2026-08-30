@@ -216,8 +216,8 @@
     "venue": null,
     "home": "Aberdeen",
     "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793918,
@@ -226,8 +226,8 @@
     "venue": null,
     "home": "Dundee",
     "away": "Hibernian",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793921,
@@ -236,8 +236,8 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5793922,

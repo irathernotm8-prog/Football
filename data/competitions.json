@@ -770,7 +770,7 @@
     "sourceSlug": null,
     "files": {
       "fixtures": null,
-      "squads": null,
+      "squads": "data/squads-worldcup.json",
       "history": "data/history-worldcup.json"
     },
     "teamList": [
@@ -844,7 +844,7 @@
       "titleBot": "#8f771a",
       "accentRgb": "209, 169, 48"
     },
-    "notes": "2026 tournament already concluded (Spain beat Argentina 1-0 AET in the final, July 19 2026) - this is the framework only: crests, colors, and the champion in title history. No group-stage/knockout fixtures or national-team squads yet - both are a bigger separate task, and squads specifically are what the Player Page's National Team section will eventually read from.",
+    "notes": "2026 tournament already concluded (Spain beat Argentina 1-0 AET in the final, July 19 2026) - this is the framework only: crests, colors, and the champion in title history. National-team squads are wired through the FotMob squad updater; World Cup fixtures remain a separate task.",
     "hideFromStandings": true
   }
 }

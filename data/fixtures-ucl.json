@@ -5,7 +5,9 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "LASK",
-    "result": null
+    "result": null,
+    "fotmobId": 6106404,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -13,7 +15,9 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Aston Villa",
-    "result": null
+    "result": null,
+    "fotmobId": 6106295,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -21,7 +25,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "Villarreal CF",
-    "result": null
+    "result": null,
+    "fotmobId": 6106272,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -29,7 +35,9 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "Man City",
-    "result": null
+    "result": null,
+    "fotmobId": 6106286,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -37,7 +45,9 @@
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Real Betis",
-    "result": null
+    "result": null,
+    "fotmobId": 6106311,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -45,7 +55,9 @@
     "venue": "Bernabéu",
     "home": "Real Madrid",
     "away": "Inter",
-    "result": null
+    "result": null,
+    "fotmobId": 6106242,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -53,7 +65,9 @@
     "venue": "Spotify Camp Nou",
     "home": "FC Barcelona",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 6106264,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -61,7 +75,9 @@
     "venue": "MHPArena",
     "home": "VfB Stuttgart",
     "away": "Viking",
-    "result": null
+    "result": null,
+    "fotmobId": 6106400,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -69,23 +85,9 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "Atlético de Madrid",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-09T19:00:00Z",
-    "venue": "Parc des Princes",
-    "home": "Paris Saint-Germain",
-    "away": "Slovan Bratislava",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-09T19:00:00Z",
-    "venue": "Estádio José Alvalade",
-    "home": "Sporting CP",
-    "away": "Galatasaray",
-    "result": null
+    "result": null,
+    "fotmobId": 6106246,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -93,7 +95,29 @@
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Arsenal",
-    "result": null
+    "result": null,
+    "fotmobId": 6106318,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "Slovan Bratislava",
+    "result": null,
+    "fotmobId": 6106237,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Estádio José Alvalade",
+    "home": "Sporting CP",
+    "away": "Galatasaray",
+    "result": null,
+    "fotmobId": 6106280,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -101,7 +125,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Roma",
-    "result": null
+    "result": null,
+    "fotmobId": 6106331,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -109,7 +135,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Shakhtar Donetsk",
-    "result": null
+    "result": null,
+    "fotmobId": 6106304,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -117,7 +145,9 @@
     "venue": "Giuseppe Sinigaglia",
     "home": "Como",
     "away": "RB Leipzig",
-    "result": null
+    "result": null,
+    "fotmobId": 6106411,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -125,7 +155,9 @@
     "venue": "Allianz Arena",
     "home": "FC Bayern München",
     "away": "Bodø/Glimt",
-    "result": null
+    "result": null,
+    "fotmobId": 6106240,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -133,7 +165,9 @@
     "venue": "Old Trafford",
     "home": "Man Utd",
     "away": "Sabah",
-    "result": null
+    "result": null,
+    "fotmobId": 6106293,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -141,7 +175,9 @@
     "venue": "Sinobo Stadium",
     "home": "Slavia Praha",
     "away": "RC Lens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106392,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -149,7 +185,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 6106414,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -157,7 +195,9 @@
     "venue": "Dalga Arena",
     "home": "Sabah",
     "away": "Slavia Praha",
-    "result": null
+    "result": null,
+    "fotmobId": 6106424,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -165,7 +205,9 @@
     "venue": "Emirates Stadium",
     "home": "Arsenal",
     "away": "LOSC Lille",
-    "result": null
+    "result": null,
+    "fotmobId": 6106260,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -173,15 +215,9 @@
     "venue": "Riyadh Air Metropolitano",
     "home": "Atlético de Madrid",
     "away": "Man Utd",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-10-13T19:00:00Z",
-    "venue": "Giuseppe Meazza",
-    "home": "Inter",
-    "away": "Club Brugge",
-    "result": null
+    "result": null,
+    "fotmobId": 6106267,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -189,7 +225,19 @@
     "venue": "Ali Sami Yen Spor Kompleksi",
     "home": "Galatasaray",
     "away": "FC Barcelona",
-    "result": null
+    "result": null,
+    "fotmobId": 6106338,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-13T19:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Club Brugge",
+    "result": null,
+    "fotmobId": 6106251,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -197,7 +245,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 6106323,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -205,7 +255,9 @@
     "venue": "SR-Bank Arena",
     "home": "Viking",
     "away": "FC Bayern München",
-    "result": null
+    "result": null,
+    "fotmobId": 6106417,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -213,7 +265,9 @@
     "venue": "Estadio de la Cerámica",
     "home": "Villarreal CF",
     "away": "Napoli",
-    "result": null
+    "result": null,
+    "fotmobId": 6106328,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -221,7 +275,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "Como",
-    "result": null
+    "result": null,
+    "fotmobId": 6106309,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -229,15 +285,9 @@
     "venue": "Raiffeisen Arena",
     "home": "LASK",
     "away": "Liverpool",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-10-14T19:00:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "Real Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106405,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -245,15 +295,9 @@
     "venue": "Villa Park",
     "home": "Aston Villa",
     "away": "Fenerbahçe",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-10-14T19:00:00Z",
-    "venue": "Stamford Bridge (London)",
-    "home": "Shakhtar Donetsk",
-    "away": "AEK Athens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106284,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -261,7 +305,9 @@
     "venue": "Aspmyra Stadion",
     "home": "Bodø/Glimt",
     "away": "Borussia Dortmund",
-    "result": null
+    "result": null,
+    "fotmobId": 6106315,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -269,7 +315,9 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "Paris Saint-Germain",
-    "result": null
+    "result": null,
+    "fotmobId": 6106254,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -277,7 +325,29 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 6106299,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Real Madrid",
+    "result": null,
+    "fotmobId": 6106274,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-10-14T19:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "AEK Athens",
+    "result": null,
+    "fotmobId": 6106337,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -285,7 +355,9 @@
     "venue": "Národný futbalový štadión",
     "home": "Slovan Bratislava",
     "away": "VfB Stuttgart",
-    "result": null
+    "result": null,
+    "fotmobId": 6106396,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -293,7 +365,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Slavia Praha",
-    "result": null
+    "result": null,
+    "fotmobId": 6106333,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -301,15 +375,9 @@
     "venue": "Dalga Arena",
     "home": "Sabah",
     "away": "Borussia Dortmund",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-20T19:00:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "Slovan Bratislava",
-    "result": null
+    "result": null,
+    "fotmobId": 6106422,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -317,7 +385,9 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 6106287,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -325,7 +395,9 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "Villarreal CF",
-    "result": null
+    "result": null,
+    "fotmobId": 6106248,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -333,15 +405,9 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "AEK Athens",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-20T19:00:00Z",
-    "venue": "Parc des Princes",
-    "home": "Paris Saint-Germain",
-    "away": "FC Barcelona",
-    "result": null
+    "result": null,
+    "fotmobId": 6106257,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -349,7 +415,29 @@
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Bodø/Glimt",
-    "result": null
+    "result": null,
+    "fotmobId": 6106320,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "FC Barcelona",
+    "result": null,
+    "fotmobId": 6106234,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-20T19:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Slovan Bratislava",
+    "result": null,
+    "fotmobId": 6106277,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -357,7 +445,9 @@
     "venue": "MHPArena",
     "home": "VfB Stuttgart",
     "away": "Atlético de Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106397,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -365,7 +455,9 @@
     "venue": "Giuseppe Sinigaglia",
     "home": "Como",
     "away": "Man Utd",
-    "result": null
+    "result": null,
+    "fotmobId": 6106410,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -373,7 +465,9 @@
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Galatasaray",
-    "result": null
+    "result": null,
+    "fotmobId": 6106312,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -381,7 +475,9 @@
     "venue": "Villa Park",
     "home": "Aston Villa",
     "away": "Viking",
-    "result": null
+    "result": null,
+    "fotmobId": 6106285,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -389,7 +485,9 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "RC Lens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106297,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -397,7 +495,9 @@
     "venue": "Allianz Arena",
     "home": "FC Bayern München",
     "away": "Arsenal",
-    "result": null
+    "result": null,
+    "fotmobId": 6106238,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -405,15 +505,9 @@
     "venue": "Giuseppe Meazza",
     "home": "Inter",
     "away": "Shakhtar Donetsk",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-21T19:00:00Z",
-    "venue": "Bernabéu",
-    "home": "Real Madrid",
-    "away": "RB Leipzig",
-    "result": null
+    "result": null,
+    "fotmobId": 6106252,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -421,7 +515,19 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 6106300,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-21T19:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "RB Leipzig",
+    "result": null,
+    "fotmobId": 6106244,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -429,7 +535,19 @@
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "LASK",
-    "result": null
+    "result": null,
+    "fotmobId": 6106281,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T17:45:00Z",
+    "venue": "Ali Sami Yen Spor Kompleksi",
+    "home": "Galatasaray",
+    "away": "VfB Stuttgart",
+    "result": null,
+    "fotmobId": 6106341,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -437,15 +555,9 @@
     "venue": "Stamford Bridge (London)",
     "home": "Shakhtar Donetsk",
     "away": "Sporting CP",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-11-03T17:45:00Z",
-    "venue": "Ali Sami Yen Spor Kompleksi",
-    "home": "Galatasaray",
-    "away": "VfB Stuttgart",
-    "result": null
+    "result": null,
+    "fotmobId": 6106335,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -453,23 +565,9 @@
     "venue": "Riyadh Air Metropolitano",
     "home": "Atlético de Madrid",
     "away": "FC Bayern München",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-11-03T20:00:00Z",
-    "venue": "Spotify Camp Nou",
-    "home": "FC Barcelona",
-    "away": "Aston Villa",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-11-03T20:00:00Z",
-    "venue": "De Kuip",
-    "home": "Feyenoord",
-    "away": "Inter",
-    "result": null
+    "result": null,
+    "fotmobId": 6106266,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -477,7 +575,29 @@
     "venue": "Aspmyra Stadion",
     "home": "Bodø/Glimt",
     "away": "LOSC Lille",
-    "result": null
+    "result": null,
+    "fotmobId": 6106316,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Aston Villa",
+    "result": null,
+    "fotmobId": 6106263,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-11-03T20:00:00Z",
+    "venue": "De Kuip",
+    "home": "Feyenoord",
+    "away": "Inter",
+    "result": null,
+    "fotmobId": 6106306,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -485,7 +605,9 @@
     "venue": "Raiffeisen Arena",
     "home": "LASK",
     "away": "Slovan Bratislava",
-    "result": null
+    "result": null,
+    "fotmobId": 6106408,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -493,7 +615,9 @@
     "venue": "Old Trafford",
     "home": "Man Utd",
     "away": "Roma",
-    "result": null
+    "result": null,
+    "fotmobId": 6106291,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -501,7 +625,9 @@
     "venue": "Estadio de la Cerámica",
     "home": "Villarreal CF",
     "away": "Paris Saint-Germain",
-    "result": null
+    "result": null,
+    "fotmobId": 6106326,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -509,7 +635,9 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "Real Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106401,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -517,7 +645,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Liverpool",
-    "result": null
+    "result": null,
+    "fotmobId": 6106330,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -525,7 +655,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "Real Betis",
-    "result": null
+    "result": null,
+    "fotmobId": 6106271,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -533,7 +665,9 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "Napoli",
-    "result": null
+    "result": null,
+    "fotmobId": 6106288,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -541,7 +675,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Club Brugge",
-    "result": null
+    "result": null,
+    "fotmobId": 6106303,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -549,7 +685,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "Man City",
-    "result": null
+    "result": null,
+    "fotmobId": 6106322,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -557,7 +695,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Como",
-    "result": null
+    "result": null,
+    "fotmobId": 6106416,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -565,7 +705,9 @@
     "venue": "Sinobo Stadium",
     "home": "Slavia Praha",
     "away": "Arsenal",
-    "result": null
+    "result": null,
+    "fotmobId": 6106389,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -573,7 +715,9 @@
     "venue": "SR-Bank Arena",
     "home": "Viking",
     "away": "Sabah",
-    "result": null
+    "result": null,
+    "fotmobId": 6106420,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -581,7 +725,9 @@
     "venue": "Aspmyra Stadion",
     "home": "Bodø/Glimt",
     "away": "LASK",
-    "result": null
+    "result": null,
+    "fotmobId": 6106317,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -589,7 +735,9 @@
     "venue": "Ali Sami Yen Spor Kompleksi",
     "home": "Galatasaray",
     "away": "Aston Villa",
-    "result": null
+    "result": null,
+    "fotmobId": 6106339,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -597,7 +745,9 @@
     "venue": "Emirates Stadium",
     "home": "Arsenal",
     "away": "Borussia Dortmund",
-    "result": null
+    "result": null,
+    "fotmobId": 6106259,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -605,7 +755,9 @@
     "venue": "Giuseppe Sinigaglia",
     "home": "Como",
     "away": "AEK Athens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106412,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -613,7 +765,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 6106307,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -621,7 +775,9 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "Napoli",
-    "result": null
+    "result": null,
+    "fotmobId": 6106256,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -629,7 +785,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "RC Lens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106325,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -637,7 +795,9 @@
     "venue": "Bernabéu",
     "home": "Real Madrid",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 6106243,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -645,7 +805,9 @@
     "venue": "Národný futbalový štadión",
     "home": "Slovan Bratislava",
     "away": "Real Betis",
-    "result": null
+    "result": null,
+    "fotmobId": 6106394,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -653,7 +815,9 @@
     "venue": "Dalga Arena",
     "home": "Sabah",
     "away": "FC Barcelona",
-    "result": null
+    "result": null,
+    "fotmobId": 6106421,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -661,7 +825,9 @@
     "venue": "Sinobo Stadium",
     "home": "Slavia Praha",
     "away": "Villarreal CF",
-    "result": null
+    "result": null,
+    "fotmobId": 6106391,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -669,7 +835,9 @@
     "venue": "Riyadh Air Metropolitano",
     "home": "Atlético de Madrid",
     "away": "Viking",
-    "result": null
+    "result": null,
+    "fotmobId": 6106269,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -677,7 +845,9 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Liverpool",
-    "result": null
+    "result": null,
+    "fotmobId": 6106294,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -685,15 +855,9 @@
     "venue": "Giuseppe Meazza",
     "home": "Inter",
     "away": "VfB Stuttgart",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-25T20:00:00Z",
-    "venue": "Stamford Bridge (London)",
-    "home": "Shakhtar Donetsk",
-    "away": "Fenerbahçe",
-    "result": null
+    "result": null,
+    "fotmobId": 6106253,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -701,7 +865,9 @@
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "FC Bayern München",
-    "result": null
+    "result": null,
+    "fotmobId": 6106310,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -709,7 +875,19 @@
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Roma",
-    "result": null
+    "result": null,
+    "fotmobId": 6106235,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-25T20:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "Fenerbahçe",
+    "result": null,
+    "fotmobId": 6106336,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -717,7 +895,9 @@
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "Man Utd",
-    "result": null
+    "result": null,
+    "fotmobId": 6106279,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -725,7 +905,9 @@
     "venue": "SR-Bank Arena",
     "home": "Viking",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 6106419,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -733,7 +915,9 @@
     "venue": "Estadio de la Cerámica",
     "home": "Villarreal CF",
     "away": "Sabah",
-    "result": null
+    "result": null,
+    "fotmobId": 6106329,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -741,15 +925,9 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "Galatasaray",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-12-08T20:00:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "Sporting CP",
-    "result": null
+    "result": null,
+    "fotmobId": 6106403,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -757,7 +935,9 @@
     "venue": "Villa Park",
     "home": "Aston Villa",
     "away": "Paris Saint-Germain",
-    "result": null
+    "result": null,
+    "fotmobId": 6106282,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -765,7 +945,9 @@
     "venue": "Spotify Camp Nou",
     "home": "FC Barcelona",
     "away": "Man City",
-    "result": null
+    "result": null,
+    "fotmobId": 6106262,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -773,7 +955,9 @@
     "venue": "Allianz Arena",
     "home": "FC Bayern München",
     "away": "Slavia Praha",
-    "result": null
+    "result": null,
+    "fotmobId": 6106241,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -781,7 +965,9 @@
     "venue": "Old Trafford",
     "home": "Man Utd",
     "away": "RB Leipzig",
-    "result": null
+    "result": null,
+    "fotmobId": 6106292,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -789,7 +975,19 @@
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Club Brugge",
-    "result": null
+    "result": null,
+    "fotmobId": 6106319,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-12-08T20:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Sporting CP",
+    "result": null,
+    "fotmobId": 6106275,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -797,7 +995,9 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "Como",
-    "result": null
+    "result": null,
+    "fotmobId": 6106301,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -805,7 +1005,9 @@
     "venue": "Národný futbalový štadión",
     "home": "Slovan Bratislava",
     "away": "Shakhtar Donetsk",
-    "result": null
+    "result": null,
+    "fotmobId": 6106395,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -813,7 +1015,9 @@
     "venue": "Emirates Stadium",
     "home": "Arsenal",
     "away": "Real Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106258,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -821,7 +1025,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "Inter",
-    "result": null
+    "result": null,
+    "fotmobId": 6106270,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -829,7 +1035,9 @@
     "venue": "Raiffeisen Arena",
     "home": "LASK",
     "away": "Fenerbahçe",
-    "result": null
+    "result": null,
+    "fotmobId": 6106407,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -837,7 +1045,9 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 6106247,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -845,7 +1055,9 @@
     "venue": "Philips Stadion",
     "home": "PSV",
     "away": "Atlético de Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106302,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -853,7 +1065,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Bodø/Glimt",
-    "result": null
+    "result": null,
+    "fotmobId": 6106415,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -861,7 +1075,9 @@
     "venue": "MHPArena",
     "home": "VfB Stuttgart",
     "away": "LOSC Lille",
-    "result": null
+    "result": null,
+    "fotmobId": 6106399,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -869,7 +1085,9 @@
     "venue": "Aspmyra Stadion",
     "home": "Bodø/Glimt",
     "away": "Atlético de Madrid",
-    "result": null
+    "result": null,
+    "fotmobId": 6106314,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -877,7 +1095,9 @@
     "venue": "Ali Sami Yen Spor Kompleksi",
     "home": "Galatasaray",
     "away": "Feyenoord",
-    "result": null
+    "result": null,
+    "fotmobId": 6106340,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -885,7 +1105,9 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "Roma",
-    "result": null
+    "result": null,
+    "fotmobId": 6106402,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -893,15 +1115,9 @@
     "venue": "Villa Park",
     "home": "Aston Villa",
     "away": "Borussia Dortmund",
-    "result": null
-  },
-  {
-    "round": 7,
-    "dateUtc": "2027-01-19T20:00:00Z",
-    "venue": "Giuseppe Meazza",
-    "home": "Inter",
-    "away": "Liverpool",
-    "result": null
+    "result": null,
+    "fotmobId": 6106283,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -909,7 +1125,19 @@
     "venue": "Estádio do Dragão",
     "home": "FC Porto",
     "away": "Slavia Praha",
-    "result": null
+    "result": null,
+    "fotmobId": 6106289,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2027-01-19T20:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Liverpool",
+    "result": null,
+    "fotmobId": 6106250,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -917,7 +1145,9 @@
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Slovan Bratislava",
-    "result": null
+    "result": null,
+    "fotmobId": 6106313,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -925,7 +1155,9 @@
     "venue": "Bernabéu",
     "home": "Real Madrid",
     "away": "LASK",
-    "result": null
+    "result": null,
+    "fotmobId": 6106245,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -933,7 +1165,9 @@
     "venue": "MHPArena",
     "home": "VfB Stuttgart",
     "away": "Club Brugge",
-    "result": null
+    "result": null,
+    "fotmobId": 6106398,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -941,7 +1175,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Villarreal CF",
-    "result": null
+    "result": null,
+    "fotmobId": 6106332,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -949,7 +1185,9 @@
     "venue": "Dalga Arena",
     "home": "Sabah",
     "away": "Napoli",
-    "result": null
+    "result": null,
+    "fotmobId": 6106423,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -957,7 +1195,9 @@
     "venue": "Giuseppe Sinigaglia",
     "home": "Como",
     "away": "Paris Saint-Germain",
-    "result": null
+    "result": null,
+    "fotmobId": 6106409,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -965,7 +1205,9 @@
     "venue": "Old Trafford",
     "home": "Man Utd",
     "away": "FC Bayern München",
-    "result": null
+    "result": null,
+    "fotmobId": 6106290,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -973,7 +1215,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "Shakhtar Donetsk",
-    "result": null
+    "result": null,
+    "fotmobId": 6106324,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -981,7 +1225,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Man City",
-    "result": null
+    "result": null,
+    "fotmobId": 6106413,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -989,7 +1235,9 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "Arsenal",
-    "result": null
+    "result": null,
+    "fotmobId": 6106298,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -997,7 +1245,9 @@
     "venue": "Estádio José Alvalade",
     "home": "Sporting CP",
     "away": "FC Barcelona",
-    "result": null
+    "result": null,
+    "fotmobId": 6106278,
+    "status": "scheduled"
   },
   {
     "round": 7,
@@ -1005,7 +1255,9 @@
     "venue": "SR-Bank Arena",
     "home": "Viking",
     "away": "PSV",
-    "result": null
+    "result": null,
+    "fotmobId": 6106418,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1013,15 +1265,9 @@
     "venue": "Emirates Stadium",
     "home": "Arsenal",
     "away": "Sabah",
-    "result": null
-  },
-  {
-    "round": 8,
-    "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "LOSC Lille",
-    "result": null
+    "result": null,
+    "fotmobId": 6106261,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1029,7 +1275,9 @@
     "venue": "Riyadh Air Metropolitano",
     "home": "Atlético de Madrid",
     "away": "Fenerbahçe",
-    "result": null
+    "result": null,
+    "fotmobId": 6106268,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1037,7 +1285,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "AEK Athens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106273,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1045,15 +1295,9 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Bodø/Glimt",
-    "result": null
-  },
-  {
-    "round": 8,
-    "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Allianz Arena",
-    "home": "FC Bayern München",
-    "away": "Real Betis",
-    "result": null
+    "result": null,
+    "fotmobId": 6106296,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1061,15 +1305,19 @@
     "venue": "Spotify Camp Nou",
     "home": "FC Barcelona",
     "away": "Como",
-    "result": null
+    "result": null,
+    "fotmobId": 6106265,
+    "status": "scheduled"
   },
   {
     "round": 8,
     "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Stamford Bridge (London)",
-    "home": "Shakhtar Donetsk",
-    "away": "Real Madrid",
-    "result": null
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Real Betis",
+    "result": null,
+    "fotmobId": 6106239,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1077,7 +1325,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "RB Leipzig",
-    "result": null
+    "result": null,
+    "fotmobId": 6106308,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1085,7 +1335,9 @@
     "venue": "Raiffeisen Arena",
     "home": "LASK",
     "away": "FC Porto",
-    "result": null
+    "result": null,
+    "fotmobId": 6106406,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1093,7 +1345,9 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "RC Lens",
-    "result": null
+    "result": null,
+    "fotmobId": 6106249,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1101,31 +1355,9 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "Sporting CP",
-    "result": null
-  },
-  {
-    "round": 8,
-    "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Parc des Princes",
-    "home": "Paris Saint-Germain",
-    "away": "Galatasaray",
-    "result": null
-  },
-  {
-    "round": 8,
-    "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Philips Stadion",
-    "home": "PSV",
-    "away": "VfB Stuttgart",
-    "result": null
-  },
-  {
-    "round": 8,
-    "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Sinobo Stadium",
-    "home": "Slavia Praha",
-    "away": "Aston Villa",
-    "result": null
+    "result": null,
+    "fotmobId": 6106255,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1133,15 +1365,59 @@
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Viking",
-    "result": null
+    "result": null,
+    "fotmobId": 6106321,
+    "status": "scheduled"
   },
   {
     "round": 8,
     "dateUtc": "2027-01-27T20:00:00Z",
-    "venue": "Estadio de la Cerámica",
-    "home": "Villarreal CF",
-    "away": "Man Utd",
-    "result": null
+    "venue": "Parc des Princes",
+    "home": "Paris Saint-Germain",
+    "away": "Galatasaray",
+    "result": null,
+    "fotmobId": 6106236,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Philips Stadion",
+    "home": "PSV",
+    "away": "VfB Stuttgart",
+    "result": null,
+    "fotmobId": 6106305,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "LOSC Lille",
+    "result": null,
+    "fotmobId": 6106276,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Stamford Bridge (London)",
+    "home": "Shakhtar Donetsk",
+    "away": "Real Madrid",
+    "result": null,
+    "fotmobId": 6106334,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Sinobo Stadium",
+    "home": "Slavia Praha",
+    "away": "Aston Villa",
+    "result": null,
+    "fotmobId": 6106390,
+    "status": "scheduled"
   },
   {
     "round": 8,
@@ -1149,6 +1425,18 @@
     "venue": "Národný futbalový štadión",
     "home": "Slovan Bratislava",
     "away": "Inter",
-    "result": null
+    "result": null,
+    "fotmobId": 6106393,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2027-01-27T20:00:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Man Utd",
+    "result": null,
+    "fotmobId": 6106327,
+    "status": "scheduled"
   }
 ]

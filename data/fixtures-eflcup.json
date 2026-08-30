@@ -1,75 +1,43 @@
 [
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Selhurst Park",
-    "home": "Crystal Palace",
-    "away": "Middlesbrough",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Old Trafford",
-    "home": "Man Utd",
-    "away": "Brighton",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Etihad Stadium",
-    "home": "Man City",
-    "away": "Norwich City",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Stadium of Light",
-    "home": "Sunderland",
-    "away": "Hull",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Portman Road",
-    "home": "Ipswich",
-    "away": "Arsenal",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Coventry Building Society Arena",
-    "home": "Coventry",
-    "away": "Aston Villa",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
+    "dateUtc": "2026-09-08T18:45:00Z",
     "venue": "Vitality Stadium",
     "home": "Bournemouth",
     "away": "Lincoln City",
-    "result": null
+    "result": null,
+    "fotmobId": 6099334,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Anfield",
-    "home": "Liverpool",
-    "away": "Spurs",
-    "result": null
+    "dateUtc": "2026-09-08T18:45:00Z",
+    "venue": "Selhurst Park",
+    "home": "Crystal Palace",
+    "away": "Middlesbrough",
+    "result": null,
+    "fotmobId": 6099328,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Stamford Bridge",
-    "home": "Chelsea",
-    "away": "Leeds",
-    "result": null
+    "dateUtc": "2026-09-08T18:45:00Z",
+    "venue": "Leyton Orient Stadium",
+    "home": "Leyton Orient",
+    "away": "Bradford City",
+    "result": null,
+    "fotmobId": 6099339,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-08T18:45:00Z",
+    "venue": "Stadium of Light",
+    "home": "Sunderland",
+    "away": "Hull",
+    "result": null,
+    "fotmobId": 6099331,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -77,54 +45,118 @@
     "venue": "The Den",
     "home": "Millwall",
     "away": "Newcastle",
-    "result": null
+    "result": null,
+    "fotmobId": 6099336,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Fleetwood Town Stadium",
-    "home": "Fleetwood Town",
-    "away": "Sheffield United",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
+    "dateUtc": "2026-09-09T18:45:00Z",
     "venue": "Hill Dickinson Stadium",
     "home": "Everton",
     "away": "Wolverhampton Wanderers",
-    "result": null
+    "result": null,
+    "fotmobId": 6099338,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Leyton Orient Stadium",
-    "home": "Leyton Orient",
-    "away": "Bradford City",
-    "result": null
+    "dateUtc": "2026-09-09T19:00:00Z",
+    "venue": "Stamford Bridge",
+    "home": "Chelsea",
+    "away": "Leeds",
+    "result": null,
+    "fotmobId": 6099342,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
-    "venue": "Reading Stadium",
-    "home": "Reading",
-    "away": "Brentford",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
+    "dateUtc": "2026-09-15T18:45:00Z",
     "venue": "Peterborough United Stadium",
     "home": "Peterborough United",
     "away": "Barnsley",
-    "result": null
+    "result": null,
+    "fotmobId": 6099341,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-08T19:00:00Z",
+    "dateUtc": "2026-09-15T18:45:00Z",
     "venue": "London Stadium",
     "home": "West Ham United",
     "away": "Fulham",
-    "result": null
+    "result": null,
+    "fotmobId": 6099343,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-15T19:00:00Z",
+    "venue": "Portman Road",
+    "home": "Ipswich",
+    "away": "Arsenal",
+    "result": null,
+    "fotmobId": 6099332,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-15T19:00:00Z",
+    "venue": "Reading Stadium",
+    "home": "Reading",
+    "away": "Brentford",
+    "result": null,
+    "fotmobId": 6099340,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-16T18:45:00Z",
+    "venue": "Fleetwood Town Stadium",
+    "home": "Fleetwood Town",
+    "away": "Sheffield United",
+    "result": null,
+    "fotmobId": 6099337,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-16T19:00:00Z",
+    "venue": "Coventry Building Society Arena",
+    "home": "Coventry",
+    "away": "Aston Villa",
+    "result": null,
+    "fotmobId": 6099333,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-16T19:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Spurs",
+    "result": null,
+    "fotmobId": 6099335,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-16T19:00:00Z",
+    "venue": "Old Trafford",
+    "home": "Man Utd",
+    "away": "Brighton",
+    "result": null,
+    "fotmobId": 6099329,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-17T18:30:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Norwich City",
+    "result": null,
+    "fotmobId": 6099330,
+    "status": "scheduled"
   }
 ]
