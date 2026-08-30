@@ -1553,5 +1553,35 @@
     "primary": "#C8102E",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Fleetwood Town": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Bradford City": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Reading": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Barnsley": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Leyton Orient": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Peterborough United": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
   }
 }

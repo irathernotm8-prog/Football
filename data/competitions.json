@@ -339,8 +339,8 @@
   },
   "eflcup": {
     "label": "EFL Cup (Carabao Cup)",
-    "type": "knockout",
-    "status": "pending",
+    "type": "league",
+    "status": "active",
     "country": "England",
     "source": "manual",
     "sourceSlug": null,
@@ -350,10 +350,27 @@
       "history": "data/history-eflcup.json"
     },
     "stream": "ESPN+",
-    "color": "#7ac9c9",
+    "color": "#c4d130",
     "standingsWidgetId": null,
     "hasStandings": false,
-    "notes": "Pure knockout, already underway each season from early August. No advance schedule - needs manual round-by-round updates."
+    "notes": "Round 3 draw confirmed (2026-27): 16 ties, played across w/c Sep 7 and Sep 14 - exact per-match days/times not yet set by broadcasters, so all Round 3 fixtures share a placeholder date and render as TBD. Rounds 4/5/semis/final aren't drawn yet - append them here once each draw happens. No squads or standings (pure knockout).",
+    "logo": "assets/league-logos/eflcup.png",
+    "theme": {
+      "bg": "#1f280a",
+      "surface": "#2b3114",
+      "surface2": "#383d1b",
+      "line": "#565a2f",
+      "accent": "#c4d130",
+      "accentDark": "#848f1f",
+      "radial1": "#5c6b22",
+      "radial2": "#4f5c1c",
+      "radial3": "#465317",
+      "linear1": "#323d12",
+      "linear3": "#171f07",
+      "titleTop": "#ffff8d",
+      "titleBot": "#808f1a",
+      "accentRgb": "196, 209, 48"
+    }
   },
   "eredivisie": {
     "label": "Eredivisie",

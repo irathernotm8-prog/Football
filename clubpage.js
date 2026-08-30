@@ -255,7 +255,7 @@ async function openClubPage(teamName) {
         '<div class="squad-row">' +
         clubPlayerPhotoHtml(p) +
         '<span class="squad-number">' + number + "</span>" +
-        '<span class="squad-name">' + p.name + "</span>" +
+        '<span class="squad-name player-link" data-player-link="' + p.name.replace(/"/g, "&quot;") + '">' + p.name + "</span>" +
         '<span class="squad-position">' + p.position + "</span>" +
         '<span class="squad-nationality">' + (p.nationality || "") + "</span>" +
         "</div>"

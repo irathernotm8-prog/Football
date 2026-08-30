@@ -90,7 +90,7 @@ function renderPlayerResults(results) {
       '<div class="search-result-row">' +
       searchPlayerPhotoHtml(p) +
       '<span class="search-result-main">' +
-      '<span class="search-result-name">' + p.name + "</span>" +
+      '<span class="search-result-name player-link" data-player-link="' + p.name.replace(/"/g, "&quot;") + '">' + p.name + "</span>" +
       '<span class="search-result-meta">' + p.position + " \u00b7 " + (p.nationality || "") + "</span>" +
       "</span>" +
       '<span class="search-result-team club-link" data-club-link="' + p.team.replace(/"/g, "&quot;") + '">' +

@@ -1,0 +1,9 @@
+{
+  "Lionel Messi": {
+    "career": [
+      { "club": "FC Barcelona", "start": "2004", "end": "2021" },
+      { "club": "Paris Saint-Germain", "start": "2021", "end": "2023" },
+      { "club": "Inter Miami CF", "start": "2023", "end": null }
+    ]
+  }
+}
