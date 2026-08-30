@@ -132,6 +132,43 @@ function selectLeagueTheme(key, comp) {
   if (typeof updateLivePinLeague === "function") updateLivePinLeague(key);
 }
 
+// Hall of Fame isn't a competition (no fixtures/squads/standings make sense
+// for it), so it isn't in getLeagueCompetitions() and doesn't get the usual
+// re-theme-in-place treatment. It gets its own pill instead, appended after
+// the real leagues, that also swaps which page is showing - the one thing
+// no other pill does. Its "grandiose" white/gold look lives entirely in
+// scoped CSS on the page content itself rather than the shared --bg/--surface
+// variables, since every other theme assumes a dark shell with light text -
+// flipping those globally would make text unreadable everywhere else too.
+var hallOfFamePreviousTab = null;
+
+function enterHallOfFame() {
+  var activeMainTab = document.querySelector(".main-tab.active");
+  if (activeMainTab) hallOfFamePreviousTab = activeMainTab;
+
+  document.querySelectorAll(".main-tab").forEach(function (t) { t.classList.remove("active"); });
+  document.querySelectorAll(".page").forEach(function (p) { p.classList.add("hidden"); });
+  document.getElementById("page-halloffame").classList.remove("hidden");
+
+  applyLeagueTheme(null);
+  setHeaderLogo("assets/league-logos/halloffame.png", "Hall of Fame");
+  document.querySelectorAll(".league-tab").forEach(function (tab) {
+    tab.classList.toggle("active", tab.dataset.league === "halloffame");
+  });
+  currentLeagueTheme = "halloffame";
+  if (typeof setSearchLeagueFilter === "function") setSearchLeagueFilter("halloffame");
+  if (typeof renderHallOfFame === "function" && typeof hallOfFameCache !== "undefined" && !hallOfFameCache) renderHallOfFame();
+}
+
+function leaveHallOfFame() {
+  document.getElementById("page-halloffame").classList.add("hidden");
+  var tab = hallOfFamePreviousTab || document.querySelector(".main-tab");
+  if (tab) {
+    tab.classList.add("active");
+    document.getElementById(tab.dataset.target).classList.remove("hidden");
+  }
+}
+
 async function initLeagueTheme() {
   await competitionsReady;
   var container = document.getElementById("league-tabs");
@@ -143,13 +180,20 @@ async function initLeagueTheme() {
     var logoImg = c.logo ? '<img src="' + c.logo + '" alt="">' : "";
     return '<button class="league-tab" data-league="' + c.key + '">' + logoImg + (c.navLabel || c.label) + "</button>";
   }).join("");
+  var hallOfFameBtn = '<button class="league-tab league-tab-halloffame" data-league="halloffame">' +
+    '<img src="assets/league-logos/halloffame.png" alt="">Hall of Fame</button>';
 
-  container.innerHTML = allBtn + leagueBtns;
+  container.innerHTML = allBtn + leagueBtns + hallOfFameBtn;
 
   container.addEventListener("click", function (e) {
     var btn = e.target.closest(".league-tab");
     if (!btn) return;
     var key = btn.dataset.league;
+    if (key === "halloffame") {
+      enterHallOfFame();
+      return;
+    }
+    if (currentLeagueTheme === "halloffame") leaveHallOfFame();
     selectLeagueTheme(key, key === "all" ? null : COMPETITIONS[key]);
   });
 }

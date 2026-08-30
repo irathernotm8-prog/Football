@@ -41,9 +41,5 @@ async function renderHallOfFame() {
   }).join("");
 }
 
-var hallOfFameTab = document.querySelector('[data-target="page-halloffame"]');
-if (hallOfFameTab) {
-  hallOfFameTab.addEventListener("click", function () {
-    if (!hallOfFameCache) renderHallOfFame();
-  });
-}
+// Rendering is triggered by leaguetheme.js's enterHallOfFame() when the
+// "Hall of Fame" pill (in the top nav bar, not a main tab) is clicked.

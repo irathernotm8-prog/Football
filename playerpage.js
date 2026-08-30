@@ -12,6 +12,7 @@
 
 var playerProfilesCache = null;
 var playerPagePreviousTab = null;
+var playerPageCameFromHallOfFame = false;
 
 async function ensurePlayerProfiles() {
   if (playerProfilesCache) return playerProfilesCache;
@@ -67,9 +68,14 @@ async function showPlayerPage(playerName) {
   if (typeof closeClubPage === "function") closeClubPage();
   if (typeof closeMatchup === "function") closeMatchup();
 
-  // Remember whatever main tab was showing so "Back" can restore it exactly.
-  var currentActiveTab = document.querySelector(".main-tab.active");
-  if (currentActiveTab) playerPagePreviousTab = currentActiveTab;
+  // Remember how to get back. Hall of Fame isn't a main tab (it's a special
+  // top-nav pill that swaps pages on its own), so it needs its own case
+  // rather than just looking for ".main-tab.active".
+  playerPageCameFromHallOfFame = (typeof currentLeagueTheme !== "undefined" && currentLeagueTheme === "halloffame");
+  if (!playerPageCameFromHallOfFame) {
+    var currentActiveTab = document.querySelector(".main-tab.active");
+    if (currentActiveTab) playerPagePreviousTab = currentActiveTab;
+  }
 
   document.querySelectorAll(".main-tab").forEach(function (t) { t.classList.remove("active"); });
   document.querySelectorAll(".page").forEach(function (p) { p.classList.add("hidden"); });
@@ -159,6 +165,10 @@ async function showPlayerPage(playerName) {
 
 function goBackFromPlayerPage() {
   document.getElementById("page-player").classList.add("hidden");
+  if (playerPageCameFromHallOfFame && typeof enterHallOfFame === "function") {
+    enterHallOfFame();
+    return;
+  }
   var tab = playerPagePreviousTab || document.querySelector(".main-tab");
   if (tab) {
     tab.classList.add("active");
