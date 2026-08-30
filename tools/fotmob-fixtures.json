@@ -1,20 +1,77 @@
 {
   "baseUrl": "https://www.fotmob.com/api/data",
   "competitions": {
-    "epl": { "leagueId": 47, "expectedMatches": 380 },
-    "laliga": { "leagueId": 87, "expectedMatches": 380 },
-    "seriea": { "leagueId": 55, "expectedMatches": 380 },
-    "ligue1": { "leagueId": 53, "expectedMatches": 306 },
-    "bundesliga": { "leagueId": 54, "expectedMatches": 306 },
-    "mls": { "leagueId": 130, "expectedMatches": 510 },
-    "efl": { "leagueId": 48, "expectedMatches": 552 },
-    "eredivisie": { "leagueId": 57, "expectedMatches": 306 },
-    "superlig": { "leagueId": 71, "expectedMatches": 306 },
-    "primeiraliga": { "leagueId": 61, "expectedMatches": 306 },
-    "argentina": { "leagueId": 112, "minMatches": 200 },
-    "brazil": { "leagueId": 268, "expectedMatches": 380 },
-    "saudi": { "leagueId": 536, "expectedMatches": 306 },
-    "scotland": { "leagueId": 64, "minMatches": 198 },
-    "ligamx": { "leagueId": 230, "minMatches": 153 }
+    "epl": {
+      "leagueId": 47,
+      "expectedMatches": 380
+    },
+    "laliga": {
+      "leagueId": 87,
+      "expectedMatches": 380
+    },
+    "seriea": {
+      "leagueId": 55,
+      "expectedMatches": 380
+    },
+    "ligue1": {
+      "leagueId": 53,
+      "expectedMatches": 306
+    },
+    "bundesliga": {
+      "leagueId": 54,
+      "expectedMatches": 306
+    },
+    "mls": {
+      "leagueId": 130,
+      "expectedMatches": 510
+    },
+    "efl": {
+      "leagueId": 48,
+      "expectedMatches": 552
+    },
+    "eredivisie": {
+      "leagueId": 57,
+      "expectedMatches": 306
+    },
+    "superlig": {
+      "leagueId": 71,
+      "expectedMatches": 306
+    },
+    "primeiraliga": {
+      "leagueId": 61,
+      "expectedMatches": 306
+    },
+    "argentina": {
+      "leagueId": 112,
+      "minMatches": 200
+    },
+    "brazil": {
+      "leagueId": 268,
+      "expectedMatches": 380
+    },
+    "saudi": {
+      "leagueId": 536,
+      "expectedMatches": 306
+    },
+    "scotland": {
+      "leagueId": 64,
+      "minMatches": 198
+    },
+    "ligamx": {
+      "leagueId": 230,
+      "minMatches": 153
+    },
+    "ucl": {
+      "leagueId": 42,
+      "season": "2026/2027",
+      "minMatches": 144,
+      "filterToConfiguredTeams": true
+    },
+    "eflcup": {
+      "leagueId": 133,
+      "season": "2026/2027",
+      "minMatches": 16,
+      "filterToConfiguredTeams": true
+    }
   }
 }

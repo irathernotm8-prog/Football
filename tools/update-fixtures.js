@@ -480,6 +480,7 @@ async function updateCompetition(key, shared = null) {
     resultUpdates: 0,
     metadataLinked: 0,
     stadiumsLearned: 0,
+    filteredOut: 0,
     written: false,
     message: null
   };
@@ -514,7 +515,22 @@ async function updateCompetition(key, shared = null) {
     const rawMatches = extractMatches(payload);
     if (!rawMatches.length) throw new Error('Could not find a fixture list in FotMob league response');
 
-    const remote = rawMatches.map((m) => normalizeRemoteFixture(m, maps));
+    let remote = rawMatches.map((m) => normalizeRemoteFixture(m, maps));
+
+    // Some cup/continental league feeds include qualifying or earlier-round
+    // matches involving clubs outside the stage tracked by this repo. For
+    // stage-scoped competitions (e.g. UCL league phase onward, EFL Cup R3
+    // onward), ignore those out-of-scope matches rather than treating them as
+    // unknown-team failures. Matches between configured teams remain eligible
+    // and future knockout rounds are picked up automatically.
+    let filteredOut = 0;
+    if (cfg.filterToConfiguredTeams) {
+      const before = remote.length;
+      remote = remote.filter((m) => m.home && m.away);
+      filteredOut = before - remote.length;
+      if (VERBOSE && filteredOut) console.log(`Filtered ${filteredOut} out-of-scope FotMob fixture(s)`);
+    }
+
     summary.remote = remote.length;
     const validationErrors = validateRemote(existing, remote, cfg);
     if (validationErrors.length) {
@@ -578,11 +594,12 @@ async function updateCompetition(key, shared = null) {
       kickoffUpdates,
       resultUpdates,
       metadataLinked,
-      stadiumsLearned
+      stadiumsLearned,
+      filteredOut
     });
 
     console.log(`\nExisting fixtures: ${existing.length}`);
-    console.log(`FotMob fixtures:   ${remote.length}`);
+    console.log(`FotMob fixtures:   ${remote.length}${filteredOut ? ` (${filteredOut} out-of-scope filtered)` : ''}`);
     console.log(`Matched:            ${matchedExisting.size}`);
     console.log(`New fixtures:       ${additions.length}`);
     console.log(`Local-only kept:    ${unmatchedExisting.length}`);
