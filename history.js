@@ -13,6 +13,7 @@ var HISTORY_NAME_ALIASES = {
   "Coventry City": "Coventry",
   "Leeds United": "Leeds",
   "Newcastle United": "Newcastle",
+  "West Germany": "Germany",
   "RC Strasbourg": "RC Strasbourg Alsace",
   "Athletic Bilbao": "Athletic Club",
   "Atlético Madrid": "Atlético de Madrid",

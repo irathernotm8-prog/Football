@@ -10,6 +10,7 @@ var CLUB_HISTORY_ALIASES = {
   "Coventry City": "Coventry",
   "Leeds United": "Leeds",
   "Newcastle United": "Newcastle",
+  "West Germany": "Germany",
   "RC Strasbourg": "RC Strasbourg Alsace",
   "Athletic Bilbao": "Athletic Club",
   "Atlético Madrid": "Atlético de Madrid",
@@ -70,7 +71,8 @@ var TROPHY_ICON_ASSETS = {
   conference: "assets/trophies/conference.png",
   facup: "assets/trophies/facup.png",
   eflcup: "assets/trophies/eflcup.png",
-  communityshield: "assets/trophies/communityshield.png"
+  communityshield: "assets/trophies/communityshield.png",
+  worldcup: "assets/league-logos/world-cup.png"
 };
 
 function trophyIconHtml(leagueKey, label) {
