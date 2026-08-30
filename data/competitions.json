@@ -291,7 +291,7 @@
     "files": {
       "fixtures": "data/fixtures-europa.json",
       "squads": null,
-      "history": null
+      "history": "data/history-europa.json"
     },
     "stream": "Paramount+",
     "color": "#ff8c00",
@@ -310,7 +310,7 @@
     "files": {
       "fixtures": "data/fixtures-conference.json",
       "squads": null,
-      "history": null
+      "history": "data/history-conference.json"
     },
     "stream": "Paramount+",
     "color": "#00a650",
@@ -329,7 +329,7 @@
     "files": {
       "fixtures": "data/fixtures-facup.json",
       "squads": null,
-      "history": null
+      "history": "data/history-facup.json"
     },
     "stream": "ESPN+",
     "color": "#c9a13b",
@@ -347,7 +347,7 @@
     "files": {
       "fixtures": "data/fixtures-eflcup.json",
       "squads": null,
-      "history": null
+      "history": "data/history-eflcup.json"
     },
     "stream": "ESPN+",
     "color": "#7ac9c9",
@@ -470,7 +470,7 @@
     "files": {
       "fixtures": "data/fixtures-argentina.json",
       "squads": "data/squads-argentina.json",
-      "history": null
+      "history": "data/history-argentina.json"
     },
     "teamList": [
       "Aldosivi",
@@ -537,7 +537,7 @@
     "files": {
       "fixtures": "data/fixtures-brazil.json",
       "squads": "data/squads-brazil.json",
-      "history": null
+      "history": "data/history-brazil.json"
     },
     "teamList": [
       "Athletico Paranaense",
@@ -594,7 +594,7 @@
     "files": {
       "fixtures": "data/fixtures-saudi.json",
       "squads": "data/squads-saudi.json",
-      "history": null
+      "history": "data/history-saudi.json"
     },
     "teamList": [
       "Abha",
@@ -698,7 +698,7 @@
     "files": {
       "fixtures": "data/fixtures-ligamx.json",
       "squads": "data/squads-ligamx.json",
-      "history": null
+      "history": "data/history-ligamx.json"
     },
     "teamList": [
       "Atlante",

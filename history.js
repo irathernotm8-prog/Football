@@ -106,7 +106,13 @@ async function loadHistory(key) {
 
 async function initHistoryTabs() {
   await competitionsReady;
-  var comps = getLeagueCompetitions();
+  // The History tab only needs a history file - it doesn't care whether the
+  // competition is a full league (with fixtures/squads) or a knockout cup
+  // like the FA Cup, so this is deliberately its own filter rather than
+  // reusing getLeagueCompetitions().
+  var comps = Object.keys(COMPETITIONS)
+    .filter(function (k) { return COMPETITIONS[k].files && COMPETITIONS[k].files.history; })
+    .map(function (k) { return Object.assign({ key: k }, COMPETITIONS[k]); });
   comps.forEach(function (c) { HISTORY_LEAGUES[c.key] = { label: c.label, file: c.files.history }; });
 
   var tabsContainer = document.getElementById("history-tabs");
