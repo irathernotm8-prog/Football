@@ -94,17 +94,19 @@
   },
   "Andoni Zubizarreta": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "GK",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/andoni-zubizarreta.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Walter Zenga": {
     "fotmobId": 119833,
-    "position": null,
+    "position": "GK",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/119833.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/walter-zenga.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "José Luis Chilavert": {
     "fotmobId": null,
@@ -280,10 +282,11 @@
   },
   "Alessandro Costacurta": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/alessandro-costacurta.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Giuseppe Bergomi": {
     "fotmobId": null,
@@ -478,10 +481,11 @@
   },
   "Gary Neville": {
     "fotmobId": 30615,
-    "position": null,
+    "position": "DEFENDER",
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30615.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gary-neville.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Bixente Lizarazu": {
     "fotmobId": null,
@@ -561,8 +565,9 @@
     "fotmobId": 30955,
     "position": "MIDFIELDER",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30955.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/andres-iniesta.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Sergio Busquets": {
     "fotmobId": 154257,
@@ -718,10 +723,11 @@
   },
   "Pep Guardiola": {
     "fotmobId": 41636,
-    "position": null,
+    "position": "MIDFIELDER",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/41636.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/pep-guardiola.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Juan Sebastián Verón": {
     "fotmobId": 32344,
@@ -935,8 +941,9 @@
     "fotmobId": 36378,
     "position": "MIDFIELDER",
     "nationality": "Germany",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/36378.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/mesut-ozil.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Wesley Sneijder": {
     "fotmobId": 30878,
@@ -971,10 +978,11 @@
   },
   "Abedi Pelé": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "MIDFIELDER",
+    "nationality": "Ghana",
+    "photo": "assets/hall-of-fame/abedi-pele.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Carlos Valderrama": {
     "fotmobId": null,
@@ -1355,7 +1363,7 @@
     "nationality": "Argentina",
     "photo": "assets/hall-of-fame/sergio-aguero.png",
     "status": "Retired",
-    "photoSource": "fifarosters",
+    "photoSource": "fifa-classic-bw",
     "fifaRostersUrl": "https://www.fifarosters.com/players?player=153079",
     "fifaRostersPlayerId": 153079,
     "fifaRostersFutId": null,
@@ -1520,10 +1528,11 @@
   },
   "Diego Forlán": {
     "fotmobId": 38460,
-    "position": null,
+    "position": "ST",
     "nationality": "Uruguay",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/38460.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/diego-forlan.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Henrik Larsson": {
     "fotmobId": 34411,
@@ -1534,10 +1543,11 @@
   },
   "Adriano": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "ST",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/adriano.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Ian Wright": {
     "fotmobId": 1730659,
@@ -1553,10 +1563,11 @@
   },
   "Andy Cole": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/andy-cole.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Dwight Yorke": {
     "fotmobId": 38811,
@@ -1614,10 +1625,11 @@
   },
   "Filippo Inzaghi": {
     "fotmobId": 30729,
-    "position": null,
+    "position": "ST",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30729.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/filippo-inzaghi.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Jürgen Klinsmann": {
     "fotmobId": 133543,
@@ -1694,17 +1706,19 @@
   },
   "Ali Daei": {
     "fotmobId": null,
-    "position": null,
-    "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "position": "ST",
+    "nationality": "Iran",
+    "photo": "assets/hall-of-fame/ali-daei.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Tim Cahill": {
     "fotmobId": 30876,
     "position": "FORWARD",
     "nationality": "Australia",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30876.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/tim-cahill.png",
+    "status": "Retired",
+    "photoSource": "fifa-classic-bw"
   },
   "Cuauhtémoc Blanco": {
     "fotmobId": null,
