@@ -87,8 +87,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/paolo-maldini.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238439&player=238439&v=25",
+    "fifaRostersPlayerId": 238439,
+    "fifaRostersFutId": 238439,
+    "fifaVersion": 25
   },
   "Franco Baresi": {
     "fotmobId": null,
