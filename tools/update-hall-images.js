@@ -233,18 +233,27 @@ function imageCandidateScore(c, playerName) {
 function imageCandidatesFromPage(html, pageUrl, playerName) {
   const out = [];
   const seen = new Set();
+  const otherVersionsIndex = (() => {
+    const probes = ['Other FUT', 'Generations', 'Player Info'];
+    const hits = probes.map((p) => html.indexOf(p)).filter((n) => n >= 0);
+    return hits.length ? Math.min(...hits) : html.length;
+  })();
   function add(raw, meta = {}) {
     const url = absoluteUrl(raw, pageUrl);
     if (!url || seen.has(url)) return;
     seen.add(url);
     const c = { url, ...meta };
     c.score = imageCandidateScore(c, playerName);
+    if (Number.isFinite(c.pageIndex)) {
+      if (c.pageIndex < otherVersionsIndex && /\/faces\//i.test(c.url)) c.score += 38;
+      if (c.pageIndex > otherVersionsIndex) c.score -= 6;
+    }
     out.push(c);
   }
   const og = parseMeta(html, 'og:image');
-  if (og) add(og, { source: 'og:image', context: 'meta social image' });
+  if (og) add(og, { source: 'og:image', context: 'meta social image', pageIndex: -2 });
   const tw = parseMeta(html, 'twitter:image');
-  if (tw) add(tw, { source: 'twitter:image', context: 'meta social image' });
+  if (tw) add(tw, { source: 'twitter:image', context: 'meta social image', pageIndex: -1 });
   const imgRe = /<img\b[^>]*>/gi;
   let m;
   while ((m = imgRe.exec(html))) {
@@ -252,7 +261,7 @@ function imageCandidatesFromPage(html, pageUrl, playerName) {
     const context = stripTags(html.slice(Math.max(0, m.index - 260), Math.min(html.length, m.index + tag.length + 260)));
     add(attr(tag, 'src') || attr(tag, 'data-src') || attr(tag, 'data-lazy-src'), {
       source: 'img', alt: attr(tag, 'alt'), title: attr(tag, 'title'), className: attr(tag, 'class'), id: attr(tag, 'id'),
-      width: attr(tag, 'width'), height: attr(tag, 'height'), context
+      width: attr(tag, 'width'), height: attr(tag, 'height'), context, pageIndex: m.index
     });
   }
   return out.sort((a, b) => b.score - a.score);
@@ -322,7 +331,14 @@ async function chooseBestImage(images, playerName) {
     probed.push(await probeImageCandidate(c));
     await sleep(Math.min(DELAY_MS, 180));
   }
-  probed.sort((a,b) => (b.totalScore ?? b.score) - (a.totalScore ?? a.score));
+  probed.sort((a,b) => {
+    const scoreDiff = (b.totalScore ?? b.score) - (a.totalScore ?? a.score);
+    if (scoreDiff) return scoreDiff;
+    const aMain = /\/faces\//i.test(a.url) && a.probe?.hasAlpha && Number(a.probe?.width) >= 300 && Number(a.probe?.height) >= 300;
+    const bMain = /\/faces\//i.test(b.url) && b.probe?.hasAlpha && Number(b.probe?.width) >= 300 && Number(b.probe?.height) >= 300;
+    if (aMain !== bMain) return bMain - aMain;
+    return (a.pageIndex ?? Number.MAX_SAFE_INTEGER) - (b.pageIndex ?? Number.MAX_SAFE_INTEGER);
+  });
   const selected = probed[0] || images[0];
   if (!selected || (selected.totalScore ?? selected.score) < 35) return { selected: null, probed };
   return { selected, probed };
@@ -393,7 +409,13 @@ async function inspectPlayer(playerName, sourceConfig) {
     const a = chosen.probed[0], b = chosen.probed[1];
     const gap = (a.totalScore ?? a.score) - (b.totalScore ?? b.score);
     if (gap < 8 && a.url !== b.url) {
-      throw new Error('Multiple FifaRosters images remain visually ambiguous after probing; pin imageUrl in data/hall-image-sources.json');
+      const aCutout = /\/faces\//i.test(a.url) && a.probe?.hasAlpha && Number(a.probe?.width) >= 300 && Number(a.probe?.height) >= 300;
+      const bCutout = /\/faces\//i.test(b.url) && b.probe?.hasAlpha && Number(b.probe?.width) >= 300 && Number(b.probe?.height) >= 300;
+      // If both are legitimate player cutouts, DOM order is intentional: the main selected
+      // version is rendered before the alternate-version/generation galleries.
+      if (!(aCutout && bCutout && Number.isFinite(a.pageIndex) && Number.isFinite(b.pageIndex) && a.pageIndex !== b.pageIndex)) {
+        throw new Error('Multiple FifaRosters images remain visually ambiguous after probing; pin imageUrl in data/hall-image-sources.json');
+      }
     }
   }
   return { pageUrl: finalUrl, image: chosen.selected, params: parseFifaParams(finalUrl), candidates: images.slice(0, 10), probed: chosen.probed };
