@@ -31,11 +31,12 @@ async function renderHallOfFame() {
     var photoHtml = p.photo
       ? '<img src="' + p.photo + '" alt="' + name + '" class="halloffame-photo" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement(\'div\'), {className:\'halloffame-photo-fallback\', textContent:\'' + searchPlayerInitials(name) + '\'}))">'
       : '<div class="halloffame-photo-fallback">' + searchPlayerInitials(name) + "</div>";
+    var meta = [p.position, p.nationality].filter(Boolean).join(" &middot; ");
     return (
       '<div class="halloffame-card player-link" data-player-link="' + name.replace(/"/g, "&quot;") + '">' +
       photoHtml +
       '<span class="halloffame-name">' + name + "</span>" +
-      '<span class="halloffame-meta">' + (p.position || "") + " &middot; " + (p.nationality || "") + "</span>" +
+      (meta ? '<span class="halloffame-meta">' + meta + "</span>" : "") +
       "</div>"
     );
   }).join("");

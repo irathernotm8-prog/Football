@@ -1,8 +1,1241 @@
 {
+  "Peter Schmeichel": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gianluigi Buffon": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Iker Casillas": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Oliver Kahn": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Petr Čech": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Edwin van der Sar": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Claudio Taffarel": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Dida": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Júlio César": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Andoni Zubizarreta": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Walter Zenga": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "José Luis Chilavert": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Paolo Maldini": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Franco Baresi": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Cafu": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roberto Carlos": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Javier Zanetti": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Fabio Cannavaro": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Alessandro Nesta": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Carles Puyol": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Philipp Lahm": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Lilian Thuram": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Marcel Desailly": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Laurent Blanc": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ronald Koeman": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Jaap Stam": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Fernando Hierro": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Alessandro Costacurta": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Giuseppe Bergomi": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Matthias Sammer": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rio Ferdinand": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "John Terry": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Nemanja Vidić": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ashley Cole": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Patrice Evra": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ricardo Carvalho": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Lúcio": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Walter Samuel": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Diego Godín": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Vincent Kompany": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Giorgio Chiellini": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gerard Piqué": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Marcelo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Maicon": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Sol Campbell": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Jamie Carragher": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gary Neville": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Bixente Lizarazu": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rafael Márquez": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gheorghe Popescu": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Lothar Matthäus": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Frank Rijkaard": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Andrea Pirlo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Xavi": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Andrés Iniesta": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Sergio Busquets": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Clarence Seedorf": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Patrick Vieira": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roy Keane": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Paul Scholes": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Steven Gerrard": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Frank Lampard": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Xabi Alonso": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Bastian Schweinsteiger": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Claude Makélélé": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Fernando Redondo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Edgar Davids": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Michael Ballack": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Yaya Touré": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gennaro Gattuso": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Didier Deschamps": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Pep Guardiola": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Juan Sebastián Verón": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Michael Essien": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Demetrio Albertini": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Emmanuel Petit": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gary Speed": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Michel Platini": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Zinedine Zidane": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roberto Baggio": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Kaká": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rivaldo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Luís Figo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ronaldinho": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Pavel Nedvěd": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gheorghe Hagi": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Michael Laudrup": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rui Costa": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Juan Román Riquelme": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "David Beckham": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "David Silva": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Mesut Özil": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Wesley Sneijder": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Deco": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Jay-Jay Okocha": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Abedi Pelé": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Carlos Valderrama": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Enzo Francescoli": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Zico": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Sócrates": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Dragan Stojković": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Dejan Savićević": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roberto Donadoni": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Youri Djorkaeff": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Hidetoshi Nakata": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Park Ji-sung": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ruud Gullit": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Hristo Stoichkov": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ryan Giggs": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Arjen Robben": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Franck Ribéry": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gareth Bale": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Eden Hazard": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Robert Pirès": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Marc Overmars": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Luís García": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "David Ginola": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Paulo Futre": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Diego Maradona": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Marco van Basten": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ronaldo Nazário": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Romário": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "George Weah": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
   "Thierry Henry": {
+    "fotmobId": null,
     "position": "ST",
     "nationality": "France",
     "photo": "https://images.fotmob.com/image_resources/playerimages/30626.png",
+    "status": "Retired"
+  },
+  "Dennis Bergkamp": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Eric Cantona": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Alan Shearer": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Raúl": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Francesco Totti": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Alessandro Del Piero": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gabriel Batistuta": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Andriy Shevchenko": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Samuel Eto'o": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Didier Drogba": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Wayne Rooney": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Sergio Agüero": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ruud van Nistelrooy": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "David Villa": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Fernando Torres": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Miroslav Klose": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Robin van Persie": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Michael Owen": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Jean-Pierre Papin": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gary Lineker": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Hugo Sánchez": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Emilio Butragueño": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ian Rush": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Kenny Dalglish": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gianfranco Zola": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Christian Vieri": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Hernán Crespo": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Carlos Tévez": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Diego Forlán": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Henrik Larsson": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Adriano": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ian Wright": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Andy Cole": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Dwight Yorke": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Gianluca Vialli": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roberto Mancini": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Bebeto": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Mario Gómez": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Luca Toni": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "David Trezeguet": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Filippo Inzaghi": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Jürgen Klinsmann": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rudi Völler": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Preben Elkjær": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Predrag Mijatović": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Davor Šuker": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Nwankwo Kanu": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Roger Milla": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Rabah Madjer": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Cha Bum-kun": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Ali Daei": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Tim Cahill": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
+    "status": "Retired"
+  },
+  "Cuauhtémoc Blanco": {
+    "fotmobId": null,
+    "position": null,
+    "nationality": null,
+    "photo": null,
     "status": "Retired"
   }
 }
