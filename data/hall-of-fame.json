@@ -1,1 +1,1354 @@
-{}
+{
+  "Oliver Kahn": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/oliver-kahn.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Xavi": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/xavi.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Alan Shearer": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/alan-shearer.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Alessandro Nesta": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/alessandro-nesta.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Andrea Pirlo": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/andrea-pirlo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ashley Cole": {
+    "fotmobId": null,
+    "position": "LB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/ashley-cole.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Roberto Baggio": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/roberto-baggio.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gareth Bale": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Wales",
+    "photo": "assets/hall-of-fame/gareth-bale.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "John Barnes": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/john-barnes.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gabriel Batistuta": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/gabriel-batistuta.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Franz Beckenbauer": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/franz-beckenbauer.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "David Beckham": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/david-beckham.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Dennis Bergkamp": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/dennis-bergkamp.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "George Best": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Northern Ireland",
+    "photo": "assets/hall-of-fame/george-best.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Bobby Moore": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/bobby-moore.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Cafu": {
+    "fotmobId": null,
+    "position": "RB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/cafu.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Sol Campbell": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/sol-campbell.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Eric Cantona": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/eric-cantona.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Carlos Alberto": {
+    "fotmobId": null,
+    "position": "RB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/carlos-alberto.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Iker Casillas": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/iker-casillas.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Cha Bum-kun": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "South Korea",
+    "photo": "assets/hall-of-fame/cha-bum-kun.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Bobby Charlton": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/bobby-charlton.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Giorgio Chiellini": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/giorgio-chiellini.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Hernán Crespo": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/hernan-crespo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Kenny Dalglish": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Scotland",
+    "photo": "assets/hall-of-fame/kenny-dalglish.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Alessandro Del Piero": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/alessandro-del-piero.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Didier Drogba": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Ivory Coast",
+    "photo": "assets/hall-of-fame/didier-drogba.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Dunga": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/dunga.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Emilio Butragueño": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/emilio-butragueno.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Emmanuel Petit": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/emmanuel-petit.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Michael Essien": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Ghana",
+    "photo": "assets/hall-of-fame/michael-essien.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Samuel Eto'o": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Cameroon",
+    "photo": "assets/hall-of-fame/samuel-etoo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Eusébio": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/eusebio.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Fabio Cannavaro": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/fabio-cannavaro.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Rio Ferdinand": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/rio-ferdinand.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Fernando Torres": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/fernando-torres.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Fernando Hierro": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/fernando-hierro.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Franco Baresi": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/franco-baresi.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Frank Rijkaard": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/frank-rijkaard.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Garrincha": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/garrincha.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gary Lineker": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/gary-lineker.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gennaro Gattuso": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/gennaro-gattuso.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Steven Gerrard": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/steven-gerrard.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gianluigi Buffon": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/gianluigi-buffon.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gianfranco Zola": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/gianfranco-zola.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ruud Gullit": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/ruud-gullit.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gheorghe Hagi": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Romania",
+    "photo": "assets/hall-of-fame/gheorghe-hagi.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Henrik Larsson": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Sweden",
+    "photo": "assets/hall-of-fame/henrik-larsson.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Thierry Henry": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/thierry-henry.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Hugo Sánchez": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Mexico",
+    "photo": "assets/hall-of-fame/hugo-sanchez.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Geoff Hurst": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/geoff-hurst.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ian Rush": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Wales",
+    "photo": "assets/hall-of-fame/ian-rush.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ian Wright": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/ian-wright.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Zlatan Ibrahimović": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Sweden",
+    "photo": "assets/hall-of-fame/zlatan-ibrahimovic.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Andrés Iniesta": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/andres-iniesta.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Jairzinho": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/jairzinho.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Johan Cruyff": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/johan-cruyff.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Kaká": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/kaka.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Mario Kempes": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/mario-kempes.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Miroslav Klose": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/miroslav-klose.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Patrick Kluivert": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/patrick-kluivert.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ronald Koeman": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/ronald-koeman.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Philipp Lahm": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/philipp-lahm.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Frank Lampard": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/frank-lampard.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Michael Laudrup": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Denmark",
+    "photo": "assets/hall-of-fame/michael-laudrup.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Laurent Blanc": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/laurent-blanc.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Luís Figo": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/luis-figo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Luis Hernández": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Mexico",
+    "photo": "assets/hall-of-fame/luis-hernandez.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Claude Makélélé": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/claude-makelele.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Paolo Maldini": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/paolo-maldini.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Diego Maradona": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/diego-maradona.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Marcel Desailly": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/marcel-desailly.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Marcelo": {
+    "fotmobId": null,
+    "position": "LB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/marcelo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Marco van Basten": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/marco-van-basten.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Lothar Matthäus": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/lothar-matthaus.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Michael Ballack": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/michael-ballack.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Michael Owen": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/michael-owen.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gerd Müller": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/gerd-muller.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Pavel Nedvěd": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Czechia",
+    "photo": "assets/hall-of-fame/pavel-nedved.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Patrick Vieira": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/patrick-vieira.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Paul Scholes": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/paul-scholes.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Petr Čech": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Czechia",
+    "photo": "assets/hall-of-fame/petr-cech.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ferenc Puskás": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Hungary",
+    "photo": "assets/hall-of-fame/ferenc-puskas.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Carles Puyol": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/carles-puyol.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Raúl": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/raul.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Franck Ribéry": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/franck-ribery.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Juan Román Riquelme": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/juan-roman-riquelme.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Rivaldo": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/rivaldo.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Roberto Rivellino": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/roberto-rivellino.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Robert Pirès": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/robert-pires.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Roberto Carlos": {
+    "fotmobId": null,
+    "position": "LB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/roberto-carlos.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Robin van Persie": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/robin-van-persie.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ronaldinho": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/ronaldinho.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ronaldo Nazário": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/ronaldo-nazario.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Wayne Rooney": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/wayne-rooney.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Roy Keane": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Ireland",
+    "photo": "assets/hall-of-fame/roy-keane.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Rui Costa": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/rui-costa.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ruud van Nistelrooy": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/ruud-van-nistelrooy.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Peter Schmeichel": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Denmark",
+    "photo": "assets/hall-of-fame/peter-schmeichel.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Bastian Schweinsteiger": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/bastian-schweinsteiger.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Clarence Seedorf": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/clarence-seedorf.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Andriy Shevchenko": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Ukraine",
+    "photo": "assets/hall-of-fame/andriy-shevchenko.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Sócrates": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/socrates.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Hristo Stoichkov": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Bulgaria",
+    "photo": "assets/hall-of-fame/hristo-stoichkov.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Davor Šuker": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Croatia",
+    "photo": "assets/hall-of-fame/davor-suker.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Lilian Thuram": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/lilian-thuram.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Toni Kroos": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/toni-kroos.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Francesco Totti": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/francesco-totti.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Edwin van der Sar": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/edwin-van-der-sar.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Juan Sebastián Verón": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/juan-sebastian-veron.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Nemanja Vidić": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Serbia",
+    "photo": "assets/hall-of-fame/nemanja-vidic.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Xabi Alonso": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/xabi-alonso.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Lev Yashin": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Russia",
+    "photo": "assets/hall-of-fame/lev-yashin.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Gianluca Zambrotta": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/gianluca-zambrotta.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Javier Zanetti": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/javier-zanetti.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Zico": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/zico.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Zinedine Zidane": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/zinedine-zidane.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Sergio Agüero": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/sergio-aguero.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Raphaël Varane": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/raphael-varane.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Abedi Pelé": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Ghana",
+    "photo": "assets/hall-of-fame/abedi-pele.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Arturo Vidal": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Chile",
+    "photo": "assets/hall-of-fame/arturo-vidal.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Andrea Barzagli": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/andrea-barzagli.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "DaMarcus Beasley": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "USA",
+    "photo": "assets/hall-of-fame/damarcus-beasley.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Dimitar Berbatov": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Bulgaria",
+    "photo": "assets/hall-of-fame/dimitar-berbatov.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Blaise Matuidi": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "France",
+    "photo": "assets/hall-of-fame/blaise-matuidi.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Cesc Fàbregas": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/cesc-fabregas.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Clint Dempsey": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "USA",
+    "photo": "assets/hall-of-fame/clint-dempsey.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Dani Alves": {
+    "fotmobId": null,
+    "position": "RB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/dani-alves.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Daniel Carvajal": {
+    "fotmobId": null,
+    "position": "RB",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/daniel-carvajal.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Daniele De Rossi": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/daniele-de-rossi.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "David Luiz": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/david-luiz.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "David Silva": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/david-silva.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Diego Forlán": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Uruguay",
+    "photo": "assets/hall-of-fame/diego-forlan.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Dirk Kuyt": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/dirk-kuyt.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Eden Hazard": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Belgium",
+    "photo": "assets/hall-of-fame/eden-hazard.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Edinson Cavani": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Uruguay",
+    "photo": "assets/hall-of-fame/edinson-cavani.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Fernando Morientes": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/fernando-morientes.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ivan Rakitić": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Croatia",
+    "photo": "assets/hall-of-fame/ivan-rakitic.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Iván Zamorano": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Chile",
+    "photo": "assets/hall-of-fame/ivan-zamorano.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Jaap Stam": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/jaap-stam.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Jamie Carragher": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/jamie-carragher.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Jérôme Boateng": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/jerome-boateng.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Jorge Campos": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "Mexico",
+    "photo": "assets/hall-of-fame/jorge-campos.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Nwankwo Kanu": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Nigeria",
+    "photo": "assets/hall-of-fame/nwankwo-kanu.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ledley King": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/ledley-king.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Lúcio": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/lucio.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Mario Mandžukić": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Croatia",
+    "photo": "assets/hall-of-fame/mario-mandzukic.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Marek Hamšík": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Slovakia",
+    "photo": "assets/hall-of-fame/marek-hamsik.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Mario Balotelli": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Italy",
+    "photo": "assets/hall-of-fame/mario-balotelli.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Mario Gómez": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/mario-gomez.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Javier Mascherano": {
+    "fotmobId": null,
+    "position": "DEFENDER",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/javier-mascherano.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Micah Richards": {
+    "fotmobId": null,
+    "position": "RB",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/micah-richards.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Hidetoshi Nakata": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Japan",
+    "photo": "assets/hall-of-fame/hidetoshi-nakata.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Paulo Futre": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/paulo-futre.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Pepe": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/pepe.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Peter Crouch": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "England",
+    "photo": "assets/hall-of-fame/peter-crouch.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Ricardo Quaresma": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Portugal",
+    "photo": "assets/hall-of-fame/ricardo-quaresma.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Rafael Márquez": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Mexico",
+    "photo": "assets/hall-of-fame/rafael-marquez.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Arjen Robben": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/arjen-robben.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Sami Khedira": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/sami-khedira.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Sergio Ramos": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Spain",
+    "photo": "assets/hall-of-fame/sergio-ramos.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Wesley Sneijder": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Netherlands",
+    "photo": "assets/hall-of-fame/wesley-sneijder.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Carlos Tévez": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Argentina",
+    "photo": "assets/hall-of-fame/carlos-tevez.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Thiago Silva": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Brazil",
+    "photo": "assets/hall-of-fame/thiago-silva.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Tim Cahill": {
+    "fotmobId": null,
+    "position": "FORWARD",
+    "nationality": "Australia",
+    "photo": "assets/hall-of-fame/tim-cahill.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Tim Howard": {
+    "fotmobId": null,
+    "position": "GK",
+    "nationality": "USA",
+    "photo": "assets/hall-of-fame/tim-howard.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Vincent Kompany": {
+    "fotmobId": null,
+    "position": "CB",
+    "nationality": "Belgium",
+    "photo": "assets/hall-of-fame/vincent-kompany.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Rudi Völler": {
+    "fotmobId": null,
+    "position": "ST",
+    "nationality": "Germany",
+    "photo": "assets/hall-of-fame/rudi-voller.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  },
+  "Yaya Touré": {
+    "fotmobId": null,
+    "position": "MIDFIELDER",
+    "nationality": "Ivory Coast",
+    "photo": "assets/hall-of-fame/yaya-toure.png",
+    "status": "Retired",
+    "photoSource": "manual"
+  }
+}
