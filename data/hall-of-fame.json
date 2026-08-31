@@ -3,43 +3,73 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/peter-schmeichel.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238428&player=238428&v=26",
+    "fifaRostersPlayerId": 238428,
+    "fifaRostersFutId": 238428,
+    "fifaVersion": 26
   },
   "Gianluigi Buffon": {
     "fotmobId": 30717,
     "position": "GK",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30717.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gianluigi-buffon.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1179&player=1179&v=26",
+    "fifaRostersPlayerId": 1179,
+    "fifaRostersFutId": 1179,
+    "fifaVersion": 26
   },
   "Iker Casillas": {
     "fotmobId": 30657,
     "position": "GK",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30657.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/iker-casillas.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=5479",
+    "fifaRostersPlayerId": 5479,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Oliver Kahn": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/oliver-kahn.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=488&player=488&v=26",
+    "fifaRostersPlayerId": 488,
+    "fifaRostersFutId": 488,
+    "fifaVersion": 26
   },
   "Petr Čech": {
     "fotmobId": 30859,
     "position": "GK",
     "nationality": "Czechia",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30859.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/petr-cech.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=48940&player=48940&v=26",
+    "fifaRostersPlayerId": 48940,
+    "fifaRostersFutId": 48940,
+    "fifaVersion": 26
   },
   "Edwin van der Sar": {
     "fotmobId": 30726,
     "position": "GK",
     "nationality": "Netherlands",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30726.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/edwin-van-der-sar.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=51539&player=51539&v=26",
+    "fifaRostersPlayerId": 51539,
+    "fifaRostersFutId": 51539,
+    "fifaVersion": 26
   },
   "Claudio Taffarel": {
     "fotmobId": null,
@@ -118,15 +148,25 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/roberto-carlos.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238430&player=238430&v=26",
+    "fifaRostersPlayerId": 238430,
+    "fifaRostersFutId": 238430,
+    "fifaVersion": 26
   },
   "Javier Zanetti": {
     "fotmobId": 30460,
     "position": "DEFENDER",
     "nationality": "Argentina",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30460.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/javier-zanetti.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=1041&player=1041&v=26",
+    "fifaRostersPlayerId": 1041,
+    "fifaRostersFutId": 1041,
+    "fifaVersion": 26
   },
   "Fabio Cannavaro": {
     "fotmobId": 34520,
@@ -139,22 +179,37 @@
     "fotmobId": 30723,
     "position": null,
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30723.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/alessandro-nesta.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1088&player=1088&v=26",
+    "fifaRostersPlayerId": 1088,
+    "fifaRostersFutId": 1088,
+    "fifaVersion": 26
   },
   "Carles Puyol": {
     "fotmobId": 30661,
     "position": "DEFENDER",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30661.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/carles-puyol.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238384&player=238384&v=26",
+    "fifaRostersPlayerId": 238384,
+    "fifaRostersFutId": 238384,
+    "fifaVersion": 26
   },
   "Philipp Lahm": {
     "fotmobId": 30894,
     "position": "DEFENDER",
     "nationality": "Germany",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30894.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/philipp-lahm.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=121939&player=121939&v=26",
+    "fifaRostersPlayerId": 121939,
+    "fifaRostersFutId": 121939,
+    "fifaVersion": 26
   },
   "Lilian Thuram": {
     "fotmobId": null,
@@ -167,36 +222,61 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/marcel-desailly.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1116&player=1116&v=26",
+    "fifaRostersPlayerId": 1116,
+    "fifaRostersFutId": 1116,
+    "fifaVersion": 26
   },
   "Laurent Blanc": {
     "fotmobId": 26082,
     "position": null,
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/26082.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/laurent-blanc.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=67347307&player=238443&v=26",
+    "fifaRostersPlayerId": 238443,
+    "fifaRostersFutId": 67347307,
+    "fifaVersion": 26
   },
   "Ronald Koeman": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ronald-koeman.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=100830976&player=167680&v=26",
+    "fifaRostersPlayerId": 167680,
+    "fifaRostersFutId": 100830976,
+    "fifaVersion": 26
   },
   "Jaap Stam": {
     "fotmobId": 35717,
     "position": null,
     "nationality": "Netherlands",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/35717.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/jaap-stam.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=100669036&player=5740&v=26",
+    "fifaRostersPlayerId": 5740,
+    "fifaRostersFutId": 100669036,
+    "fifaVersion": 26
   },
   "Fernando Hierro": {
     "fotmobId": 25174,
     "position": null,
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/25174.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/fernando-hierro.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=161840&player=161840&v=26",
+    "fifaRostersPlayerId": 161840,
+    "fifaRostersFutId": 161840,
+    "fifaVersion": 26
   },
   "Alessandro Costacurta": {
     "fotmobId": null,
@@ -223,50 +303,85 @@
     "fotmobId": 30620,
     "position": "DEFENDER",
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30620.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/rio-ferdinand.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=7289&player=7289&v=25",
+    "fifaRostersPlayerId": 7289,
+    "fifaRostersFutId": 7289,
+    "fifaVersion": 25
   },
   "John Terry": {
     "fotmobId": 30627,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30627.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/john-terry.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=13732&player=13732&v=16",
+    "fifaRostersPlayerId": 13732,
+    "fifaRostersFutId": 13732,
+    "fifaVersion": 16
   },
   "Nemanja Vidić": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/nemanja-vidic.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=140601&player=140601&v=26",
+    "fifaRostersPlayerId": 140601,
+    "fifaRostersFutId": 140601,
+    "fifaVersion": 26
   },
   "Ashley Cole": {
     "fotmobId": 38834,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/38834.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ashley-cole.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=34079&player=34079&v=26",
+    "fifaRostersPlayerId": 34079,
+    "fifaRostersFutId": 34079,
+    "fifaVersion": 26
   },
   "Patrice Evra": {
     "fotmobId": 32569,
     "position": "DEFENDER",
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/32569.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/patrice-evra.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=52091&player=52091&v=16",
+    "fifaRostersPlayerId": 52091,
+    "fifaRostersFutId": 52091,
+    "fifaVersion": 16
   },
   "Ricardo Carvalho": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ricardo-carvalho.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=3622&player=3622&v=24",
+    "fifaRostersPlayerId": 3622,
+    "fifaRostersFutId": 3622,
+    "fifaVersion": 24
   },
   "Lúcio": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/lucio.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=266690&player=266690&v=23",
+    "fifaRostersPlayerId": 266690,
+    "fifaRostersFutId": 266690,
+    "fifaVersion": 23
   },
   "Walter Samuel": {
     "fotmobId": 30492,
@@ -286,22 +401,37 @@
     "fotmobId": 39027,
     "position": null,
     "nationality": "Belgium",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/39027.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/vincent-kompany.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=139720",
+    "fifaRostersPlayerId": 139720,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Giorgio Chiellini": {
     "fotmobId": 41884,
     "position": "DEFENDER",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/41884.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/giorgio-chiellini.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=138956&player=138956&v=26",
+    "fifaRostersPlayerId": 138956,
+    "fifaRostersFutId": 138956,
+    "fifaVersion": 26
   },
   "Gerard Piqué": {
     "fotmobId": 37482,
     "position": "DEFENDER",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/37482.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gerard-pique.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=152729",
+    "fifaRostersPlayerId": 152729,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Marcelo": {
     "fotmobId": null,
@@ -319,15 +449,25 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/maicon.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=135455&player=135455&v=26",
+    "fifaRostersPlayerId": 135455,
+    "fifaRostersFutId": 135455,
+    "fifaVersion": 26
   },
   "Sol Campbell": {
     "fotmobId": 34418,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/34418.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/sol-campbell.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=243029&player=243029&v=26",
+    "fifaRostersPlayerId": 243029,
+    "fifaRostersFutId": 243029,
+    "fifaVersion": 26
   },
   "Jamie Carragher": {
     "fotmobId": 30617,
@@ -347,8 +487,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/bixente-lizarazu.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5454&player=5454&v=26",
+    "fifaRostersPlayerId": 5454,
+    "fifaRostersFutId": 5454,
+    "fifaVersion": 26
   },
   "Rafael Márquez": {
     "fotmobId": null,
@@ -368,22 +513,37 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/lothar-matthaus.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238435&player=238435&v=26",
+    "fifaRostersPlayerId": 238435,
+    "fifaRostersFutId": 238435,
+    "fifaVersion": 26
   },
   "Frank Rijkaard": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/frank-rijkaard.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=214098&player=214098&v=26",
+    "fifaRostersPlayerId": 214098,
+    "fifaRostersFutId": 214098,
+    "fifaVersion": 26
   },
   "Andrea Pirlo": {
     "fotmobId": 1174702,
     "position": null,
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/1174702.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/andrea-pirlo.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=7763&player=7763&v=26",
+    "fifaRostersPlayerId": 7763,
+    "fifaRostersFutId": 7763,
+    "fifaVersion": 26
   },
   "Xavi": {
     "fotmobId": null,
@@ -408,8 +568,13 @@
     "fotmobId": 154257,
     "position": "CM",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/154257.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/sergio-busquets.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=189511",
+    "fifaRostersPlayerId": 189511,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Clarence Seedorf": {
     "fotmobId": 26096,
@@ -422,15 +587,25 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/patrick-vieira.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238427&player=238427&v=26",
+    "fifaRostersPlayerId": 238427,
+    "fifaRostersFutId": 238427,
+    "fifaVersion": 26
   },
   "Roy Keane": {
     "fotmobId": 33079,
     "position": null,
     "nationality": "Ireland",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/33079.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/roy-keane.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=240&player=240&v=26",
+    "fifaRostersPlayerId": 240,
+    "fifaRostersFutId": 240,
+    "fifaVersion": 26
   },
   "Paul Scholes": {
     "fotmobId": 30373,
@@ -443,15 +618,25 @@
     "fotmobId": 30618,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30618.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/steven-gerrard.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=13743&player=13743&v=26",
+    "fifaRostersPlayerId": 13743,
+    "fifaRostersFutId": 13743,
+    "fifaVersion": 26
   },
   "Frank Lampard": {
     "fotmobId": 30631,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30631.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/frank-lampard.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5471&player=5471&v=26",
+    "fifaRostersPlayerId": 5471,
+    "fifaRostersFutId": 5471,
+    "fifaVersion": 26
   },
   "Xabi Alonso": {
     "fotmobId": 30889,
@@ -464,8 +649,13 @@
     "fotmobId": 30872,
     "position": "MIDFIELDER",
     "nationality": "Germany",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30872.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/bastian-schweinsteiger.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=121944&player=121944&v=26",
+    "fifaRostersPlayerId": 121944,
+    "fifaRostersFutId": 121944,
+    "fifaVersion": 26
   },
   "Claude Makélélé": {
     "fotmobId": 30695,
@@ -499,15 +689,25 @@
     "fotmobId": 36615,
     "position": null,
     "nationality": "Ivory Coast",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/36615.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/yaya-toure.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=20289&player=20289&v=26",
+    "fifaRostersPlayerId": 20289,
+    "fifaRostersFutId": 20289,
+    "fifaVersion": 26
   },
   "Gennaro Gattuso": {
     "fotmobId": 30721,
     "position": null,
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30721.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gennaro-gattuso.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=243030&player=243030&v=26",
+    "fifaRostersPlayerId": 243030,
+    "fifaRostersFutId": 243030,
+    "fifaVersion": 26
   },
   "Didier Deschamps": {
     "fotmobId": 78624,
@@ -527,15 +727,25 @@
     "fotmobId": 32344,
     "position": "MIDFIELDER",
     "nationality": "Argentina",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/32344.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/juan-sebastian-veron.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=243027&player=243027&v=26",
+    "fifaRostersPlayerId": 243027,
+    "fifaRostersFutId": 243027,
+    "fifaVersion": 26
   },
   "Michael Essien": {
     "fotmobId": 30675,
     "position": "MIDFIELDER",
     "nationality": "Ghana",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30675.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/michael-essien.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=45674&player=45674&v=26",
+    "fifaRostersPlayerId": 45674,
+    "fifaRostersFutId": 45674,
+    "fifaVersion": 26
   },
   "Demetrio Albertini": {
     "fotmobId": null,
@@ -548,8 +758,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/emmanuel-petit.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1620&player=1620&v=26",
+    "fifaRostersPlayerId": 1620,
+    "fifaRostersFutId": 1620,
+    "fifaVersion": 26
   },
   "Gary Speed": {
     "fotmobId": null,
@@ -576,22 +791,37 @@
     "fotmobId": 862134,
     "position": "MIDFIELDER",
     "nationality": "Brazil",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/862134.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/roberto-baggio.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1114&player=1114&v=26",
+    "fifaRostersPlayerId": 1114,
+    "fifaRostersFutId": 1114,
+    "fifaVersion": 26
   },
   "Kaká": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/kaka.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=138449&player=138449&v=26",
+    "fifaRostersPlayerId": 138449,
+    "fifaRostersFutId": 138449,
+    "fifaVersion": 26
   },
   "Rivaldo": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/rivaldo.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=4231&player=4231&v=26",
+    "fifaRostersPlayerId": 4231,
+    "fifaRostersFutId": 4231,
+    "fifaVersion": 26
   },
   "Luís Figo": {
     "fotmobId": null,
@@ -609,57 +839,97 @@
     "fotmobId": 30743,
     "position": "MIDFIELDER",
     "nationality": "Brazil",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30743.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ronaldinho.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=28130&player=28130&v=24",
+    "fifaRostersPlayerId": 28130,
+    "fifaRostersFutId": 28130,
+    "fifaVersion": 24
   },
   "Pavel Nedvěd": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/pavel-nedved.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=6235&player=6235&v=26",
+    "fifaRostersPlayerId": 6235,
+    "fifaRostersFutId": 6235,
+    "fifaVersion": 26
   },
   "Gheorghe Hagi": {
     "fotmobId": 101591,
     "position": null,
     "nationality": "Romania",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/101591.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gheorghe-hagi.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=166124&player=166124&v=26",
+    "fifaRostersPlayerId": 166124,
+    "fifaRostersFutId": 166124,
+    "fifaVersion": 26
   },
   "Michael Laudrup": {
     "fotmobId": 89673,
     "position": null,
     "nationality": "Denmark",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/89673.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/michael-laudrup.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=222000&player=222000&v=26",
+    "fifaRostersPlayerId": 222000,
+    "fifaRostersFutId": 222000,
+    "fifaVersion": 26
   },
   "Rui Costa": {
     "fotmobId": 776568,
     "position": "ST",
     "nationality": "Portugal",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/776568.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/rui-costa.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1025&player=1025&v=23",
+    "fifaRostersPlayerId": 1025,
+    "fifaRostersFutId": 1025,
+    "fifaVersion": 23
   },
   "Juan Román Riquelme": {
     "fotmobId": 30833,
     "position": "MIDFIELDER",
     "nationality": "Argentina",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30833.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/juan-roman-riquelme.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=23174&player=23174&v=26",
+    "fifaRostersPlayerId": 23174,
+    "fifaRostersFutId": 23174,
+    "fifaVersion": 26
   },
   "David Beckham": {
     "fotmobId": 30612,
     "position": "MIDFIELDER",
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30612.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/david-beckham.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=250&player=250&v=26",
+    "fifaRostersPlayerId": 250,
+    "fifaRostersFutId": 250,
+    "fifaVersion": 26
   },
   "David Silva": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/david-silva.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?player=168542",
+    "fifaRostersPlayerId": 168542,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Mesut Özil": {
     "fotmobId": 36378,
@@ -672,8 +942,13 @@
     "fotmobId": 30878,
     "position": "MIDFIELDER",
     "nationality": "Netherlands",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30878.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/wesley-sneijder.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=50606398&player=274750&v=26",
+    "fifaRostersPlayerId": 274750,
+    "fifaRostersFutId": 50606398,
+    "fifaVersion": 26
   },
   "Deco": {
     "fotmobId": null,
@@ -686,8 +961,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/jay-jay-okocha.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=570&player=570&v=26",
+    "fifaRostersPlayerId": 570,
+    "fifaRostersFutId": 570,
+    "fifaVersion": 26
   },
   "Abedi Pelé": {
     "fotmobId": null,
@@ -721,8 +1001,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/socrates.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=190046&player=190046&v=26",
+    "fifaRostersPlayerId": 190046,
+    "fifaRostersFutId": 190046,
+    "fifaVersion": 26
   },
   "Dragan Stojković": {
     "fotmobId": 312206,
@@ -777,15 +1062,25 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/hristo-stoichkov.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=4833&player=4833&v=26",
+    "fifaRostersPlayerId": 4833,
+    "fifaRostersFutId": 4833,
+    "fifaVersion": 26
   },
   "Ryan Giggs": {
     "fotmobId": 24154,
     "position": "MIDFIELDER",
     "nationality": "Wales",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/24154.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ryan-giggs.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=241&player=241&v=22",
+    "fifaRostersPlayerId": 241,
+    "fifaRostersFutId": 241,
+    "fifaVersion": 22
   },
   "Arjen Robben": {
     "fotmobId": 30834,
@@ -798,36 +1093,61 @@
     "fotmobId": 30924,
     "position": "MIDFIELDER",
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30924.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/franck-ribery.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=156616&player=156616&v=26",
+    "fifaRostersPlayerId": 156616,
+    "fifaRostersFutId": 156616,
+    "fifaVersion": 26
   },
   "Gareth Bale": {
     "fotmobId": 31921,
     "position": "FORWARD",
     "nationality": "Wales",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/31921.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gareth-bale.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=71557&player=71557&v=26",
+    "fifaRostersPlayerId": 71557,
+    "fifaRostersFutId": 71557,
+    "fifaVersion": 26
   },
   "Eden Hazard": {
     "fotmobId": 107417,
     "position": "FORWARD",
     "nationality": "Belgium",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/107417.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/eden-hazard.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players.php?player=183277",
+    "fifaRostersPlayerId": 183277,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Robert Pirès": {
     "fotmobId": 37478,
     "position": "MIDFIELDER",
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/37478.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/robert-pires.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1605&player=1605&v=26",
+    "fifaRostersPlayerId": 1605,
+    "fifaRostersFutId": 1605,
+    "fifaVersion": 26
   },
   "Marc Overmars": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/marc-overmars.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5681&player=5681&v=22",
+    "fifaRostersPlayerId": 5681,
+    "fifaRostersFutId": 5681,
+    "fifaVersion": 22
   },
   "Luís García": {
     "fotmobId": null,
@@ -861,15 +1181,25 @@
     "fotmobId": 78632,
     "position": null,
     "nationality": "Netherlands",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/78632.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/marco-van-basten.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=192181&player=192181&v=26",
+    "fifaRostersPlayerId": 192181,
+    "fifaRostersFutId": 192181,
+    "fifaVersion": 26
   },
   "Ronaldo Nazário": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ronaldo-nazario.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=37576&player=37576&v=26",
+    "fifaRostersPlayerId": 37576,
+    "fifaRostersFutId": 37576,
+    "fifaVersion": 26
   },
   "Romário": {
     "fotmobId": null,
@@ -901,36 +1231,61 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/dennis-bergkamp.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=238388&player=238388&v=26",
+    "fifaRostersPlayerId": 238388,
+    "fifaRostersFutId": 238388,
+    "fifaVersion": 26
   },
   "Eric Cantona": {
     "fotmobId": 1920849,
     "position": null,
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/1920849.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/eric-cantona.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=167198&player=167198&v=26",
+    "fifaRostersPlayerId": 167198,
+    "fifaRostersFutId": 167198,
+    "fifaVersion": 26
   },
   "Alan Shearer": {
     "fotmobId": 31218,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/31218.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/alan-shearer.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=51&player=51&v=26",
+    "fifaRostersPlayerId": 51,
+    "fifaRostersFutId": 51,
+    "fifaVersion": 26
   },
   "Raúl": {
     "fotmobId": 1202678,
     "position": "CB",
     "nationality": "Brazil",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/1202678.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/raul.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=45661&player=45661&v=26",
+    "fifaRostersPlayerId": 45661,
+    "fifaRostersFutId": 45661,
+    "fifaVersion": 26
   },
   "Francesco Totti": {
     "fotmobId": 30714,
     "position": "FORWARD",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30714.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/francesco-totti.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1238&player=1238&v=26",
+    "fifaRostersPlayerId": 1238,
+    "fifaRostersFutId": 1238,
+    "fifaVersion": 26
   },
   "Alessandro Del Piero": {
     "fotmobId": 30727,
@@ -943,15 +1298,25 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gabriel-batistuta.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=221162&player=221162&v=26",
+    "fifaRostersPlayerId": 221162,
+    "fifaRostersFutId": 221162,
+    "fifaVersion": 26
   },
   "Andriy Shevchenko": {
     "fotmobId": 31996,
     "position": null,
     "nationality": "Ukraine",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/31996.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/andriy-shevchenko.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=13128&player=13128&v=26",
+    "fifaRostersPlayerId": 13128,
+    "fifaRostersFutId": 13128,
+    "fifaVersion": 26
   },
   "Samuel Eto'o": {
     "fotmobId": 33639,
@@ -964,29 +1329,49 @@
     "fotmobId": 30822,
     "position": "FORWARD",
     "nationality": "Côte d'Ivoire",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30822.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/didier-drogba.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=31432&player=31432&v=26",
+    "fifaRostersPlayerId": 31432,
+    "fifaRostersFutId": 31432,
+    "fifaVersion": 26
   },
   "Wayne Rooney": {
     "fotmobId": 30829,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30829.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/wayne-rooney.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=54050&player=54050&v=26",
+    "fifaRostersPlayerId": 54050,
+    "fifaRostersFutId": 54050,
+    "fifaVersion": 26
   },
   "Sergio Agüero": {
     "fotmobId": 37412,
     "position": "FORWARD",
     "nationality": "Argentina",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/37412.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/sergio-aguero.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=153079",
+    "fifaRostersPlayerId": 153079,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Ruud van Nistelrooy": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ruud-van-nistelrooy.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=10264&player=10264&v=26",
+    "fifaRostersPlayerId": 10264,
+    "fifaRostersFutId": 10264,
+    "fifaVersion": 26
   },
   "David Villa": {
     "fotmobId": 30909,
@@ -1006,22 +1391,37 @@
     "fotmobId": 30638,
     "position": null,
     "nationality": "Germany",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30638.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/miroslav-klose.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=242510&player=242510&v=26",
+    "fifaRostersPlayerId": 242510,
+    "fifaRostersFutId": 242510,
+    "fifaVersion": 26
   },
   "Robin van Persie": {
     "fotmobId": 30843,
     "position": null,
     "nationality": "Netherlands",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30843.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/robin-van-persie.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=262112&player=262112&v=26",
+    "fifaRostersPlayerId": 262112,
+    "fifaRostersFutId": 262112,
+    "fifaVersion": 26
   },
   "Michael Owen": {
     "fotmobId": 30619,
     "position": "FORWARD",
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30619.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/michael-owen.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5419&player=5419&v=26",
+    "fifaRostersPlayerId": 5419,
+    "fifaRostersFutId": 5419,
+    "fifaVersion": 26
   },
   "Jean-Pierre Papin": {
     "fotmobId": null,
@@ -1034,29 +1434,49 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/gary-lineker.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=214267&player=214267&v=26",
+    "fifaRostersPlayerId": 214267,
+    "fifaRostersFutId": 214267,
+    "fifaVersion": 26
   },
   "Hugo Sánchez": {
     "fotmobId": 638085,
     "position": "FORWARD",
     "nationality": "Spain",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/638085.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/hugo-sanchez.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=166149&player=166149&v=26",
+    "fifaRostersPlayerId": 166149,
+    "fifaRostersFutId": 166149,
+    "fifaVersion": 26
   },
   "Emilio Butragueño": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/emilio-butragueno.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=191695&player=191695&v=26",
+    "fifaRostersPlayerId": 191695,
+    "fifaRostersFutId": 191695,
+    "fifaVersion": 26
   },
   "Ian Rush": {
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ian-rush.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=247703&player=247703&v=26",
+    "fifaRostersPlayerId": 247703,
+    "fifaRostersFutId": 247703,
+    "fifaVersion": 26
   },
   "Kenny Dalglish": {
     "fotmobId": null,
@@ -1083,8 +1503,13 @@
     "fotmobId": 35561,
     "position": null,
     "nationality": "Argentina",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/35561.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/hernan-crespo.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=7512&player=7512&v=26",
+    "fifaRostersPlayerId": 7512,
+    "fifaRostersFutId": 7512,
+    "fifaVersion": 26
   },
   "Carlos Tévez": {
     "fotmobId": 38817,
@@ -1118,8 +1543,13 @@
     "fotmobId": 1730659,
     "position": null,
     "nationality": "England",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/1730659.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/ian-wright.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=248146&player=248146&v=26",
+    "fifaRostersPlayerId": 248146,
+    "fifaRostersFutId": 248146,
+    "fifaVersion": 26
   },
   "Andy Cole": {
     "fotmobId": null,
@@ -1167,8 +1597,13 @@
     "fotmobId": 30709,
     "position": "FORWARD",
     "nationality": "Italy",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30709.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/luca-toni.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=23015&player=23015&v=16",
+    "fifaRostersPlayerId": 23015,
+    "fifaRostersFutId": 23015,
+    "fifaVersion": 16
   },
   "David Trezeguet": {
     "fotmobId": 30728,
@@ -1195,8 +1630,13 @@
     "fotmobId": 1541812,
     "position": null,
     "nationality": "Germany",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/1541812.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/rudi-voller.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=166676&player=166676&v=26",
+    "fifaRostersPlayerId": 166676,
+    "fifaRostersFutId": 166676,
+    "fifaVersion": 26
   },
   "Preben Elkjær": {
     "fotmobId": null,
@@ -1216,8 +1656,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/davor-suker.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://fifarosters.com/players?futid=214649&player=214649&v=26",
+    "fifaRostersPlayerId": 214649,
+    "fifaRostersFutId": 214649,
+    "fifaVersion": 26
   },
   "Nwankwo Kanu": {
     "fotmobId": null,

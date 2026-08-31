@@ -15,6 +15,7 @@ const args = process.argv.slice(2);
 const WRITE = args.includes('--write');
 const FORCE = args.includes('--force');
 const VERBOSE = args.includes('--verbose');
+const PINNED_ONLY = args.includes('--pinned-only');
 const ONLY_PLAYER = getArgValue('--player');
 const ONLY_URL = getArgValue('--url');
 const LIMIT = Number(getArgValue('--limit') || 0);
@@ -453,6 +454,7 @@ async function main() {
   let names = Object.keys(hof);
   if (ONLY_PLAYER) names = names.filter((n) => normalizeText(n) === normalizeText(ONLY_PLAYER));
   if (ONLY_PLAYER && !names.length) throw new Error(`Hall of Fame does not contain "${ONLY_PLAYER}"`);
+  if (PINNED_ONLY) names = names.filter((n) => Boolean(sources[n]?.url || typeof sources[n] === 'string'));
   if (LIMIT > 0) names = names.slice(0, LIMIT);
 
   console.log('HALL OF FAME — FifaRosters portrait enrichment');

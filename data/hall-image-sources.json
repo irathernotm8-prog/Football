@@ -1,21 +1,345 @@
 {
-  "Thierry Henry": {
-    "url": "https://www.fifarosters.com/players?futid=1625&player=1625&v=25",
-    "imageUrl": "https://www.fifarosters.com/assets/players/fifa25/faces/1625.png"
+  "Peter Schmeichel": {
+    "url": "https://www.fifarosters.com/players?futid=238428&player=238428&v=26"
+  },
+  "Gianluigi Buffon": {
+    "url": "https://www.fifarosters.com/players?futid=1179&player=1179&v=26"
+  },
+  "Iker Casillas": {
+    "url": "https://www.fifarosters.com/players?player=5479"
+  },
+  "Oliver Kahn": {
+    "url": "https://www.fifarosters.com/players?futid=488&player=488&v=26"
+  },
+  "Petr Čech": {
+    "url": "https://www.fifarosters.com/players?futid=48940&player=48940&v=26"
+  },
+  "Edwin van der Sar": {
+    "url": "https://www.fifarosters.com/players?futid=51539&player=51539&v=26"
   },
   "Paolo Maldini": {
     "url": "https://www.fifarosters.com/players?futid=238439&player=238439&v=25"
   },
-  "Xavi": {
-    "url": "https://www.fifarosters.com/players?futid=10535&player=10535&v=25"
+  "Franco Baresi": {
+    "url": "https://www.fifarosters.com/players?futid=166906&player=166906"
   },
   "Cafu": {
     "url": "https://www.fifarosters.com/players?futid=5003&player=5003&v=26"
   },
-  "Luís Figo": {
-    "url": "https://www.fifarosters.com/players?futid=5589&player=5589&v=26"
+  "Roberto Carlos": {
+    "url": "https://www.fifarosters.com/players?futid=238430&player=238430&v=26"
+  },
+  "Javier Zanetti": {
+    "url": "https://fifarosters.com/players?futid=1041&player=1041&v=26"
+  },
+  "Fabio Cannavaro": {
+    "url": "https://www.fifarosters.com/players?futid=1183"
+  },
+  "Alessandro Nesta": {
+    "url": "https://www.fifarosters.com/players?futid=1088&player=1088&v=26"
+  },
+  "Carles Puyol": {
+    "url": "https://www.fifarosters.com/players?futid=238384&player=238384&v=26"
+  },
+  "Philipp Lahm": {
+    "url": "https://fifarosters.com/players?futid=121939&player=121939&v=26"
+  },
+  "Lilian Thuram": {
+    "url": "https://www.fifarosters.com/players?futid=67110479"
+  },
+  "Marcel Desailly": {
+    "url": "https://www.fifarosters.com/players?futid=1116&player=1116&v=26"
+  },
+  "Laurent Blanc": {
+    "url": "https://fifarosters.com/players?futid=67347307&player=238443&v=26"
+  },
+  "Ronald Koeman": {
+    "url": "https://www.fifarosters.com/players?futid=100830976&player=167680&v=26"
+  },
+  "Jaap Stam": {
+    "url": "https://www.fifarosters.com/players?futid=100669036&player=5740&v=26"
+  },
+  "Fernando Hierro": {
+    "url": "https://fifarosters.com/players?futid=161840&player=161840&v=26"
+  },
+  "Rio Ferdinand": {
+    "url": "https://www.fifarosters.com/players?futid=7289&player=7289&v=25"
+  },
+  "John Terry": {
+    "url": "https://www.fifarosters.com/players?futid=13732&player=13732&v=16"
+  },
+  "Nemanja Vidić": {
+    "url": "https://www.fifarosters.com/players?futid=140601&player=140601&v=26"
+  },
+  "Ashley Cole": {
+    "url": "https://fifarosters.com/players?futid=34079&player=34079&v=26"
+  },
+  "Patrice Evra": {
+    "url": "https://www.fifarosters.com/players?futid=52091&player=52091&v=16"
+  },
+  "Ricardo Carvalho": {
+    "url": "https://www.fifarosters.com/players?futid=3622&player=3622&v=24"
+  },
+  "Lúcio": {
+    "url": "https://www.fifarosters.com/players?futid=266690&player=266690&v=23"
+  },
+  "Diego Godín": {
+    "url": "https://www.fifarosters.com/players?player=182493"
+  },
+  "Vincent Kompany": {
+    "url": "https://www.fifarosters.com/players?player=139720"
+  },
+  "Giorgio Chiellini": {
+    "url": "https://www.fifarosters.com/players?futid=138956&player=138956&v=26"
+  },
+  "Gerard Piqué": {
+    "url": "https://www.fifarosters.com/players?player=152729"
   },
   "Marcelo": {
     "url": "https://www.fifarosters.com/players?player=176676"
+  },
+  "Maicon": {
+    "url": "https://www.fifarosters.com/players?futid=135455&player=135455&v=26"
+  },
+  "Sol Campbell": {
+    "url": "https://www.fifarosters.com/players?futid=243029&player=243029&v=26"
+  },
+  "Bixente Lizarazu": {
+    "url": "https://www.fifarosters.com/players?futid=5454&player=5454&v=26"
+  },
+  "Lothar Matthäus": {
+    "url": "https://www.fifarosters.com/players?futid=238435&player=238435&v=26"
+  },
+  "Frank Rijkaard": {
+    "url": "https://www.fifarosters.com/players?futid=214098&player=214098&v=26"
+  },
+  "Andrea Pirlo": {
+    "url": "https://www.fifarosters.com/players?futid=7763&player=7763&v=26"
+  },
+  "Xavi": {
+    "url": "https://www.fifarosters.com/players?futid=10535&player=10535&v=25"
+  },
+  "Andrés Iniesta": {
+    "url": "https://www.fifarosters.com/players?futid=999020"
+  },
+  "Sergio Busquets": {
+    "url": "https://www.fifarosters.com/players?player=189511"
+  },
+  "Clarence Seedorf": {
+    "url": "https://www.fifarosters.com/players?futid=242928&player=242927&v=21"
+  },
+  "Patrick Vieira": {
+    "url": "https://www.fifarosters.com/players?futid=238427&player=238427&v=26"
+  },
+  "Roy Keane": {
+    "url": "https://www.fifarosters.com/players?futid=240&player=240&v=26"
+  },
+  "Paul Scholes": {
+    "url": "https://www.fifarosters.com/players?futid=246"
+  },
+  "Steven Gerrard": {
+    "url": "https://www.fifarosters.com/players?futid=13743&player=13743&v=26"
+  },
+  "Frank Lampard": {
+    "url": "https://www.fifarosters.com/players?futid=5471&player=5471&v=26"
+  },
+  "Xabi Alonso": {
+    "url": "https://www.fifarosters.com/players?futid=45197"
+  },
+  "Bastian Schweinsteiger": {
+    "url": "https://www.fifarosters.com/players?futid=121944&player=121944&v=26"
+  },
+  "Claude Makélélé": {
+    "url": "https://www.fifarosters.com/players?futid=67110532"
+  },
+  "Yaya Touré": {
+    "url": "https://www.fifarosters.com/players?futid=20289&player=20289&v=26"
+  },
+  "Gennaro Gattuso": {
+    "url": "https://www.fifarosters.com/players?futid=243030&player=243030&v=26"
+  },
+  "Juan Sebastián Verón": {
+    "url": "https://www.fifarosters.com/players?futid=243027&player=243027&v=26"
+  },
+  "Michael Essien": {
+    "url": "https://www.fifarosters.com/players?futid=45674&player=45674&v=26"
+  },
+  "Emmanuel Petit": {
+    "url": "https://www.fifarosters.com/players?futid=1620&player=1620&v=26"
+  },
+  "Zinedine Zidane": {
+    "url": "https://www.fifarosters.com/players?futid=1397"
+  },
+  "Roberto Baggio": {
+    "url": "https://www.fifarosters.com/players?futid=1114&player=1114&v=26"
+  },
+  "Kaká": {
+    "url": "https://www.fifarosters.com/players?futid=138449&player=138449&v=26"
+  },
+  "Rivaldo": {
+    "url": "https://www.fifarosters.com/players?futid=4231&player=4231&v=26"
+  },
+  "Luís Figo": {
+    "url": "https://www.fifarosters.com/players?futid=5589&player=5589&v=26"
+  },
+  "Ronaldinho": {
+    "url": "https://www.fifarosters.com/players?futid=28130&player=28130&v=24"
+  },
+  "Pavel Nedvěd": {
+    "url": "https://www.fifarosters.com/players?futid=6235&player=6235&v=26"
+  },
+  "Gheorghe Hagi": {
+    "url": "https://www.fifarosters.com/players?futid=166124&player=166124&v=26"
+  },
+  "Michael Laudrup": {
+    "url": "https://www.fifarosters.com/players?futid=222000&player=222000&v=26"
+  },
+  "Rui Costa": {
+    "url": "https://www.fifarosters.com/players?futid=1025&player=1025&v=23"
+  },
+  "Juan Román Riquelme": {
+    "url": "https://www.fifarosters.com/players?futid=23174&player=23174&v=26"
+  },
+  "David Beckham": {
+    "url": "https://www.fifarosters.com/players?futid=250&player=250&v=26"
+  },
+  "David Silva": {
+    "url": "https://fifarosters.com/players?player=168542"
+  },
+  "Wesley Sneijder": {
+    "url": "https://fifarosters.com/players?futid=50606398&player=274750&v=26"
+  },
+  "Jay-Jay Okocha": {
+    "url": "https://www.fifarosters.com/players?futid=570&player=570&v=26"
+  },
+  "Sócrates": {
+    "url": "https://www.fifarosters.com/players?futid=190046&player=190046&v=26"
+  },
+  "Hidetoshi Nakata": {
+    "url": "https://www.fifarosters.com/players?futid=242625"
+  },
+  "Ruud Gullit": {
+    "url": "https://www.fifarosters.com/players?futid=214100&player=214100"
+  },
+  "Hristo Stoichkov": {
+    "url": "https://www.fifarosters.com/players?futid=4833&player=4833&v=26"
+  },
+  "Ryan Giggs": {
+    "url": "https://fifarosters.com/players?futid=241&player=241&v=22"
+  },
+  "Franck Ribéry": {
+    "url": "https://www.fifarosters.com/players?futid=156616&player=156616&v=26"
+  },
+  "Gareth Bale": {
+    "url": "https://fifarosters.com/players?futid=71557&player=71557&v=26"
+  },
+  "Eden Hazard": {
+    "url": "https://www.fifarosters.com/players.php?player=183277"
+  },
+  "Robert Pirès": {
+    "url": "https://www.fifarosters.com/players?futid=1605&player=1605&v=26"
+  },
+  "Marc Overmars": {
+    "url": "https://www.fifarosters.com/players?futid=5681&player=5681&v=22"
+  },
+  "David Ginola": {
+    "url": "https://www.fifarosters.com/players?futid=191972"
+  },
+  "Marco van Basten": {
+    "url": "https://www.fifarosters.com/players?futid=192181&player=192181&v=26"
+  },
+  "Ronaldo Nazário": {
+    "url": "https://www.fifarosters.com/players?futid=37576&player=37576&v=26"
+  },
+  "Thierry Henry": {
+    "url": "https://www.fifarosters.com/players?futid=1625&player=1625&v=25",
+    "imageUrl": "https://www.fifarosters.com/assets/players/fifa25/faces/1625.png"
+  },
+  "Dennis Bergkamp": {
+    "url": "https://www.fifarosters.com/players?futid=238388&player=238388&v=26"
+  },
+  "Eric Cantona": {
+    "url": "https://www.fifarosters.com/players?futid=167198&player=167198&v=26"
+  },
+  "Alan Shearer": {
+    "url": "https://www.fifarosters.com/players?futid=51&player=51&v=26"
+  },
+  "Raúl": {
+    "url": "https://www.fifarosters.com/players?futid=45661&player=45661&v=26"
+  },
+  "Francesco Totti": {
+    "url": "https://www.fifarosters.com/players?futid=1238&player=1238&v=26"
+  },
+  "Alessandro Del Piero": {
+    "url": "https://www.fifarosters.com/players?futid=238382&player=238382"
+  },
+  "Gabriel Batistuta": {
+    "url": "https://www.fifarosters.com/players?futid=221162&player=221162&v=26"
+  },
+  "Andriy Shevchenko": {
+    "url": "https://fifarosters.com/players?futid=13128&player=13128&v=26"
+  },
+  "Samuel Eto'o": {
+    "url": "https://fifarosters.com/players?futid=83895756&player=9676&v=26"
+  },
+  "Didier Drogba": {
+    "url": "https://www.fifarosters.com/players?futid=31432&player=31432&v=26"
+  },
+  "Wayne Rooney": {
+    "url": "https://www.fifarosters.com/players?futid=54050&player=54050&v=26"
+  },
+  "Sergio Agüero": {
+    "url": "https://www.fifarosters.com/players?player=153079"
+  },
+  "Ruud van Nistelrooy": {
+    "url": "https://fifarosters.com/players?futid=10264&player=10264&v=26"
+  },
+  "David Villa": {
+    "url": "https://www.fifarosters.com/players?player=113422"
+  },
+  "Miroslav Klose": {
+    "url": "https://www.fifarosters.com/players?futid=242510&player=242510&v=26"
+  },
+  "Robin van Persie": {
+    "url": "https://www.fifarosters.com/players?futid=262112&player=262112&v=26"
+  },
+  "Michael Owen": {
+    "url": "https://www.fifarosters.com/players?futid=5419&player=5419&v=26"
+  },
+  "Jean-Pierre Papin": {
+    "url": "https://www.fifarosters.com/players?futid=167134"
+  },
+  "Gary Lineker": {
+    "url": "https://fifarosters.com/players?futid=214267&player=214267&v=26"
+  },
+  "Hugo Sánchez": {
+    "url": "https://www.fifarosters.com/players?futid=166149&player=166149&v=26"
+  },
+  "Emilio Butragueño": {
+    "url": "https://www.fifarosters.com/players?futid=191695&player=191695&v=26"
+  },
+  "Ian Rush": {
+    "url": "https://www.fifarosters.com/players?futid=247703&player=247703&v=26"
+  },
+  "Hernán Crespo": {
+    "url": "https://fifarosters.com/players?futid=7512&player=7512&v=26"
+  },
+  "Carlos Tévez": {
+    "url": "https://www.fifarosters.com/players?futid=50606614"
+  },
+  "Ian Wright": {
+    "url": "https://www.fifarosters.com/players?futid=248146&player=248146&v=26"
+  },
+  "Luca Toni": {
+    "url": "https://www.fifarosters.com/players?futid=23015&player=23015&v=16"
+  },
+  "Rudi Völler": {
+    "url": "https://www.fifarosters.com/players?futid=166676&player=166676&v=26"
+  },
+  "Davor Šuker": {
+    "url": "https://fifarosters.com/players?futid=214649&player=214649&v=26"
+  },
+  "Tim Cahill": {
+    "url": "https://www.fifarosters.com/players?futid=50383060&player=51412&v=22"
   }
 }
