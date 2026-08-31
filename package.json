@@ -73,7 +73,9 @@
     "squads:eflcup": "node tools/update-squads.js eflcup",
     "squads:eflcup:write": "node tools/update-squads.js eflcup --write",
     "halloffame": "node tools/update-hall-of-fame.js",
-    "halloffame:write": "node tools/update-hall-of-fame.js --write"
+    "halloffame:write": "node tools/update-hall-of-fame.js --write",
+    "hallimages": "node tools/update-hall-images.js",
+    "hallimages:write": "node tools/update-hall-images.js --write"
   },
   "engines": {
     "node": ">=18"
