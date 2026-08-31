@@ -1,4 +1,6626 @@
 {
+"Oliver Kahn": {
+    "career": [
+      {
+        "club": "Karlsruher SC",
+        "start": "1987",
+        "end": "1994"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "1994",
+        "end": "2008"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1994",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Xavi": {
+    "career": [
+      {
+        "club": "FC Barcelona",
+        "start": "1998",
+        "end": "2015"
+      },
+      {
+        "club": "Al Sadd",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2000",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Alan Shearer": {
+    "career": [
+      {
+        "club": "Southampton",
+        "start": "1988",
+        "end": "1992"
+      },
+      {
+        "club": "Blackburn Rovers",
+        "start": "1992",
+        "end": "1996"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "1996",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1992",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Alessandro Nesta": {
+    "career": [
+      {
+        "club": "Lazio",
+        "start": "1993",
+        "end": "2002"
+      },
+      {
+        "club": "Milan",
+        "start": "2002",
+        "end": "2012"
+      },
+      {
+        "club": "Montreal Impact",
+        "start": "2012",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1996",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Andrea Pirlo": {
+    "career": [
+      {
+        "club": "Brescia",
+        "start": "1994",
+        "end": "1998"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1998",
+        "end": "2001"
+      },
+      {
+        "club": "Milan",
+        "start": "2001",
+        "end": "2011"
+      },
+      {
+        "club": "Juventus",
+        "start": "2011",
+        "end": "2015"
+      },
+      {
+        "club": "New York City FC",
+        "start": "2015",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "2002",
+        "end": "2015"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ashley Cole": {
+    "career": [
+      {
+        "club": "Arsenal",
+        "start": "1999",
+        "end": "2006"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2006",
+        "end": "2014"
+      },
+      {
+        "club": "Roma",
+        "start": "2014",
+        "end": "2016"
+      },
+      {
+        "club": "LA Galaxy",
+        "start": "2016",
+        "end": "2018"
+      },
+      {
+        "club": "Derby County",
+        "start": "2019",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2001",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Roberto Baggio": {
+    "career": [
+      {
+        "club": "Fiorentina",
+        "start": "1985",
+        "end": "1990"
+      },
+      {
+        "club": "Juventus",
+        "start": "1990",
+        "end": "1995"
+      },
+      {
+        "club": "Milan",
+        "start": "1995",
+        "end": "1997"
+      },
+      {
+        "club": "Bologna",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "club": "Brescia",
+        "start": "2000",
+        "end": "2004"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1988",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gareth Bale": {
+    "career": [
+      {
+        "club": "Southampton",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "start": "2007",
+        "end": "2013"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2013",
+        "end": "2022"
+      },
+      {
+        "club": "LAFC",
+        "start": "2022",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Wales",
+        "start": "2006",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"John Barnes": {
+    "career": [
+      {
+        "club": "Watford",
+        "start": "1981",
+        "end": "1987"
+      },
+      {
+        "club": "Liverpool",
+        "start": "1987",
+        "end": "1997"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Charlton Athletic",
+        "start": "1998",
+        "end": "1999"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1983",
+        "end": "1995"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gabriel Batistuta": {
+    "career": [
+      {
+        "club": "Newell's Old Boys",
+        "start": "1988",
+        "end": "1990"
+      },
+      {
+        "club": "River Plate",
+        "start": "1990",
+        "end": "1991"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "1991",
+        "end": "1991"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "1991",
+        "end": "2000"
+      },
+      {
+        "club": "Roma",
+        "start": "2000",
+        "end": "2003"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2003",
+        "end": "2003"
+      },
+      {
+        "club": "Al-Arabi",
+        "start": "2003",
+        "end": "2005"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1991",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Franz Beckenbauer": {
+    "career": [
+      {
+        "club": "FC Bayern München",
+        "start": "1964",
+        "end": "1977"
+      },
+      {
+        "club": "New York Cosmos",
+        "start": "1977",
+        "end": "1980"
+      },
+      {
+        "club": "Hamburger SV",
+        "start": "1980",
+        "end": "1982"
+      },
+      {
+        "club": "New York Cosmos",
+        "start": "1983",
+        "end": "1983"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1965",
+        "end": "1977"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"David Beckham": {
+    "career": [
+      {
+        "club": "Man Utd",
+        "start": "1992",
+        "end": "2003"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2003",
+        "end": "2007"
+      },
+      {
+        "club": "LA Galaxy",
+        "start": "2007",
+        "end": "2012"
+      },
+      {
+        "club": "Milan",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2013",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1996",
+        "end": "2009"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Dennis Bergkamp": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1986",
+        "end": "1993"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1995",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1990",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"George Best": {
+    "career": [
+      {
+        "club": "Man Utd",
+        "start": "1963",
+        "end": "1974"
+      },
+      {
+        "club": "LA Aztecs",
+        "start": "1976",
+        "end": "1978"
+      },
+      {
+        "club": "Fulham",
+        "start": "1976",
+        "end": "1978"
+      },
+      {
+        "club": "Hibernian",
+        "start": "1979",
+        "end": "1980"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Northern Ireland",
+        "start": "1964",
+        "end": "1977"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Bobby Moore": {
+    "career": [
+      {
+        "club": "West Ham United",
+        "start": "1958",
+        "end": "1974"
+      },
+      {
+        "club": "Fulham",
+        "start": "1974",
+        "end": "1977"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1962",
+        "end": "1973"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Cafu": {
+    "career": [
+      {
+        "club": "São Paulo",
+        "start": "1989",
+        "end": "1994"
+      },
+      {
+        "club": "Real Zaragoza",
+        "start": "1994",
+        "end": "1995"
+      },
+      {
+        "club": "Palmeiras",
+        "start": "1995",
+        "end": "1997"
+      },
+      {
+        "club": "Roma",
+        "start": "1997",
+        "end": "2003"
+      },
+      {
+        "club": "Milan",
+        "start": "2003",
+        "end": "2008"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1990",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Sol Campbell": {
+    "career": [
+      {
+        "club": "Tottenham Hotspur",
+        "start": "1992",
+        "end": "2001"
+      },
+      {
+        "club": "Arsenal",
+        "start": "2001",
+        "end": "2006"
+      },
+      {
+        "club": "Portsmouth",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Notts County",
+        "start": "2009",
+        "end": "2009"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "2010",
+        "end": "2010"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1996",
+        "end": "2007"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Eric Cantona": {
+    "career": [
+      {
+        "club": "Auxerre",
+        "start": "1983",
+        "end": "1988"
+      },
+      {
+        "club": "Marseille",
+        "start": "1988",
+        "end": "1991"
+      },
+      {
+        "club": "Nîmes",
+        "start": "1991",
+        "end": "1992"
+      },
+      {
+        "club": "Leeds United",
+        "start": "1992",
+        "end": "1992"
+      },
+      {
+        "club": "Man Utd",
+        "start": "1992",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1987",
+        "end": "1995"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Carlos Alberto": {
+    "career": [
+      {
+        "club": "Fluminense",
+        "start": "1963",
+        "end": "1966"
+      },
+      {
+        "club": "Santos",
+        "start": "1966",
+        "end": "1974"
+      },
+      {
+        "club": "New York Cosmos",
+        "start": "1977",
+        "end": "1980"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1964",
+        "end": "1977"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Iker Casillas": {
+    "career": [
+      {
+        "club": "Real Madrid",
+        "start": "1999",
+        "end": "2015"
+      },
+      {
+        "club": "FC Porto",
+        "start": "2015",
+        "end": "2020"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2000",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Cha Bum-kun": {
+    "career": [
+      {
+        "club": "Eintracht Frankfurt",
+        "start": "1978",
+        "end": "1983"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "1983",
+        "end": "1989"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "South Korea",
+        "start": "1972",
+        "end": "1986"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Bobby Charlton": {
+    "career": [
+      {
+        "club": "Man Utd",
+        "start": "1956",
+        "end": "1973"
+      },
+      {
+        "club": "Preston North End",
+        "start": "1974",
+        "end": "1975"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1958",
+        "end": "1970"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Giorgio Chiellini": {
+    "career": [
+      {
+        "club": "Fiorentina",
+        "start": "2000",
+        "end": "2004"
+      },
+      {
+        "club": "Livorno",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "club": "Juventus",
+        "start": "2005",
+        "end": "2022"
+      },
+      {
+        "club": "LAFC",
+        "start": "2022",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "2004",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Hernán Crespo": {
+    "career": [
+      {
+        "club": "River Plate",
+        "start": "1993",
+        "end": "1996"
+      },
+      {
+        "club": "Parma",
+        "start": "1996",
+        "end": "2000"
+      },
+      {
+        "club": "Lazio",
+        "start": "2000",
+        "end": "2002"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2003",
+        "end": "2006"
+      },
+      {
+        "club": "Milan",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Genoa",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "club": "Parma",
+        "start": "2010",
+        "end": "2012"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1993",
+        "end": "2007"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Kenny Dalglish": {
+    "career": [
+      {
+        "club": "Celtic",
+        "start": "1969",
+        "end": "1977"
+      },
+      {
+        "club": "Liverpool",
+        "start": "1977",
+        "end": "1990"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Scotland",
+        "start": "1971",
+        "end": "1986"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Alessandro Del Piero": {
+    "career": [
+      {
+        "club": "Padova",
+        "start": "1991",
+        "end": "1993"
+      },
+      {
+        "club": "Juventus",
+        "start": "1993",
+        "end": "2012"
+      },
+      {
+        "club": "Sydney FC",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "Delhi Dynamos",
+        "start": "2014",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1995",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Didier Drogba": {
+    "career": [
+      {
+        "club": "Le Mans",
+        "start": "1998",
+        "end": "2002"
+      },
+      {
+        "club": "Guingamp",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "Olympique de Marseille",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2004",
+        "end": "2012"
+      },
+      {
+        "club": "Shanghai Shenhua",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "club": "Galatasaray",
+        "start": "2013",
+        "end": "2014"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "Montreal Impact",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Phoenix Rising",
+        "start": "2017",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ivory Coast",
+        "start": "2002",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Dunga": {
+    "career": [
+      {
+        "club": "Corinthians",
+        "start": "1981",
+        "end": "1984"
+      },
+      {
+        "club": "Santos",
+        "start": "1984",
+        "end": "1987"
+      },
+      {
+        "club": "Vasco da Gama",
+        "start": "1987",
+        "end": "1989"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "1989",
+        "end": "1993"
+      },
+      {
+        "club": "Pescara",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "VfB Stuttgart",
+        "start": "1995",
+        "end": "1998"
+      },
+      {
+        "club": "Júbilo Iwata",
+        "start": "1998",
+        "end": "1999"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1983",
+        "end": "1998"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Emilio Butragueño": {
+    "career": [
+      {
+        "club": "Real Madrid",
+        "start": "1983",
+        "end": "1995"
+      },
+      {
+        "club": "Celaya",
+        "start": "1995",
+        "end": "1998"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "1984",
+        "end": "1992"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Emmanuel Petit": {
+    "career": [
+      {
+        "club": "Monaco",
+        "start": "1989",
+        "end": "1997"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1997",
+        "end": "2000"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2000",
+        "end": "2001"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2001",
+        "end": "2004"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1990",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Michael Essien": {
+    "career": [
+      {
+        "club": "Liberty Professionals",
+        "start": "2000",
+        "end": "2000"
+      },
+      {
+        "club": "Bastia",
+        "start": "2000",
+        "end": "2003"
+      },
+      {
+        "club": "Olympique Lyonnais",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2005",
+        "end": "2014"
+      },
+      {
+        "club": "Milan",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "Panathinaikos",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Sabail",
+        "start": "2017",
+        "end": "2018"
+      },
+      {
+        "club": "Indonesia All Stars",
+        "start": "2018",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ghana",
+        "start": "2002",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Samuel Eto'o": {
+    "career": [
+      {
+        "club": "Real Madrid",
+        "start": "1997",
+        "end": "2000"
+      },
+      {
+        "club": "RCD Mallorca",
+        "start": "2000",
+        "end": "2004"
+      },
+      {
+        "club": "FC Barcelona",
+        "start": "2004",
+        "end": "2009"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2009",
+        "end": "2011"
+      },
+      {
+        "club": "Anzhi Makhachkala",
+        "start": "2011",
+        "end": "2013"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2013",
+        "end": "2014"
+      },
+      {
+        "club": "Everton",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "Sampdoria",
+        "start": "2015",
+        "end": "2017"
+      },
+      {
+        "club": "Antalyaspor",
+        "start": "2017",
+        "end": "2018"
+      },
+      {
+        "club": "Konyaspor",
+        "start": "2018",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Cameroon",
+        "start": "1996",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Eusébio": {
+    "career": [
+      {
+        "club": "Sporting Clube de Lourenço Marques",
+        "start": "1957",
+        "end": "1960"
+      },
+      {
+        "club": "Benfica",
+        "start": "1960",
+        "end": "1975"
+      },
+      {
+        "club": "Boston Minutemen",
+        "start": "1975",
+        "end": "1976"
+      },
+      {
+        "club": "Toronto Metros-Croatia",
+        "start": "1975",
+        "end": "1976"
+      },
+      {
+        "club": "Las Vegas Quicksilvers",
+        "start": "1977",
+        "end": "1977"
+      },
+      {
+        "club": "New Jersey Americans",
+        "start": "1978",
+        "end": "1978"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "1961",
+        "end": "1973"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Fabio Cannavaro": {
+    "career": [
+      {
+        "club": "Napoli",
+        "start": "1992",
+        "end": "1995"
+      },
+      {
+        "club": "Parma",
+        "start": "1995",
+        "end": "2002"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Juventus",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Juventus",
+        "start": "2009",
+        "end": "2010"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1997",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Rio Ferdinand": {
+    "career": [
+      {
+        "club": "West Ham United",
+        "start": "1996",
+        "end": "2000"
+      },
+      {
+        "club": "Leeds United",
+        "start": "2000",
+        "end": "2002"
+      },
+      {
+        "club": "Man Utd",
+        "start": "2002",
+        "end": "2014"
+      },
+      {
+        "club": "QPR",
+        "start": "2014",
+        "end": "2015"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1997",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Fernando Torres": {
+    "career": [
+      {
+        "club": "Atlético de Madrid",
+        "start": "2001",
+        "end": "2007"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2011",
+        "end": "2014"
+      },
+      {
+        "club": "Milan",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "2015",
+        "end": "2018"
+      },
+      {
+        "club": "Sagan Tosu",
+        "start": "2018",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2003",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Fernando Hierro": {
+    "career": [
+      {
+        "club": "Real Valladolid",
+        "start": "1988",
+        "end": "1990"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1990",
+        "end": "2003"
+      },
+      {
+        "club": "Al-Rayyan",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Bolton Wanderers",
+        "start": "2005",
+        "end": "2005"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "1989",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Franco Baresi": {
+    "career": [
+      {
+        "club": "Milan",
+        "start": "1977",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1982",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Frank Rijkaard": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1980",
+        "end": "1987"
+      },
+      {
+        "club": "Sporting CP",
+        "start": "1987",
+        "end": "1988"
+      },
+      {
+        "club": "Real Zaragoza",
+        "start": "1988",
+        "end": "1988"
+      },
+      {
+        "club": "Milan",
+        "start": "1988",
+        "end": "1993"
+      },
+      {
+        "club": "Ajax",
+        "start": "1993",
+        "end": "1995"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1981",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Garrincha": {
+    "career": [
+      {
+        "club": "Botafogo",
+        "start": "1953",
+        "end": "1965"
+      },
+      {
+        "club": "Corinthians",
+        "start": "1966",
+        "end": "1966"
+      },
+      {
+        "club": "Flamengo",
+        "start": "1968",
+        "end": "1969"
+      },
+      {
+        "club": "Olaria",
+        "start": "1972",
+        "end": "1972"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1955",
+        "end": "1966"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gary Lineker": {
+    "career": [
+      {
+        "club": "Leicester City",
+        "start": "1978",
+        "end": "1985"
+      },
+      {
+        "club": "Everton",
+        "start": "1985",
+        "end": "1986"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1986",
+        "end": "1989"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "start": "1989",
+        "end": "1992"
+      },
+      {
+        "club": "Nagoya Grampus Eight",
+        "start": "1992",
+        "end": "1994"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1984",
+        "end": "1992"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gennaro Gattuso": {
+    "career": [
+      {
+        "club": "Perugia",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Rangers",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Salernitana",
+        "start": "1998",
+        "end": "1999"
+      },
+      {
+        "club": "Milan",
+        "start": "1999",
+        "end": "2012"
+      },
+      {
+        "club": "Sion",
+        "start": "2012",
+        "end": "2012"
+      },
+      {
+        "club": "OFI Crete",
+        "start": "2013",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1996",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Steven Gerrard": {
+    "career": [
+      {
+        "club": "Liverpool",
+        "start": "1998",
+        "end": "2015"
+      },
+      {
+        "club": "LA Galaxy",
+        "start": "2015",
+        "end": "2016"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2000",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gianluigi Buffon": {
+    "career": [
+      {
+        "club": "Parma",
+        "start": "1995",
+        "end": "2001"
+      },
+      {
+        "club": "Juventus",
+        "start": "2001",
+        "end": "2018"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2018",
+        "end": "2019"
+      },
+      {
+        "club": "Juventus",
+        "start": "2019",
+        "end": "2021"
+      },
+      {
+        "club": "Parma",
+        "start": "2021",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1997",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gianfranco Zola": {
+    "career": [
+      {
+        "club": "Nuorese",
+        "start": "1984",
+        "end": "1986"
+      },
+      {
+        "club": "Torres",
+        "start": "1986",
+        "end": "1989"
+      },
+      {
+        "club": "Napoli",
+        "start": "1989",
+        "end": "1993"
+      },
+      {
+        "club": "Parma",
+        "start": "1993",
+        "end": "1996"
+      },
+      {
+        "club": "Chelsea",
+        "start": "1996",
+        "end": "2003"
+      },
+      {
+        "club": "Cagliari",
+        "start": "2003",
+        "end": "2005"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1991",
+        "end": "1997"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ruud Gullit": {
+    "career": [
+      {
+        "club": "Haarlem",
+        "start": "1978",
+        "end": "1982"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "1982",
+        "end": "1985"
+      },
+      {
+        "club": "PSV",
+        "start": "1985",
+        "end": "1987"
+      },
+      {
+        "club": "Milan",
+        "start": "1987",
+        "end": "1993"
+      },
+      {
+        "club": "Sampdoria",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "Milan",
+        "start": "1994",
+        "end": "1995"
+      },
+      {
+        "club": "Chelsea",
+        "start": "1995",
+        "end": "1998"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1981",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gheorghe Hagi": {
+    "career": [
+      {
+        "club": "Farul Constanța",
+        "start": "1982",
+        "end": "1985"
+      },
+      {
+        "club": "Sportul Studențesc",
+        "start": "1985",
+        "end": "1987"
+      },
+      {
+        "club": "Steaua București",
+        "start": "1987",
+        "end": "1990"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1990",
+        "end": "1992"
+      },
+      {
+        "club": "Brescia",
+        "start": "1992",
+        "end": "1994"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Galatasaray",
+        "start": "1996",
+        "end": "2001"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Romania",
+        "start": "1983",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Henrik Larsson": {
+    "career": [
+      {
+        "club": "Högaborgs BK",
+        "start": "1988",
+        "end": "1992"
+      },
+      {
+        "club": "Helsingborgs IF",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "1993",
+        "end": "1997"
+      },
+      {
+        "club": "Celtic",
+        "start": "1997",
+        "end": "2004"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Helsingborgs IF",
+        "start": "2006",
+        "end": "2006"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2007",
+        "end": "2007"
+      },
+      {
+        "club": "Helsingborgs IF",
+        "start": "2007",
+        "end": "2009"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Sweden",
+        "start": "1993",
+        "end": "2009"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Thierry Henry": {
+    "career": [
+      {
+        "club": "AS Monaco",
+        "start": "1994",
+        "end": "1999"
+      },
+      {
+        "club": "Juventus",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1999",
+        "end": "2007"
+      },
+      {
+        "club": "FC Barcelona",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "New York Red Bulls",
+        "start": "2010",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1997",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Hugo Sánchez": {
+    "career": [
+      {
+        "club": "UNAM Pumas",
+        "start": "1976",
+        "end": "1981"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "1981",
+        "end": "1985"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1985",
+        "end": "1992"
+      },
+      {
+        "club": "Rayo Vallecano",
+        "start": "1992",
+        "end": "1994"
+      },
+      {
+        "club": "Atlante",
+        "start": "1994",
+        "end": "1994"
+      },
+      {
+        "club": "Linz",
+        "start": "1995",
+        "end": "1995"
+      },
+      {
+        "club": "UNAM Pumas",
+        "start": "1995",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Mexico",
+        "start": "1977",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Geoff Hurst": {
+    "career": [
+      {
+        "club": "West Ham United",
+        "start": "1959",
+        "end": "1972"
+      },
+      {
+        "club": "Stoke City",
+        "start": "1972",
+        "end": "1975"
+      },
+      {
+        "club": "West Bromwich Albion",
+        "start": "1976",
+        "end": "1976"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1966",
+        "end": "1972"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ian Rush": {
+    "career": [
+      {
+        "club": "Chester City",
+        "start": "1978",
+        "end": "1980"
+      },
+      {
+        "club": "Liverpool",
+        "start": "1980",
+        "end": "1987"
+      },
+      {
+        "club": "Juventus",
+        "start": "1987",
+        "end": "1988"
+      },
+      {
+        "club": "Liverpool",
+        "start": "1988",
+        "end": "1996"
+      },
+      {
+        "club": "Leeds United",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "1997",
+        "end": "1997"
+      },
+      {
+        "club": "Sheffield United",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Wrexham",
+        "start": "1998",
+        "end": "1999"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Wales",
+        "start": "1980",
+        "end": "1996"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ian Wright": {
+    "career": [
+      {
+        "club": "Crystal Palace",
+        "start": "1985",
+        "end": "1991"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1991",
+        "end": "1998"
+      },
+      {
+        "club": "West Ham United",
+        "start": "1998",
+        "end": "1999"
+      },
+      {
+        "club": "Nottingham Forest",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Celtic",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Burnley",
+        "start": "1999",
+        "end": "2000"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1991",
+        "end": "1998"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Zlatan Ibrahimović": {
+    "career": [
+      {
+        "club": "Malmö FF",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Ajax",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Juventus",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "club": "Milan",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2012",
+        "end": "2016"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2016",
+        "end": "2018"
+      },
+      {
+        "club": "LA Galaxy",
+        "start": "2018",
+        "end": "2019"
+      },
+      {
+        "club": "Milan",
+        "start": "2020",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Sweden",
+        "start": "2001",
+        "end": "2021"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Andrés Iniesta": {
+    "career": [
+      {
+        "club": "FC Barcelona",
+        "start": "2002",
+        "end": "2018"
+      },
+      {
+        "club": "Vissel Kobe",
+        "start": "2018",
+        "end": "2023"
+      },
+      {
+        "club": "Emirates Club",
+        "start": "2023",
+        "end": "2024"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2006",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Jairzinho": {
+    "career": [
+      {
+        "club": "Botafogo",
+        "start": "1959",
+        "end": "1974"
+      },
+      {
+        "club": "Marseille",
+        "start": "1974",
+        "end": "1975"
+      },
+      {
+        "club": "Cruzeiro",
+        "start": "1975",
+        "end": "1978"
+      },
+      {
+        "club": "Portuguesa",
+        "start": "1979",
+        "end": "1980"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1964",
+        "end": "1982"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Johan Cruyff": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1964",
+        "end": "1973"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1973",
+        "end": "1978"
+      },
+      {
+        "club": "Los Angeles Aztecs",
+        "start": "1979",
+        "end": "1980"
+      },
+      {
+        "club": "Washington Diplomats",
+        "start": "1980",
+        "end": "1981"
+      },
+      {
+        "club": "Levante",
+        "start": "1981",
+        "end": "1981"
+      },
+      {
+        "club": "Ajax",
+        "start": "1981",
+        "end": "1983"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "1983",
+        "end": "1984"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1966",
+        "end": "1977"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Kaká": {
+    "career": [
+      {
+        "club": "São Paulo",
+        "start": "2001",
+        "end": "2003"
+      },
+      {
+        "club": "Milan",
+        "start": "2003",
+        "end": "2009"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "club": "Milan",
+        "start": "2013",
+        "end": "2014"
+      },
+      {
+        "club": "Orlando City",
+        "start": "2014",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2002",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Mario Kempes": {
+    "career": [
+      {
+        "club": "Instituto de Córdoba",
+        "start": "1971",
+        "end": "1973"
+      },
+      {
+        "club": "Rosario Central",
+        "start": "1973",
+        "end": "1976"
+      },
+      {
+        "club": "Valencia",
+        "start": "1976",
+        "end": "1981"
+      },
+      {
+        "club": "River Plate",
+        "start": "1981",
+        "end": "1982"
+      },
+      {
+        "club": "Valencia",
+        "start": "1982",
+        "end": "1984"
+      },
+      {
+        "club": "Hércules",
+        "start": "1984",
+        "end": "1986"
+      },
+      {
+        "club": "Sankt Pölten",
+        "start": "1987",
+        "end": "1988"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1973",
+        "end": "1982"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Miroslav Klose": {
+    "career": [
+      {
+        "club": "Homburg",
+        "start": "1998",
+        "end": "1999"
+      },
+      {
+        "club": "Kaiserslautern",
+        "start": "1999",
+        "end": "2004"
+      },
+      {
+        "club": "Werder Bremen",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Lazio",
+        "start": "2011",
+        "end": "2016"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2001",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Patrick Kluivert": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1994",
+        "end": "1997"
+      },
+      {
+        "club": "Milan",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1998",
+        "end": "2004"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Valencia",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "PSV",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Lille",
+        "start": "2007",
+        "end": "2008"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1994",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ronald Koeman": {
+    "career": [
+      {
+        "club": "Groningen",
+        "start": "1980",
+        "end": "1983"
+      },
+      {
+        "club": "Ajax",
+        "start": "1983",
+        "end": "1986"
+      },
+      {
+        "club": "PSV",
+        "start": "1986",
+        "end": "1989"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1989",
+        "end": "1995"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "1995",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1983",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Philipp Lahm": {
+    "career": [
+      {
+        "club": "FC Bayern München",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "VfB Stuttgart",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "2005",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2004",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Frank Lampard": {
+    "career": [
+      {
+        "club": "West Ham United",
+        "start": "1995",
+        "end": "2001"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2001",
+        "end": "2014"
+      },
+      {
+        "club": "Man City",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "New York City FC",
+        "start": "2015",
+        "end": "2016"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1999",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Michael Laudrup": {
+    "career": [
+      {
+        "club": "Brøndby",
+        "start": "1981",
+        "end": "1982"
+      },
+      {
+        "club": "Lazio",
+        "start": "1983",
+        "end": "1985"
+      },
+      {
+        "club": "Juventus",
+        "start": "1985",
+        "end": "1989"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1989",
+        "end": "1994"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Vissel Kobe",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Ajax",
+        "start": "1997",
+        "end": "1998"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Denmark",
+        "start": "1982",
+        "end": "1998"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Laurent Blanc": {
+    "career": [
+      {
+        "club": "Montpellier",
+        "start": "1983",
+        "end": "1991"
+      },
+      {
+        "club": "Napoli",
+        "start": "1991",
+        "end": "1992"
+      },
+      {
+        "club": "Nîmes",
+        "start": "1992",
+        "end": "1994"
+      },
+      {
+        "club": "Saint-Étienne",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Auxerre",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1997",
+        "end": "1999"
+      },
+      {
+        "club": "Marseille",
+        "start": "1999",
+        "end": "2000"
+      },
+      {
+        "club": "Inter",
+        "start": "2000",
+        "end": "2001"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2001",
+        "end": "2003"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1989",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Luís Figo": {
+    "career": [
+      {
+        "club": "Sporting CP",
+        "start": "1989",
+        "end": "1995"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1995",
+        "end": "2000"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2000",
+        "end": "2005"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2005",
+        "end": "2009"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "1991",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Luis Hernández": {
+    "career": [
+      {
+        "club": "UNAM Pumas",
+        "start": "1992",
+        "end": "1996"
+      },
+      {
+        "club": "Necaxa",
+        "start": "1996",
+        "end": "1999"
+      },
+      {
+        "club": "Tampico Madero",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Necaxa",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Chivas Guadalajara",
+        "start": "2001",
+        "end": "2003"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Mexico",
+        "start": "1996",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Claude Makélélé": {
+    "career": [
+      {
+        "club": "Nantes",
+        "start": "1992",
+        "end": "1997"
+      },
+      {
+        "club": "Marseille",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "Celta Vigo",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2000",
+        "end": "2003"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2003",
+        "end": "2008"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2008",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1998",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Paolo Maldini": {
+    "career": [
+      {
+        "club": "Milan",
+        "start": "1984",
+        "end": "2009"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1988",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Diego Maradona": {
+    "career": [
+      {
+        "club": "Argentinos Juniors",
+        "start": "1976",
+        "end": "1981"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "1981",
+        "end": "1982"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1982",
+        "end": "1984"
+      },
+      {
+        "club": "Napoli",
+        "start": "1984",
+        "end": "1991"
+      },
+      {
+        "club": "Sevilla",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Newell's Old Boys",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "1995",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1977",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Marcel Desailly": {
+    "career": [
+      {
+        "club": "Nantes",
+        "start": "1986",
+        "end": "1992"
+      },
+      {
+        "club": "Marseille",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Milan",
+        "start": "1993",
+        "end": "1998"
+      },
+      {
+        "club": "Chelsea",
+        "start": "1998",
+        "end": "2004"
+      },
+      {
+        "club": "Al-Gharafa",
+        "start": "2004",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1993",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Marco van Basten": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1981",
+        "end": "1987"
+      },
+      {
+        "club": "Milan",
+        "start": "1987",
+        "end": "1995"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1983",
+        "end": "1992"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Lothar Matthäus": {
+    "career": [
+      {
+        "club": "Borussia Mönchengladbach",
+        "start": "1979",
+        "end": "1984"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "1984",
+        "end": "1988"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1988",
+        "end": "1992"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "1992",
+        "end": "2000"
+      },
+      {
+        "club": "MetroStars",
+        "start": "2000",
+        "end": "2000"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1980",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Michael Ballack": {
+    "career": [
+      {
+        "club": "Chemnitzer FC",
+        "start": "1995",
+        "end": "1997"
+      },
+      {
+        "club": "1. FC Kaiserslautern",
+        "start": "1997",
+        "end": "1999"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "1999",
+        "end": "2002"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "2002",
+        "end": "2006"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "2010",
+        "end": "2012"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1999",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Michael Owen": {
+    "career": [
+      {
+        "club": "Liverpool",
+        "start": "1996",
+        "end": "2004"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Newcastle United",
+        "start": "2005",
+        "end": "2009"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2009",
+        "end": "2012"
+      },
+      {
+        "club": "Stoke City",
+        "start": "2012",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1998",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gerd Müller": {
+    "career": [
+      {
+        "club": "TSV 1861 Nördlingen",
+        "start": "1963",
+        "end": "1964"
+      },
+      {
+        "club": "FC Bayern München",
+        "start": "1964",
+        "end": "1979"
+      },
+      {
+        "club": "Fort Lauderdale Strikers",
+        "start": "1979",
+        "end": "1981"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1966",
+        "end": "1974"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Pavel Nedvěd": {
+    "career": [
+      {
+        "club": "Škoda Plzeň",
+        "start": "1990",
+        "end": "1993"
+      },
+      {
+        "club": "Dukla Praha",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "Sparta Prague",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Lazio",
+        "start": "1996",
+        "end": "2001"
+      },
+      {
+        "club": "Juventus",
+        "start": "2001",
+        "end": "2009"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Czechia",
+        "start": "1994",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Patrick Vieira": {
+    "career": [
+      {
+        "club": "Cannes",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "AC Milan",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1996",
+        "end": "2005"
+      },
+      {
+        "club": "Juventus",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Manchester City",
+        "start": "2010",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1997",
+        "end": "2009"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Paul Scholes": {
+    "career": [
+      {
+        "club": "Man Utd",
+        "start": "1994",
+        "end": "2011"
+      },
+      {
+        "club": "Man Utd",
+        "start": "2012",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1997",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Petr Čech": {
+    "career": [
+      {
+        "club": "Chmel Blšany",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Sparta Prague",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Rennes",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2004",
+        "end": "2015"
+      },
+      {
+        "club": "Arsenal",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Czechia",
+        "start": "2002",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ferenc Puskás": {
+    "career": [
+      {
+        "club": "Kispest AC",
+        "start": "1943",
+        "end": "1949"
+      },
+      {
+        "club": "Budapest Honvéd",
+        "start": "1949",
+        "end": "1956"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1958",
+        "end": "1966"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Hungary",
+        "start": "1945",
+        "end": "1956"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Carles Puyol": {
+    "career": [
+      {
+        "club": "FC Barcelona",
+        "start": "1999",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2000",
+        "end": "2013"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Raúl": {
+    "career": [
+      {
+        "club": "Real Madrid",
+        "start": "1994",
+        "end": "2010"
+      },
+      {
+        "club": "Schalke 04",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "Al-Sadd",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "New York Cosmos",
+        "start": "2014",
+        "end": "2015"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "1996",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Franck Ribéry": {
+    "career": [
+      {
+        "club": "Boulogne",
+        "start": "2000",
+        "end": "2002"
+      },
+      {
+        "club": "Brest",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Metz",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Galatasaray",
+        "start": "2005",
+        "end": "2005"
+      },
+      {
+        "club": "Marseille",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2007",
+        "end": "2019"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "2019",
+        "end": "2021"
+      },
+      {
+        "club": "Salernitana",
+        "start": "2021",
+        "end": "2022"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "2004",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Juan Román Riquelme": {
+    "career": [
+      {
+        "club": "Argentinos Juniors",
+        "start": "1996",
+        "end": "1996"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "1996",
+        "end": "2002"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "Villarreal",
+        "start": "2003",
+        "end": "2007"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "2007",
+        "end": "2013"
+      },
+      {
+        "club": "Argentinos Juniors",
+        "start": "2013",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1997",
+        "end": "2009"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Rivaldo": {
+    "career": [
+      {
+        "club": "Santa Cruz",
+        "start": "1991",
+        "end": "1991"
+      },
+      {
+        "club": "Mogi Mirim",
+        "start": "1991",
+        "end": "1993"
+      },
+      {
+        "club": "Corinthians",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "Palmeiras",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Deportivo La Coruña",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1997",
+        "end": "2002"
+      },
+      {
+        "club": "Milan",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "Cruzeiro",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "club": "Olympiacos",
+        "start": "2004",
+        "end": "2008"
+      },
+      {
+        "club": "AEK Athens",
+        "start": "2008",
+        "end": "2009"
+      },
+      {
+        "club": "Bunyodkor",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "club": "São Paulo",
+        "start": "2010",
+        "end": "2011"
+      },
+      {
+        "club": "Kabuscorp",
+        "start": "2011",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1993",
+        "end": "2003"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Roberto Rivellino": {
+    "career": [
+      {
+        "club": "Corinthians",
+        "start": "1965",
+        "end": "1974"
+      },
+      {
+        "club": "Fluminense",
+        "start": "1975",
+        "end": "1981"
+      },
+      {
+        "club": "Al-Hilal",
+        "start": "1978",
+        "end": "1979"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1965",
+        "end": "1978"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Robert Pirès": {
+    "career": [
+      {
+        "club": "Metz",
+        "start": "1992",
+        "end": "1998"
+      },
+      {
+        "club": "Marseille",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "club": "Arsenal",
+        "start": "2000",
+        "end": "2006"
+      },
+      {
+        "club": "Villarreal",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Aston Villa",
+        "start": "2010",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1996",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Roberto Carlos": {
+    "career": [
+      {
+        "club": "Palmeiras",
+        "start": "1991",
+        "end": "1993"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1996",
+        "end": "2007"
+      },
+      {
+        "club": "Fenerbahçe",
+        "start": "2007",
+        "end": "2008"
+      },
+      {
+        "club": "Corinthians",
+        "start": "2008",
+        "end": "2009"
+      },
+      {
+        "club": "Anzhi Makhachkala",
+        "start": "2010",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1992",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Robin van Persie": {
+    "career": [
+      {
+        "club": "Feyenoord",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Arsenal",
+        "start": "2004",
+        "end": "2012"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2012",
+        "end": "2015"
+      },
+      {
+        "club": "Fenerbahçe",
+        "start": "2015",
+        "end": "2018"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "2018",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "2005",
+        "end": "2017"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ronaldinho": {
+    "career": [
+      {
+        "club": "Grêmio",
+        "start": "1998",
+        "end": "2001"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2001",
+        "end": "2003"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2003",
+        "end": "2008"
+      },
+      {
+        "club": "Milan",
+        "start": "2008",
+        "end": "2011"
+      },
+      {
+        "club": "Flamengo",
+        "start": "2011",
+        "end": "2012"
+      },
+      {
+        "club": "Atlético Mineiro",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "Fluminense",
+        "start": "2015",
+        "end": "2015"
+      },
+      {
+        "club": "Querétaro",
+        "start": "2014",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1999",
+        "end": "2013"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ronaldo Nazário": {
+    "career": [
+      {
+        "club": "Cruzeiro",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "PSV",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1997",
+        "end": "2002"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2002",
+        "end": "2007"
+      },
+      {
+        "club": "Milan",
+        "start": "2007",
+        "end": "2008"
+      },
+      {
+        "club": "Corinthians",
+        "start": "2009",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1994",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Wayne Rooney": {
+    "career": [
+      {
+        "club": "Everton",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Man Utd",
+        "start": "2004",
+        "end": "2017"
+      },
+      {
+        "club": "Everton",
+        "start": "2017",
+        "end": "2018"
+      },
+      {
+        "club": "D.C. United",
+        "start": "2018",
+        "end": "2019"
+      },
+      {
+        "club": "Derby County",
+        "start": "2020",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2003",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Roy Keane": {
+    "career": [
+      {
+        "club": "Cobh Ramblers",
+        "start": "1989",
+        "end": "1990"
+      },
+      {
+        "club": "Nottingham Forest",
+        "start": "1990",
+        "end": "1993"
+      },
+      {
+        "club": "Man Utd",
+        "start": "1993",
+        "end": "2005"
+      },
+      {
+        "club": "Celtic",
+        "start": "2005",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ireland",
+        "start": "1991",
+        "end": "2005"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Rui Costa": {
+    "career": [
+      {
+        "club": "Benfica",
+        "start": "1990",
+        "end": "1994"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "1994",
+        "end": "2001"
+      },
+      {
+        "club": "Milan",
+        "start": "2001",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "1993",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ruud van Nistelrooy": {
+    "career": [
+      {
+        "club": "Den Bosch",
+        "start": "1993",
+        "end": "1997"
+      },
+      {
+        "club": "Heerenveen",
+        "start": "1997",
+        "end": "1998"
+      },
+      {
+        "club": "PSV",
+        "start": "1998",
+        "end": "2001"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2001",
+        "end": "2006"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Hamburger SV",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "Málaga",
+        "start": "2012",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1998",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Peter Schmeichel": {
+    "career": [
+      {
+        "club": "Hvidovre IF",
+        "start": "1984",
+        "end": "1987"
+      },
+      {
+        "club": "Brøndby",
+        "start": "1987",
+        "end": "1991"
+      },
+      {
+        "club": "Man Utd",
+        "start": "1991",
+        "end": "1999"
+      },
+      {
+        "club": "Sporting CP",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Aston Villa",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Manchester City",
+        "start": "2002",
+        "end": "2003"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Denmark",
+        "start": "1987",
+        "end": "2001"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Bastian Schweinsteiger": {
+    "career": [
+      {
+        "club": "FC Bayern München",
+        "start": "2002",
+        "end": "2015"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2015",
+        "end": "2017"
+      },
+      {
+        "club": "Chicago Fire FC",
+        "start": "2017",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2004",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Clarence Seedorf": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1992",
+        "end": "1995"
+      },
+      {
+        "club": "Sampdoria",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1996",
+        "end": "1999"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1999",
+        "end": "2002"
+      },
+      {
+        "club": "Milan",
+        "start": "2002",
+        "end": "2012"
+      },
+      {
+        "club": "Botafogo",
+        "start": "2012",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1994",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Andriy Shevchenko": {
+    "career": [
+      {
+        "club": "Dynamo Kyiv",
+        "start": "1994",
+        "end": "1999"
+      },
+      {
+        "club": "Milan",
+        "start": "1999",
+        "end": "2006"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Milan",
+        "start": "2008",
+        "end": "2009"
+      },
+      {
+        "club": "Dynamo Kyiv",
+        "start": "2009",
+        "end": "2012"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ukraine",
+        "start": "1995",
+        "end": "2012"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Sócrates": {
+    "career": [
+      {
+        "club": "Botafogo-SP",
+        "start": "1974",
+        "end": "1978"
+      },
+      {
+        "club": "Corinthians",
+        "start": "1978",
+        "end": "1984"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "1984",
+        "end": "1985"
+      },
+      {
+        "club": "Flamengo",
+        "start": "1985",
+        "end": "1986"
+      },
+      {
+        "club": "Santos",
+        "start": "1986",
+        "end": "1987"
+      },
+      {
+        "club": "Botafogo-SP",
+        "start": "1988",
+        "end": "1989"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1979",
+        "end": "1986"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Hristo Stoichkov": {
+    "career": [
+      {
+        "club": "Hebar Pazardzhik",
+        "start": "1984",
+        "end": "1985"
+      },
+      {
+        "club": "CSKA Sofia",
+        "start": "1985",
+        "end": "1990"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1990",
+        "end": "1995"
+      },
+      {
+        "club": "Parma",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "Barcelona",
+        "start": "1996",
+        "end": "1998"
+      },
+      {
+        "club": "Al-Nassr",
+        "start": "1998",
+        "end": "1998"
+      },
+      {
+        "club": "Kashiwa Reysol",
+        "start": "1999",
+        "end": "1999"
+      },
+      {
+        "club": "Chicago Fire",
+        "start": "2000",
+        "end": "2003"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Bulgaria",
+        "start": "1987",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Davor Šuker": {
+    "career": [
+      {
+        "club": "Osijek",
+        "start": "1987",
+        "end": "1989"
+      },
+      {
+        "club": "Dinamo Zagreb",
+        "start": "1989",
+        "end": "1991"
+      },
+      {
+        "club": "Sevilla",
+        "start": "1991",
+        "end": "1996"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1996",
+        "end": "1999"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1999",
+        "end": "2000"
+      },
+      {
+        "club": "West Ham United",
+        "start": "2000",
+        "end": "2001"
+      },
+      {
+        "club": "1860 München",
+        "start": "2001",
+        "end": "2001"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Croatia",
+        "start": "1990",
+        "end": "2002"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Lilian Thuram": {
+    "career": [
+      {
+        "club": "Monaco",
+        "start": "1991",
+        "end": "1996"
+      },
+      {
+        "club": "Parma",
+        "start": "1996",
+        "end": "2001"
+      },
+      {
+        "club": "Juventus",
+        "start": "2001",
+        "end": "2006"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2006",
+        "end": "2008"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1994",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Toni Kroos": {
+    "career": [
+      {
+        "club": "FC Bayern München",
+        "start": "2007",
+        "end": "2014"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2014",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2010",
+        "end": "2024"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Francesco Totti": {
+    "career": [
+      {
+        "club": "Roma",
+        "start": "1992",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1998",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Edwin van der Sar": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "1990",
+        "end": "1999"
+      },
+      {
+        "club": "Juventus",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Fulham",
+        "start": "2001",
+        "end": "2005"
+      },
+      {
+        "club": "Man Utd",
+        "start": "2005",
+        "end": "2011"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1995",
+        "end": "2008"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Juan Sebastián Verón": {
+    "career": [
+      {
+        "club": "Estudiantes",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Sampdoria",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "Parma",
+        "start": "1997",
+        "end": "1999"
+      },
+      {
+        "club": "Lazio",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2001",
+        "end": "2003"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Estudiantes",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Estudiantes",
+        "start": "2012",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1996",
+        "end": "2009"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Nemanja Vidić": {
+    "career": [
+      {
+        "club": "Red Star Belgrade",
+        "start": "2000",
+        "end": "2004"
+      },
+      {
+        "club": "Spartak Moscow",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2006",
+        "end": "2014"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2014",
+        "end": "2015"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Serbia",
+        "start": "2002",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Xabi Alonso": {
+    "career": [
+      {
+        "club": "Real Sociedad",
+        "start": "1999",
+        "end": "2004"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2004",
+        "end": "2009"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2009",
+        "end": "2014"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2014",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2003",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Lev Yashin": {
+    "career": [
+      {
+        "club": "Dynamo Moscow",
+        "start": "1950",
+        "end": "1970"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Russia",
+        "start": "1954",
+        "end": "1967"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Gianluca Zambrotta": {
+    "career": [
+      {
+        "club": "Bari",
+        "start": "1994",
+        "end": "1997"
+      },
+      {
+        "club": "Juventus",
+        "start": "1997",
+        "end": "2006"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2006",
+        "end": "2008"
+      },
+      {
+        "club": "Milan",
+        "start": "2008",
+        "end": "2010"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "1999",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Javier Zanetti": {
+    "career": [
+      {
+        "club": "Talleres",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Banfield",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1995",
+        "end": "2014"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "1994",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Zico": {
+    "career": [
+      {
+        "club": "Flamengo",
+        "start": "1971",
+        "end": "1983"
+      },
+      {
+        "club": "Udinese",
+        "start": "1983",
+        "end": "1985"
+      },
+      {
+        "club": "Flamengo",
+        "start": "1985",
+        "end": "1989"
+      },
+      {
+        "club": "Kashima Antlers",
+        "start": "1991",
+        "end": "1994"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "1976",
+        "end": "1986"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Zinedine Zidane": {
+    "career": [
+      {
+        "club": "Cannes",
+        "start": "1988",
+        "end": "1992"
+      },
+      {
+        "club": "Bordeaux",
+        "start": "1992",
+        "end": "1996"
+      },
+      {
+        "club": "Juventus",
+        "start": "1996",
+        "end": "2001"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2001",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "1994",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Sergio Agüero": {
+    "career": [
+      {
+        "club": "Independiente",
+        "start": "2003",
+        "end": "2006"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "2006",
+        "end": "2011"
+      },
+      {
+        "club": "Man City",
+        "start": "2011",
+        "end": "2021"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2021",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "2006",
+        "end": "2021"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Raphaël Varane": {
+    "career": [
+      {
+        "club": "Lens",
+        "start": "2010",
+        "end": "2011"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2011",
+        "end": "2021"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2021",
+        "end": "2024"
+      },
+      {
+        "club": "Como",
+        "start": "2024",
+        "end": "2024"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "2013",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Abedi Pelé": {
+    "career": [
+      {
+        "club": "Real Tamale United",
+        "start": "1978",
+        "end": "1982"
+      },
+      {
+        "club": "Bechem Golden Sunbeams",
+        "start": "1982",
+        "end": "1983"
+      },
+      {
+        "club": "Zamalek",
+        "start": "1983",
+        "end": "1985"
+      },
+      {
+        "club": "Niort",
+        "start": "1985",
+        "end": "1987"
+      },
+      {
+        "club": "Lille",
+        "start": "1987",
+        "end": "1990"
+      },
+      {
+        "club": "Marseille",
+        "start": "1990",
+        "end": "1993"
+      },
+      {
+        "club": "Lyon",
+        "start": "1993",
+        "end": "1994"
+      },
+      {
+        "club": "Torino",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "1899 Hoffenheim",
+        "start": "1997",
+        "end": "1998"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ghana",
+        "start": "1979",
+        "end": "1998"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Arturo Vidal": {
+    "career": [
+      {
+        "club": "Colo-Colo",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Juventus",
+        "start": "2011",
+        "end": "2015"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2015",
+        "end": "2018"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2018",
+        "end": "2020"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2020",
+        "end": "2022"
+      },
+      {
+        "club": "Flamengo",
+        "start": "2022",
+        "end": "2023"
+      },
+      {
+        "club": "Colo-Colo",
+        "start": "2023",
+        "end": "2025"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Chile",
+        "start": "2007",
+        "end": "2023"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Andrea Barzagli": {
+    "career": [
+      {
+        "club": "Palermo",
+        "start": "2001",
+        "end": "2008"
+      },
+      {
+        "club": "VfL Wolfsburg",
+        "start": "2008",
+        "end": "2011"
+      },
+      {
+        "club": "Juventus",
+        "start": "2011",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "2004",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"DaMarcus Beasley": {
+    "career": [
+      {
+        "club": "Chicago Fire",
+        "start": "2000",
+        "end": "2004"
+      },
+      {
+        "club": "PSV",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Manchester City",
+        "start": "2007",
+        "end": "2007"
+      },
+      {
+        "club": "Rangers",
+        "start": "2007",
+        "end": "2009"
+      },
+      {
+        "club": "Hannover 96",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "club": "Puebla",
+        "start": "2011",
+        "end": "2013"
+      },
+      {
+        "club": "Houston Dynamo",
+        "start": "2013",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "USA",
+        "start": "2001",
+        "end": "2017"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Dimitar Berbatov": {
+    "career": [
+      {
+        "club": "CSKA Sofia",
+        "start": "1998",
+        "end": "2001"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "2001",
+        "end": "2006"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "start": "2006",
+        "end": "2008"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2008",
+        "end": "2012"
+      },
+      {
+        "club": "Fulham",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "Monaco",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "PAOK",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Kerala Blasters",
+        "start": "2016",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Bulgaria",
+        "start": "1999",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Blaise Matuidi": {
+    "career": [
+      {
+        "club": "Troyes",
+        "start": "2004",
+        "end": "2011"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2011",
+        "end": "2017"
+      },
+      {
+        "club": "Juventus",
+        "start": "2017",
+        "end": "2020"
+      },
+      {
+        "club": "Internazionale Miami",
+        "start": "2020",
+        "end": "2022"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "France",
+        "start": "2010",
+        "end": "2019"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Cesc Fàbregas": {
+    "career": [
+      {
+        "club": "Arsenal",
+        "start": "2003",
+        "end": "2011"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2011",
+        "end": "2014"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2014",
+        "end": "2019"
+      },
+      {
+        "club": "Monaco",
+        "start": "2019",
+        "end": "2022"
+      },
+      {
+        "club": "Como",
+        "start": "2022",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2006",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Clint Dempsey": {
+    "career": [
+      {
+        "club": "New England Revolution",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Fulham",
+        "start": "2006",
+        "end": "2012"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "club": "Seattle Sounders",
+        "start": "2013",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "USA",
+        "start": "2004",
+        "end": "2017"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Dani Alves": {
+    "career": [
+      {
+        "club": "Bahia",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Sevilla",
+        "start": "2002",
+        "end": "2008"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2008",
+        "end": "2016"
+      },
+      {
+        "club": "Juventus",
+        "start": "2016",
+        "end": "2017"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2017",
+        "end": "2019"
+      },
+      {
+        "club": "São Paulo",
+        "start": "2019",
+        "end": "2022"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2022",
+        "end": "2023"
+      },
+      {
+        "club": "Pumas UNAM",
+        "start": "2023",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2006",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Daniel Carvajal": {
+    "career": [
+      {
+        "club": "Real Madrid Castilla",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2013",
+        "end": "2025"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2013",
+        "end": "2024"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Daniele De Rossi": {
+    "career": [
+      {
+        "club": "Roma",
+        "start": "2001",
+        "end": "2019"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "2019",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "2004",
+        "end": "2017"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"David Luiz": {
+    "career": [
+      {
+        "club": "Vitória",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "club": "Benfica",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2011",
+        "end": "2014"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2014",
+        "end": "2016"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2016",
+        "end": "2019"
+      },
+      {
+        "club": "Arsenal",
+        "start": "2019",
+        "end": "2021"
+      },
+      {
+        "club": "Flamengo",
+        "start": "2021",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2010",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"David Silva": {
+    "career": [
+      {
+        "club": "Valencia",
+        "start": "2004",
+        "end": "2010"
+      },
+      {
+        "club": "Man City",
+        "start": "2010",
+        "end": "2020"
+      },
+      {
+        "club": "Real Sociedad",
+        "start": "2020",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2006",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Diego Forlán": {
+    "career": [
+      {
+        "club": "Independiente",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Villarreal",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2011",
+        "end": "2012"
+      },
+      {
+        "club": "Cerezo Osaka",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "Kitchee",
+        "start": "2015",
+        "end": "2015"
+      },
+      {
+        "club": "Mumbai City",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Peñarol",
+        "start": "2016",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Uruguay",
+        "start": "2002",
+        "end": "2015"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Dirk Kuyt": {
+    "career": [
+      {
+        "club": "Utrecht",
+        "start": "1998",
+        "end": "2003"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "2003",
+        "end": "2006"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2006",
+        "end": "2012"
+      },
+      {
+        "club": "Fenerbahçe",
+        "start": "2012",
+        "end": "2015"
+      },
+      {
+        "club": "Feyenoord",
+        "start": "2015",
+        "end": "2017"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "2004",
+        "end": "2014"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Eden Hazard": {
+    "career": [
+      {
+        "club": "Lille",
+        "start": "2007",
+        "end": "2012"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2012",
+        "end": "2019"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2019",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Belgium",
+        "start": "2008",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Edinson Cavani": {
+    "career": [
+      {
+        "club": "Danubio",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Palermo",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "Napoli",
+        "start": "2010",
+        "end": "2013"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2013",
+        "end": "2020"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2020",
+        "end": "2022"
+      },
+      {
+        "club": "Valencia CF",
+        "start": "2022",
+        "end": "2023"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "2023",
+        "end": "2025"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Uruguay",
+        "start": "2008",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Fernando Morientes": {
+    "career": [
+      {
+        "club": "Real Madrid",
+        "start": "1995",
+        "end": "2003"
+      },
+      {
+        "club": "Monaco",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "Valencia",
+        "start": "2006",
+        "end": "2009"
+      },
+      {
+        "club": "Marseille",
+        "start": "2009",
+        "end": "2010"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "1998",
+        "end": "2007"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ivan Rakitić": {
+    "career": [
+      {
+        "club": "Basel",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "club": "Schalke 04",
+        "start": "2007",
+        "end": "2011"
+      },
+      {
+        "club": "Sevilla",
+        "start": "2011",
+        "end": "2014"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2014",
+        "end": "2020"
+      },
+      {
+        "club": "Sevilla",
+        "start": "2020",
+        "end": "2023"
+      },
+      {
+        "club": "Al-Shabab",
+        "start": "2023",
+        "end": "2024"
+      },
+      {
+        "club": "Hajduk Split",
+        "start": "2024",
+        "end": "2025"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Croatia",
+        "start": "2007",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Iván Zamorano": {
+    "career": [
+      {
+        "club": "Cobresal",
+        "start": "1987",
+        "end": "1988"
+      },
+      {
+        "club": "Universidad Católica",
+        "start": "1988",
+        "end": "1991"
+      },
+      {
+        "club": "St. Gallen",
+        "start": "1991",
+        "end": "1992"
+      },
+      {
+        "club": "Sevilla",
+        "start": "1992",
+        "end": "1994"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "1994",
+        "end": "1996"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1996",
+        "end": "2000"
+      },
+      {
+        "club": "Málaga",
+        "start": "2001",
+        "end": "2003"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Chile",
+        "start": "1987",
+        "end": "2001"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Jaap Stam": {
+    "career": [
+      {
+        "club": "FC Zwolle",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Cambuur",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "Willem II",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "PSV",
+        "start": "1996",
+        "end": "1998"
+      },
+      {
+        "club": "Manchester United",
+        "start": "1998",
+        "end": "2001"
+      },
+      {
+        "club": "Lazio",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Milan",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Ajax",
+        "start": "2007",
+        "end": "2007"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "1996",
+        "end": "2004"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Jamie Carragher": {
+    "career": [
+      {
+        "club": "Liverpool",
+        "start": "1996",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "1999",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Jérôme Boateng": {
+    "career": [
+      {
+        "club": "Hertha BSC",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "Manchester City",
+        "start": "2010",
+        "end": "2011"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2011",
+        "end": "2021"
+      },
+      {
+        "club": "Lyon",
+        "start": "2021",
+        "end": "2022"
+      },
+      {
+        "club": "Salernitana",
+        "start": "2023",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2009",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Jorge Campos": {
+    "career": [
+      {
+        "club": "UNAM Pumas",
+        "start": "1988",
+        "end": "1995"
+      },
+      {
+        "club": "LA Galaxy",
+        "start": "1996",
+        "end": "1996"
+      },
+      {
+        "club": "UNAM Pumas",
+        "start": "1996",
+        "end": "1998"
+      },
+      {
+        "club": "Chicago Fire",
+        "start": "1998",
+        "end": "1998"
+      },
+      {
+        "club": "Cruz Azul",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "UNAM Pumas",
+        "start": "2001",
+        "end": "2004"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Mexico",
+        "start": "1991",
+        "end": "2000"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Nwankwo Kanu": {
+    "career": [
+      {
+        "club": "Iwuanyanwu Nationale",
+        "start": "1992",
+        "end": "1993"
+      },
+      {
+        "club": "Ajax",
+        "start": "1993",
+        "end": "1996"
+      },
+      {
+        "club": "Internazionale",
+        "start": "1996",
+        "end": "1999"
+      },
+      {
+        "club": "Arsenal",
+        "start": "1999",
+        "end": "2004"
+      },
+      {
+        "club": "West Bromwich Albion",
+        "start": "2004",
+        "end": "2006"
+      },
+      {
+        "club": "Portsmouth",
+        "start": "2006",
+        "end": "2010"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Nigeria",
+        "start": "1994",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ledley King": {
+    "career": [
+      {
+        "club": "Tottenham Hotspur",
+        "start": "1999",
+        "end": "2012"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2001",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Lúcio": {
+    "career": [
+      {
+        "club": "Internacional",
+        "start": "1998",
+        "end": "1999"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "1999",
+        "end": "2001"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2004",
+        "end": "2009"
+      },
+      {
+        "club": "Juventus",
+        "start": "2009",
+        "end": "2012"
+      },
+      {
+        "club": "São Paulo",
+        "start": "2013",
+        "end": "2013"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2000",
+        "end": "2011"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Mario Mandžukić": {
+    "career": [
+      {
+        "club": "Dinamo Zagreb",
+        "start": "2005",
+        "end": "2010"
+      },
+      {
+        "club": "Wolfsburg",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2012",
+        "end": "2014"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "club": "Juventus",
+        "start": "2015",
+        "end": "2019"
+      },
+      {
+        "club": "Al-Duhail",
+        "start": "2019",
+        "end": "2020"
+      },
+      {
+        "club": "Milan",
+        "start": "2020",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Croatia",
+        "start": "2007",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Marek Hamšík": {
+    "career": [
+      {
+        "club": "Slovan Bratislava",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Brescia",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Napoli",
+        "start": "2007",
+        "end": "2019"
+      },
+      {
+        "club": "Dalian Yifang",
+        "start": "2019",
+        "end": "2021"
+      },
+      {
+        "club": "Trabzonspor",
+        "start": "2021",
+        "end": "2022"
+      },
+      {
+        "club": "Göztepe",
+        "start": "2022",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Slovakia",
+        "start": "2007",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Mario Balotelli": {
+    "career": [
+      {
+        "club": "Lumezzane",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Man City",
+        "start": "2010",
+        "end": "2013"
+      },
+      {
+        "club": "Milan",
+        "start": "2013",
+        "end": "2016"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2014",
+        "end": "2016"
+      },
+      {
+        "club": "Nice",
+        "start": "2016",
+        "end": "2019"
+      },
+      {
+        "club": "Marseille",
+        "start": "2019",
+        "end": "2019"
+      },
+      {
+        "club": "Brescia",
+        "start": "2019",
+        "end": "2020"
+      },
+      {
+        "club": "Monza",
+        "start": "2021",
+        "end": "2022"
+      },
+      {
+        "club": "Adana Demirspor",
+        "start": "2022",
+        "end": "2023"
+      },
+      {
+        "club": "Sion",
+        "start": "2023",
+        "end": "2024"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Italy",
+        "start": "2010",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Mario Gómez": {
+    "career": [
+      {
+        "club": "VfB Stuttgart",
+        "start": "2003",
+        "end": "2009"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "2013",
+        "end": "2015"
+      },
+      {
+        "club": "Besiktas",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Wolfsburg",
+        "start": "2016",
+        "end": "2019"
+      },
+      {
+        "club": "VfB Stuttgart",
+        "start": "2019",
+        "end": "2020"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2007",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Javier Mascherano": {
+    "career": [
+      {
+        "club": "River Plate",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Corinthians",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "West Ham United",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2010",
+        "end": "2018"
+      },
+      {
+        "club": "Hebei China Fortune",
+        "start": "2018",
+        "end": "2020"
+      },
+      {
+        "club": "Estudiantes",
+        "start": "2020",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "2003",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Micah Richards": {
+    "career": [
+      {
+        "club": "Man City",
+        "start": "2005",
+        "end": "2015"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "2015",
+        "end": "2016"
+      },
+      {
+        "club": "Aston Villa",
+        "start": "2016",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2006",
+        "end": "2012"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Hidetoshi Nakata": {
+    "career": [
+      {
+        "club": "Bellmare Hiratsuka",
+        "start": "1995",
+        "end": "1998"
+      },
+      {
+        "club": "Perugia",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "club": "Roma",
+        "start": "2000",
+        "end": "2001"
+      },
+      {
+        "club": "Parma",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Bologna",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Fiorentina",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Bolton Wanderers",
+        "start": "2005",
+        "end": "2006"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Japan",
+        "start": "1997",
+        "end": "2006"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Paulo Futre": {
+    "career": [
+      {
+        "club": "Sporting CP",
+        "start": "1983",
+        "end": "1985"
+      },
+      {
+        "club": "Porto",
+        "start": "1985",
+        "end": "1987"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "start": "1987",
+        "end": "1993"
+      },
+      {
+        "club": "Benfica",
+        "start": "1993",
+        "end": "1995"
+      },
+      {
+        "club": "Marseille",
+        "start": "1995",
+        "end": "1996"
+      },
+      {
+        "club": "Milan",
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "club": "West Ham United",
+        "start": "1996",
+        "end": "1997"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "1983",
+        "end": "1995"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Pepe": {
+    "career": [
+      {
+        "club": "Marítimo",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Porto",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2007",
+        "end": "2017"
+      },
+      {
+        "club": "Besiktas",
+        "start": "2017",
+        "end": "2019"
+      },
+      {
+        "club": "Porto",
+        "start": "2019",
+        "end": "2024"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "2007",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Peter Crouch": {
+    "career": [
+      {
+        "club": "Tottenham Hotspur",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "club": "QPR",
+        "start": "2000",
+        "end": "2001"
+      },
+      {
+        "club": "Portsmouth",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "club": "Aston Villa",
+        "start": "2002",
+        "end": "2005"
+      },
+      {
+        "club": "Southampton",
+        "start": "2005",
+        "end": "2005"
+      },
+      {
+        "club": "Liverpool",
+        "start": "2005",
+        "end": "2008"
+      },
+      {
+        "club": "Portsmouth",
+        "start": "2008",
+        "end": "2011"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "start": "2011",
+        "end": "2015"
+      },
+      {
+        "club": "Stoke City",
+        "start": "2015",
+        "end": "2019"
+      },
+      {
+        "club": "Burnley",
+        "start": "2019",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "England",
+        "start": "2005",
+        "end": "2010"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Ricardo Quaresma": {
+    "career": [
+      {
+        "club": "Sporting CP",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "club": "Porto",
+        "start": "2004",
+        "end": "2008"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2008",
+        "end": "2010"
+      },
+      {
+        "club": "Beşiktaş",
+        "start": "2010",
+        "end": "2011"
+      },
+      {
+        "club": "Porto",
+        "start": "2011",
+        "end": "2012"
+      },
+      {
+        "club": "Al-Ahli",
+        "start": "2012",
+        "end": "2015"
+      },
+      {
+        "club": "Beşiktaş",
+        "start": "2015",
+        "end": "2018"
+      },
+      {
+        "club": "Kasımpaşa",
+        "start": "2019",
+        "end": "2020"
+      },
+      {
+        "club": "Vitória Guimarães",
+        "start": "2021",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Portugal",
+        "start": "2003",
+        "end": "2019"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Rafael Márquez": {
+    "career": [
+      {
+        "club": "Atlas",
+        "start": "1996",
+        "end": "1999"
+      },
+      {
+        "club": "Monaco",
+        "start": "1999",
+        "end": "2003"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2003",
+        "end": "2010"
+      },
+      {
+        "club": "New York Red Bulls",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "club": "León",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "club": "Hellas Verona",
+        "start": "2013",
+        "end": "2013"
+      },
+      {
+        "club": "Atlas",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Mexico",
+        "start": "1997",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Arjen Robben": {
+    "career": [
+      {
+        "club": "Groningen",
+        "start": "2000",
+        "end": "2002"
+      },
+      {
+        "club": "PSV",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2004",
+        "end": "2007"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2007",
+        "end": "2009"
+      },
+      {
+        "club": "Bayern München",
+        "start": "2009",
+        "end": "2019"
+      },
+      {
+        "club": "Groningen",
+        "start": "2020",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "2003",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Sami Khedira": {
+    "career": [
+      {
+        "club": "VfB Stuttgart",
+        "start": "2006",
+        "end": "2010"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2010",
+        "end": "2015"
+      },
+      {
+        "club": "Juventus",
+        "start": "2015",
+        "end": "2020"
+      },
+      {
+        "club": "Hertha BSC",
+        "start": "2021",
+        "end": "2023"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "2009",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Sergio Ramos": {
+    "career": [
+      {
+        "club": "Sevilla",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2005",
+        "end": "2021"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2021",
+        "end": "2023"
+      },
+      {
+        "club": "Sevilla",
+        "start": "2023",
+        "end": "2024"
+      },
+      {
+        "club": "Monterrey",
+        "start": "2025",
+        "end": "2025"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Spain",
+        "start": "2005",
+        "end": "2023"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Wesley Sneijder": {
+    "career": [
+      {
+        "club": "Ajax",
+        "start": "2002",
+        "end": "2007"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2007",
+        "end": "2009"
+      },
+      {
+        "club": "Internazionale",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "club": "Galatasaray",
+        "start": "2013",
+        "end": "2017"
+      },
+      {
+        "club": "Nice",
+        "start": "2017",
+        "end": "2018"
+      },
+      {
+        "club": "Al-Gharafa",
+        "start": "2018",
+        "end": "2018"
+      },
+      {
+        "club": "Qatar SC",
+        "start": "2019",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Netherlands",
+        "start": "2003",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Carlos Tévez": {
+    "career": [
+      {
+        "club": "Boca Juniors",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "club": "Corinthians",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "West Ham United",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2007",
+        "end": "2009"
+      },
+      {
+        "club": "Man City",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "club": "Juventus",
+        "start": "2013",
+        "end": "2015"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "2015",
+        "end": "2017"
+      },
+      {
+        "club": "Shanghai Shenhua",
+        "start": "2017",
+        "end": "2018"
+      },
+      {
+        "club": "Boca Juniors",
+        "start": "2018",
+        "end": "2021"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Argentina",
+        "start": "2004",
+        "end": "2015"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Thiago Silva": {
+    "career": [
+      {
+        "club": "Juventude",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "club": "RS Futebol Clube",
+        "start": "2004",
+        "end": "2004"
+      },
+      {
+        "club": "Dynamo Moscow",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "club": "Porto",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "Fluminense",
+        "start": "2006",
+        "end": "2008"
+      },
+      {
+        "club": "Milan",
+        "start": "2009",
+        "end": "2012"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "start": "2012",
+        "end": "2020"
+      },
+      {
+        "club": "Chelsea",
+        "start": "2020",
+        "end": "2024"
+      },
+      {
+        "club": "Fluminense",
+        "start": "2024",
+        "end": "2026"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2008",
+        "end": "2022"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Tim Cahill": {
+    "career": [
+      {
+        "club": "Sydney United",
+        "start": "1997",
+        "end": "1997"
+      },
+      {
+        "club": "Millwall",
+        "start": "1997",
+        "end": "2004"
+      },
+      {
+        "club": "Everton",
+        "start": "2004",
+        "end": "2012"
+      },
+      {
+        "club": "New York Red Bulls",
+        "start": "2012",
+        "end": "2016"
+      },
+      {
+        "club": "Shanghai Shenhua",
+        "start": "2016",
+        "end": "2017"
+      },
+      {
+        "club": "Hangzhou Greentown",
+        "start": "2017",
+        "end": "2017"
+      },
+      {
+        "club": "Millwall",
+        "start": "2017",
+        "end": "2018"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Australia",
+        "start": "2004",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Tim Howard": {
+    "career": [
+      {
+        "club": "New York/New Jersey MetroStars",
+        "start": "1998",
+        "end": "2003"
+      },
+      {
+        "club": "Manchester United",
+        "start": "2003",
+        "end": "2007"
+      },
+      {
+        "club": "Everton",
+        "start": "2006",
+        "end": "2016"
+      },
+      {
+        "club": "Colorado Rapids",
+        "start": "2016",
+        "end": "2019"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "USA",
+        "start": "2002",
+        "end": "2017"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Vincent Kompany": {
+    "career": [
+      {
+        "club": "Anderlecht",
+        "start": "2003",
+        "end": "2006"
+      },
+      {
+        "club": "Hamburger SV",
+        "start": "2006",
+        "end": "2008"
+      },
+      {
+        "club": "Man City",
+        "start": "2008",
+        "end": "2019"
+      },
+      {
+        "club": "Anderlecht",
+        "start": "2019",
+        "end": "2020"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Belgium",
+        "start": "2004",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Rudi Völler": {
+    "career": [
+      {
+        "club": "TuS Hasborn",
+        "start": "1975",
+        "end": "1977"
+      },
+      {
+        "club": "1. FC Kaiserslautern",
+        "start": "1977",
+        "end": "1982"
+      },
+      {
+        "club": "Werder Bremen",
+        "start": "1982",
+        "end": "1987"
+      },
+      {
+        "club": "Roma",
+        "start": "1987",
+        "end": "1992"
+      },
+      {
+        "club": "Marseille",
+        "start": "1992",
+        "end": "1994"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "start": "1994",
+        "end": "1996"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Germany",
+        "start": "1982",
+        "end": "1994"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Yaya Touré": {
+    "career": [
+      {
+        "club": "ASEC Mimosas",
+        "start": "2001",
+        "end": "2001"
+      },
+      {
+        "club": "Beveren",
+        "start": "2001",
+        "end": "2003"
+      },
+      {
+        "club": "Metalurh Donetsk",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "club": "Olympiacos",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "club": "Monaco",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "club": "Barcelona",
+        "start": "2007",
+        "end": "2010"
+      },
+      {
+        "club": "Man City",
+        "start": "2010",
+        "end": "2018"
+      },
+      {
+        "club": "Olympiacos",
+        "start": "2019",
+        "end": "2019"
+      },
+      {
+        "club": "Qingdao Huanghai",
+        "start": "2020",
+        "end": "2020"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Ivory Coast",
+        "start": "2004",
+        "end": "2016"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
+"Marcelo": {
+    "career": [
+      {
+        "club": "Fluminense",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "club": "Real Madrid",
+        "start": "2007",
+        "end": "2022"
+      },
+      {
+        "club": "Olympiacos",
+        "start": "2022",
+        "end": "2023"
+      },
+      {
+        "club": "Fluminense",
+        "start": "2023",
+        "end": "2024"
+      }
+    ],
+    "nationalCareer": [
+      {
+        "team": "Brazil",
+        "start": "2006",
+        "end": "2018"
+      }
+    ],
+    "nationalHistoryChecked": true,
+    "source": "manual"
+  },
   "Lionel Messi": {
     "career": [
       {
