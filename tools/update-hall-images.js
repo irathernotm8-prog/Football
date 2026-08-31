@@ -213,18 +213,21 @@ function absoluteUrl(src, baseUrl) {
   try { return new URL(src, baseUrl).href; } catch { return null; }
 }
 function imageCandidateScore(c, playerName) {
-  const hay = `${c.url} ${c.alt || ''} ${c.title || ''} ${c.className || ''} ${c.id || ''}`.toLowerCase();
+  const hay = `${c.url} ${c.alt || ''} ${c.title || ''} ${c.className || ''} ${c.id || ''} ${c.context || ''}`.toLowerCase();
   let score = 0;
   const n = normalizeText(playerName);
-  if (normalizeText(c.alt).includes(n)) score += 80;
-  if (normalizeText(c.title).includes(n)) score += 50;
-  if (/player.?image|player.?pic|player.?photo|headshot|portrait|face/.test(hay)) score += 80;
-  if (/\/players?\/|playerimages|player_faces|playerfaces|\/faces\//.test(hay)) score += 55;
-  if (/\.png(?:\?|$)/.test(c.url)) score += 20;
+  if (normalizeText(c.alt).includes(n)) score += 100;
+  if (normalizeText(c.title).includes(n)) score += 60;
+  if (/player.?image|player.?pic|player.?photo|headshot|portrait|face|playerimg|player-img/.test(hay)) score += 110;
+  if (/\/players?\/|playerimages|player_faces|playerfaces|\/faces\/|\/heads?\//.test(hay)) score += 70;
+  if (/dynamic.?image|cutout|render/.test(hay)) score += 45;
+  if (/\.png(?:\?|$)/.test(c.url)) score += 25;
   if (/\.webp(?:\?|$)/.test(c.url)) score += 15;
-  if (/\.jpe?g(?:\?|$)/.test(c.url)) score += 10;
-  if (/card|background|badge|logo|flag|nation|teamlogo|loader|sprite|favicon|social|banner|adserver/.test(hay)) score -= 120;
-  if (/fifarosters/i.test(c.url)) score += 15;
+  if (/\.jpe?g(?:\?|$)/.test(c.url)) score += 8;
+  if (/card|background|badge|logo|flag|nation|teamlogo|loader|sprite|favicon|social|banner|adserver|pitch|chemstyle|position.?rating/.test(hay)) score -= 160;
+  if (/fifarosters/i.test(c.url)) score += 10;
+  if (Number(c.width) >= 150 && Number(c.height) >= 150) score += 10;
+  if (Number(c.width) && Number(c.height) && Number(c.height) > Number(c.width)) score += 8;
   return score;
 }
 function imageCandidatesFromPage(html, pageUrl, playerName) {
@@ -239,18 +242,90 @@ function imageCandidatesFromPage(html, pageUrl, playerName) {
     out.push(c);
   }
   const og = parseMeta(html, 'og:image');
-  if (og) add(og, { source: 'og:image' });
+  if (og) add(og, { source: 'og:image', context: 'meta social image' });
   const tw = parseMeta(html, 'twitter:image');
-  if (tw) add(tw, { source: 'twitter:image' });
+  if (tw) add(tw, { source: 'twitter:image', context: 'meta social image' });
   const imgRe = /<img\b[^>]*>/gi;
   let m;
   while ((m = imgRe.exec(html))) {
     const tag = m[0];
+    const context = stripTags(html.slice(Math.max(0, m.index - 260), Math.min(html.length, m.index + tag.length + 260)));
     add(attr(tag, 'src') || attr(tag, 'data-src') || attr(tag, 'data-lazy-src'), {
-      source: 'img', alt: attr(tag, 'alt'), title: attr(tag, 'title'), className: attr(tag, 'class'), id: attr(tag, 'id')
+      source: 'img', alt: attr(tag, 'alt'), title: attr(tag, 'title'), className: attr(tag, 'class'), id: attr(tag, 'id'),
+      width: attr(tag, 'width'), height: attr(tag, 'height'), context
     });
   }
   return out.sort((a, b) => b.score - a.score);
+}
+
+function parsePngInfo(buf) {
+  if (!buf || buf.length < 33) return null;
+  const sig = Buffer.from([137,80,78,71,13,10,26,10]);
+  if (!buf.subarray(0,8).equals(sig)) return null;
+  const width = buf.readUInt32BE(16);
+  const height = buf.readUInt32BE(20);
+  const colorType = buf[25];
+  return { width, height, hasAlpha: colorType === 4 || colorType === 6, format: 'png' };
+}
+function parseJpegInfo(buf) {
+  if (!buf || buf.length < 4 || buf[0] !== 0xff || buf[1] !== 0xd8) return null;
+  let i = 2;
+  while (i + 9 < buf.length) {
+    if (buf[i] !== 0xff) { i++; continue; }
+    const marker = buf[i + 1];
+    i += 2;
+    if (marker === 0xd8 || marker === 0xd9) continue;
+    if (i + 2 > buf.length) break;
+    const len = buf.readUInt16BE(i);
+    if (len < 2 || i + len > buf.length) break;
+    if ([0xc0,0xc1,0xc2,0xc3,0xc5,0xc6,0xc7,0xc9,0xca,0xcb,0xcd,0xce,0xcf].includes(marker) && len >= 7) {
+      return { width: buf.readUInt16BE(i + 5), height: buf.readUInt16BE(i + 3), hasAlpha: false, format: 'jpeg' };
+    }
+    i += len;
+  }
+  return null;
+}
+async function probeImageCandidate(c) {
+  try {
+    const res = await fetchResponse(c.url, 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8');
+    const ct = (res.headers.get('content-type') || '').toLowerCase();
+    if (!ct.startsWith('image/')) return { ...c, probeScore: -500, probeError: `non-image ${ct}` };
+    const buf = Buffer.from(await res.arrayBuffer());
+    const info = parsePngInfo(buf) || parseJpegInfo(buf) || {};
+    let probeScore = 0;
+    const width = Number(info.width || c.width || 0);
+    const height = Number(info.height || c.height || 0);
+    if (info.hasAlpha) probeScore += 70;
+    if (info.format === 'png') probeScore += 15;
+    if (width >= 180 && height >= 180) probeScore += 20;
+    if (width >= 300 && height >= 300) probeScore += 15;
+    if (width && height) {
+      const ratio = width / height;
+      if (ratio >= 0.45 && ratio <= 1.15) probeScore += 25; // portrait/cutout-like
+      if (ratio > 1.45) probeScore -= 35; // banners and wide assets
+      if (width <= 140 || height <= 140) probeScore -= 50; // flags, badges, icons
+    }
+    if (buf.length >= 15000) probeScore += 10;
+    if (buf.length < 3000) probeScore -= 40;
+    return { ...c, probeScore, totalScore: c.score + probeScore, probe: { ...info, bytes: buf.length, contentType: ct } };
+  } catch (err) {
+    return { ...c, probeScore: -250, totalScore: c.score - 250, probeError: err.message };
+  }
+}
+async function chooseBestImage(images, playerName) {
+  if (!images.length) return { selected: null, probed: [] };
+  // Probe only plausible top candidates. This keeps requests low while breaking DOM-score ties.
+  const cutoff = Math.max(20, images[0].score - 35);
+  const shortlist = images.filter((c) => c.score >= cutoff).slice(0, 8);
+  const probed = [];
+  for (const c of shortlist) {
+    probed.push(await probeImageCandidate(c));
+    await sleep(Math.min(DELAY_MS, 180));
+  }
+  probed.sort((a,b) => (b.totalScore ?? b.score) - (a.totalScore ?? a.score));
+  const selected = probed[0] || images[0];
+  if (!selected || (selected.totalScore ?? selected.score) < 35) return { selected: null, probed };
+  return { selected, probed };
 }
 function parseFifaParams(pageUrl) {
   try {
@@ -307,13 +382,21 @@ async function inspectPlayer(playerName, sourceConfig) {
   if (!images.length || images[0].score < 20) {
     throw new Error(`No confident player image found on FifaRosters page${VERBOSE && images[0] ? `; best candidate ${images[0].url} score=${images[0].score}` : ''}`);
   }
-  if (images.length > 1 && images[0].score === images[1].score && images[0].url !== images[1].url) {
-    throw new Error('Multiple equally likely FifaRosters images; use --verbose and pin imageUrl in data/hall-image-sources.json');
-  }
   const configured = sourceConfig[playerName];
   const pinnedImage = configured && typeof configured === 'object' ? configured.imageUrl : null;
-  const selected = pinnedImage ? { url: pinnedImage, score: 999, source: 'override' } : images[0];
-  return { pageUrl: finalUrl, image: selected, params: parseFifaParams(finalUrl), candidates: images.slice(0, 10) };
+  if (pinnedImage) {
+    return { pageUrl: finalUrl, image: { url: pinnedImage, score: 999, totalScore: 999, source: 'override' }, params: parseFifaParams(finalUrl), candidates: images.slice(0, 10), probed: [] };
+  }
+  const chosen = await chooseBestImage(images, playerName);
+  if (!chosen.selected) throw new Error('No confident player portrait after inspecting candidate image dimensions/transparency');
+  if (chosen.probed.length > 1) {
+    const a = chosen.probed[0], b = chosen.probed[1];
+    const gap = (a.totalScore ?? a.score) - (b.totalScore ?? b.score);
+    if (gap < 8 && a.url !== b.url) {
+      throw new Error('Multiple FifaRosters images remain visually ambiguous after probing; pin imageUrl in data/hall-image-sources.json');
+    }
+  }
+  return { pageUrl: finalUrl, image: chosen.selected, params: parseFifaParams(finalUrl), candidates: images.slice(0, 10), probed: chosen.probed };
 }
 
 function extensionFrom(contentType, url) {
@@ -365,7 +448,12 @@ async function main() {
       console.log(`~ ${name}`);
       console.log(`    page:  ${info.pageUrl}`);
       console.log(`    image: ${info.image.url}${VERBOSE ? `  [score ${info.image.score}, ${info.image.source}]` : ''}`);
-      if (VERBOSE && info.candidates.length > 1) {
+      if (VERBOSE && info.probed?.length) {
+        for (const c of info.probed.slice(0, 6)) {
+          const p = c.probe || {};
+          console.log(`      probe: ${c.url} [dom ${c.score}, probe ${c.probeScore ?? 'n/a'}, total ${c.totalScore ?? c.score}, ${p.width || '?'}x${p.height || '?'}, alpha=${p.hasAlpha ?? '?'}, ${p.bytes || '?'} bytes]`);
+        }
+      } else if (VERBOSE && info.candidates.length > 1) {
         for (const c of info.candidates.slice(1, 5)) console.log(`      alt: ${c.url} [score ${c.score}]`);
       }
       if (WRITE) {
