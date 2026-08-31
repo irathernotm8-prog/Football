@@ -1,8 +1,21 @@
 {
   "Thierry Henry": {
-    "url": "https://www.fifarosters.com/players?futid=1625&player=1625&v=19"
+    "url": "https://www.fifarosters.com/players?futid=1625&player=1625&v=25",
+    "imageUrl": "https://www.fifarosters.com/assets/players/fifa25/faces/1625.png"
   },
   "Paolo Maldini": {
     "url": "https://www.fifarosters.com/players?futid=238439&player=238439&v=25"
+  },
+  "Xavi": {
+    "url": "https://www.fifarosters.com/players?futid=10535&player=10535&v=25"
+  },
+  "Cafu": {
+    "url": "https://www.fifarosters.com/players?futid=5003&player=5003&v=26"
+  },
+  "Luís Figo": {
+    "url": "https://www.fifarosters.com/players?futid=5589&player=5589&v=26"
+  },
+  "Marcelo": {
+    "url": "https://www.fifarosters.com/players?player=176676"
   }
 }

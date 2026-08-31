@@ -106,8 +106,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/cafu.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5003&player=5003&v=26",
+    "fifaRostersPlayerId": 5003,
+    "fifaRostersFutId": 5003,
+    "fifaVersion": 26
   },
   "Roberto Carlos": {
     "fotmobId": null,
@@ -302,8 +307,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/marcelo.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?player=176676",
+    "fifaRostersPlayerId": 176676,
+    "fifaRostersFutId": null,
+    "fifaVersion": null
   },
   "Maicon": {
     "fotmobId": null,
@@ -379,8 +389,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/xavi.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=10535&player=10535&v=25",
+    "fifaRostersPlayerId": 10535,
+    "fifaRostersFutId": 10535,
+    "fifaVersion": 25
   },
   "Andrés Iniesta": {
     "fotmobId": 30955,
@@ -582,8 +597,13 @@
     "fotmobId": null,
     "position": null,
     "nationality": null,
-    "photo": null,
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/luis-figo.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=5589&player=5589&v=26",
+    "fifaRostersPlayerId": 5589,
+    "fifaRostersFutId": 5589,
+    "fifaVersion": 26
   },
   "Ronaldinho": {
     "fotmobId": 30743,
@@ -869,8 +889,13 @@
     "fotmobId": 30626,
     "position": "ST",
     "nationality": "France",
-    "photo": "https://images.fotmob.com/image_resources/playerimages/30626.png",
-    "status": "Retired"
+    "photo": "assets/hall-of-fame/thierry-henry.png",
+    "status": "Retired",
+    "photoSource": "fifarosters",
+    "fifaRostersUrl": "https://www.fifarosters.com/players?futid=1625&player=1625&v=25",
+    "fifaRostersPlayerId": 1625,
+    "fifaRostersFutId": 1625,
+    "fifaVersion": 25
   },
   "Dennis Bergkamp": {
     "fotmobId": null,

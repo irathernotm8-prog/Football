@@ -391,14 +391,15 @@ async function inspectPlayer(playerName, sourceConfig) {
     html = fetched.text; finalUrl = fetched.finalUrl;
   }
   const h1 = parseH1(html);
-  if (h1 && normalizeText(h1) !== normalizeText(playerName)) {
+  const configured = sourceConfig[playerName];
+  const isPinnedPage = configured && typeof configured === 'object' && configured.url;
+  if (!isPinnedPage && h1 && normalizeText(h1) !== normalizeText(playerName)) {
     throw new Error(`FifaRosters page identifies "${h1}", not "${playerName}"`);
   }
   const images = imageCandidatesFromPage(html, finalUrl, playerName);
   if (!images.length || images[0].score < 20) {
     throw new Error(`No confident player image found on FifaRosters page${VERBOSE && images[0] ? `; best candidate ${images[0].url} score=${images[0].score}` : ''}`);
   }
-  const configured = sourceConfig[playerName];
   const pinnedImage = configured && typeof configured === 'object' ? configured.imageUrl : null;
   if (pinnedImage) {
     return { pageUrl: finalUrl, image: { url: pinnedImage, score: 999, totalScore: 999, source: 'override' }, params: parseFifaParams(finalUrl), candidates: images.slice(0, 10), probed: [] };
