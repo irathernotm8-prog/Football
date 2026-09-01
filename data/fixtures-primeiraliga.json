@@ -251,7 +251,7 @@
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-09T19:15:00Z",
+    "dateUtc": "2026-09-09T19:45:00Z",
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "SL Benfica",
@@ -345,9 +345,9 @@
     "venue": "Estádio Municipal de Braga",
     "home": "SC Braga",
     "away": "Vitória SC",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5887612,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -355,9 +355,9 @@
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Estoril Praia",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5887617,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,

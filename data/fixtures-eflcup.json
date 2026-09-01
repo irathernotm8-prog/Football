@@ -51,16 +51,6 @@
   },
   {
     "round": 3,
-    "dateUtc": "2026-09-09T18:45:00Z",
-    "venue": "Hill Dickinson Stadium",
-    "home": "Everton",
-    "away": "Wolverhampton Wanderers",
-    "result": null,
-    "fotmobId": 6099338,
-    "status": "scheduled"
-  },
-  {
-    "round": 3,
     "dateUtc": "2026-09-09T19:00:00Z",
     "venue": "Stamford Bridge",
     "home": "Chelsea",
@@ -102,11 +92,31 @@
   {
     "round": 3,
     "dateUtc": "2026-09-15T19:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Spurs",
+    "result": null,
+    "fotmobId": 6099335,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-15T19:00:00Z",
     "venue": "Reading Stadium",
     "home": "Reading",
     "away": "Brentford",
     "result": null,
     "fotmobId": 6099340,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-09-16T18:45:00Z",
+    "venue": "Hill Dickinson Stadium",
+    "home": "Everton",
+    "away": "Wolverhampton Wanderers",
+    "result": null,
+    "fotmobId": 6099338,
     "status": "scheduled"
   },
   {
@@ -127,16 +137,6 @@
     "away": "Aston Villa",
     "result": null,
     "fotmobId": 6099333,
-    "status": "scheduled"
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-09-16T19:00:00Z",
-    "venue": "Anfield",
-    "home": "Liverpool",
-    "away": "Spurs",
-    "result": null,
-    "fotmobId": 6099335,
     "status": "scheduled"
   },
   {

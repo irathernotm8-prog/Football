@@ -1,1 +1,1802 @@
-[]
+[
+  {
+    "fotmobId": 5765891,
+    "round": 1,
+    "dateUtc": "2026-07-31T18:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Slaven Belupo",
+    "result": "2-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765893,
+    "round": 1,
+    "dateUtc": "2026-08-01T16:30:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Lokomotiva Zagreb",
+    "result": "2-3",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765892,
+    "round": 1,
+    "dateUtc": "2026-08-01T19:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Osijek",
+    "result": "0-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765895,
+    "round": 1,
+    "dateUtc": "2026-08-02T16:30:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Hajduk Split",
+    "result": "2-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765894,
+    "round": 1,
+    "dateUtc": "2026-08-02T19:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Rudeš",
+    "result": "2-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765901,
+    "round": 2,
+    "dateUtc": "2026-08-08T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "cancelled"
+  },
+  {
+    "fotmobId": 5765902,
+    "round": 2,
+    "dateUtc": "2026-08-08T16:30:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Osijek",
+    "result": "1-6",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765900,
+    "round": 2,
+    "dateUtc": "2026-08-08T19:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Gorica",
+    "result": "3-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765903,
+    "round": 2,
+    "dateUtc": "2026-08-09T16:30:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Varaždin",
+    "result": "1-4",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765899,
+    "round": 2,
+    "dateUtc": "2026-08-09T19:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Istra 1961",
+    "result": "2-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765904,
+    "round": 3,
+    "dateUtc": "2026-08-14T18:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Rudeš",
+    "result": "4-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765906,
+    "round": 3,
+    "dateUtc": "2026-08-15T16:30:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Slaven Belupo",
+    "result": "3-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765907,
+    "round": 3,
+    "dateUtc": "2026-08-15T19:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Lokomotiva Zagreb",
+    "result": "1-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765908,
+    "round": 3,
+    "dateUtc": "2026-08-16T16:30:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Rijeka",
+    "result": "2-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765905,
+    "round": 3,
+    "dateUtc": "2026-08-16T19:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Hajduk Split",
+    "result": "1-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765912,
+    "round": 4,
+    "dateUtc": "2026-08-21T18:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Lokomotiva Zagreb",
+    "result": "4-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765913,
+    "round": 4,
+    "dateUtc": "2026-08-22T16:30:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Gorica",
+    "result": "2-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765909,
+    "round": 4,
+    "dateUtc": "2026-08-22T19:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Varaždin",
+    "result": "3-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765911,
+    "round": 4,
+    "dateUtc": "2026-08-23T16:30:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Istra 1961",
+    "result": "3-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765910,
+    "round": 4,
+    "dateUtc": "2026-08-23T19:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Osijek",
+    "result": "4-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765915,
+    "round": 5,
+    "dateUtc": "2026-08-29T16:30:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Dinamo Zagreb",
+    "result": "2-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765918,
+    "round": 5,
+    "dateUtc": "2026-08-29T19:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Rudeš",
+    "result": "2-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765917,
+    "round": 5,
+    "dateUtc": "2026-08-30T18:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Slaven Belupo",
+    "result": "3-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765960,
+    "round": 5,
+    "dateUtc": "2026-08-31T16:30:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Lokomotiva Zagreb",
+    "result": "2-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765914,
+    "round": 5,
+    "dateUtc": "2026-08-31T19:30:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Rijeka",
+    "result": "0-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5765923,
+    "round": 6,
+    "dateUtc": "2026-09-04T18:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765919,
+    "round": 6,
+    "dateUtc": "2026-09-05T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765920,
+    "round": 6,
+    "dateUtc": "2026-09-05T19:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765921,
+    "round": 6,
+    "dateUtc": "2026-09-06T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765922,
+    "round": 6,
+    "dateUtc": "2026-09-06T19:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765928,
+    "round": 7,
+    "dateUtc": "2026-09-12T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765927,
+    "round": 7,
+    "dateUtc": "2026-09-12T18:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765926,
+    "round": 7,
+    "dateUtc": "2026-09-13T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765925,
+    "round": 7,
+    "dateUtc": "2026-09-13T18:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765924,
+    "round": 7,
+    "dateUtc": "2026-09-14T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765932,
+    "round": 8,
+    "dateUtc": "2026-09-18T18:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765933,
+    "round": 8,
+    "dateUtc": "2026-09-19T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765930,
+    "round": 8,
+    "dateUtc": "2026-09-19T18:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765931,
+    "round": 8,
+    "dateUtc": "2026-09-20T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765929,
+    "round": 8,
+    "dateUtc": "2026-09-20T18:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765934,
+    "round": 9,
+    "dateUtc": "2026-10-10T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765935,
+    "round": 9,
+    "dateUtc": "2026-10-10T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765936,
+    "round": 9,
+    "dateUtc": "2026-10-10T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765937,
+    "round": 9,
+    "dateUtc": "2026-10-10T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765938,
+    "round": 9,
+    "dateUtc": "2026-10-10T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765939,
+    "round": 10,
+    "dateUtc": "2026-10-17T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765940,
+    "round": 10,
+    "dateUtc": "2026-10-17T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765941,
+    "round": 10,
+    "dateUtc": "2026-10-17T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765942,
+    "round": 10,
+    "dateUtc": "2026-10-17T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765943,
+    "round": 10,
+    "dateUtc": "2026-10-17T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765944,
+    "round": 11,
+    "dateUtc": "2026-10-24T15:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765945,
+    "round": 11,
+    "dateUtc": "2026-10-24T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765946,
+    "round": 11,
+    "dateUtc": "2026-10-24T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765947,
+    "round": 11,
+    "dateUtc": "2026-10-24T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765948,
+    "round": 11,
+    "dateUtc": "2026-10-24T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765949,
+    "round": 12,
+    "dateUtc": "2026-10-31T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765950,
+    "round": 12,
+    "dateUtc": "2026-10-31T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765951,
+    "round": 12,
+    "dateUtc": "2026-10-31T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765952,
+    "round": 12,
+    "dateUtc": "2026-10-31T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765953,
+    "round": 12,
+    "dateUtc": "2026-10-31T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765954,
+    "round": 13,
+    "dateUtc": "2026-11-07T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765955,
+    "round": 13,
+    "dateUtc": "2026-11-07T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765956,
+    "round": 13,
+    "dateUtc": "2026-11-07T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765957,
+    "round": 13,
+    "dateUtc": "2026-11-07T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765958,
+    "round": 13,
+    "dateUtc": "2026-11-07T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765959,
+    "round": 14,
+    "dateUtc": "2026-11-21T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765916,
+    "round": 14,
+    "dateUtc": "2026-11-21T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765961,
+    "round": 14,
+    "dateUtc": "2026-11-21T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765962,
+    "round": 14,
+    "dateUtc": "2026-11-21T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765963,
+    "round": 14,
+    "dateUtc": "2026-11-21T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765964,
+    "round": 15,
+    "dateUtc": "2026-11-28T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765965,
+    "round": 15,
+    "dateUtc": "2026-11-28T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765966,
+    "round": 15,
+    "dateUtc": "2026-11-28T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765967,
+    "round": 15,
+    "dateUtc": "2026-11-28T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765968,
+    "round": 15,
+    "dateUtc": "2026-11-28T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765969,
+    "round": 16,
+    "dateUtc": "2026-12-05T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765970,
+    "round": 16,
+    "dateUtc": "2026-12-05T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765971,
+    "round": 16,
+    "dateUtc": "2026-12-05T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765972,
+    "round": 16,
+    "dateUtc": "2026-12-05T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765973,
+    "round": 16,
+    "dateUtc": "2026-12-05T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765974,
+    "round": 17,
+    "dateUtc": "2026-12-12T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765975,
+    "round": 17,
+    "dateUtc": "2026-12-12T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765976,
+    "round": 17,
+    "dateUtc": "2026-12-12T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765977,
+    "round": 17,
+    "dateUtc": "2026-12-12T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765978,
+    "round": 17,
+    "dateUtc": "2026-12-12T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765979,
+    "round": 18,
+    "dateUtc": "2026-12-19T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765980,
+    "round": 18,
+    "dateUtc": "2026-12-19T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765981,
+    "round": 18,
+    "dateUtc": "2026-12-19T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765982,
+    "round": 18,
+    "dateUtc": "2026-12-19T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765983,
+    "round": 18,
+    "dateUtc": "2026-12-19T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765984,
+    "round": 19,
+    "dateUtc": "2027-01-23T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765985,
+    "round": 19,
+    "dateUtc": "2027-01-23T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765987,
+    "round": 19,
+    "dateUtc": "2027-01-23T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765988,
+    "round": 19,
+    "dateUtc": "2027-01-23T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765989,
+    "round": 19,
+    "dateUtc": "2027-01-23T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765990,
+    "round": 20,
+    "dateUtc": "2027-01-30T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765991,
+    "round": 20,
+    "dateUtc": "2027-01-30T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765992,
+    "round": 20,
+    "dateUtc": "2027-01-30T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765993,
+    "round": 20,
+    "dateUtc": "2027-01-30T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765994,
+    "round": 20,
+    "dateUtc": "2027-01-30T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765995,
+    "round": 21,
+    "dateUtc": "2027-02-06T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765996,
+    "round": 21,
+    "dateUtc": "2027-02-06T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765997,
+    "round": 21,
+    "dateUtc": "2027-02-06T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765998,
+    "round": 21,
+    "dateUtc": "2027-02-06T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765999,
+    "round": 21,
+    "dateUtc": "2027-02-06T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766000,
+    "round": 22,
+    "dateUtc": "2027-02-13T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766001,
+    "round": 22,
+    "dateUtc": "2027-02-13T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766002,
+    "round": 22,
+    "dateUtc": "2027-02-13T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766003,
+    "round": 22,
+    "dateUtc": "2027-02-13T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766004,
+    "round": 22,
+    "dateUtc": "2027-02-13T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766005,
+    "round": 23,
+    "dateUtc": "2027-02-20T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766006,
+    "round": 23,
+    "dateUtc": "2027-02-20T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766007,
+    "round": 23,
+    "dateUtc": "2027-02-20T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766008,
+    "round": 23,
+    "dateUtc": "2027-02-20T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766009,
+    "round": 23,
+    "dateUtc": "2027-02-20T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766010,
+    "round": 24,
+    "dateUtc": "2027-02-27T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766011,
+    "round": 24,
+    "dateUtc": "2027-02-27T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766012,
+    "round": 24,
+    "dateUtc": "2027-02-27T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766013,
+    "round": 24,
+    "dateUtc": "2027-02-27T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766014,
+    "round": 24,
+    "dateUtc": "2027-02-27T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766015,
+    "round": 25,
+    "dateUtc": "2027-03-06T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766016,
+    "round": 25,
+    "dateUtc": "2027-03-06T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766017,
+    "round": 25,
+    "dateUtc": "2027-03-06T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766018,
+    "round": 25,
+    "dateUtc": "2027-03-06T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766019,
+    "round": 25,
+    "dateUtc": "2027-03-06T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766020,
+    "round": 26,
+    "dateUtc": "2027-03-13T16:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766021,
+    "round": 26,
+    "dateUtc": "2027-03-13T16:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766022,
+    "round": 26,
+    "dateUtc": "2027-03-13T16:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766023,
+    "round": 26,
+    "dateUtc": "2027-03-13T16:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766024,
+    "round": 26,
+    "dateUtc": "2027-03-13T16:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766025,
+    "round": 27,
+    "dateUtc": "2027-03-20T16:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766026,
+    "round": 27,
+    "dateUtc": "2027-03-20T16:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766027,
+    "round": 27,
+    "dateUtc": "2027-03-20T16:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766028,
+    "round": 27,
+    "dateUtc": "2027-03-20T16:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766029,
+    "round": 27,
+    "dateUtc": "2027-03-20T16:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766030,
+    "round": 28,
+    "dateUtc": "2027-04-03T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766031,
+    "round": 28,
+    "dateUtc": "2027-04-03T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766032,
+    "round": 28,
+    "dateUtc": "2027-04-03T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766033,
+    "round": 28,
+    "dateUtc": "2027-04-03T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766034,
+    "round": 28,
+    "dateUtc": "2027-04-03T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766035,
+    "round": 29,
+    "dateUtc": "2027-04-10T15:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766036,
+    "round": 29,
+    "dateUtc": "2027-04-10T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766037,
+    "round": 29,
+    "dateUtc": "2027-04-10T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766038,
+    "round": 29,
+    "dateUtc": "2027-04-10T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766039,
+    "round": 29,
+    "dateUtc": "2027-04-10T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766040,
+    "round": 30,
+    "dateUtc": "2027-04-17T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766041,
+    "round": 30,
+    "dateUtc": "2027-04-17T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766042,
+    "round": 30,
+    "dateUtc": "2027-04-17T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766043,
+    "round": 30,
+    "dateUtc": "2027-04-17T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766044,
+    "round": 30,
+    "dateUtc": "2027-04-17T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766045,
+    "round": 31,
+    "dateUtc": "2027-04-24T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766046,
+    "round": 31,
+    "dateUtc": "2027-04-24T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766047,
+    "round": 31,
+    "dateUtc": "2027-04-24T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766048,
+    "round": 31,
+    "dateUtc": "2027-04-24T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766049,
+    "round": 31,
+    "dateUtc": "2027-04-24T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766050,
+    "round": 32,
+    "dateUtc": "2027-05-01T15:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766051,
+    "round": 32,
+    "dateUtc": "2027-05-01T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766052,
+    "round": 32,
+    "dateUtc": "2027-05-01T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766053,
+    "round": 32,
+    "dateUtc": "2027-05-01T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766054,
+    "round": 32,
+    "dateUtc": "2027-05-01T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766055,
+    "round": 33,
+    "dateUtc": "2027-05-08T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766056,
+    "round": 33,
+    "dateUtc": "2027-05-08T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766057,
+    "round": 33,
+    "dateUtc": "2027-05-08T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766058,
+    "round": 33,
+    "dateUtc": "2027-05-08T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766059,
+    "round": 33,
+    "dateUtc": "2027-05-08T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766060,
+    "round": 34,
+    "dateUtc": "2027-05-12T15:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766061,
+    "round": 34,
+    "dateUtc": "2027-05-12T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766062,
+    "round": 34,
+    "dateUtc": "2027-05-12T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766063,
+    "round": 34,
+    "dateUtc": "2027-05-12T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766064,
+    "round": 34,
+    "dateUtc": "2027-05-12T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766065,
+    "round": 35,
+    "dateUtc": "2027-05-15T15:00:00Z",
+    "venue": null,
+    "home": "Gorica",
+    "away": "Istra 1961",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766066,
+    "round": 35,
+    "dateUtc": "2027-05-15T15:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Rijeka",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766067,
+    "round": 35,
+    "dateUtc": "2027-05-15T15:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766068,
+    "round": 35,
+    "dateUtc": "2027-05-15T15:00:00Z",
+    "venue": null,
+    "home": "Osijek",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766069,
+    "round": 35,
+    "dateUtc": "2027-05-15T15:00:00Z",
+    "venue": null,
+    "home": "Slaven Belupo",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766070,
+    "round": 36,
+    "dateUtc": "2027-05-22T15:00:00Z",
+    "venue": null,
+    "home": "Dinamo Zagreb",
+    "away": "Hajduk Split",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766071,
+    "round": 36,
+    "dateUtc": "2027-05-22T15:00:00Z",
+    "venue": null,
+    "home": "Istra 1961",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766072,
+    "round": 36,
+    "dateUtc": "2027-05-22T15:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Slaven Belupo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766073,
+    "round": 36,
+    "dateUtc": "2027-05-22T15:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5766074,
+    "round": 36,
+    "dateUtc": "2027-05-22T15:00:00Z",
+    "venue": null,
+    "home": "Varaždin",
+    "away": "Lokomotiva Zagreb",
+    "result": null,
+    "status": "scheduled"
+  }
+]

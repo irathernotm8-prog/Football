@@ -361,27 +361,7 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": "Stade de l'Abbé-Deschamps",
-    "home": "AJ Auxerre",
-    "away": "Stade Brestois 29",
-    "result": null,
-    "fotmobId": 5802938,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": "Stade Raymond Kopa",
-    "home": "Angers SCO",
-    "away": "Estac Troyes",
-    "result": null,
-    "fotmobId": 5802937,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-18T18:45:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "RC Lens",
@@ -391,37 +371,7 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": "Stade Marie-Marvingt",
-    "home": "Le Mans FC",
-    "away": "FC Lorient",
-    "result": null,
-    "fotmobId": 5802939,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": "Allianz Riviera",
-    "home": "OGC Nice",
-    "away": "LOSC Lille",
-    "result": null,
-    "fotmobId": 5802942,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": "Parc Olympique Lyonnais",
-    "home": "Olympique Lyonnais",
-    "away": "Stade Rennais FC",
-    "result": null,
-    "fotmobId": 5802940,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-19T15:15:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "RC Strasbourg Alsace",
@@ -431,12 +381,62 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-19T18:45:00Z",
+    "venue": "Stade Raymond Kopa",
+    "home": "Angers SCO",
+    "away": "Estac Troyes",
+    "result": null,
+    "fotmobId": 5802937,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-19T18:45:00Z",
+    "venue": "Stade Marie-Marvingt",
+    "home": "Le Mans FC",
+    "away": "FC Lorient",
+    "result": null,
+    "fotmobId": 5802939,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-19T18:45:00Z",
+    "venue": "Parc Olympique Lyonnais",
+    "home": "Olympique Lyonnais",
+    "away": "Stade Rennais FC",
+    "result": null,
+    "fotmobId": 5802940,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-19T18:45:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Havre Athletic Club",
     "result": null,
     "fotmobId": 5802944,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-20T13:00:00Z",
+    "venue": "Stade de l'Abbé-Deschamps",
+    "home": "AJ Auxerre",
+    "away": "Stade Brestois 29",
+    "result": null,
+    "fotmobId": 5802938,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-20T15:15:00Z",
+    "venue": "Allianz Riviera",
+    "home": "OGC Nice",
+    "away": "LOSC Lille",
+    "result": null,
+    "fotmobId": 5802942,
     "status": "scheduled"
   },
   {

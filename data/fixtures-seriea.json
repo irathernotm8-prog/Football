@@ -185,9 +185,9 @@
     "venue": "Ettore Giardiniero - Via Del Mare",
     "home": "Lecce",
     "away": "Roma",
-    "result": null,
+    "result": "0-4",
     "fotmobId": 5749656,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 2,
@@ -195,9 +195,9 @@
     "venue": "New Balance Arena",
     "home": "Atalanta",
     "away": "Bologna",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5749651,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -322,11 +322,11 @@
   {
     "round": 4,
     "dateUtc": "2026-09-12T16:00:00Z",
-    "venue": "Mapei Stadium",
-    "home": "Sassuolo",
-    "away": "Juventus",
+    "venue": "Olimpico",
+    "home": "Lazio",
+    "away": "Milan",
     "result": null,
-    "fotmobId": 5749677,
+    "fotmobId": 5749674,
     "status": "scheduled"
   },
   {
@@ -337,26 +337,6 @@
     "away": "Cagliari",
     "result": null,
     "fotmobId": 5749670,
-    "status": "scheduled"
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-09-13T10:30:00Z",
-    "venue": "Olimpico - Grande Torino",
-    "home": "Torino",
-    "away": "Roma",
-    "result": null,
-    "fotmobId": 5749678,
-    "status": "scheduled"
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-09-13T13:00:00Z",
-    "venue": "Giuseppe Sinigaglia",
-    "home": "Como",
-    "away": "Parma",
-    "result": null,
-    "fotmobId": 5749671,
     "status": "scheduled"
   },
   {
@@ -382,11 +362,31 @@
   {
     "round": 4,
     "dateUtc": "2026-09-13T18:45:00Z",
-    "venue": "Olimpico",
-    "home": "Lazio",
-    "away": "Milan",
+    "venue": "Mapei Stadium",
+    "home": "Sassuolo",
+    "away": "Juventus",
     "result": null,
-    "fotmobId": 5749674,
+    "fotmobId": 5749677,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-14T16:30:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Parma",
+    "result": null,
+    "fotmobId": 5749671,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-14T16:30:00Z",
+    "venue": "Olimpico - Grande Torino",
+    "home": "Torino",
+    "away": "Roma",
+    "result": null,
+    "fotmobId": 5749678,
     "status": "scheduled"
   },
   {

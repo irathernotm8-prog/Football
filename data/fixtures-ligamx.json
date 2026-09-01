@@ -526,8 +526,8 @@
     "venue": null,
     "home": "Toluca",
     "away": "FC Juarez",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-0",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014552,
@@ -536,8 +536,8 @@
     "venue": null,
     "home": "Monterrey",
     "away": "Atletico San Luis",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014553,
@@ -712,7 +712,7 @@
   {
     "fotmobId": 1000014569,
     "round": 8,
-    "dateUtc": "2026-09-14T00:07:00Z",
+    "dateUtc": "2026-09-14T01:07:00Z",
     "venue": null,
     "home": "Guadalajara",
     "away": "Pumas UNAM",

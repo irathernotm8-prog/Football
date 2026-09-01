@@ -1,43 +1,13 @@
 [
   {
     "round": 1,
-    "dateUtc": "2026-09-24T16:00:00Z",
+    "dateUtc": "2026-09-24T18:45:00Z",
     "venue": null,
     "home": "Andorra",
     "away": "Malta",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-24T18:45:00Z",
-    "venue": null,
-    "home": "Netherlands",
-    "away": "Germany",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-24T18:45:00Z",
-    "venue": null,
-    "home": "Serbia",
-    "away": "Greece",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-24T18:45:00Z",
-    "venue": null,
-    "home": "Norway",
-    "away": "Denmark",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-24T18:45:00Z",
-    "venue": null,
-    "home": "Portugal",
-    "away": "Wales",
-    "result": null
+    "result": null,
+    "fotmobId": 5181874,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -45,7 +15,9 @@
     "venue": null,
     "home": "Austria",
     "away": "Israel",
-    "result": null
+    "result": null,
+    "fotmobId": 5181812,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -53,7 +25,9 @@
     "venue": null,
     "home": "Kosovo",
     "away": "Republic of Ireland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181813,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -61,15 +35,49 @@
     "venue": null,
     "home": "Liechtenstein",
     "away": "Lithuania",
-    "result": null
+    "result": null,
+    "fotmobId": 5181880,
+    "status": "scheduled"
   },
   {
     "round": 1,
-    "dateUtc": "2026-09-25T16:00:00Z",
+    "dateUtc": "2026-09-24T18:45:00Z",
     "venue": null,
-    "home": "Georgia",
-    "away": "Northern Ireland",
-    "result": null
+    "home": "Netherlands",
+    "away": "Germany",
+    "result": null,
+    "fotmobId": 5181825,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-24T18:45:00Z",
+    "venue": null,
+    "home": "Norway",
+    "away": "Denmark",
+    "result": null,
+    "fotmobId": 5181861,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-24T18:45:00Z",
+    "venue": null,
+    "home": "Portugal",
+    "away": "Wales",
+    "result": null,
+    "fotmobId": 5181862,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-24T18:45:00Z",
+    "venue": null,
+    "home": "Serbia",
+    "away": "Greece",
+    "result": null,
+    "fotmobId": 5181826,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -77,23 +85,19 @@
     "venue": null,
     "home": "Armenia",
     "away": "Latvia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181921,
+    "status": "scheduled"
   },
   {
     "round": 1,
-    "dateUtc": "2026-09-25T18:45:00Z",
+    "dateUtc": "2026-09-25T16:00:00Z",
     "venue": null,
-    "home": "Italy",
-    "away": "Belgium",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-25T18:45:00Z",
-    "venue": null,
-    "home": "Turkey",
-    "away": "France",
-    "result": null
+    "home": "Georgia",
+    "away": "Northern Ireland",
+    "result": null,
+    "fotmobId": 5181800,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -101,23 +105,19 @@
     "venue": null,
     "home": "Hungary",
     "away": "Ukraine",
-    "result": null
+    "result": null,
+    "fotmobId": 5181801,
+    "status": "scheduled"
   },
   {
     "round": 1,
     "dateUtc": "2026-09-25T18:45:00Z",
     "venue": null,
-    "home": "Poland",
-    "away": "Bosnia and Herzegovina",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-25T18:45:00Z",
-    "venue": null,
-    "home": "Sweden",
-    "away": "Romania",
-    "result": null
+    "home": "Italy",
+    "away": "Belgium",
+    "result": null,
+    "fotmobId": 5181788,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -125,7 +125,39 @@
     "venue": null,
     "home": "Montenegro",
     "away": "Cyprus",
-    "result": null
+    "result": null,
+    "fotmobId": 5181922,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-25T18:45:00Z",
+    "venue": null,
+    "home": "Poland",
+    "away": "Bosnia and Herzegovina",
+    "result": null,
+    "fotmobId": 5181837,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-25T18:45:00Z",
+    "venue": null,
+    "home": "Sweden",
+    "away": "Romania",
+    "result": null,
+    "fotmobId": 5181838,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-25T18:45:00Z",
+    "venue": null,
+    "home": "Turkey",
+    "away": "France",
+    "result": null,
+    "fotmobId": 5181789,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -133,23 +165,9 @@
     "venue": null,
     "home": "Slovenia",
     "away": "Scotland",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-26T16:00:00Z",
-    "venue": null,
-    "home": "San Marino",
-    "away": "Finland",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-26T16:00:00Z",
-    "venue": null,
-    "home": "Faroe Islands",
-    "away": "Kazakhstan",
-    "result": null
+    "result": null,
+    "fotmobId": 5181776,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -157,7 +175,19 @@
     "venue": null,
     "home": "Bulgaria",
     "away": "Luxembourg",
-    "result": null
+    "result": null,
+    "fotmobId": 5181949,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-26T16:00:00Z",
+    "venue": null,
+    "home": "Faroe Islands",
+    "away": "Kazakhstan",
+    "result": null,
+    "fotmobId": 5181933,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -165,31 +195,9 @@
     "venue": null,
     "home": "Iceland",
     "away": "Estonia",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-26T18:45:00Z",
-    "venue": null,
-    "home": "Czech Republic",
-    "away": "Croatia",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-26T18:45:00Z",
-    "venue": null,
-    "home": "England",
-    "away": "Spain",
-    "result": null
-  },
-  {
-    "round": 1,
-    "dateUtc": "2026-09-26T18:45:00Z",
-    "venue": null,
-    "home": "North Macedonia",
-    "away": "Switzerland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181950,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -197,7 +205,49 @@
     "venue": null,
     "home": "Albania",
     "away": "Belarus",
-    "result": null
+    "result": null,
+    "fotmobId": 5181895,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-26T18:45:00Z",
+    "venue": null,
+    "home": "Czech Republic",
+    "away": "Croatia",
+    "result": null,
+    "fotmobId": 5181849,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-26T18:45:00Z",
+    "venue": null,
+    "home": "England",
+    "away": "Spain",
+    "result": null,
+    "fotmobId": 5181850,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-26T18:45:00Z",
+    "venue": null,
+    "home": "North Macedonia",
+    "away": "Switzerland",
+    "result": null,
+    "fotmobId": 5181777,
+    "status": "scheduled"
+  },
+  {
+    "round": 1,
+    "dateUtc": "2026-09-26T18:45:00Z",
+    "venue": null,
+    "home": "San Marino",
+    "away": "Finland",
+    "result": null,
+    "fotmobId": 5181894,
+    "status": "scheduled"
   },
   {
     "round": 1,
@@ -205,7 +255,9 @@
     "venue": null,
     "home": "Slovakia",
     "away": "Moldova",
-    "result": null
+    "result": null,
+    "fotmobId": 5181934,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -213,23 +265,9 @@
     "venue": null,
     "home": "Lithuania",
     "away": "Azerbaijan",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-27T16:00:00Z",
-    "venue": null,
-    "home": "Serbia",
-    "away": "Netherlands",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-27T16:00:00Z",
-    "venue": null,
-    "home": "Denmark",
-    "away": "Wales",
-    "result": null
+    "result": null,
+    "fotmobId": 5181881,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -237,7 +275,19 @@
     "venue": null,
     "home": "Austria",
     "away": "Kosovo",
-    "result": null
+    "result": null,
+    "fotmobId": 5181814,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-27T16:00:00Z",
+    "venue": null,
+    "home": "Denmark",
+    "away": "Wales",
+    "result": null,
+    "fotmobId": 5181863,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -245,7 +295,19 @@
     "venue": null,
     "home": "Gibraltar",
     "away": "Andorra",
-    "result": null
+    "result": null,
+    "fotmobId": 5181875,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-27T16:00:00Z",
+    "venue": null,
+    "home": "Serbia",
+    "away": "Netherlands",
+    "result": null,
+    "fotmobId": 5181827,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -253,15 +315,9 @@
     "venue": null,
     "home": "Germany",
     "away": "Greece",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-27T18:45:00Z",
-    "venue": null,
-    "home": "Norway",
-    "away": "Portugal",
-    "result": null
+    "result": null,
+    "fotmobId": 5181828,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -269,15 +325,19 @@
     "venue": null,
     "home": "Israel",
     "away": "Republic of Ireland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181815,
+    "status": "scheduled"
   },
   {
     "round": 2,
-    "dateUtc": "2026-09-28T16:00:00Z",
+    "dateUtc": "2026-09-27T18:45:00Z",
     "venue": null,
-    "home": "Georgia",
-    "away": "Ukraine",
-    "result": null
+    "home": "Norway",
+    "away": "Portugal",
+    "result": null,
+    "fotmobId": 5181864,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -285,7 +345,19 @@
     "venue": null,
     "home": "Armenia",
     "away": "Montenegro",
-    "result": null
+    "result": null,
+    "fotmobId": 5181923,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-28T16:00:00Z",
+    "venue": null,
+    "home": "Georgia",
+    "away": "Ukraine",
+    "result": null,
+    "fotmobId": 5181802,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -293,15 +365,19 @@
     "venue": null,
     "home": "Belgium",
     "away": "France",
-    "result": null
+    "result": null,
+    "fotmobId": 5181790,
+    "status": "scheduled"
   },
   {
     "round": 2,
     "dateUtc": "2026-09-28T18:45:00Z",
     "venue": null,
-    "home": "Turkey",
-    "away": "Italy",
-    "result": null
+    "home": "Latvia",
+    "away": "Cyprus",
+    "result": null,
+    "fotmobId": 5181924,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -309,7 +385,9 @@
     "venue": null,
     "home": "Northern Ireland",
     "away": "Hungary",
-    "result": null
+    "result": null,
+    "fotmobId": 5181803,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -317,7 +395,9 @@
     "venue": null,
     "home": "Romania",
     "away": "Bosnia and Herzegovina",
-    "result": null
+    "result": null,
+    "fotmobId": 5181839,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -325,79 +405,19 @@
     "venue": null,
     "home": "Sweden",
     "away": "Poland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181840,
+    "status": "scheduled"
   },
   {
     "round": 2,
-    "dateUtc": "2026-09-28T16:00:00Z",
+    "dateUtc": "2026-09-28T18:45:00Z",
     "venue": null,
-    "home": "Latvia",
-    "away": "Cyprus",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T16:00:00Z",
-    "venue": null,
-    "home": "Finland",
-    "away": "Belarus",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T16:00:00Z",
-    "venue": null,
-    "home": "Moldova",
-    "away": "Faroe Islands",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "Czech Republic",
-    "away": "England",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "Spain",
-    "away": "Croatia",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "Scotland",
-    "away": "Switzerland",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "Slovenia",
-    "away": "North Macedonia",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "San Marino",
-    "away": "Albania",
-    "result": null
-  },
-  {
-    "round": 2,
-    "dateUtc": "2026-09-29T18:45:00Z",
-    "venue": null,
-    "home": "Slovakia",
-    "away": "Kazakhstan",
-    "result": null
+    "home": "Turkey",
+    "away": "Italy",
+    "result": null,
+    "fotmobId": 5181791,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -405,7 +425,29 @@
     "venue": null,
     "home": "Bulgaria",
     "away": "Estonia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181951,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Czech Republic",
+    "away": "England",
+    "result": null,
+    "fotmobId": 5181851,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Finland",
+    "away": "Belarus",
+    "result": null,
+    "fotmobId": 5181896,
+    "status": "scheduled"
   },
   {
     "round": 2,
@@ -413,7 +455,69 @@
     "venue": null,
     "home": "Luxembourg",
     "away": "Iceland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181952,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Moldova",
+    "away": "Faroe Islands",
+    "result": null,
+    "fotmobId": 5181935,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "San Marino",
+    "away": "Albania",
+    "result": null,
+    "fotmobId": 5181897,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Scotland",
+    "away": "Switzerland",
+    "result": null,
+    "fotmobId": 5181778,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Slovakia",
+    "away": "Kazakhstan",
+    "result": null,
+    "fotmobId": 5181936,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Slovenia",
+    "away": "North Macedonia",
+    "result": null,
+    "fotmobId": 5181779,
+    "status": "scheduled"
+  },
+  {
+    "round": 2,
+    "dateUtc": "2026-09-29T18:45:00Z",
+    "venue": null,
+    "home": "Spain",
+    "away": "Croatia",
+    "result": null,
+    "fotmobId": 5181852,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -421,23 +525,9 @@
     "venue": null,
     "home": "Azerbaijan",
     "away": "Liechtenstein",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-01T18:45:00Z",
-    "venue": null,
-    "home": "Germany",
-    "away": "Serbia",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-01T18:45:00Z",
-    "venue": null,
-    "home": "Greece",
-    "away": "Netherlands",
-    "result": null
+    "result": null,
+    "fotmobId": 5181882,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -445,15 +535,29 @@
     "venue": null,
     "home": "Denmark",
     "away": "Portugal",
-    "result": null
+    "result": null,
+    "fotmobId": 5181865,
+    "status": "scheduled"
   },
   {
     "round": 3,
     "dateUtc": "2026-10-01T18:45:00Z",
     "venue": null,
-    "home": "Wales",
-    "away": "Norway",
-    "result": null
+    "home": "Germany",
+    "away": "Serbia",
+    "result": null,
+    "fotmobId": 5181829,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-01T18:45:00Z",
+    "venue": null,
+    "home": "Greece",
+    "away": "Netherlands",
+    "result": null,
+    "fotmobId": 5181830,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -461,7 +565,19 @@
     "venue": null,
     "home": "Israel",
     "away": "Kosovo",
-    "result": null
+    "result": null,
+    "fotmobId": 5181816,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-01T18:45:00Z",
+    "venue": null,
+    "home": "Malta",
+    "away": "Gibraltar",
+    "result": null,
+    "fotmobId": 5181876,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -469,15 +585,19 @@
     "venue": null,
     "home": "Republic of Ireland",
     "away": "Austria",
-    "result": null
+    "result": null,
+    "fotmobId": 5181817,
+    "status": "scheduled"
   },
   {
     "round": 3,
-    "dateUtc": "2026-10-01T16:00:00Z",
+    "dateUtc": "2026-10-01T18:45:00Z",
     "venue": null,
-    "home": "Malta",
-    "away": "Gibraltar",
-    "result": null
+    "home": "Wales",
+    "away": "Norway",
+    "result": null,
+    "fotmobId": 5181866,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -485,15 +605,9 @@
     "venue": null,
     "home": "Kazakhstan",
     "away": "Moldova",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-02T16:00:00Z",
-    "venue": null,
-    "home": "Cyprus",
-    "away": "Armenia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181937,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -501,31 +615,9 @@
     "venue": null,
     "home": "Belgium",
     "away": "Turkey",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-02T18:45:00Z",
-    "venue": null,
-    "home": "France",
-    "away": "Italy",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-02T18:45:00Z",
-    "venue": null,
-    "home": "Hungary",
-    "away": "Georgia",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-02T18:45:00Z",
-    "venue": null,
-    "home": "Ukraine",
-    "away": "Northern Ireland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181792,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -533,23 +625,19 @@
     "venue": null,
     "home": "Bosnia and Herzegovina",
     "away": "Sweden",
-    "result": null
+    "result": null,
+    "fotmobId": 5181841,
+    "status": "scheduled"
   },
   {
     "round": 3,
     "dateUtc": "2026-10-02T18:45:00Z",
     "venue": null,
-    "home": "Poland",
-    "away": "Romania",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-02T16:00:00Z",
-    "venue": null,
-    "home": "Latvia",
-    "away": "Montenegro",
-    "result": null
+    "home": "Cyprus",
+    "away": "Armenia",
+    "result": null,
+    "fotmobId": 5181925,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -557,7 +645,59 @@
     "venue": null,
     "home": "Faroe Islands",
     "away": "Slovakia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181938,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-02T18:45:00Z",
+    "venue": null,
+    "home": "France",
+    "away": "Italy",
+    "result": null,
+    "fotmobId": 5181793,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-02T18:45:00Z",
+    "venue": null,
+    "home": "Hungary",
+    "away": "Georgia",
+    "result": null,
+    "fotmobId": 5181804,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-02T18:45:00Z",
+    "venue": null,
+    "home": "Latvia",
+    "away": "Montenegro",
+    "result": null,
+    "fotmobId": 5181926,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-02T18:45:00Z",
+    "venue": null,
+    "home": "Poland",
+    "away": "Romania",
+    "result": null,
+    "fotmobId": 5181842,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-02T18:45:00Z",
+    "venue": null,
+    "home": "Ukraine",
+    "away": "Northern Ireland",
+    "result": null,
+    "fotmobId": 5181805,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -565,15 +705,9 @@
     "venue": null,
     "home": "Finland",
     "away": "Albania",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-03T16:00:00Z",
-    "venue": null,
-    "home": "Croatia",
-    "away": "England",
-    "result": null
+    "result": null,
+    "fotmobId": 5181898,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -581,7 +715,19 @@
     "venue": null,
     "home": "Belarus",
     "away": "San Marino",
-    "result": null
+    "result": null,
+    "fotmobId": 5181899,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-03T16:00:00Z",
+    "venue": null,
+    "home": "Croatia",
+    "away": "England",
+    "result": null,
+    "fotmobId": 5181853,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -589,7 +735,9 @@
     "venue": null,
     "home": "Estonia",
     "away": "Luxembourg",
-    "result": null
+    "result": null,
+    "fotmobId": 5181953,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -597,15 +745,9 @@
     "venue": null,
     "home": "Iceland",
     "away": "Bulgaria",
-    "result": null
-  },
-  {
-    "round": 3,
-    "dateUtc": "2026-10-03T18:45:00Z",
-    "venue": null,
-    "home": "Spain",
-    "away": "Czech Republic",
-    "result": null
+    "result": null,
+    "fotmobId": 5181954,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -613,7 +755,19 @@
     "venue": null,
     "home": "North Macedonia",
     "away": "Scotland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181780,
+    "status": "scheduled"
+  },
+  {
+    "round": 3,
+    "dateUtc": "2026-10-03T18:45:00Z",
+    "venue": null,
+    "home": "Spain",
+    "away": "Czech Republic",
+    "result": null,
+    "fotmobId": 5181854,
+    "status": "scheduled"
   },
   {
     "round": 3,
@@ -621,7 +775,9 @@
     "venue": null,
     "home": "Switzerland",
     "away": "Slovenia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181781,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -629,7 +785,9 @@
     "venue": null,
     "home": "Azerbaijan",
     "away": "Lithuania",
-    "result": null
+    "result": null,
+    "fotmobId": 5181883,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -637,7 +795,9 @@
     "venue": null,
     "home": "Kosovo",
     "away": "Austria",
-    "result": null
+    "result": null,
+    "fotmobId": 5181818,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -645,7 +805,9 @@
     "venue": null,
     "home": "Malta",
     "away": "Andorra",
-    "result": null
+    "result": null,
+    "fotmobId": 5181877,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -653,7 +815,9 @@
     "venue": null,
     "home": "Greece",
     "away": "Germany",
-    "result": null
+    "result": null,
+    "fotmobId": 5181831,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -661,7 +825,9 @@
     "venue": null,
     "home": "Netherlands",
     "away": "Serbia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181832,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -669,15 +835,9 @@
     "venue": null,
     "home": "Portugal",
     "away": "Norway",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-04T18:45:00Z",
-    "venue": null,
-    "home": "Wales",
-    "away": "Denmark",
-    "result": null
+    "result": null,
+    "fotmobId": 5181867,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -685,47 +845,19 @@
     "venue": null,
     "home": "Republic of Ireland",
     "away": "Israel",
-    "result": null
+    "result": null,
+    "fotmobId": 5181819,
+    "status": "scheduled"
   },
   {
     "round": 4,
-    "dateUtc": "2026-10-05T16:00:00Z",
+    "dateUtc": "2026-10-04T18:45:00Z",
     "venue": null,
-    "home": "Cyprus",
-    "away": "Latvia",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-05T18:45:00Z",
-    "venue": null,
-    "home": "France",
-    "away": "Belgium",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-05T18:45:00Z",
-    "venue": null,
-    "home": "Italy",
-    "away": "Turkey",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-05T18:45:00Z",
-    "venue": null,
-    "home": "Northern Ireland",
-    "away": "Georgia",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-05T18:45:00Z",
-    "venue": null,
-    "home": "Ukraine",
-    "away": "Hungary",
-    "result": null
+    "home": "Wales",
+    "away": "Denmark",
+    "result": null,
+    "fotmobId": 5181868,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -733,15 +865,39 @@
     "venue": null,
     "home": "Bosnia and Herzegovina",
     "away": "Poland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181843,
+    "status": "scheduled"
   },
   {
     "round": 4,
     "dateUtc": "2026-10-05T18:45:00Z",
     "venue": null,
-    "home": "Romania",
-    "away": "Sweden",
-    "result": null
+    "home": "Cyprus",
+    "away": "Latvia",
+    "result": null,
+    "fotmobId": 5181927,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-05T18:45:00Z",
+    "venue": null,
+    "home": "France",
+    "away": "Belgium",
+    "result": null,
+    "fotmobId": 5181794,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-05T18:45:00Z",
+    "venue": null,
+    "home": "Italy",
+    "away": "Turkey",
+    "result": null,
+    "fotmobId": 5181795,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -749,7 +905,39 @@
     "venue": null,
     "home": "Montenegro",
     "away": "Armenia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181928,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-05T18:45:00Z",
+    "venue": null,
+    "home": "Northern Ireland",
+    "away": "Georgia",
+    "result": null,
+    "fotmobId": 5181806,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-05T18:45:00Z",
+    "venue": null,
+    "home": "Romania",
+    "away": "Sweden",
+    "result": null,
+    "fotmobId": 5181844,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-05T18:45:00Z",
+    "venue": null,
+    "home": "Ukraine",
+    "away": "Hungary",
+    "result": null,
+    "fotmobId": 5181807,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -757,39 +945,9 @@
     "venue": null,
     "home": "Kazakhstan",
     "away": "Faroe Islands",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-06T18:45:00Z",
-    "venue": null,
-    "home": "Croatia",
-    "away": "Spain",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-06T18:45:00Z",
-    "venue": null,
-    "home": "England",
-    "away": "Czech Republic",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-06T18:45:00Z",
-    "venue": null,
-    "home": "Scotland",
-    "away": "Slovenia",
-    "result": null
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-10-06T18:45:00Z",
-    "venue": null,
-    "home": "Switzerland",
-    "away": "North Macedonia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181939,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -797,7 +955,9 @@
     "venue": null,
     "home": "Albania",
     "away": "San Marino",
-    "result": null
+    "result": null,
+    "fotmobId": 5181900,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -805,15 +965,29 @@
     "venue": null,
     "home": "Belarus",
     "away": "Finland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181901,
+    "status": "scheduled"
   },
   {
     "round": 4,
     "dateUtc": "2026-10-06T18:45:00Z",
     "venue": null,
-    "home": "Moldova",
-    "away": "Slovakia",
-    "result": null
+    "home": "Croatia",
+    "away": "Spain",
+    "result": null,
+    "fotmobId": 5181855,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-06T18:45:00Z",
+    "venue": null,
+    "home": "England",
+    "away": "Czech Republic",
+    "result": null,
+    "fotmobId": 5181856,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -821,7 +995,9 @@
     "venue": null,
     "home": "Estonia",
     "away": "Iceland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181955,
+    "status": "scheduled"
   },
   {
     "round": 4,
@@ -829,15 +1005,39 @@
     "venue": null,
     "home": "Luxembourg",
     "away": "Bulgaria",
-    "result": null
+    "result": null,
+    "fotmobId": 5181956,
+    "status": "scheduled"
   },
   {
-    "round": 5,
-    "dateUtc": "2026-11-12T17:00:00Z",
+    "round": 4,
+    "dateUtc": "2026-10-06T18:45:00Z",
     "venue": null,
-    "home": "Turkey",
-    "away": "Belgium",
-    "result": null
+    "home": "Moldova",
+    "away": "Slovakia",
+    "result": null,
+    "fotmobId": 5181940,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-06T18:45:00Z",
+    "venue": null,
+    "home": "Scotland",
+    "away": "Slovenia",
+    "result": null,
+    "fotmobId": 5181782,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-10-06T18:45:00Z",
+    "venue": null,
+    "home": "Switzerland",
+    "away": "North Macedonia",
+    "result": null,
+    "fotmobId": 5181783,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -845,31 +1045,19 @@
     "venue": null,
     "home": "Armenia",
     "away": "Cyprus",
-    "result": null
+    "result": null,
+    "fotmobId": 5181929,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-11-12T19:45:00Z",
+    "dateUtc": "2026-11-12T17:00:00Z",
     "venue": null,
-    "home": "Italy",
-    "away": "France",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-12T19:45:00Z",
-    "venue": null,
-    "home": "Czech Republic",
-    "away": "Spain",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-12T19:45:00Z",
-    "venue": null,
-    "home": "England",
-    "away": "Croatia",
-    "result": null
+    "home": "Turkey",
+    "away": "Belgium",
+    "result": null,
+    "fotmobId": 5181796,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -877,15 +1065,39 @@
     "venue": null,
     "home": "Albania",
     "away": "Finland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181902,
+    "status": "scheduled"
   },
   {
     "round": 5,
     "dateUtc": "2026-11-12T19:45:00Z",
     "venue": null,
-    "home": "San Marino",
-    "away": "Belarus",
-    "result": null
+    "home": "Czech Republic",
+    "away": "Spain",
+    "result": null,
+    "fotmobId": 5181857,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-12T19:45:00Z",
+    "venue": null,
+    "home": "England",
+    "away": "Croatia",
+    "result": null,
+    "fotmobId": 5181858,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-12T19:45:00Z",
+    "venue": null,
+    "home": "Italy",
+    "away": "France",
+    "result": null,
+    "fotmobId": 5181797,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -893,71 +1105,19 @@
     "venue": null,
     "home": "Montenegro",
     "away": "Latvia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181930,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-11-13T17:00:00Z",
+    "dateUtc": "2026-11-12T19:45:00Z",
     "venue": null,
-    "home": "Moldova",
-    "away": "Kazakhstan",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Netherlands",
-    "away": "Greece",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Serbia",
-    "away": "Germany",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Scotland",
-    "away": "North Macedonia",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Slovenia",
-    "away": "Switzerland",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Slovakia",
-    "away": "Faroe Islands",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Bulgaria",
-    "away": "Iceland",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-13T19:45:00Z",
-    "venue": null,
-    "home": "Luxembourg",
-    "away": "Estonia",
-    "result": null
+    "home": "San Marino",
+    "away": "Belarus",
+    "result": null,
+    "fotmobId": 5181903,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -965,7 +1125,19 @@
     "venue": null,
     "home": "Andorra",
     "away": "Gibraltar",
-    "result": null
+    "result": null,
+    "fotmobId": 5181878,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Bulgaria",
+    "away": "Iceland",
+    "result": null,
+    "fotmobId": 5181957,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -973,7 +1145,79 @@
     "venue": null,
     "home": "Liechtenstein",
     "away": "Azerbaijan",
-    "result": null
+    "result": null,
+    "fotmobId": 5181884,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Luxembourg",
+    "away": "Estonia",
+    "result": null,
+    "fotmobId": 5181958,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Moldova",
+    "away": "Kazakhstan",
+    "result": null,
+    "fotmobId": 5181941,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Netherlands",
+    "away": "Greece",
+    "result": null,
+    "fotmobId": 5181833,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Scotland",
+    "away": "North Macedonia",
+    "result": null,
+    "fotmobId": 5181784,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Serbia",
+    "away": "Germany",
+    "result": null,
+    "fotmobId": 5181834,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Slovakia",
+    "away": "Faroe Islands",
+    "result": null,
+    "fotmobId": 5181942,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-13T19:45:00Z",
+    "venue": null,
+    "home": "Slovenia",
+    "away": "Switzerland",
+    "result": null,
+    "fotmobId": 5181785,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -981,15 +1225,9 @@
     "venue": null,
     "home": "Kosovo",
     "away": "Israel",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-14T17:00:00Z",
-    "venue": null,
-    "home": "Norway",
-    "away": "Wales",
-    "result": null
+    "result": null,
+    "fotmobId": 5181820,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -997,23 +1235,19 @@
     "venue": null,
     "home": "Georgia",
     "away": "Hungary",
-    "result": null
+    "result": null,
+    "fotmobId": 5181808,
+    "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-11-14T19:45:00Z",
+    "dateUtc": "2026-11-14T17:00:00Z",
     "venue": null,
-    "home": "Portugal",
-    "away": "Denmark",
-    "result": null
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-11-14T19:45:00Z",
-    "venue": null,
-    "home": "Northern Ireland",
-    "away": "Ukraine",
-    "result": null
+    "home": "Norway",
+    "away": "Wales",
+    "result": null,
+    "fotmobId": 5181869,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -1021,7 +1255,29 @@
     "venue": null,
     "home": "Austria",
     "away": "Republic of Ireland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181821,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-14T19:45:00Z",
+    "venue": null,
+    "home": "Northern Ireland",
+    "away": "Ukraine",
+    "result": null,
+    "fotmobId": 5181809,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-11-14T19:45:00Z",
+    "venue": null,
+    "home": "Portugal",
+    "away": "Denmark",
+    "result": null,
+    "fotmobId": 5181870,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -1029,7 +1285,9 @@
     "venue": null,
     "home": "Romania",
     "away": "Poland",
-    "result": null
+    "result": null,
+    "fotmobId": 5181845,
+    "status": "scheduled"
   },
   {
     "round": 5,
@@ -1037,7 +1295,9 @@
     "venue": null,
     "home": "Sweden",
     "away": "Bosnia and Herzegovina",
-    "result": null
+    "result": null,
+    "fotmobId": 5181846,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1045,7 +1305,9 @@
     "venue": null,
     "home": "Cyprus",
     "away": "Montenegro",
-    "result": null
+    "result": null,
+    "fotmobId": 5181931,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1053,7 +1315,9 @@
     "venue": null,
     "home": "Latvia",
     "away": "Armenia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181932,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1061,7 +1325,9 @@
     "venue": null,
     "home": "Belarus",
     "away": "Albania",
-    "result": null
+    "result": null,
+    "fotmobId": 5181904,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1069,7 +1335,9 @@
     "venue": null,
     "home": "Finland",
     "away": "San Marino",
-    "result": null
+    "result": null,
+    "fotmobId": 5181905,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1077,15 +1345,9 @@
     "venue": null,
     "home": "Belgium",
     "away": "Italy",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-15T19:45:00Z",
-    "venue": null,
-    "home": "France",
-    "away": "Turkey",
-    "result": null
+    "result": null,
+    "fotmobId": 5181798,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1093,7 +1355,19 @@
     "venue": null,
     "home": "Croatia",
     "away": "Czech Republic",
-    "result": null
+    "result": null,
+    "fotmobId": 5181859,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-15T19:45:00Z",
+    "venue": null,
+    "home": "France",
+    "away": "Turkey",
+    "result": null,
+    "fotmobId": 5181799,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1101,7 +1375,9 @@
     "venue": null,
     "home": "Spain",
     "away": "England",
-    "result": null
+    "result": null,
+    "fotmobId": 5181860,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1109,7 +1385,9 @@
     "venue": null,
     "home": "Faroe Islands",
     "away": "Moldova",
-    "result": null
+    "result": null,
+    "fotmobId": 5181943,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1117,7 +1395,9 @@
     "venue": null,
     "home": "Kazakhstan",
     "away": "Slovakia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181944,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1125,7 +1405,9 @@
     "venue": null,
     "home": "Estonia",
     "away": "Bulgaria",
-    "result": null
+    "result": null,
+    "fotmobId": 5181959,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1133,7 +1415,9 @@
     "venue": null,
     "home": "Iceland",
     "away": "Luxembourg",
-    "result": null
+    "result": null,
+    "fotmobId": 5181960,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1141,7 +1425,9 @@
     "venue": null,
     "home": "Lithuania",
     "away": "Liechtenstein",
-    "result": null
+    "result": null,
+    "fotmobId": 5181885,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1149,7 +1435,19 @@
     "venue": null,
     "home": "Germany",
     "away": "Netherlands",
-    "result": null
+    "result": null,
+    "fotmobId": 5181835,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-16T19:45:00Z",
+    "venue": null,
+    "home": "Gibraltar",
+    "away": "Malta",
+    "result": null,
+    "fotmobId": 5181879,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1157,7 +1455,9 @@
     "venue": null,
     "home": "Greece",
     "away": "Serbia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181836,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1165,7 +1465,9 @@
     "venue": null,
     "home": "North Macedonia",
     "away": "Slovenia",
-    "result": null
+    "result": null,
+    "fotmobId": 5181786,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1173,63 +1475,9 @@
     "venue": null,
     "home": "Switzerland",
     "away": "Scotland",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-16T17:00:00Z",
-    "venue": null,
-    "home": "Gibraltar",
-    "away": "Malta",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Denmark",
-    "away": "Norway",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Wales",
-    "away": "Portugal",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Hungary",
-    "away": "Northern Ireland",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Ukraine",
-    "away": "Georgia",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Israel",
-    "away": "Austria",
-    "result": null
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-11-17T19:45:00Z",
-    "venue": null,
-    "home": "Republic of Ireland",
-    "away": "Kosovo",
-    "result": null
+    "result": null,
+    "fotmobId": 5181787,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1237,7 +1485,39 @@
     "venue": null,
     "home": "Bosnia and Herzegovina",
     "away": "Romania",
-    "result": null
+    "result": null,
+    "fotmobId": 5181847,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Denmark",
+    "away": "Norway",
+    "result": null,
+    "fotmobId": 5181871,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Hungary",
+    "away": "Northern Ireland",
+    "result": null,
+    "fotmobId": 5181810,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Israel",
+    "away": "Austria",
+    "result": null,
+    "fotmobId": 5181822,
+    "status": "scheduled"
   },
   {
     "round": 6,
@@ -1245,6 +1525,38 @@
     "venue": null,
     "home": "Poland",
     "away": "Sweden",
-    "result": null
+    "result": null,
+    "fotmobId": 5181848,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Republic of Ireland",
+    "away": "Kosovo",
+    "result": null,
+    "fotmobId": 5181823,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Ukraine",
+    "away": "Georgia",
+    "result": null,
+    "fotmobId": 5181811,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-11-17T19:45:00Z",
+    "venue": null,
+    "home": "Wales",
+    "away": "Portugal",
+    "result": null,
+    "fotmobId": 5181872,
+    "status": "scheduled"
   }
 ]

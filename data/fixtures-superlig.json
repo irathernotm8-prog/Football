@@ -255,9 +255,9 @@
     "venue": "Diyarbakir Stadyumu",
     "home": "Amedspor",
     "away": "Trabzonspor",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5904725,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -265,8 +265,18 @@
     "venue": "Besiktas Park",
     "home": "Besiktas",
     "away": "Çorum",
-    "result": null,
+    "result": "6-2",
     "fotmobId": 5904729,
+    "status": "finished"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-04T17:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Galatasaray",
+    "result": null,
+    "fotmobId": 5904733,
     "status": "scheduled"
   },
   {
@@ -277,6 +287,16 @@
     "away": "Konyaspor",
     "result": null,
     "fotmobId": 5904739,
+    "status": "scheduled"
+  },
+  {
+    "round": 4,
+    "dateUtc": "2026-09-05T17:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Besiktas",
+    "result": null,
+    "fotmobId": 5904737,
     "status": "scheduled"
   },
   {
@@ -297,26 +317,6 @@
     "away": "Amedspor",
     "result": null,
     "fotmobId": 5904732,
-    "status": "scheduled"
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-09-06T17:00:00Z",
-    "venue": "Sükrü Saracoglu Spor Kompleksi",
-    "home": "Fenerbahçe",
-    "away": "Besiktas",
-    "result": null,
-    "fotmobId": 5904737,
-    "status": "scheduled"
-  },
-  {
-    "round": 4,
-    "dateUtc": "2026-09-06T17:00:00Z",
-    "venue": "Basaksehir Fatih Terim",
-    "home": "Istanbul Basaksehir",
-    "away": "Galatasaray",
-    "result": null,
-    "fotmobId": 5904733,
     "status": "scheduled"
   },
   {

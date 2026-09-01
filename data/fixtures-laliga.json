@@ -285,9 +285,9 @@
     "venue": "Estadio El Sadar",
     "home": "CA Osasuna",
     "away": "Getafe CF",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5868036,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -295,9 +295,9 @@
     "venue": "Spotify Camp Nou",
     "home": "FC Barcelona",
     "away": "Rayo Vallecano",
-    "result": null,
+    "result": "5-2",
     "fotmobId": 5868034,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
