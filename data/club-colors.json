@@ -2033,5 +2033,190 @@
     "primary": "#C8102E",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Albania": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Andorra": {
+    "primary": "#0057A8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Armenia": {
+    "primary": "#FF8200",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Azerbaijan": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Belarus": {
+    "primary": "#C8102E",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "Bulgaria": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Cyprus": {
+    "primary": "#ffffff",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Denmark": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Estonia": {
+    "primary": "#0057A8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Faroe Islands": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Finland": {
+    "primary": "#ffffff",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Georgia": {
+    "primary": "#ffffff",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Gibraltar": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Greece": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Hungary": {
+    "primary": "#C8102E",
+    "secondary": "#00A650",
+    "text": "#ffffff"
+  },
+  "Iceland": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Israel": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Kazakhstan": {
+    "primary": "#00A9E0",
+    "secondary": "#FFD700",
+    "text": "#000000"
+  },
+  "Kosovo": {
+    "primary": "#0057A8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Latvia": {
+    "primary": "#9E1B32",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Liechtenstein": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Lithuania": {
+    "primary": "#FFD700",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Luxembourg": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Malta": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Moldova": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Montenegro": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "North Macedonia": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Northern Ireland": {
+    "primary": "#ffffff",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Poland": {
+    "primary": "#ffffff",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Republic of Ireland": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Romania": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "San Marino": {
+    "primary": "#0057A8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Serbia": {
+    "primary": "#C8102E",
+    "secondary": "#0057A8",
+    "text": "#ffffff"
+  },
+  "Slovakia": {
+    "primary": "#0057A8",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Slovenia": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Ukraine": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Wales": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
   }
 }
