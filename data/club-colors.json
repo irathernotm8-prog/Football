@@ -1833,5 +1833,205 @@
     "primary": "#0057A8",
     "secondary": "#ffffff",
     "text": "#ffffff"
+  },
+  "Anderlecht": {
+    "primary": "#6C1D45",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Royal Antwerp": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Beveren": {
+    "primary": "#FFD700",
+    "secondary": "#0057A8",
+    "text": "#000000"
+  },
+  "Cercle Brugge": {
+    "primary": "#00A650",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Charleroi": {
+    "primary": "#000000",
+    "secondary": "#C8102E",
+    "text": "#ffffff"
+  },
+  "Genk": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Gent": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Kortrijk": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Lommel": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Mechelen": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "OH Leuven": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "RAAL La Louvière": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Sint-Truidense": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Standard Liège": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Union Saint-Gilloise": {
+    "primary": "#0057B8",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Westerlo": {
+    "primary": "#C8A951",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Zulte Waregem": {
+    "primary": "#000000",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "Dinamo Zagreb": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Gorica": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Hajduk Split": {
+    "primary": "#ffffff",
+    "secondary": "#0057B8",
+    "text": "#000000"
+  },
+  "Istra 1961": {
+    "primary": "#FFD700",
+    "secondary": "#00A650",
+    "text": "#000000"
+  },
+  "Lokomotiva Zagreb": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Osijek": {
+    "primary": "#ffffff",
+    "secondary": "#C8102E",
+    "text": "#000000"
+  },
+  "Rijeka": {
+    "primary": "#ffffff",
+    "secondary": "#0057B8",
+    "text": "#000000"
+  },
+  "Rudeš": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Slaven Belupo": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Varaždin": {
+    "primary": "#FFD700",
+    "secondary": "#0057B8",
+    "text": "#000000"
+  },
+  "Aris Thessaloniki": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "Asteras Tripolis": {
+    "primary": "#C8102E",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Atromitos": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Iraklis Thessaloniki": {
+    "primary": "#0057B8",
+    "secondary": "#000000",
+    "text": "#ffffff"
+  },
+  "Kalamata": {
+    "primary": "#FFD700",
+    "secondary": "#0057B8",
+    "text": "#000000"
+  },
+  "Kifisia": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Levadiakos": {
+    "primary": "#C8102E",
+    "secondary": "#FFD700",
+    "text": "#ffffff"
+  },
+  "OFI Crete": {
+    "primary": "#000000",
+    "secondary": "#0057B8",
+    "text": "#ffffff"
+  },
+  "Panathinaikos": {
+    "primary": "#00A650",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Panetolikos": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  "PAOK": {
+    "primary": "#000000",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Volos": {
+    "primary": "#0057B8",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
+  },
+  "Olympiacos": {
+    "primary": "#C8102E",
+    "secondary": "#ffffff",
+    "text": "#ffffff"
   }
 }
