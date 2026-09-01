@@ -97,6 +97,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/684991.png"
     },
     {
+      "fotmobId": 2089336,
+      "number": 38,
+      "name": "Mateo Vales",
+      "position": "LB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2089336.png"
+    },
+    {
       "fotmobId": 1455479,
       "number": 71,
       "name": "Federico Laurelli",
@@ -193,20 +201,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/164031.png"
     },
     {
-      "fotmobId": 2089336,
-      "number": 38,
-      "name": "Mateo Vales",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2089336.png"
-    },
-    {
       "fotmobId": 921347,
       "number": 80,
       "name": "Lautaro Chávez",
       "position": "MIDFIELDER",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/921347.png"
+    },
+    {
+      "fotmobId": 2175447,
+      "number": null,
+      "name": "Pablo Argoytia",
+      "position": "MIDFIELDER",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2175447.png"
     },
     {
       "fotmobId": 2089334,
@@ -1007,20 +1015,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2119630.png"
     },
     {
-      "fotmobId": 1372084,
-      "number": 28,
-      "name": "Matías Hernández",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1372084.png"
-    },
-    {
       "fotmobId": 2132153,
       "number": 29,
       "name": "Isaías Gutiérrez",
       "position": "MIDFIELDER",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2132153.png"
+    },
+    {
+      "fotmobId": 1675024,
+      "number": null,
+      "name": "John Arteaga",
+      "position": "MIDFIELDER",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1675024.png"
     },
     {
       "fotmobId": 2107552,
@@ -1077,6 +1085,14 @@
       "position": "ST",
       "nationality": "Uruguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1054256.png"
+    },
+    {
+      "fotmobId": 1372084,
+      "number": 28,
+      "name": "Matías Hernández",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1372084.png"
     }
   ],
   "Barracas Central": [
@@ -1653,22 +1669,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1238138.png"
     },
     {
-      "fotmobId": 974894,
-      "number": 23,
-      "name": "Marcelo Weigandt",
-      "position": "RB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/974894.png"
-    },
-    {
-      "fotmobId": 1213652,
-      "number": 24,
-      "name": "Juan Barinaga",
-      "position": "RB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1213652.png"
-    },
-    {
       "fotmobId": 1661230,
       "number": 48,
       "name": "Dylan Gorosito",
@@ -1707,6 +1707,14 @@
       "position": "CB",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1213769.png"
+    },
+    {
+      "fotmobId": 1950642,
+      "number": 46,
+      "name": "Matías Satas",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1950642.png"
     },
     {
       "fotmobId": 1200014,
@@ -1765,6 +1773,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/724854.png"
     },
     {
+      "fotmobId": 1710297,
+      "number": 38,
+      "name": "Camilo Rey Domenech",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1710297.png"
+    },
+    {
       "fotmobId": 885351,
       "number": 8,
       "name": "Carlos Palacios",
@@ -1787,14 +1803,6 @@
       "position": "LM",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1899032.png"
-    },
-    {
-      "fotmobId": 1710297,
-      "number": 38,
-      "name": "Camilo Rey Domenech",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1710297.png"
     },
     {
       "fotmobId": 1950640,
@@ -2233,6 +2241,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1226758.png"
     },
     {
+      "fotmobId": 1901742,
+      "number": 28,
+      "name": "Valentín Loza",
+      "position": "RB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1901742.png"
+    },
+    {
       "fotmobId": 1748484,
       "number": 6,
       "name": "Ezequiel Burdín",
@@ -2393,14 +2409,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1645755.png"
     },
     {
-      "fotmobId": 1901742,
-      "number": 28,
-      "name": "Valentín Loza",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1901742.png"
-    },
-    {
       "fotmobId": 2087555,
       "number": 44,
       "name": "Jonás Cabrera",
@@ -2455,6 +2463,14 @@
       "position": "RW",
       "nationality": "Paraguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2087556.png"
+    },
+    {
+      "fotmobId": 2097597,
+      "number": 45,
+      "name": "Thiago Martínez",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2097597.png"
     },
     {
       "fotmobId": 1485764,
@@ -3207,14 +3223,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1607565.png"
     },
     {
-      "fotmobId": 1721690,
-      "number": 28,
-      "name": "Luca Babino",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1721690.png"
-    },
-    {
       "fotmobId": 2114924,
       "number": 48,
       "name": "Santino Rayneli",
@@ -3591,14 +3599,6 @@
       "position": "LW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1842740.png"
-    },
-    {
-      "fotmobId": 425711,
-      "number": 9,
-      "name": "Gabriel Ávalos",
-      "position": "ST",
-      "nationality": "Paraguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/425711.png"
     },
     {
       "fotmobId": 361724,
@@ -5277,12 +5277,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1216082.png"
     },
     {
-      "fotmobId": 1133119,
-      "number": 15,
-      "name": "Gastón Martirena",
+      "fotmobId": 1213652,
+      "number": 14,
+      "name": "Juan Barinaga",
       "position": "RB",
-      "nationality": "Uruguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1133119.png"
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1213652.png"
+    },
+    {
+      "fotmobId": 1130624,
+      "number": 2,
+      "name": "Matías Pérez",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1130624.png"
     },
     {
       "fotmobId": 1209398,
@@ -6315,14 +6323,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1442996.png"
     },
     {
-      "fotmobId": 1751917,
-      "number": 55,
-      "name": "Lautaro Montenegro",
-      "position": "CB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1751917.png"
-    },
-    {
       "fotmobId": 1729352,
       "number": 3,
       "name": "Teo Rodríguez Pagano",
@@ -6435,14 +6435,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1513336.png"
     },
     {
-      "fotmobId": 1844286,
-      "number": 39,
-      "name": "Uriel Ojeda",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1844286.png"
-    },
-    {
       "fotmobId": 1685377,
       "number": 53,
       "name": "Ramiro Pedroza",
@@ -6489,6 +6481,22 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1709846.png"
+    },
+    {
+      "fotmobId": 1844286,
+      "number": 39,
+      "name": "Uriel Ojeda",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1844286.png"
+    },
+    {
+      "fotmobId": 2180448,
+      "number": 44,
+      "name": "Alan Salas",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2180448.png"
     },
     {
       "fotmobId": 1271801,

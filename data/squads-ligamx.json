@@ -679,14 +679,6 @@
   ],
   "Club Leon": [
     {
-      "fotmobId": 242197,
-      "number": 12,
-      "name": "Julio González",
-      "position": "GK",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/242197.png"
-    },
-    {
       "fotmobId": 1339704,
       "number": 23,
       "name": "Óscar García",
@@ -929,14 +921,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/324432.png"
     },
     {
-      "fotmobId": 1432285,
-      "number": 29,
-      "name": "Salim Hernández",
-      "position": "GK",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1432285.png"
-    },
-    {
       "fotmobId": 1169764,
       "number": 3,
       "name": "Rafael Fernández",
@@ -1129,14 +1113,6 @@
       "position": "GK",
       "nationality": "Colombia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1053720.png"
-    },
-    {
-      "fotmobId": 1393572,
-      "number": 30,
-      "name": "Emmanuel Ochoa",
-      "position": "GK",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1393572.png"
     },
     {
       "fotmobId": 1435880,
@@ -1953,14 +1929,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1327190.png"
     },
     {
-      "fotmobId": 1023022,
-      "number": 30,
-      "name": "Ricardo Monreal",
-      "position": "RW",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1023022.png"
-    },
-    {
       "fotmobId": 1502908,
       "number": 99,
       "name": "Emilio Rodríguez",
@@ -2113,6 +2081,14 @@
       "position": "AM",
       "nationality": "Mexico",
       "photo": "https://images.fotmob.com/image_resources/playerimages/390785.png"
+    },
+    {
+      "fotmobId": 1095730,
+      "number": 28,
+      "name": "Andrés Arroyo",
+      "position": "AM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1095730.png"
     },
     {
       "fotmobId": 1396770,
@@ -2511,14 +2487,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1269652.png"
     },
     {
-      "fotmobId": 1895026,
-      "number": 35,
-      "name": "Juan Pablo Cázares",
-      "position": "LM",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1895026.png"
-    },
-    {
       "fotmobId": 1253261,
       "number": 20,
       "name": "Álex Alcalá",
@@ -2743,14 +2711,6 @@
       "position": "DM",
       "nationality": "Ecuador",
       "photo": "https://images.fotmob.com/image_resources/playerimages/317822.png"
-    },
-    {
-      "fotmobId": 1817893,
-      "number": 195,
-      "name": "Nelson Cedillo",
-      "position": "DM",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1817893.png"
     },
     {
       "fotmobId": 1348496,
@@ -3011,6 +2971,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1692804.png"
     },
     {
+      "fotmobId": 1023022,
+      "number": null,
+      "name": "Ricardo Monreal",
+      "position": "RW",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1023022.png"
+    },
+    {
       "fotmobId": 1186513,
       "number": 20,
       "name": "Marcelo Flores",
@@ -3091,6 +3059,14 @@
       "position": "RB",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1208803.png"
+    },
+    {
+      "fotmobId": 1783531,
+      "number": 184,
+      "name": "Sebastián Aceves",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1783531.png"
     },
     {
       "fotmobId": 291556,
@@ -3203,14 +3179,6 @@
       "position": "AM",
       "nationality": "Mexico",
       "photo": "https://images.fotmob.com/image_resources/playerimages/730888.png"
-    },
-    {
-      "fotmobId": 1783531,
-      "number": 184,
-      "name": "Sebastián Aceves",
-      "position": "MIDFIELDER",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1783531.png"
     },
     {
       "fotmobId": 935183,

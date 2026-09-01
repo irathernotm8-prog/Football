@@ -1865,35 +1865,35 @@
       "countryCode": "CRO",
       "teams": {
         "Dinamo Zagreb": {
-          "fotmobId": null,
+          "fotmobId": 10156,
           "search": "Dinamo Zagreb"
         },
         "Gorica": {
-          "fotmobId": null,
+          "fotmobId": 206560,
           "search": "HNK Gorica"
         },
         "Hajduk Split": {
-          "fotmobId": null,
+          "fotmobId": 10154,
           "search": "Hajduk Split"
         },
         "Istra 1961": {
-          "fotmobId": null,
+          "fotmobId": 6038,
           "search": "NK Istra 1961"
         },
         "Lokomotiva Zagreb": {
-          "fotmobId": null,
+          "fotmobId": 175388,
           "search": "NK Lokomotiva"
         },
         "Osijek": {
-          "fotmobId": null,
+          "fotmobId": 10157,
           "search": "Osijek"
         },
         "Rijeka": {
-          "fotmobId": null,
+          "fotmobId": 10162,
           "search": "Rijeka"
         },
         "Rudeš": {
-          "fotmobId": null,
+          "fotmobId": 187866,
           "search": "Rudes"
         },
         "Slaven Belupo": {
@@ -1901,7 +1901,7 @@
           "search": "Slaven Belupo"
         },
         "Varaždin": {
-          "fotmobId": null,
+          "fotmobId": 10165,
           "search": "NK Varazdin"
         }
       }
@@ -1915,55 +1915,55 @@
           "search": "AEK Athens"
         },
         "Aris Thessaloniki": {
-          "fotmobId": null,
+          "fotmobId": 8239,
           "search": "Aris Thessaloniki"
         },
         "Asteras Tripolis": {
-          "fotmobId": null,
+          "fotmobId": 80654,
           "search": "Asteras Tripolis"
         },
         "Atromitos": {
-          "fotmobId": null,
+          "fotmobId": 10187,
           "search": "Atromitos"
         },
         "Iraklis Thessaloniki": {
-          "fotmobId": null,
+          "fotmobId": 8675,
           "search": "Iraklis"
         },
         "Kalamata": {
-          "fotmobId": null,
+          "fotmobId": 1585,
           "search": "Kalamata"
         },
         "Kifisia": {
-          "fotmobId": null,
+          "fotmobId": 488099,
           "search": "Kifisia"
         },
         "Levadiakos": {
-          "fotmobId": null,
+          "fotmobId": 4493,
           "search": "Levadiakos"
         },
         "OFI Crete": {
-          "fotmobId": null,
+          "fotmobId": 7753,
           "search": "OFI Crete"
         },
         "Olympiacos": {
-          "fotmobId": null,
+          "fotmobId": 8638,
           "search": "Olympiacos"
         },
         "Panathinaikos": {
-          "fotmobId": null,
+          "fotmobId": 10200,
           "search": "Panathinaikos"
         },
         "Panetolikos": {
-          "fotmobId": null,
+          "fotmobId": 162386,
           "search": "Panetolikos"
         },
         "PAOK": {
-          "fotmobId": null,
+          "fotmobId": 8619,
           "search": "PAOK Thessaloniki"
         },
         "Volos": {
-          "fotmobId": null,
+          "fotmobId": 885256,
           "search": "NFC Volos"
         }
       }
@@ -1973,15 +1973,15 @@
       "countryCode": "",
       "teams": {
         "Albania": {
-          "fotmobId": null,
+          "fotmobId": 10024,
           "search": "Albania"
         },
         "Andorra": {
-          "fotmobId": null,
+          "fotmobId": 10045,
           "search": "Andorra"
         },
         "Armenia": {
-          "fotmobId": null,
+          "fotmobId": 6583,
           "search": "Armenia"
         },
         "Austria": {
@@ -1989,11 +1989,11 @@
           "search": "Austria"
         },
         "Azerbaijan": {
-          "fotmobId": null,
+          "fotmobId": 8566,
           "search": "Azerbaijan"
         },
         "Belarus": {
-          "fotmobId": null,
+          "fotmobId": 10057,
           "search": "Belarus"
         },
         "Belgium": {
@@ -2005,7 +2005,7 @@
           "search": "Bosnia and Herzegovina"
         },
         "Bulgaria": {
-          "fotmobId": null,
+          "fotmobId": 10150,
           "search": "Bulgaria"
         },
         "Croatia": {
@@ -2013,7 +2013,7 @@
           "search": "Croatia"
         },
         "Cyprus": {
-          "fotmobId": null,
+          "fotmobId": 5793,
           "search": "Cyprus"
         },
         "Czech Republic": {
@@ -2021,7 +2021,7 @@
           "search": "Czechia"
         },
         "Denmark": {
-          "fotmobId": null,
+          "fotmobId": 8238,
           "search": "Denmark"
         },
         "England": {
@@ -2029,15 +2029,15 @@
           "search": "England"
         },
         "Estonia": {
-          "fotmobId": null,
+          "fotmobId": 8261,
           "search": "Estonia"
         },
         "Faroe Islands": {
-          "fotmobId": null,
+          "fotmobId": 8269,
           "search": "Faroe Islands"
         },
         "Finland": {
-          "fotmobId": null,
+          "fotmobId": 7871,
           "search": "Finland"
         },
         "France": {
@@ -2045,7 +2045,7 @@
           "search": "France"
         },
         "Georgia": {
-          "fotmobId": null,
+          "fotmobId": 8268,
           "search": "Georgia"
         },
         "Germany": {
@@ -2053,63 +2053,63 @@
           "search": "Germany"
         },
         "Gibraltar": {
-          "fotmobId": null,
+          "fotmobId": 507764,
           "search": "Gibraltar"
         },
         "Greece": {
-          "fotmobId": null,
+          "fotmobId": 6383,
           "search": "Greece"
         },
         "Hungary": {
-          "fotmobId": null,
+          "fotmobId": 8565,
           "search": "Hungary"
         },
         "Iceland": {
-          "fotmobId": null,
+          "fotmobId": 8536,
           "search": "Iceland"
         },
         "Israel": {
-          "fotmobId": null,
+          "fotmobId": 8567,
           "search": "Israel"
         },
         "Italy": {
-          "fotmobId": null,
+          "fotmobId": 8204,
           "search": "Italy"
         },
         "Kazakhstan": {
-          "fotmobId": null,
+          "fotmobId": 8265,
           "search": "Kazakhstan"
         },
         "Kosovo": {
-          "fotmobId": null,
+          "fotmobId": 430156,
           "search": "Kosovo"
         },
         "Latvia": {
-          "fotmobId": null,
+          "fotmobId": 5795,
           "search": "Latvia"
         },
         "Liechtenstein": {
-          "fotmobId": null,
+          "fotmobId": 5799,
           "search": "Liechtenstein"
         },
         "Lithuania": {
-          "fotmobId": null,
+          "fotmobId": 8254,
           "search": "Lithuania"
         },
         "Luxembourg": {
-          "fotmobId": null,
+          "fotmobId": 5792,
           "search": "Luxembourg"
         },
         "Malta": {
-          "fotmobId": null,
+          "fotmobId": 8495,
           "search": "Malta"
         },
         "Moldova": {
-          "fotmobId": null,
+          "fotmobId": 5794,
           "search": "Moldova"
         },
         "Montenegro": {
-          "fotmobId": null,
+          "fotmobId": 49437,
           "search": "Montenegro"
         },
         "Netherlands": {
@@ -2117,11 +2117,11 @@
           "search": "Netherlands"
         },
         "North Macedonia": {
-          "fotmobId": null,
+          "fotmobId": 8260,
           "search": "North Macedonia"
         },
         "Northern Ireland": {
-          "fotmobId": null,
+          "fotmobId": 10259,
           "search": "Northern Ireland"
         },
         "Norway": {
@@ -2129,7 +2129,7 @@
           "search": "Norway"
         },
         "Poland": {
-          "fotmobId": null,
+          "fotmobId": 8568,
           "search": "Poland"
         },
         "Portugal": {
@@ -2137,15 +2137,15 @@
           "search": "Portugal"
         },
         "Republic of Ireland": {
-          "fotmobId": null,
+          "fotmobId": 5791,
           "search": "Ireland"
         },
         "Romania": {
-          "fotmobId": null,
+          "fotmobId": 9730,
           "search": "Romania"
         },
         "San Marino": {
-          "fotmobId": null,
+          "fotmobId": 6035,
           "search": "San Marino"
         },
         "Scotland": {
@@ -2153,15 +2153,15 @@
           "search": "Scotland"
         },
         "Serbia": {
-          "fotmobId": null,
+          "fotmobId": 8205,
           "search": "Serbia"
         },
         "Slovakia": {
-          "fotmobId": null,
+          "fotmobId": 8497,
           "search": "Slovakia"
         },
         "Slovenia": {
-          "fotmobId": null,
+          "fotmobId": 5787,
           "search": "Slovenia"
         },
         "Spain": {
@@ -2177,15 +2177,15 @@
           "search": "Switzerland"
         },
         "Turkey": {
-          "fotmobId": null,
+          "fotmobId": 6595,
           "search": "Turkiye"
         },
         "Ukraine": {
-          "fotmobId": null,
+          "fotmobId": 6718,
           "search": "Ukraine"
         },
         "Wales": {
-          "fotmobId": null,
+          "fotmobId": 5790,
           "search": "Wales"
         }
       }
