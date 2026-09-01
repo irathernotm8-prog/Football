@@ -123,6 +123,7 @@ async function renderTeamPage(leagueKey, teamName) {
     if (crossLeagueRoster) roster = crossLeagueRoster.roster;
   }
   var trophies = await findClubTrophies(teamName, leagueKey);
+  var legends = await getClubLegends(teamName);
 
   var allMatches = await ensureMhData();
   var now = new Date();
@@ -221,6 +222,7 @@ async function renderTeamPage(leagueKey, teamName) {
     '<h3 class="club-modal-section-title">Squad</h3>' +
     '<div class="club-modal-squad-list">' + squadHtml + "</div>" +
     "</div>" +
+    clubLegendsSectionHtml(legends) +
     "</div>";
 }
 

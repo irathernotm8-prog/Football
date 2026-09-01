@@ -83,7 +83,6 @@ function trophyIconHtml(leagueKey, label) {
   return trophyIconSvg();
 }
 
-
 var clubColorsCache = null;
 var clubCrestLogosCache = null;
 var clubSquadsCache = {};
@@ -211,6 +210,58 @@ async function findClubTrophies(teamName, knownLeagueKey) {
   return results;
 }
 
+// ---- Club Legends: Hall of Fame players who played for this club ----
+// Cross-references data/hall-of-fame.json against each player's career
+// history in data/player-profiles.json, using the same canonicalTeamName()
+// alias resolution as everywhere else so "Tottenham Hotspur" in a career
+// entry correctly matches the "Spurs" club page, etc.
+
+var clubLegendsCache = {};
+
+async function getClubLegends(teamName) {
+  if (clubLegendsCache[teamName]) return clubLegendsCache[teamName];
+  await teamIdentityReady;
+
+  var hof = (typeof ensureHallOfFame === "function") ? await ensureHallOfFame() : {};
+  var profiles = (typeof ensurePlayerProfiles === "function") ? await ensurePlayerProfiles() : {};
+
+  var legends = [];
+  Object.keys(hof).forEach(function (name) {
+    var profile = profiles[name];
+    if (!profile || !profile.career || !profile.career.length) return;
+    var played = profile.career.some(function (c) {
+      return canonicalTeamName(c.club) === teamName;
+    });
+    if (played) {
+      legends.push({ name: name, photo: hof[name].photo });
+    }
+  });
+
+  clubLegendsCache[teamName] = legends;
+  return legends;
+}
+
+function clubLegendsSectionHtml(legends) {
+  if (!legends.length) return "";
+  var cards = legends.map(function (l) {
+    var photoHtml = l.photo
+      ? '<img src="' + l.photo + '" alt="' + l.name + '" class="halloffame-photo" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement(\'div\'), {className:\'halloffame-photo-fallback\', textContent:\'' + clubInitials(l.name) + '\'}))">'
+      : '<div class="halloffame-photo-fallback">' + clubInitials(l.name) + "</div>";
+    return (
+      '<div class="halloffame-card player-link" data-player-link="' + l.name.replace(/"/g, "&quot;") + '">' +
+      photoHtml +
+      '<span class="halloffame-name">' + l.name + "</span>" +
+      "</div>"
+    );
+  }).join("");
+  return (
+    '<div class="club-modal-section">' +
+    '<h3 class="club-modal-section-title">Club Legends</h3>' +
+    '<div class="halloffame-grid club-legends-grid">' + cards + "</div>" +
+    "</div>"
+  );
+}
+
 function clubPlayerPhotoHtml(p) {
   if (p.photo) {
     return '<img src="' + p.photo + '" alt="' + p.name + '" class="squad-photo" loading="lazy" onerror="' +
@@ -248,6 +299,7 @@ async function openClubPage(teamName) {
 
   var rosterResult = await findClubRoster(teamName);
   var trophies = await findClubTrophies(teamName, rosterResult ? rosterResult.leagueKey : null);
+  var legends = await getClubLegends(teamName);
 
   var squadHtml;
   if (rosterResult && rosterResult.roster.length) {
@@ -267,7 +319,7 @@ async function openClubPage(teamName) {
     squadHtml = '<p class="muted-note">Full roster coming soon for this club.</p>';
   }
 
-var trophyHtml;
+  var trophyHtml;
   if (trophies.length) {
     trophyHtml = trophies.map(function (t) {
       var items = t.seasons.map(function (season) {
@@ -301,7 +353,8 @@ var trophyHtml;
     '<div class="club-modal-section">' +
     '<h3 class="club-modal-section-title">Squad</h3>' +
     '<div class="club-modal-squad-list">' + squadHtml + "</div>" +
-    "</div>";
+    "</div>" +
+    clubLegendsSectionHtml(legends);
 }
 
 function closeClubPage() {

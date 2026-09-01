@@ -2972,3 +2972,22 @@ section h2 {
   font-weight: 700;
   width: fit-content;
 }
+
+/* Club Legends section (embedded in club modal / Team page) - reuses the
+   Hall of Fame card look for visual consistency, just a bit more compact
+   since it's a sub-section here rather than a full showcase page. */
+
+.club-legends-grid {
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 0.9rem;
+}
+
+.club-legends-grid .halloffame-card {
+  padding: 1rem 0.7rem;
+}
+
+.club-legends-grid .halloffame-photo,
+.club-legends-grid .halloffame-photo-fallback {
+  width: 62px;
+  height: 62px;
+}
