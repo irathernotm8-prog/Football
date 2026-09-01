@@ -852,12 +852,12 @@
     "type": "league",
     "status": "active",
     "country": "Belgium",
-    "source": "manual",
+    "source": "fotmob",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
-      "squads": null,
-      "history": null
+      "fixtures": "data/fixtures-belgium.json",
+      "squads": "data/squads-belgium.json",
+      "history": "data/history-belgium.json"
     },
     "teamList": [
       "Anderlecht",
@@ -907,12 +907,12 @@
     "type": "league",
     "status": "active",
     "country": "Croatia",
-    "source": "manual",
+    "source": "fotmob",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
-      "squads": null,
-      "history": null
+      "fixtures": "data/fixtures-croatia.json",
+      "squads": "data/squads-croatia.json",
+      "history": "data/history-croatia.json"
     },
     "teamList": [
       "Dinamo Zagreb",
@@ -954,12 +954,12 @@
     "type": "league",
     "status": "active",
     "country": "Greece",
-    "source": "manual",
+    "source": "fotmob",
     "sourceSlug": null,
     "files": {
-      "fixtures": null,
-      "squads": null,
-      "history": null
+      "fixtures": "data/fixtures-greece.json",
+      "squads": "data/squads-greece.json",
+      "history": "data/history-greece.json"
     },
     "teamList": [
       "AEK Athens",
@@ -1010,8 +1010,8 @@
     "sourceSlug": null,
     "files": {
       "fixtures": "data/fixtures-nationsleague.json",
-      "squads": null,
-      "history": null
+      "squads": "data/squads-nationsleague.json",
+      "history": "data/history-nationsleague.json"
     },
     "teamList": [
       "Albania",

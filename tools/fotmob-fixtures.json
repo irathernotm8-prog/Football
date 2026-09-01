@@ -72,6 +72,31 @@
       "season": "2026/2027",
       "minMatches": 16,
       "filterToConfiguredTeams": true
+    },
+    "belgium": {
+      "leagueId": 40,
+      "season": "2026/2027",
+      "minMatches": 250
+    },
+    "croatia": {
+      "leagueId": 252,
+      "season": "2026/2027",
+      "minMatches": 160
+    },
+    "greece": {
+      "leagueId": 135,
+      "season": "2026/2027",
+      "minMatches": 170
+    },
+    "nationsleague": {
+      "leagueIds": [
+        9806,
+        9807,
+        9808,
+        9809
+      ],
+      "season": "2026/2027",
+      "minMatches": 150
     }
   }
 }

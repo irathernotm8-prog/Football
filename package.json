@@ -75,7 +75,23 @@
     "halloffame": "node tools/update-hall-of-fame.js",
     "halloffame:write": "node tools/update-hall-of-fame.js --write",
     "hallimages": "node tools/update-hall-images.js",
-    "hallimages:write": "node tools/update-hall-images.js --write"
+    "hallimages:write": "node tools/update-hall-images.js --write",
+    "squads:belgium": "node tools/update-squads.js belgium",
+    "squads:belgium:write": "node tools/update-squads.js belgium --write",
+    "fixtures:belgium": "node tools/update-fixtures.js belgium",
+    "fixtures:belgium:write": "node tools/update-fixtures.js belgium --write",
+    "squads:croatia": "node tools/update-squads.js croatia",
+    "squads:croatia:write": "node tools/update-squads.js croatia --write",
+    "fixtures:croatia": "node tools/update-fixtures.js croatia",
+    "fixtures:croatia:write": "node tools/update-fixtures.js croatia --write",
+    "squads:greece": "node tools/update-squads.js greece",
+    "squads:greece:write": "node tools/update-squads.js greece --write",
+    "fixtures:greece": "node tools/update-fixtures.js greece",
+    "fixtures:greece:write": "node tools/update-fixtures.js greece --write",
+    "squads:nationsleague": "node tools/update-squads.js nationsleague",
+    "squads:nationsleague:write": "node tools/update-squads.js nationsleague --write",
+    "fixtures:nationsleague": "node tools/update-fixtures.js nationsleague",
+    "fixtures:nationsleague:write": "node tools/update-fixtures.js nationsleague --write"
   },
   "engines": {
     "node": ">=18"

@@ -1781,6 +1781,414 @@
           "search": "Uzbekistan"
         }
       }
+    },
+    "belgium": {
+      "leagueId": 40,
+      "countryCode": "BEL",
+      "teams": {
+        "Anderlecht": {
+          "fotmobId": 8635,
+          "search": "Anderlecht"
+        },
+        "Royal Antwerp": {
+          "fotmobId": 9988,
+          "search": "Royal Antwerp"
+        },
+        "Beveren": {
+          "fotmobId": 8475,
+          "search": "SK Beveren"
+        },
+        "Cercle Brugge": {
+          "fotmobId": 9984,
+          "search": "Cercle Brugge"
+        },
+        "Charleroi": {
+          "fotmobId": 9986,
+          "search": "Sporting Charleroi"
+        },
+        "Club Brugge": {
+          "fotmobId": 8342,
+          "search": "Club Brugge"
+        },
+        "Genk": {
+          "fotmobId": 9987,
+          "search": "Genk"
+        },
+        "Gent": {
+          "fotmobId": 9991,
+          "search": "Gent"
+        },
+        "Kortrijk": {
+          "fotmobId": 8571,
+          "search": "Kortrijk"
+        },
+        "Lommel": {
+          "fotmobId": null,
+          "search": "Lommel SK"
+        },
+        "Mechelen": {
+          "fotmobId": 8203,
+          "search": "KV Mechelen"
+        },
+        "OH Leuven": {
+          "fotmobId": 1773,
+          "search": "OH Leuven"
+        },
+        "RAAL La Louvière": {
+          "fotmobId": 1218969,
+          "search": "RAAL La Louviere"
+        },
+        "Sint-Truidense": {
+          "fotmobId": 9997,
+          "search": "St.Truiden"
+        },
+        "Standard Liège": {
+          "fotmobId": 9985,
+          "search": "Standard Liege"
+        },
+        "Union Saint-Gilloise": {
+          "fotmobId": 7978,
+          "search": "Union St.Gilloise"
+        },
+        "Westerlo": {
+          "fotmobId": 10001,
+          "search": "Westerlo"
+        },
+        "Zulte Waregem": {
+          "fotmobId": 10000,
+          "search": "Zulte Waregem"
+        }
+      }
+    },
+    "croatia": {
+      "leagueId": 252,
+      "countryCode": "CRO",
+      "teams": {
+        "Dinamo Zagreb": {
+          "fotmobId": null,
+          "search": "Dinamo Zagreb"
+        },
+        "Gorica": {
+          "fotmobId": null,
+          "search": "HNK Gorica"
+        },
+        "Hajduk Split": {
+          "fotmobId": null,
+          "search": "Hajduk Split"
+        },
+        "Istra 1961": {
+          "fotmobId": null,
+          "search": "NK Istra 1961"
+        },
+        "Lokomotiva Zagreb": {
+          "fotmobId": null,
+          "search": "NK Lokomotiva"
+        },
+        "Osijek": {
+          "fotmobId": null,
+          "search": "Osijek"
+        },
+        "Rijeka": {
+          "fotmobId": null,
+          "search": "Rijeka"
+        },
+        "Rudeš": {
+          "fotmobId": null,
+          "search": "Rudes"
+        },
+        "Slaven Belupo": {
+          "fotmobId": null,
+          "search": "Slaven Belupo"
+        },
+        "Varaždin": {
+          "fotmobId": null,
+          "search": "NK Varazdin"
+        }
+      }
+    },
+    "greece": {
+      "leagueId": 135,
+      "countryCode": "GRE",
+      "teams": {
+        "AEK Athens": {
+          "fotmobId": 8563,
+          "search": "AEK Athens"
+        },
+        "Aris Thessaloniki": {
+          "fotmobId": null,
+          "search": "Aris Thessaloniki"
+        },
+        "Asteras Tripolis": {
+          "fotmobId": null,
+          "search": "Asteras Tripolis"
+        },
+        "Atromitos": {
+          "fotmobId": null,
+          "search": "Atromitos"
+        },
+        "Iraklis Thessaloniki": {
+          "fotmobId": null,
+          "search": "Iraklis"
+        },
+        "Kalamata": {
+          "fotmobId": null,
+          "search": "Kalamata"
+        },
+        "Kifisia": {
+          "fotmobId": null,
+          "search": "Kifisia"
+        },
+        "Levadiakos": {
+          "fotmobId": null,
+          "search": "Levadiakos"
+        },
+        "OFI Crete": {
+          "fotmobId": null,
+          "search": "OFI Crete"
+        },
+        "Olympiacos": {
+          "fotmobId": null,
+          "search": "Olympiacos"
+        },
+        "Panathinaikos": {
+          "fotmobId": null,
+          "search": "Panathinaikos"
+        },
+        "Panetolikos": {
+          "fotmobId": null,
+          "search": "Panetolikos"
+        },
+        "PAOK": {
+          "fotmobId": null,
+          "search": "PAOK Thessaloniki"
+        },
+        "Volos": {
+          "fotmobId": null,
+          "search": "NFC Volos"
+        }
+      }
+    },
+    "nationsleague": {
+      "leagueId": null,
+      "countryCode": "",
+      "teams": {
+        "Albania": {
+          "fotmobId": null,
+          "search": "Albania"
+        },
+        "Andorra": {
+          "fotmobId": null,
+          "search": "Andorra"
+        },
+        "Armenia": {
+          "fotmobId": null,
+          "search": "Armenia"
+        },
+        "Austria": {
+          "fotmobId": 8255,
+          "search": "Austria"
+        },
+        "Azerbaijan": {
+          "fotmobId": null,
+          "search": "Azerbaijan"
+        },
+        "Belarus": {
+          "fotmobId": null,
+          "search": "Belarus"
+        },
+        "Belgium": {
+          "fotmobId": 8263,
+          "search": "Belgium"
+        },
+        "Bosnia and Herzegovina": {
+          "fotmobId": 10106,
+          "search": "Bosnia and Herzegovina"
+        },
+        "Bulgaria": {
+          "fotmobId": null,
+          "search": "Bulgaria"
+        },
+        "Croatia": {
+          "fotmobId": 10155,
+          "search": "Croatia"
+        },
+        "Cyprus": {
+          "fotmobId": null,
+          "search": "Cyprus"
+        },
+        "Czech Republic": {
+          "fotmobId": 8496,
+          "search": "Czechia"
+        },
+        "Denmark": {
+          "fotmobId": null,
+          "search": "Denmark"
+        },
+        "England": {
+          "fotmobId": 8491,
+          "search": "England"
+        },
+        "Estonia": {
+          "fotmobId": null,
+          "search": "Estonia"
+        },
+        "Faroe Islands": {
+          "fotmobId": null,
+          "search": "Faroe Islands"
+        },
+        "Finland": {
+          "fotmobId": null,
+          "search": "Finland"
+        },
+        "France": {
+          "fotmobId": 6723,
+          "search": "France"
+        },
+        "Georgia": {
+          "fotmobId": null,
+          "search": "Georgia"
+        },
+        "Germany": {
+          "fotmobId": 8570,
+          "search": "Germany"
+        },
+        "Gibraltar": {
+          "fotmobId": null,
+          "search": "Gibraltar"
+        },
+        "Greece": {
+          "fotmobId": null,
+          "search": "Greece"
+        },
+        "Hungary": {
+          "fotmobId": null,
+          "search": "Hungary"
+        },
+        "Iceland": {
+          "fotmobId": null,
+          "search": "Iceland"
+        },
+        "Israel": {
+          "fotmobId": null,
+          "search": "Israel"
+        },
+        "Italy": {
+          "fotmobId": null,
+          "search": "Italy"
+        },
+        "Kazakhstan": {
+          "fotmobId": null,
+          "search": "Kazakhstan"
+        },
+        "Kosovo": {
+          "fotmobId": null,
+          "search": "Kosovo"
+        },
+        "Latvia": {
+          "fotmobId": null,
+          "search": "Latvia"
+        },
+        "Liechtenstein": {
+          "fotmobId": null,
+          "search": "Liechtenstein"
+        },
+        "Lithuania": {
+          "fotmobId": null,
+          "search": "Lithuania"
+        },
+        "Luxembourg": {
+          "fotmobId": null,
+          "search": "Luxembourg"
+        },
+        "Malta": {
+          "fotmobId": null,
+          "search": "Malta"
+        },
+        "Moldova": {
+          "fotmobId": null,
+          "search": "Moldova"
+        },
+        "Montenegro": {
+          "fotmobId": null,
+          "search": "Montenegro"
+        },
+        "Netherlands": {
+          "fotmobId": 6708,
+          "search": "Netherlands"
+        },
+        "North Macedonia": {
+          "fotmobId": null,
+          "search": "North Macedonia"
+        },
+        "Northern Ireland": {
+          "fotmobId": null,
+          "search": "Northern Ireland"
+        },
+        "Norway": {
+          "fotmobId": 8492,
+          "search": "Norway"
+        },
+        "Poland": {
+          "fotmobId": null,
+          "search": "Poland"
+        },
+        "Portugal": {
+          "fotmobId": 8361,
+          "search": "Portugal"
+        },
+        "Republic of Ireland": {
+          "fotmobId": null,
+          "search": "Ireland"
+        },
+        "Romania": {
+          "fotmobId": null,
+          "search": "Romania"
+        },
+        "San Marino": {
+          "fotmobId": null,
+          "search": "San Marino"
+        },
+        "Scotland": {
+          "fotmobId": 8498,
+          "search": "Scotland"
+        },
+        "Serbia": {
+          "fotmobId": null,
+          "search": "Serbia"
+        },
+        "Slovakia": {
+          "fotmobId": null,
+          "search": "Slovakia"
+        },
+        "Slovenia": {
+          "fotmobId": null,
+          "search": "Slovenia"
+        },
+        "Spain": {
+          "fotmobId": 6720,
+          "search": "Spain"
+        },
+        "Sweden": {
+          "fotmobId": 8520,
+          "search": "Sweden"
+        },
+        "Switzerland": {
+          "fotmobId": 6717,
+          "search": "Switzerland"
+        },
+        "Turkey": {
+          "fotmobId": null,
+          "search": "Turkiye"
+        },
+        "Ukraine": {
+          "fotmobId": null,
+          "search": "Ukraine"
+        },
+        "Wales": {
+          "fotmobId": null,
+          "search": "Wales"
+        }
+      }
     }
   }
 }

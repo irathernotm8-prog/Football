@@ -9,6 +9,7 @@ const FIXTURE_CONFIG_PATH = path.join(__dirname, 'fotmob-fixtures.json');
 const TEAM_CONFIG_PATH = path.join(__dirname, 'fotmob-squads.json');
 const COMPETITIONS_PATH = path.join(ROOT, 'data', 'competitions.json');
 const TEAM_IDENTITIES_PATH = path.join(ROOT, 'data', 'team-identities.json');
+const NATIONAL_TEAM_IDENTITIES_PATH = path.join(ROOT, 'data', 'national-team-identities.json');
 const TEAM_STADIUMS_PATH = path.join(ROOT, 'data', 'team-stadiums.json');
 
 const args = process.argv.slice(2);
@@ -495,7 +496,11 @@ async function updateCompetition(key, shared = null) {
     if (!Array.isArray(existing)) throw new Error(`${competition.files.fixtures} must contain a JSON array`);
     summary.existing = existing.length;
 
-    const identities = shared?.identities || readJson(TEAM_IDENTITIES_PATH);
+    const clubIdentities = shared?.identities || readJson(TEAM_IDENTITIES_PATH);
+    const nationalIdentities = fs.existsSync(NATIONAL_TEAM_IDENTITIES_PATH)
+      ? readJson(NATIONAL_TEAM_IDENTITIES_PATH)
+      : {};
+    const identities = { ...clubIdentities, ...nationalIdentities };
     const allowedTeams = new Set(Object.keys(teamCfg?.teams || {}));
     for (const name of competition?.teamList || []) allowedTeams.add(name);
     for (const fixture of existing) {
@@ -505,17 +510,37 @@ async function updateCompetition(key, shared = null) {
     const maps = buildTeamMaps(teamCfg, identities, [...allowedTeams]);
     const season = cfg.season ? `&season=${encodeURIComponent(cfg.season)}` : '';
     const ccode = cfg.countryCode ? `&ccode3=${encodeURIComponent(cfg.countryCode)}` : '';
-    const url = `${fixtureConfig.baseUrl}/leagues?id=${cfg.leagueId}${ccode}${season}`;
+    const leagueIds = Array.isArray(cfg.leagueIds) && cfg.leagueIds.length
+      ? cfg.leagueIds
+      : [cfg.leagueId];
 
     console.log(`${competition.label.toUpperCase()} — FotMob fixture refresh`);
     console.log(WRITE ? 'WRITE MODE' : 'DRY RUN — no files will be modified');
-    if (VERBOSE) console.log(`Fetching ${url}`);
 
-    const payload = await fotmobFetch(url);
-    const rawMatches = extractMatches(payload);
-    if (!rawMatches.length) throw new Error('Could not find a fixture list in FotMob league response');
+    const rawMatches = [];
+    for (const leagueId of leagueIds) {
+      const url = `${fixtureConfig.baseUrl}/leagues?id=${leagueId}${ccode}${season}`;
+      if (VERBOSE) console.log(`Fetching ${url}`);
+      const payload = await fotmobFetch(url);
+      const matches = extractMatches(payload);
+      if (!matches.length) throw new Error(`Could not find a fixture list in FotMob league response (${leagueId})`);
+      rawMatches.push(...matches);
+    }
 
-    let remote = rawMatches.map((m) => normalizeRemoteFixture(m, maps));
+    // Nations League is split into A/B/C/D on FotMob. Merging feeds can only
+    // introduce a duplicate if FotMob repeats a cross-stage/playoff match, so
+    // de-duplicate by match ID where available and otherwise by teams/date.
+    const seenRemote = new Set();
+    let remote = rawMatches
+      .map((m) => normalizeRemoteFixture(m, maps))
+      .filter((m) => {
+        const key = m.fotmobId
+          ? `id:${m.fotmobId}`
+          : `${m.home || m._remoteHome}|${m.away || m._remoteAway}|${m.dateUtc || ''}`;
+        if (seenRemote.has(key)) return false;
+        seenRemote.add(key);
+        return true;
+      });
 
     // Some cup/continental league feeds include qualifying or earlier-round
     // matches involving clubs outside the stage tracked by this repo. For
