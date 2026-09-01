@@ -1,64 +1,502 @@
 {
-  "RC Deportivo": {"aliases": ["Deportivo A Coruña", "Deportivo La Coruña", "Deportivo", "RC Deportivo La Coruña"]},
-  "Man City": {"aliases": ["Manchester City"]},
-  "Man Utd": {"aliases": ["Manchester United", "Man United"]},
-  "Athletic Club": {"aliases": ["Athletic Bilbao"]},
-  "Atlético de Madrid": {"aliases": ["Atlético Madrid", "Atletico Madrid", "Atlético Aviación"]},
-  "FC Barcelona": {"aliases": ["Barcelona"]},
-  "Sevilla FC": {"aliases": ["Sevilla"]},
-  "Valencia CF": {"aliases": ["Valencia"]},
-  "Milan": {"aliases": ["AC Milan"]},
-  "Inter": {"aliases": ["Inter Milan", "Internazionale"]},
-  "AJ Auxerre": {"aliases": ["Auxerre"]},
-  "RC Lens": {"aliases": ["Lens"]},
-  "LOSC Lille": {"aliases": ["Lille"]},
-  "Olympique Lyonnais": {"aliases": ["Lyon"]},
-  "Olympique de Marseille": {"aliases": ["Marseille", "Olympique Marseille"]},
-  "OGC Nice": {"aliases": ["Nice"]},
-  "RC Strasbourg Alsace": {"aliases": ["Strasbourg"]},
-  "Bayer 04 Leverkusen": {"aliases": ["Bayer Leverkusen"]},
-  "FC Bayern München": {"aliases": ["Bayern Munich", "Bayern München"]},
-  "SV Werder Bremen": {"aliases": ["Werder Bremen"]},
-  "Nott'm Forest": {"aliases": ["Nottingham Forest"]},
-  "Atlanta United": {"aliases": ["Atlanta United FC"]},
-  "Chicago Fire FC": {"aliases": ["Chicago Fire"]},
-  "Sporting Kansas City": {"aliases": ["Kansas City Wizards"]},
-
-  "Kasimpasa": {"aliases": ["Kasımpaşa"]},
-  "Amedspor": {"aliases": ["Amed Sportif", "Amed SK"]},
-  "Erzurumspor": {"aliases": ["Erzurumspor FK"]},
-  "Çorum": {"aliases": ["Çorum FK", "Corum FK", "Corum"]},
-  "Istanbul Basaksehir": {"aliases": ["Başakşehir", "Istanbul Başakşehir", "Istanbul Basaksehir FK"]},
-  "Gençlerbirligi": {"aliases": ["Gençlerbirliği", "Genclerbirligi"]},
-  "Çaykur Rizespor": {"aliases": ["Rizespor", "Caykur Rizespor"]},
-
-  "Gimnasia y Esgrima": {"aliases": ["Gimnasia Mendoza", "Gimnasia y Esgrima Mendoza"]},
-  "Central Cordoba": {"aliases": ["Central Córdoba", "Central Córdoba de Santiago", "Central Cordoba de Santiago"]},
-  "Atletico Tucuman": {"aliases": ["Atlético Tucumán", "Atletico Tucumán"]},
-  "Union": {"aliases": ["Unión"]},
-  "Velez Sarsfield": {"aliases": ["Vélez Sarsfield"]},
-  "Newells Old Boys": {"aliases": ["Newell's Old Boys", "Newell’s Old Boys"]},
-  "Lanus": {"aliases": ["Lanús"]},
-  "Huracan": {"aliases": ["Huracán"]},
-
-  "Atletico Mineiro": {"aliases": ["Atlético-MG", "Atletico-MG", "Atlético Mineiro"]},
-  "RB Bragantino": {"aliases": ["Bragantino", "Red Bull Bragantino"]},
-  "Gremio": {"aliases": ["Grêmio"]},
-  "Sao Paulo": {"aliases": ["São Paulo"]},
-  "Athletico Paranaense": {"aliases": ["Athletico-PR", "Athletico PR"]},
-  "Vitoria": {"aliases": ["Vitória", "EC Vitória"]},
-
-  "Hearts": {"aliases": ["Heart of Midlothian", "Heart of Midlothian FC"]},
-  "Dundee": {"aliases": ["Dundee FC"]},
-  "St Johnstone": {"aliases": ["St. Johnstone", "Saint Johnstone"]},
-  "St Mirren": {"aliases": ["St. Mirren", "Saint Mirren"]},
-
-  "Guadalajara": {"aliases": ["Chivas", "CD Guadalajara", "Chivas Guadalajara"]},
-  "Club America": {"aliases": ["CF América", "CF America", "América", "America"]},
-  "Queretaro": {"aliases": ["Querétaro", "Querétaro FC", "Queretaro FC"]},
-  "FC Juarez": {"aliases": ["FC Juárez", "Juárez", "Juarez"]},
-  "Atletico San Luis": {"aliases": ["Atlético de San Luis", "Atletico de San Luis"]},
-  "Club Leon": {"aliases": ["León", "Leon", "Club León"]},
-  "Club Tijuana": {"aliases": ["Tijuana", "Xolos"]},
-  "Pumas UNAM": {"aliases": ["Pumas", "UNAM"]}
+  "RC Deportivo": {
+    "aliases": [
+      "Deportivo A Coruña",
+      "Deportivo La Coruña",
+      "Deportivo",
+      "RC Deportivo La Coruña"
+    ]
+  },
+  "Man City": {
+    "aliases": [
+      "Manchester City"
+    ]
+  },
+  "Man Utd": {
+    "aliases": [
+      "Manchester United",
+      "Man United"
+    ]
+  },
+  "Athletic Club": {
+    "aliases": [
+      "Athletic Bilbao"
+    ]
+  },
+  "Atlético de Madrid": {
+    "aliases": [
+      "Atlético Madrid",
+      "Atletico Madrid",
+      "Atlético Aviación"
+    ]
+  },
+  "FC Barcelona": {
+    "aliases": [
+      "Barcelona"
+    ]
+  },
+  "Sevilla FC": {
+    "aliases": [
+      "Sevilla"
+    ]
+  },
+  "Valencia CF": {
+    "aliases": [
+      "Valencia"
+    ]
+  },
+  "Milan": {
+    "aliases": [
+      "AC Milan"
+    ]
+  },
+  "Inter": {
+    "aliases": [
+      "Inter Milan",
+      "Internazionale"
+    ]
+  },
+  "AJ Auxerre": {
+    "aliases": [
+      "Auxerre"
+    ]
+  },
+  "RC Lens": {
+    "aliases": [
+      "Lens"
+    ]
+  },
+  "LOSC Lille": {
+    "aliases": [
+      "Lille"
+    ]
+  },
+  "Olympique Lyonnais": {
+    "aliases": [
+      "Lyon"
+    ]
+  },
+  "Olympique de Marseille": {
+    "aliases": [
+      "Marseille",
+      "Olympique Marseille"
+    ]
+  },
+  "OGC Nice": {
+    "aliases": [
+      "Nice"
+    ]
+  },
+  "RC Strasbourg Alsace": {
+    "aliases": [
+      "Strasbourg"
+    ]
+  },
+  "Bayer 04 Leverkusen": {
+    "aliases": [
+      "Bayer Leverkusen"
+    ]
+  },
+  "FC Bayern München": {
+    "aliases": [
+      "Bayern Munich",
+      "Bayern München"
+    ]
+  },
+  "SV Werder Bremen": {
+    "aliases": [
+      "Werder Bremen"
+    ]
+  },
+  "Nott'm Forest": {
+    "aliases": [
+      "Nottingham Forest"
+    ]
+  },
+  "Atlanta United": {
+    "aliases": [
+      "Atlanta United FC"
+    ]
+  },
+  "Chicago Fire FC": {
+    "aliases": [
+      "Chicago Fire"
+    ]
+  },
+  "Sporting Kansas City": {
+    "aliases": [
+      "Kansas City Wizards"
+    ]
+  },
+  "Kasimpasa": {
+    "aliases": [
+      "Kasımpaşa"
+    ]
+  },
+  "Amedspor": {
+    "aliases": [
+      "Amed Sportif",
+      "Amed SK"
+    ]
+  },
+  "Erzurumspor": {
+    "aliases": [
+      "Erzurumspor FK"
+    ]
+  },
+  "Çorum": {
+    "aliases": [
+      "Çorum FK",
+      "Corum FK",
+      "Corum"
+    ]
+  },
+  "Istanbul Basaksehir": {
+    "aliases": [
+      "Başakşehir",
+      "Istanbul Başakşehir",
+      "Istanbul Basaksehir FK"
+    ]
+  },
+  "Gençlerbirligi": {
+    "aliases": [
+      "Gençlerbirliği",
+      "Genclerbirligi"
+    ]
+  },
+  "Çaykur Rizespor": {
+    "aliases": [
+      "Rizespor",
+      "Caykur Rizespor"
+    ]
+  },
+  "Gimnasia y Esgrima": {
+    "aliases": [
+      "Gimnasia Mendoza",
+      "Gimnasia y Esgrima Mendoza"
+    ]
+  },
+  "Central Cordoba": {
+    "aliases": [
+      "Central Córdoba",
+      "Central Córdoba de Santiago",
+      "Central Cordoba de Santiago"
+    ]
+  },
+  "Atletico Tucuman": {
+    "aliases": [
+      "Atlético Tucumán",
+      "Atletico Tucumán"
+    ]
+  },
+  "Union": {
+    "aliases": [
+      "Unión"
+    ]
+  },
+  "Velez Sarsfield": {
+    "aliases": [
+      "Vélez Sarsfield"
+    ]
+  },
+  "Newells Old Boys": {
+    "aliases": [
+      "Newell's Old Boys",
+      "Newell’s Old Boys"
+    ]
+  },
+  "Lanus": {
+    "aliases": [
+      "Lanús"
+    ]
+  },
+  "Huracan": {
+    "aliases": [
+      "Huracán"
+    ]
+  },
+  "Atletico Mineiro": {
+    "aliases": [
+      "Atlético-MG",
+      "Atletico-MG",
+      "Atlético Mineiro"
+    ]
+  },
+  "RB Bragantino": {
+    "aliases": [
+      "Bragantino",
+      "Red Bull Bragantino"
+    ]
+  },
+  "Gremio": {
+    "aliases": [
+      "Grêmio"
+    ]
+  },
+  "Sao Paulo": {
+    "aliases": [
+      "São Paulo"
+    ]
+  },
+  "Athletico Paranaense": {
+    "aliases": [
+      "Athletico-PR",
+      "Athletico PR"
+    ]
+  },
+  "Vitoria": {
+    "aliases": [
+      "Vitória",
+      "EC Vitória"
+    ]
+  },
+  "Hearts": {
+    "aliases": [
+      "Heart of Midlothian",
+      "Heart of Midlothian FC"
+    ]
+  },
+  "Dundee": {
+    "aliases": [
+      "Dundee FC"
+    ]
+  },
+  "St Johnstone": {
+    "aliases": [
+      "St. Johnstone",
+      "Saint Johnstone"
+    ]
+  },
+  "St Mirren": {
+    "aliases": [
+      "St. Mirren",
+      "Saint Mirren"
+    ]
+  },
+  "Guadalajara": {
+    "aliases": [
+      "Chivas",
+      "CD Guadalajara",
+      "Chivas Guadalajara"
+    ]
+  },
+  "Club America": {
+    "aliases": [
+      "CF América",
+      "CF America",
+      "América",
+      "America"
+    ]
+  },
+  "Queretaro": {
+    "aliases": [
+      "Querétaro",
+      "Querétaro FC",
+      "Queretaro FC"
+    ]
+  },
+  "FC Juarez": {
+    "aliases": [
+      "FC Juárez",
+      "Juárez",
+      "Juarez"
+    ]
+  },
+  "Atletico San Luis": {
+    "aliases": [
+      "Atlético de San Luis",
+      "Atletico de San Luis"
+    ]
+  },
+  "Club Leon": {
+    "aliases": [
+      "León",
+      "Leon",
+      "Club León"
+    ]
+  },
+  "Club Tijuana": {
+    "aliases": [
+      "Tijuana",
+      "Xolos"
+    ]
+  },
+  "Pumas UNAM": {
+    "aliases": [
+      "Pumas",
+      "UNAM",
+      "UNAM Pumas"
+    ]
+  },
+  "Spurs": {
+    "aliases": [
+      "Tottenham Hotspur"
+    ]
+  },
+  "Newcastle": {
+    "aliases": [
+      "Newcastle United"
+    ]
+  },
+  "Leeds": {
+    "aliases": [
+      "Leeds United"
+    ]
+  },
+  "Villarreal CF": {
+    "aliases": [
+      "Villarreal"
+    ]
+  },
+  "Levante UD": {
+    "aliases": [
+      "Levante"
+    ]
+  },
+  "Málaga CF": {
+    "aliases": [
+      "Málaga"
+    ]
+  },
+  "Celta de Vigo": {
+    "aliases": [
+      "Celta Vigo"
+    ]
+  },
+  "FC Schalke 04": {
+    "aliases": [
+      "Schalke 04"
+    ]
+  },
+  "FC Porto": {
+    "aliases": [
+      "Porto"
+    ]
+  },
+  "AS Monaco": {
+    "aliases": [
+      "Monaco"
+    ]
+  },
+  "FC Nantes": {
+    "aliases": [
+      "Nantes"
+    ]
+  },
+  "Stade Rennais FC": {
+    "aliases": [
+      "Rennes"
+    ]
+  },
+  "FC Metz": {
+    "aliases": [
+      "Metz"
+    ]
+  },
+  "Stade Brestois 29": {
+    "aliases": [
+      "Brest"
+    ]
+  },
+  "EA Guingamp": {
+    "aliases": [
+      "Guingamp"
+    ]
+  },
+  "Estac Troyes": {
+    "aliases": [
+      "Troyes"
+    ]
+  },
+  "Le Mans FC": {
+    "aliases": [
+      "Le Mans"
+    ]
+  },
+  "AS Saint-Etienne": {
+    "aliases": [
+      "Saint-Étienne"
+    ]
+  },
+  "FC Groningen": {
+    "aliases": [
+      "Groningen"
+    ]
+  },
+  "SC Cambuur": {
+    "aliases": [
+      "Cambuur"
+    ]
+  },
+  "sc Heerenveen": {
+    "aliases": [
+      "Heerenveen"
+    ]
+  },
+  "FC Utrecht": {
+    "aliases": [
+      "Utrecht"
+    ]
+  },
+  "Al Ahli": {
+    "aliases": [
+      "Al-Ahli"
+    ]
+  },
+  "Al Nassr": {
+    "aliases": [
+      "Al-Nassr"
+    ]
+  },
+  "Al Hilal": {
+    "aliases": [
+      "Al-Hilal"
+    ]
+  },
+  "Al Shabab": {
+    "aliases": [
+      "Al-Shabab"
+    ]
+  },
+  "Los Angeles FC": {
+    "aliases": [
+      "LAFC"
+    ]
+  },
+  "Instituto": {
+    "aliases": [
+      "Instituto de Córdoba"
+    ]
+  },
+  "Palermo FC": {
+    "aliases": [
+      "Palermo"
+    ]
+  },
+  "Calcio Padova": {
+    "aliases": [
+      "Padova"
+    ]
+  },
+  "Seattle Sounders FC": {
+    "aliases": [
+      "Seattle Sounders"
+    ]
+  },
+  "Vitória SC": {
+    "aliases": [
+      "Vitória Guimarães",
+      "Vitória de Guimarães"
+    ]
+  },
+  "Marítimo M.": {
+    "aliases": [
+      "Marítimo"
+    ]
+  },
+  "Real Madrid": {
+    "aliases": [
+      "Real Madrid Castilla"
+    ]
+  }
 }
