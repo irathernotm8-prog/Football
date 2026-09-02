@@ -72,7 +72,12 @@ var TROPHY_ICON_ASSETS = {
   facup: "assets/trophies/facup.png",
   eflcup: "assets/trophies/eflcup.png",
   communityshield: "assets/trophies/communityshield.png",
-  worldcup: "assets/league-logos/world-cup.png"
+  worldcup: "assets/league-logos/world-cup.png",
+  argentina: "assets/trophies/argentina.png",
+  brazil: "assets/trophies/brazil.png",
+  nationsleague: "assets/trophies/nationsleague.png",
+  saudi: "assets/trophies/saudi.png",
+  scotland: "assets/trophies/scotland.png"
 };
 
 function trophyIconHtml(leagueKey, label) {
