@@ -205,9 +205,9 @@
     "venue": "Luigi Ferraris",
     "home": "Genoa",
     "away": "Como",
-    "result": null,
+    "result": "1-4",
     "fotmobId": 5749665,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -215,9 +215,9 @@
     "venue": "Artemio Franchi",
     "home": "Fiorentina",
     "away": "Torino",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5749663,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -225,9 +225,9 @@
     "venue": "Giuseppe Meazza",
     "home": "Inter",
     "away": "Napoli",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5749666,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -235,9 +235,9 @@
     "venue": "Olimpico",
     "home": "Roma",
     "away": "Atalanta",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5749660,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -245,9 +245,9 @@
     "venue": "Benito Stirpe",
     "home": "Frosinone",
     "away": "Venezia",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5749664,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -255,9 +255,9 @@
     "venue": "Ennio Tardini",
     "home": "Parma",
     "away": "Monza",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5749668,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -265,9 +265,9 @@
     "venue": "Renato Dall'Ara",
     "home": "Bologna",
     "away": "Sassuolo",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5749661,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -275,9 +275,9 @@
     "venue": "Allianz Stadium",
     "home": "Juventus",
     "away": "Milan",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5749667,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -285,9 +285,9 @@
     "venue": "Unipol Domus",
     "home": "Cagliari",
     "away": "Lecce",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5749662,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -295,9 +295,9 @@
     "venue": "Friuli/Bluenergy stadium",
     "home": "Udinese",
     "away": "Lazio",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5749669,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -501,37 +501,7 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
-    "venue": "New Balance Arena",
-    "home": "Atalanta",
-    "away": "Venezia",
-    "result": null,
-    "fotmobId": 5749690,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
-    "venue": "Unipol Domus",
-    "home": "Cagliari",
-    "away": "Juventus",
-    "result": null,
-    "fotmobId": 5749691,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
-    "venue": "Giuseppe Sinigaglia",
-    "home": "Como",
-    "away": "Roma",
-    "result": null,
-    "fotmobId": 5749692,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
+    "dateUtc": "2026-10-10T13:00:00Z",
     "venue": "Luigi Ferraris",
     "home": "Genoa",
     "away": "Fiorentina",
@@ -541,7 +511,7 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
+    "dateUtc": "2026-10-10T16:00:00Z",
     "venue": "Giuseppe Meazza",
     "home": "Inter",
     "away": "Parma",
@@ -551,27 +521,7 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
-    "venue": "Olimpico",
-    "home": "Lazio",
-    "away": "Monza",
-    "result": null,
-    "fotmobId": 5749695,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
-    "venue": "Ettore Giardiniero - Via Del Mare",
-    "home": "Lecce",
-    "away": "Bologna",
-    "result": null,
-    "fotmobId": 5749696,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
+    "dateUtc": "2026-10-10T18:45:00Z",
     "venue": "Diego Armando Maradona",
     "home": "Napoli",
     "away": "Frosinone",
@@ -581,7 +531,37 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
+    "dateUtc": "2026-10-11T10:30:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Roma",
+    "result": null,
+    "fotmobId": 5749692,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-11T13:00:00Z",
+    "venue": "Olimpico",
+    "home": "Lazio",
+    "away": "Monza",
+    "result": null,
+    "fotmobId": 5749695,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-11T13:00:00Z",
+    "venue": "Ettore Giardiniero - Via Del Mare",
+    "home": "Lecce",
+    "away": "Bologna",
+    "result": null,
+    "fotmobId": 5749696,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-11T16:00:00Z",
     "venue": "Mapei Stadium",
     "home": "Sassuolo",
     "away": "Milan",
@@ -591,7 +571,27 @@
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-11T16:30:00Z",
+    "dateUtc": "2026-10-11T18:45:00Z",
+    "venue": "Unipol Domus",
+    "home": "Cagliari",
+    "away": "Juventus",
+    "result": null,
+    "fotmobId": 5749691,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-12T16:30:00Z",
+    "venue": "New Balance Arena",
+    "home": "Atalanta",
+    "away": "Venezia",
+    "result": null,
+    "fotmobId": 5749690,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-12T18:45:00Z",
     "venue": "Olimpico - Grande Torino",
     "home": "Torino",
     "away": "Udinese",
@@ -601,27 +601,7 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Renato Dall'Ara",
-    "home": "Bologna",
-    "away": "Inter",
-    "result": null,
-    "fotmobId": 5749702,
-    "status": "scheduled"
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Artemio Franchi",
-    "home": "Fiorentina",
-    "away": "Como",
-    "result": null,
-    "fotmobId": 5749703,
-    "status": "scheduled"
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
+    "dateUtc": "2026-10-16T18:45:00Z",
     "venue": "Benito Stirpe",
     "home": "Frosinone",
     "away": "Sassuolo",
@@ -631,47 +611,27 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Allianz Stadium",
-    "home": "Juventus",
-    "away": "Lazio",
+    "dateUtc": "2026-10-17T13:00:00Z",
+    "venue": "Pier Luigi Penzo",
+    "home": "Venezia",
+    "away": "Napoli",
     "result": null,
-    "fotmobId": 5749705,
+    "fotmobId": 5749709,
     "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Giuseppe Meazza",
-    "home": "Milan",
-    "away": "Atalanta",
+    "dateUtc": "2026-10-17T16:00:00Z",
+    "venue": "Renato Dall'Ara",
+    "home": "Bologna",
+    "away": "Inter",
     "result": null,
-    "fotmobId": 5749700,
+    "fotmobId": 5749702,
     "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Brianteo",
-    "home": "Monza",
-    "away": "Cagliari",
-    "result": null,
-    "fotmobId": 5749706,
-    "status": "scheduled"
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Ennio Tardini",
-    "home": "Parma",
-    "away": "Torino",
-    "result": null,
-    "fotmobId": 5749707,
-    "status": "scheduled"
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
+    "dateUtc": "2026-10-17T18:45:00Z",
     "venue": "Olimpico",
     "home": "Roma",
     "away": "Genoa",
@@ -681,7 +641,7 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
+    "dateUtc": "2026-10-18T10:30:00Z",
     "venue": "Friuli/Bluenergy stadium",
     "home": "Udinese",
     "away": "Lecce",
@@ -691,97 +651,57 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-18T16:30:00Z",
-    "venue": "Pier Luigi Penzo",
-    "home": "Venezia",
-    "away": "Napoli",
+    "dateUtc": "2026-10-18T13:00:00Z",
+    "venue": "Artemio Franchi",
+    "home": "Fiorentina",
+    "away": "Como",
     "result": null,
-    "fotmobId": 5749709,
+    "fotmobId": 5749703,
     "status": "scheduled"
   },
   {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "New Balance Arena",
-    "home": "Atalanta",
-    "away": "Frosinone",
-    "result": null,
-    "fotmobId": 5749710,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Unipol Domus",
-    "home": "Cagliari",
-    "away": "Bologna",
-    "result": null,
-    "fotmobId": 5749711,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Giuseppe Sinigaglia",
-    "home": "Como",
-    "away": "Sassuolo",
-    "result": null,
-    "fotmobId": 5749712,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Luigi Ferraris",
-    "home": "Genoa",
-    "away": "Venezia",
-    "result": null,
-    "fotmobId": 5749713,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
+    "round": 7,
+    "dateUtc": "2026-10-18T16:00:00Z",
     "venue": "Giuseppe Meazza",
-    "home": "Inter",
-    "away": "Fiorentina",
+    "home": "Milan",
+    "away": "Atalanta",
     "result": null,
-    "fotmobId": 5749714,
+    "fotmobId": 5749700,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-18T18:45:00Z",
+    "venue": "Allianz Stadium",
+    "home": "Juventus",
+    "away": "Lazio",
+    "result": null,
+    "fotmobId": 5749705,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-19T16:30:00Z",
+    "venue": "Brianteo",
+    "home": "Monza",
+    "away": "Cagliari",
+    "result": null,
+    "fotmobId": 5749706,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-19T18:45:00Z",
+    "venue": "Ennio Tardini",
+    "home": "Parma",
+    "away": "Torino",
+    "result": null,
+    "fotmobId": 5749707,
     "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Olimpico",
-    "home": "Lazio",
-    "away": "Parma",
-    "result": null,
-    "fotmobId": 5749715,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Ettore Giardiniero - Via Del Mare",
-    "home": "Lecce",
-    "away": "Juventus",
-    "result": null,
-    "fotmobId": 5749716,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
-    "venue": "Diego Armando Maradona",
-    "home": "Napoli",
-    "away": "Roma",
-    "result": null,
-    "fotmobId": 5749717,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
+    "dateUtc": "2026-10-23T18:45:00Z",
     "venue": "Olimpico - Grande Torino",
     "home": "Torino",
     "away": "Monza",
@@ -791,7 +711,87 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-25T17:30:00Z",
+    "dateUtc": "2026-10-24T13:00:00Z",
+    "venue": "Unipol Domus",
+    "home": "Cagliari",
+    "away": "Bologna",
+    "result": null,
+    "fotmobId": 5749711,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-24T13:00:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Sassuolo",
+    "result": null,
+    "fotmobId": 5749712,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-24T16:00:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Roma",
+    "result": null,
+    "fotmobId": 5749717,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-24T18:45:00Z",
+    "venue": "Olimpico",
+    "home": "Lazio",
+    "away": "Parma",
+    "result": null,
+    "fotmobId": 5749715,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T11:30:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Fiorentina",
+    "result": null,
+    "fotmobId": 5749714,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T14:00:00Z",
+    "venue": "New Balance Arena",
+    "home": "Atalanta",
+    "away": "Frosinone",
+    "result": null,
+    "fotmobId": 5749710,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T14:00:00Z",
+    "venue": "Luigi Ferraris",
+    "home": "Genoa",
+    "away": "Venezia",
+    "result": null,
+    "fotmobId": 5749713,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T17:00:00Z",
+    "venue": "Ettore Giardiniero - Via Del Mare",
+    "home": "Lecce",
+    "away": "Juventus",
+    "result": null,
+    "fotmobId": 5749716,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T19:45:00Z",
     "venue": "Friuli/Bluenergy stadium",
     "home": "Udinese",
     "away": "Milan",
@@ -801,32 +801,32 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Artemio Franchi",
-    "home": "Fiorentina",
-    "away": "Atalanta",
+    "dateUtc": "2026-10-27T17:30:00Z",
+    "venue": "Mapei Stadium",
+    "home": "Sassuolo",
+    "away": "Lazio",
     "result": null,
-    "fotmobId": 5749722,
+    "fotmobId": 5749727,
     "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Benito Stirpe",
-    "home": "Frosinone",
-    "away": "Lecce",
+    "dateUtc": "2026-10-27T19:45:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Cagliari",
     "result": null,
-    "fotmobId": 5749723,
+    "fotmobId": 5749721,
     "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Luigi Ferraris",
-    "home": "Genoa",
-    "away": "Juventus",
+    "dateUtc": "2026-10-27T19:45:00Z",
+    "venue": "Olimpico - Grande Torino",
+    "home": "Torino",
+    "away": "Como",
     "result": null,
-    "fotmobId": 5749724,
+    "fotmobId": 5749728,
     "status": "scheduled"
   },
   {
@@ -842,51 +842,11 @@
   {
     "round": 9,
     "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Brianteo",
-    "home": "Monza",
-    "away": "Napoli",
-    "result": null,
-    "fotmobId": 5749725,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
     "venue": "Ennio Tardini",
     "home": "Parma",
     "away": "Udinese",
     "result": null,
     "fotmobId": 5749726,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "Cagliari",
-    "result": null,
-    "fotmobId": 5749721,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Mapei Stadium",
-    "home": "Sassuolo",
-    "away": "Lazio",
-    "result": null,
-    "fotmobId": 5749727,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-28T17:30:00Z",
-    "venue": "Olimpico - Grande Torino",
-    "home": "Torino",
-    "away": "Como",
-    "result": null,
-    "fotmobId": 5749728,
     "status": "scheduled"
   },
   {
@@ -900,18 +860,48 @@
     "status": "scheduled"
   },
   {
-    "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "New Balance Arena",
-    "home": "Atalanta",
-    "away": "Parma",
+    "round": 9,
+    "dateUtc": "2026-10-28T19:45:00Z",
+    "venue": "Luigi Ferraris",
+    "home": "Genoa",
+    "away": "Juventus",
     "result": null,
-    "fotmobId": 5749731,
+    "fotmobId": 5749724,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-28T19:45:00Z",
+    "venue": "Brianteo",
+    "home": "Monza",
+    "away": "Napoli",
+    "result": null,
+    "fotmobId": 5749725,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-29T17:30:00Z",
+    "venue": "Benito Stirpe",
+    "home": "Frosinone",
+    "away": "Lecce",
+    "result": null,
+    "fotmobId": 5749723,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-29T19:45:00Z",
+    "venue": "Artemio Franchi",
+    "home": "Fiorentina",
+    "away": "Atalanta",
+    "result": null,
+    "fotmobId": 5749722,
     "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
+    "dateUtc": "2026-10-31T14:00:00Z",
     "venue": "Renato Dall'Ara",
     "home": "Bologna",
     "away": "Monza",
@@ -921,57 +911,17 @@
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Giuseppe Sinigaglia",
-    "home": "Como",
-    "away": "Venezia",
+    "dateUtc": "2026-10-31T17:00:00Z",
+    "venue": "Friuli/Bluenergy stadium",
+    "home": "Udinese",
+    "away": "Roma",
     "result": null,
-    "fotmobId": 5749733,
+    "fotmobId": 5749739,
     "status": "scheduled"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Benito Stirpe",
-    "home": "Frosinone",
-    "away": "Torino",
-    "result": null,
-    "fotmobId": 5749734,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Allianz Stadium",
-    "home": "Juventus",
-    "away": "Napoli",
-    "result": null,
-    "fotmobId": 5749735,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Olimpico",
-    "home": "Lazio",
-    "away": "Cagliari",
-    "result": null,
-    "fotmobId": 5749736,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Ettore Giardiniero - Via Del Mare",
-    "home": "Lecce",
-    "away": "Genoa",
-    "result": null,
-    "fotmobId": 5749737,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
+    "dateUtc": "2026-10-31T19:45:00Z",
     "venue": "Giuseppe Meazza",
     "home": "Milan",
     "away": "Inter",
@@ -981,7 +931,57 @@
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
+    "dateUtc": "2026-11-01T11:30:00Z",
+    "venue": "Giuseppe Sinigaglia",
+    "home": "Como",
+    "away": "Venezia",
+    "result": null,
+    "fotmobId": 5749733,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-01T14:00:00Z",
+    "venue": "Benito Stirpe",
+    "home": "Frosinone",
+    "away": "Torino",
+    "result": null,
+    "fotmobId": 5749734,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-01T14:00:00Z",
+    "venue": "Olimpico",
+    "home": "Lazio",
+    "away": "Cagliari",
+    "result": null,
+    "fotmobId": 5749736,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": "Ettore Giardiniero - Via Del Mare",
+    "home": "Lecce",
+    "away": "Genoa",
+    "result": null,
+    "fotmobId": 5749737,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-01T19:45:00Z",
+    "venue": "Allianz Stadium",
+    "home": "Juventus",
+    "away": "Napoli",
+    "result": null,
+    "fotmobId": 5749735,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-02T17:30:00Z",
     "venue": "Mapei Stadium",
     "home": "Sassuolo",
     "away": "Fiorentina",
@@ -991,17 +991,27 @@
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-01T17:30:00Z",
-    "venue": "Friuli/Bluenergy stadium",
-    "home": "Udinese",
-    "away": "Roma",
+    "dateUtc": "2026-11-02T19:45:00Z",
+    "venue": "New Balance Arena",
+    "home": "Atalanta",
+    "away": "Parma",
     "result": null,
-    "fotmobId": 5749739,
+    "fotmobId": 5749731,
     "status": "scheduled"
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
+    "dateUtc": "2026-11-06T19:45:00Z",
+    "venue": "Pier Luigi Penzo",
+    "home": "Venezia",
+    "away": "Udinese",
+    "result": null,
+    "fotmobId": 5749749,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T14:00:00Z",
     "venue": "Unipol Domus",
     "home": "Cagliari",
     "away": "Frosinone",
@@ -1011,77 +1021,7 @@
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Artemio Franchi",
-    "home": "Fiorentina",
-    "away": "Juventus",
-    "result": null,
-    "fotmobId": 5749742,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Luigi Ferraris",
-    "home": "Genoa",
-    "away": "Milan",
-    "result": null,
-    "fotmobId": 5749743,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Giuseppe Meazza",
-    "home": "Inter",
-    "away": "Como",
-    "result": null,
-    "fotmobId": 5749744,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Brianteo",
-    "home": "Monza",
-    "away": "Atalanta",
-    "result": null,
-    "fotmobId": 5749745,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Diego Armando Maradona",
-    "home": "Napoli",
-    "away": "Lazio",
-    "result": null,
-    "fotmobId": 5749746,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Ennio Tardini",
-    "home": "Parma",
-    "away": "Bologna",
-    "result": null,
-    "fotmobId": 5749747,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Olimpico",
-    "home": "Roma",
-    "away": "Sassuolo",
-    "result": null,
-    "fotmobId": 5749740,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
+    "dateUtc": "2026-11-07T14:00:00Z",
     "venue": "Olimpico - Grande Torino",
     "home": "Torino",
     "away": "Lecce",
@@ -1091,37 +1031,77 @@
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-08T17:30:00Z",
-    "venue": "Pier Luigi Penzo",
-    "home": "Venezia",
-    "away": "Udinese",
+    "dateUtc": "2026-11-07T17:00:00Z",
+    "venue": "Ennio Tardini",
+    "home": "Parma",
+    "away": "Bologna",
     "result": null,
-    "fotmobId": 5749749,
+    "fotmobId": 5749747,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-07T19:45:00Z",
+    "venue": "Olimpico",
+    "home": "Roma",
+    "away": "Sassuolo",
+    "result": null,
+    "fotmobId": 5749740,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-08T11:30:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Lazio",
+    "result": null,
+    "fotmobId": 5749746,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-08T14:00:00Z",
+    "venue": "Luigi Ferraris",
+    "home": "Genoa",
+    "away": "Milan",
+    "result": null,
+    "fotmobId": 5749743,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-08T14:00:00Z",
+    "venue": "Brianteo",
+    "home": "Monza",
+    "away": "Atalanta",
+    "result": null,
+    "fotmobId": 5749745,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Inter",
+    "away": "Como",
+    "result": null,
+    "fotmobId": 5749744,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-08T19:45:00Z",
+    "venue": "Artemio Franchi",
+    "home": "Fiorentina",
+    "away": "Juventus",
+    "result": null,
+    "fotmobId": 5749742,
     "status": "scheduled"
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "New Balance Arena",
-    "home": "Atalanta",
-    "away": "Inter",
-    "result": null,
-    "fotmobId": 5749751,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "Renato Dall'Ara",
-    "home": "Bologna",
-    "away": "Udinese",
-    "result": null,
-    "fotmobId": 5749752,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
+    "dateUtc": "2026-11-21T14:00:00Z",
     "venue": "Giuseppe Sinigaglia",
     "home": "Como",
     "away": "Cagliari",
@@ -1131,17 +1111,7 @@
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "Allianz Stadium",
-    "home": "Juventus",
-    "away": "Venezia",
-    "result": null,
-    "fotmobId": 5749754,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
+    "dateUtc": "2026-11-21T14:00:00Z",
     "venue": "Olimpico",
     "home": "Lazio",
     "away": "Lecce",
@@ -1151,37 +1121,7 @@
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "Giuseppe Meazza",
-    "home": "Milan",
-    "away": "Frosinone",
-    "result": null,
-    "fotmobId": 5749750,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "Brianteo",
-    "home": "Monza",
-    "away": "Fiorentina",
-    "result": null,
-    "fotmobId": 5749756,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
-    "venue": "Diego Armando Maradona",
-    "home": "Napoli",
-    "away": "Torino",
-    "result": null,
-    "fotmobId": 5749757,
-    "status": "scheduled"
-  },
-  {
-    "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
+    "dateUtc": "2026-11-21T17:00:00Z",
     "venue": "Ennio Tardini",
     "home": "Parma",
     "away": "Roma",
@@ -1191,12 +1131,72 @@
   },
   {
     "round": 12,
-    "dateUtc": "2026-11-22T17:30:00Z",
+    "dateUtc": "2026-11-21T19:45:00Z",
+    "venue": "Diego Armando Maradona",
+    "home": "Napoli",
+    "away": "Torino",
+    "result": null,
+    "fotmobId": 5749757,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-22T11:30:00Z",
     "venue": "Mapei Stadium",
     "home": "Sassuolo",
     "away": "Genoa",
     "result": null,
     "fotmobId": 5749759,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-22T14:00:00Z",
+    "venue": "Giuseppe Meazza",
+    "home": "Milan",
+    "away": "Frosinone",
+    "result": null,
+    "fotmobId": 5749750,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-22T17:00:00Z",
+    "venue": "Renato Dall'Ara",
+    "home": "Bologna",
+    "away": "Udinese",
+    "result": null,
+    "fotmobId": 5749752,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-22T19:45:00Z",
+    "venue": "New Balance Arena",
+    "home": "Atalanta",
+    "away": "Inter",
+    "result": null,
+    "fotmobId": 5749751,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-23T17:30:00Z",
+    "venue": "Brianteo",
+    "home": "Monza",
+    "away": "Fiorentina",
+    "result": null,
+    "fotmobId": 5749756,
+    "status": "scheduled"
+  },
+  {
+    "round": 12,
+    "dateUtc": "2026-11-23T19:45:00Z",
+    "venue": "Allianz Stadium",
+    "home": "Juventus",
+    "away": "Venezia",
+    "result": null,
+    "fotmobId": 5749754,
     "status": "scheduled"
   },
   {

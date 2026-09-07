@@ -305,9 +305,9 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "Real Madrid",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5868043,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -315,9 +315,9 @@
     "venue": "Estadio San Mamés",
     "home": "Athletic Club",
     "away": "Atlético de Madrid",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5868042,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -325,9 +325,9 @@
     "venue": "Estadio de Vallecas",
     "home": "Rayo Vallecano",
     "away": "R. Racing Club",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5868048,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -335,9 +335,9 @@
     "venue": "Estadio de la Cerámica",
     "home": "Villarreal CF",
     "away": "RC Deportivo",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5868050,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -345,9 +345,9 @@
     "venue": "Camp de Mestalla",
     "home": "Valencia CF",
     "away": "FC Barcelona",
-    "result": null,
+    "result": "0-5",
     "fotmobId": 5868049,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -355,9 +355,9 @@
     "venue": "Mendizorroza",
     "home": "Deportivo Alavés",
     "away": "CA Osasuna",
-    "result": null,
+    "result": "5-2",
     "fotmobId": 5868041,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -365,9 +365,9 @@
     "venue": "La Rosaleda",
     "home": "Málaga CF",
     "away": "Levante UD",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5868047,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -375,9 +375,9 @@
     "venue": "RCDE Stadium",
     "home": "RCD Espanyol de Barcelona",
     "away": "Sevilla FC",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5868045,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -385,9 +385,9 @@
     "venue": "Coliseum",
     "home": "Getafe CF",
     "away": "Celta",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5868046,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -395,9 +395,9 @@
     "venue": "Estadio Martínez Valero",
     "home": "Elche CF",
     "away": "Real Sociedad",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5868044,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -505,9 +505,9 @@
     "venue": "Anoeta",
     "home": "Real Sociedad",
     "away": "Celta",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5868070,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,

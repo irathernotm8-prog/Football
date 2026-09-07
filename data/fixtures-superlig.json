@@ -275,9 +275,9 @@
     "venue": "Basaksehir Fatih Terim",
     "home": "Istanbul Basaksehir",
     "away": "Galatasaray",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5904733,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -285,9 +285,9 @@
     "venue": "Erzurum Kâzim Karabekir",
     "home": "Erzurumspor",
     "away": "Konyaspor",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5904739,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -295,9 +295,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Besiktas",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5904737,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -305,9 +305,9 @@
     "venue": "Çorum Sehir Stadyumu",
     "home": "Çorum",
     "away": "Eyüpspor",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5904736,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -315,9 +315,9 @@
     "venue": "Recep Tayyip Erdogan Stadyumu",
     "home": "Kasimpasa",
     "away": "Amedspor",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5904732,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -325,9 +325,9 @@
     "venue": "Kocaeli Stadyumu",
     "home": "Kocaelispor",
     "away": "Samsunspor",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5904738,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -335,9 +335,9 @@
     "venue": "Papara Park",
     "home": "Trabzonspor",
     "away": "Gençlerbirligi",
-    "result": null,
+    "result": "5-0",
     "fotmobId": 5904731,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -345,9 +345,9 @@
     "venue": "Çaykur Didi",
     "home": "Çaykur Rizespor",
     "away": "Alanyaspor",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5904734,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -355,18 +355,68 @@
     "venue": "Gürsel Aksel Stadyumu",
     "home": "Göztepe",
     "away": "Gaziantep",
-    "result": null,
+    "result": "2-4",
     "fotmobId": 5904735,
+    "status": "finished"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-11T17:00:00Z",
+    "venue": "Besiktas Park",
+    "home": "Besiktas",
+    "away": "Erzurumspor",
+    "result": null,
+    "fotmobId": 5904747,
     "status": "scheduled"
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
+    "dateUtc": "2026-09-12T14:00:00Z",
+    "venue": "Necmi Kadioglu Stadyumu",
+    "home": "Eyüpspor",
+    "away": "Çaykur Rizespor",
+    "result": null,
+    "fotmobId": 5904741,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T14:00:00Z",
+    "venue": "Samsun 19 Mayis Stadyumu",
+    "home": "Samsunspor",
+    "away": "Çorum",
+    "result": null,
+    "fotmobId": 5904748,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T17:00:00Z",
     "venue": "Alanya Oba Stadyumu",
     "home": "Alanyaspor",
     "away": "Göztepe",
     "result": null,
     "fotmobId": 5904742,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-12T17:00:00Z",
+    "venue": "Konya Büyüksehir Stadyumu",
+    "home": "Konyaspor",
+    "away": "Trabzonspor",
+    "result": null,
+    "fotmobId": 5904745,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-13T14:00:00Z",
+    "venue": "Eryaman Stadyumu",
+    "home": "Gençlerbirligi",
+    "away": "Kasimpasa",
+    "result": null,
+    "fotmobId": 5904744,
     "status": "scheduled"
   },
   {
@@ -382,26 +432,6 @@
   {
     "round": 5,
     "dateUtc": "2026-09-13T17:00:00Z",
-    "venue": "Besiktas Park",
-    "home": "Besiktas",
-    "away": "Erzurumspor",
-    "result": null,
-    "fotmobId": 5904747,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
-    "venue": "Necmi Kadioglu Stadyumu",
-    "home": "Eyüpspor",
-    "away": "Çaykur Rizespor",
-    "result": null,
-    "fotmobId": 5904741,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
     "venue": "Ali Sami Yen Spor Kompleksi",
     "home": "Galatasaray",
     "away": "Kocaelispor",
@@ -411,7 +441,7 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
+    "dateUtc": "2026-09-14T17:00:00Z",
     "venue": "Gaziantep Stadyumu",
     "home": "Gaziantep",
     "away": "Fenerbahçe",
@@ -420,33 +450,73 @@
     "status": "scheduled"
   },
   {
-    "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
-    "venue": "Eryaman Stadyumu",
-    "home": "Gençlerbirligi",
-    "away": "Kasimpasa",
+    "round": 6,
+    "dateUtc": "2026-09-18T17:00:00Z",
+    "venue": "Recep Tayyip Erdogan Stadyumu",
+    "home": "Kasimpasa",
+    "away": "Konyaspor",
     "result": null,
-    "fotmobId": 5904744,
+    "fotmobId": 5904750,
     "status": "scheduled"
   },
   {
-    "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
-    "venue": "Konya Büyüksehir Stadyumu",
-    "home": "Konyaspor",
-    "away": "Trabzonspor",
+    "round": 6,
+    "dateUtc": "2026-09-19T14:00:00Z",
+    "venue": "Çorum Sehir Stadyumu",
+    "home": "Çorum",
+    "away": "Alanyaspor",
     "result": null,
-    "fotmobId": 5904745,
+    "fotmobId": 5904754,
     "status": "scheduled"
   },
   {
-    "round": 5,
-    "dateUtc": "2026-09-13T17:00:00Z",
-    "venue": "Samsun 19 Mayis Stadyumu",
-    "home": "Samsunspor",
-    "away": "Çorum",
+    "round": 6,
+    "dateUtc": "2026-09-19T14:00:00Z",
+    "venue": "Kocaeli Stadyumu",
+    "home": "Kocaelispor",
+    "away": "Gaziantep",
     "result": null,
-    "fotmobId": 5904748,
+    "fotmobId": 5904756,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T17:00:00Z",
+    "venue": "Basaksehir Fatih Terim",
+    "home": "Istanbul Basaksehir",
+    "away": "Gençlerbirligi",
+    "result": null,
+    "fotmobId": 5904751,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-19T17:00:00Z",
+    "venue": "Papara Park",
+    "home": "Trabzonspor",
+    "away": "Galatasaray",
+    "result": null,
+    "fotmobId": 5904749,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-20T14:00:00Z",
+    "venue": "Erzurum Kâzim Karabekir",
+    "home": "Erzurumspor",
+    "away": "Samsunspor",
+    "result": null,
+    "fotmobId": 5904757,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-09-20T14:00:00Z",
+    "venue": "Sükrü Saracoglu Spor Kompleksi",
+    "home": "Fenerbahçe",
+    "away": "Eyüpspor",
+    "result": null,
+    "fotmobId": 5904755,
     "status": "scheduled"
   },
   {
@@ -462,81 +532,11 @@
   {
     "round": 6,
     "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Çorum Sehir Stadyumu",
-    "home": "Çorum",
-    "away": "Alanyaspor",
-    "result": null,
-    "fotmobId": 5904754,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Erzurum Kâzim Karabekir",
-    "home": "Erzurumspor",
-    "away": "Samsunspor",
-    "result": null,
-    "fotmobId": 5904757,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Sükrü Saracoglu Spor Kompleksi",
-    "home": "Fenerbahçe",
-    "away": "Eyüpspor",
-    "result": null,
-    "fotmobId": 5904755,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
     "venue": "Gürsel Aksel Stadyumu",
     "home": "Göztepe",
     "away": "Çaykur Rizespor",
     "result": null,
     "fotmobId": 5904753,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Basaksehir Fatih Terim",
-    "home": "Istanbul Basaksehir",
-    "away": "Gençlerbirligi",
-    "result": null,
-    "fotmobId": 5904751,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Recep Tayyip Erdogan Stadyumu",
-    "home": "Kasimpasa",
-    "away": "Konyaspor",
-    "result": null,
-    "fotmobId": 5904750,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Kocaeli Stadyumu",
-    "home": "Kocaelispor",
-    "away": "Gaziantep",
-    "result": null,
-    "fotmobId": 5904756,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-20T17:00:00Z",
-    "venue": "Papara Park",
-    "home": "Trabzonspor",
-    "away": "Galatasaray",
-    "result": null,
-    "fotmobId": 5904749,
     "status": "scheduled"
   },
   {

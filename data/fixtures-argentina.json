@@ -2256,8 +2256,8 @@
     "venue": null,
     "home": "Estudiantes RC",
     "away": "Sarmiento",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5115980,
@@ -2266,8 +2266,8 @@
     "venue": null,
     "home": "Belgrano",
     "away": "Huracan",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115986,
@@ -2276,8 +2276,8 @@
     "venue": null,
     "home": "Platense",
     "away": "Deportivo Riestra",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115978,
@@ -2286,8 +2286,8 @@
     "venue": null,
     "home": "Aldosivi",
     "away": "Banfield",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115983,
@@ -2296,8 +2296,8 @@
     "venue": null,
     "home": "Gimnasia LP",
     "away": "Tigre",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115984,
@@ -2306,8 +2306,8 @@
     "venue": null,
     "home": "Gimnasia y Esgrima",
     "away": "Boca Juniors",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5115990,
@@ -2316,8 +2316,8 @@
     "venue": null,
     "home": "San Lorenzo",
     "away": "Talleres",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5115992,
@@ -2326,8 +2326,8 @@
     "venue": null,
     "home": "Velez Sarsfield",
     "away": "Estudiantes",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5115989,
@@ -2336,8 +2336,8 @@
     "venue": null,
     "home": "Rosario Central",
     "away": "Newells Old Boys",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115981,
@@ -2346,8 +2346,8 @@
     "venue": null,
     "home": "Central Cordoba",
     "away": "Independiente",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115985,
@@ -2356,8 +2356,8 @@
     "venue": null,
     "home": "Lanus",
     "away": "Defensa y Justicia",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5115988,
@@ -2366,8 +2366,8 @@
     "venue": null,
     "home": "River Plate",
     "away": "Independiente Rivadavia",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5115987,
@@ -2376,8 +2376,8 @@
     "venue": null,
     "home": "Racing Club",
     "away": "Atletico Tucuman",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5115979,
@@ -2852,7 +2852,7 @@
   {
     "fotmobId": 5116011,
     "round": 10,
-    "dateUtc": "2026-09-18T22:00:00Z",
+    "dateUtc": "2026-09-18T21:00:00Z",
     "venue": null,
     "home": "Central Cordoba",
     "away": "Defensa y Justicia",

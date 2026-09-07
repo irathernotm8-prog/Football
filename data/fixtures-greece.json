@@ -40,16 +40,6 @@
     "status": "finished"
   },
   {
-    "fotmobId": 5943229,
-    "round": 1,
-    "dateUtc": "2026-08-23T18:00:00Z",
-    "venue": null,
-    "home": "Panathinaikos",
-    "away": "Kifisia",
-    "result": null,
-    "status": "cancelled"
-  },
-  {
     "fotmobId": 5943231,
     "round": 1,
     "dateUtc": "2026-08-23T18:00:00Z",
@@ -68,6 +58,16 @@
     "away": "Asteras Tripolis",
     "result": "3-1",
     "status": "finished"
+  },
+  {
+    "fotmobId": 5943229,
+    "round": 1,
+    "dateUtc": "2026-09-10T18:00:00Z",
+    "venue": null,
+    "home": "Panathinaikos",
+    "away": "Kifisia",
+    "result": null,
+    "status": "scheduled"
   },
   {
     "fotmobId": 5943238,
@@ -146,8 +146,8 @@
     "venue": null,
     "home": "Volos",
     "away": "Olympiacos",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943239,
@@ -156,8 +156,8 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "Aris Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943240,
@@ -166,8 +166,8 @@
     "venue": null,
     "home": "Atromitos",
     "away": "Kalamata",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943243,
@@ -176,8 +176,8 @@
     "venue": null,
     "home": "OFI Crete",
     "away": "Kifisia",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943242,
@@ -186,8 +186,8 @@
     "venue": null,
     "home": "Levadiakos",
     "away": "Panetolikos",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5943244,
@@ -196,8 +196,8 @@
     "venue": null,
     "home": "Panathinaikos",
     "away": "PAOK",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943351,
@@ -206,8 +206,8 @@
     "venue": null,
     "home": "Asteras Tripolis",
     "away": "Iraklis Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5943250,

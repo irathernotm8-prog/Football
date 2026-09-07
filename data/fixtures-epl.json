@@ -205,9 +205,9 @@
     "venue": "Portman Road",
     "home": "Ipswich",
     "away": "Liverpool",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5795441,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -215,9 +215,9 @@
     "venue": "St. James' Park",
     "home": "Newcastle",
     "away": "Bournemouth",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5795443,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -225,9 +225,9 @@
     "venue": "Gtech Community Stadium",
     "home": "Brentford",
     "away": "Sunderland",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5795436,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -235,9 +235,9 @@
     "venue": "American Express Stadium",
     "home": "Brighton",
     "away": "Leeds",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5795437,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -245,9 +245,9 @@
     "venue": "Craven Cottage",
     "home": "Fulham",
     "away": "Crystal Palace",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5795439,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -255,9 +255,9 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "Coventry",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5795442,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -265,9 +265,9 @@
     "venue": "The City Ground",
     "home": "Nott'm Forest",
     "away": "Spurs",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5795444,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -275,9 +275,9 @@
     "venue": "MKM Stadium",
     "home": "Hull",
     "away": "Aston Villa",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5795440,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -285,9 +285,9 @@
     "venue": "Hill Dickinson Stadium",
     "home": "Everton",
     "away": "Man Utd",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5795438,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -295,9 +295,9 @@
     "venue": "Emirates Stadium",
     "home": "Arsenal",
     "away": "Chelsea",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5795435,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -442,16 +442,6 @@
   {
     "round": 5,
     "dateUtc": "2026-09-19T14:00:00Z",
-    "venue": "Elland Road",
-    "home": "Leeds",
-    "away": "Crystal Palace",
-    "result": null,
-    "fotmobId": 5795460,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-09-19T14:00:00Z",
     "venue": "St. James' Park",
     "home": "Newcastle",
     "away": "Hull",
@@ -477,6 +467,16 @@
     "away": "Liverpool",
     "result": null,
     "fotmobId": 5795455,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-09-20T13:00:00Z",
+    "venue": "Elland Road",
+    "home": "Leeds",
+    "away": "Crystal Palace",
+    "result": null,
+    "fotmobId": 5795460,
     "status": "scheduled"
   },
   {
@@ -741,16 +741,6 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-24T14:00:00Z",
-    "venue": "Anfield",
-    "home": "Liverpool",
-    "away": "Brighton",
-    "result": null,
-    "fotmobId": 5795492,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
     "dateUtc": "2026-10-24T16:30:00Z",
     "venue": "Stamford Bridge",
     "home": "Chelsea",
@@ -777,6 +767,16 @@
     "away": "Brentford",
     "result": null,
     "fotmobId": 5795490,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-25T14:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Brighton",
+    "result": null,
+    "fotmobId": 5795492,
     "status": "scheduled"
   },
   {
@@ -871,7 +871,7 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-11-01T14:00:00Z",
+    "dateUtc": "2026-10-31T20:00:00Z",
     "venue": "Villa Park",
     "home": "Aston Villa",
     "away": "Fulham",
