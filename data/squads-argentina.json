@@ -201,28 +201,28 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/164031.png"
     },
     {
-      "fotmobId": 921347,
-      "number": 80,
-      "name": "Lautaro Chávez",
+      "fotmobId": 2089334,
+      "number": 26,
+      "name": "Simón Sammarone",
       "position": "MIDFIELDER",
       "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/921347.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2089334.png"
     },
     {
       "fotmobId": 2175447,
-      "number": null,
+      "number": 37,
       "name": "Pablo Argoytia",
       "position": "MIDFIELDER",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2175447.png"
     },
     {
-      "fotmobId": 2089334,
-      "number": null,
-      "name": "Simón Sammarone",
+      "fotmobId": 921347,
+      "number": 80,
+      "name": "Lautaro Chávez",
       "position": "MIDFIELDER",
       "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2089334.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/921347.png"
     },
     {
       "fotmobId": 1248634,
@@ -316,7 +316,7 @@
     },
     {
       "fotmobId": 1382059,
-      "number": null,
+      "number": 30,
       "name": "Alan Núñez",
       "position": "RB",
       "nationality": "Paraguay",
@@ -523,6 +523,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1843096.png"
     },
     {
+      "fotmobId": 785840,
+      "number": 7,
+      "name": "Iván Morales",
+      "position": "ST",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/785840.png"
+    },
+    {
       "fotmobId": 918846,
       "number": 9,
       "name": "Gastón Verón",
@@ -537,14 +545,6 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/728323.png"
-    },
-    {
-      "fotmobId": 785840,
-      "number": 30,
-      "name": "Iván Morales",
-      "position": "ST",
-      "nationality": "Chile",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/785840.png"
     }
   ],
   "Atletico Tucuman": [
@@ -1024,7 +1024,7 @@
     },
     {
       "fotmobId": 1675024,
-      "number": null,
+      "number": 70,
       "name": "John Arteaga",
       "position": "MIDFIELDER",
       "nationality": "Colombia",
@@ -1709,6 +1709,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1213769.png"
     },
     {
+      "fotmobId": 1950640,
+      "number": 42,
+      "name": "Facundo Herrera",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1950640.png"
+    },
+    {
       "fotmobId": 1950642,
       "number": 46,
       "name": "Matías Satas",
@@ -1805,14 +1813,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1899032.png"
     },
     {
-      "fotmobId": 1950640,
-      "number": 42,
-      "name": "Facundo Herrera",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1950640.png"
-    },
-    {
       "fotmobId": 1817631,
       "number": 51,
       "name": "Gadiel Paoli",
@@ -1893,12 +1893,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1950644.png"
     },
     {
-      "fotmobId": 1110044,
-      "number": 7,
-      "name": "Exequiel Zeballos",
-      "position": "LW",
+      "fotmobId": 2189201,
+      "number": null,
+      "name": "Lautaro Bianco",
+      "position": "RW",
       "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1110044.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2189201.png"
     },
     {
       "fotmobId": 1053392,
@@ -1915,6 +1915,14 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/670344.png"
+    },
+    {
+      "fotmobId": 195927,
+      "number": 13,
+      "name": "Enner Valencia",
+      "position": "ST",
+      "nationality": "Ecuador",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/195927.png"
     },
     {
       "fotmobId": 826418,
@@ -1939,14 +1947,6 @@
       "position": "ST",
       "nationality": "Paraguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/845370.png"
-    },
-    {
-      "fotmobId": 195927,
-      "number": 30,
-      "name": "Enner Valencia",
-      "position": "ST",
-      "nationality": "Ecuador",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/195927.png"
     }
   ],
   "Central Cordoba": [
@@ -2165,14 +2165,6 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1895783.png"
-    },
-    {
-      "fotmobId": 1897017,
-      "number": 39,
-      "name": "Bautista Gerez",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1897017.png"
     },
     {
       "fotmobId": 2099184,
@@ -2489,20 +2481,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/306126.png"
     },
     {
+      "fotmobId": 1778729,
+      "number": 11,
+      "name": "Tiziano Perrotta",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1778729.png"
+    },
+    {
       "fotmobId": 1288591,
       "number": 25,
       "name": "Facundo Altamira",
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1288591.png"
-    },
-    {
-      "fotmobId": 1778729,
-      "number": null,
-      "name": "Tiziano Perrotta",
-      "position": "ST",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1778729.png"
     }
   ],
   "Deportivo Riestra": [
@@ -2691,6 +2683,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1553130.png"
     },
     {
+      "fotmobId": 1277215,
+      "number": 17,
+      "name": "Ángel Almada",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1277215.png"
+    },
+    {
       "fotmobId": 1624113,
       "number": 20,
       "name": "Thiago Lauro",
@@ -2705,14 +2705,6 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1933823.png"
-    },
-    {
-      "fotmobId": 1277215,
-      "number": null,
-      "name": "Ángel Almada",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1277215.png"
     },
     {
       "fotmobId": 742643,
@@ -3030,7 +3022,7 @@
     },
     {
       "fotmobId": 1679329,
-      "number": null,
+      "number": 99,
       "name": "Juan Chala",
       "position": "RW",
       "nationality": "Colombia",
@@ -3255,14 +3247,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1790207.png"
     },
     {
-      "fotmobId": 1248060,
-      "number": 14,
-      "name": "Alejandro Martínez",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1248060.png"
-    },
-    {
       "fotmobId": 1339423,
       "number": 17,
       "name": "Juan Bisanz",
@@ -3317,6 +3301,14 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/470847.png"
+    },
+    {
+      "fotmobId": 1128929,
+      "number": null,
+      "name": "Bruno Barticciotto",
+      "position": "ST",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1128929.png"
     }
   ],
   "Independiente": [
@@ -3375,14 +3367,6 @@
       "position": "CB",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1807336.png"
-    },
-    {
-      "fotmobId": 1206583,
-      "number": 26,
-      "name": "Kevin Lomónaco",
-      "position": "CB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1206583.png"
     },
     {
       "fotmobId": 2102222,
@@ -3535,14 +3519,6 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1435714.png"
-    },
-    {
-      "fotmobId": 1917089,
-      "number": 18,
-      "name": "Facundo Valdéz",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1917089.png"
     },
     {
       "fotmobId": 1404859,
@@ -4005,20 +3981,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/881159.png"
     },
     {
+      "fotmobId": 1255220,
+      "number": 14,
+      "name": "Wílder Viera",
+      "position": "CM",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1255220.png"
+    },
+    {
       "fotmobId": 1653420,
       "number": 15,
       "name": "Matías Gallardo",
       "position": "CM",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1653420.png"
-    },
-    {
-      "fotmobId": 1255220,
-      "number": null,
-      "name": "Wílder Viera",
-      "position": "CM",
-      "nationality": "Paraguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1255220.png"
     },
     {
       "fotmobId": 882460,
@@ -4375,14 +4351,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1950913.png"
     },
     {
-      "fotmobId": 1667729,
-      "number": 36,
-      "name": "Mariano Gerez",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1667729.png"
-    },
-    {
       "fotmobId": 1582668,
       "number": 39,
       "name": "Thiago Laplace",
@@ -4519,14 +4487,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/469007.png"
     },
     {
-      "fotmobId": 1499651,
-      "number": 25,
-      "name": "Dylan Aquino",
-      "position": "LW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1499651.png"
-    },
-    {
       "fotmobId": 1200664,
       "number": 77,
       "name": "Lucas Besozzi",
@@ -4593,6 +4553,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/577681.png"
     },
     {
+      "fotmobId": 846916,
+      "number": 16,
+      "name": "Lucas Carrizo",
+      "position": "CB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/846916.png"
+    },
+    {
       "fotmobId": 315235,
       "number": 17,
       "name": "Lautaro Giannetti",
@@ -4631,14 +4599,6 @@
       "position": "CB",
       "nationality": "Paraguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/724317.png"
-    },
-    {
-      "fotmobId": 846916,
-      "number": null,
-      "name": "Lucas Carrizo",
-      "position": "CB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/846916.png"
     },
     {
       "fotmobId": 1246289,
@@ -4791,6 +4751,14 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1729714.png"
+    },
+    {
+      "fotmobId": 1357993,
+      "number": null,
+      "name": "Santiago Solari",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1357993.png"
     },
     {
       "fotmobId": 1372218,
@@ -5123,28 +5091,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1585708.png"
     },
     {
-      "fotmobId": 1959868,
-      "number": 51,
-      "name": "Lucas Zelaya",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1959868.png"
-    },
-    {
       "fotmobId": 1966133,
       "number": 52,
       "name": "Matías Ramírez",
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1966133.png"
-    },
-    {
-      "fotmobId": 1959867,
-      "number": 53,
-      "name": "Luca Bastilla",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1959867.png"
     },
     {
       "fotmobId": 1958559,
@@ -5459,14 +5411,6 @@
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1347567.png"
-    },
-    {
-      "fotmobId": 1357993,
-      "number": 28,
-      "name": "Santiago Solari",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1357993.png"
     },
     {
       "fotmobId": 2139757,
@@ -5813,14 +5757,6 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1580546.png"
-    },
-    {
-      "fotmobId": 1847899,
-      "number": 35,
-      "name": "Joaquín Freitas",
-      "position": "ST",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1847899.png"
     }
   ],
   "Rosario Central": [
@@ -6529,6 +6465,14 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1477849.png"
+    },
+    {
+      "fotmobId": 1108622,
+      "number": 38,
+      "name": "Facundo Farías",
+      "position": "ST",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1108622.png"
     }
   ],
   "Sarmiento": [
@@ -6555,6 +6499,14 @@
       "position": "RB",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1252447.png"
+    },
+    {
+      "fotmobId": 1609439,
+      "number": 20,
+      "name": "Ulises Giménez",
+      "position": "RB",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1609439.png"
     },
     {
       "fotmobId": 1607567,
@@ -6653,20 +6605,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1135817.png"
     },
     {
+      "fotmobId": 857829,
+      "number": 17,
+      "name": "Agustín Nadruz",
+      "position": "CM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/857829.png"
+    },
+    {
       "fotmobId": 1712136,
       "number": 23,
       "name": "Elián Giménez",
       "position": "CM",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1712136.png"
-    },
-    {
-      "fotmobId": 857829,
-      "number": null,
-      "name": "Agustín Nadruz",
-      "position": "CM",
-      "nationality": "Uruguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/857829.png"
     },
     {
       "fotmobId": 1504098,
@@ -6723,14 +6675,6 @@
       "position": "MIDFIELDER",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1609764.png"
-    },
-    {
-      "fotmobId": 1609439,
-      "number": 20,
-      "name": "Ulises Giménez",
-      "position": "MIDFIELDER",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1609439.png"
     },
     {
       "fotmobId": 1683850,
@@ -7039,12 +6983,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1044317.png"
     },
     {
-      "fotmobId": 1128929,
-      "number": 10,
-      "name": "Bruno Barticciotto",
+      "fotmobId": 1192576,
+      "number": 9,
+      "name": "Agustín Álvarez",
       "position": "ST",
-      "nationality": "Chile",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1128929.png"
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1192576.png"
     },
     {
       "fotmobId": 1695460,
@@ -7053,22 +6997,6 @@
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1695460.png"
-    },
-    {
-      "fotmobId": 659738,
-      "number": 77,
-      "name": "Ronaldo Martínez",
-      "position": "ST",
-      "nationality": "Paraguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/659738.png"
-    },
-    {
-      "fotmobId": 1192576,
-      "number": null,
-      "name": "Agustín Álvarez",
-      "position": "ST",
-      "nationality": "Uruguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1192576.png"
     }
   ],
   "Tigre": [
@@ -7207,14 +7135,6 @@
       "position": "CM",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1630645.png"
-    },
-    {
-      "fotmobId": 647992,
-      "number": 30,
-      "name": "Jalil Elías",
-      "position": "CM",
-      "nationality": "Syria",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/647992.png"
     },
     {
       "fotmobId": 1413189,
@@ -7425,6 +7345,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1950902.png"
     },
     {
+      "fotmobId": 1436222,
+      "number": null,
+      "name": "Jerónimo Dómina",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1436222.png"
+    },
+    {
       "fotmobId": 1582679,
       "number": 25,
       "name": "Ian Subiabre",
@@ -7467,6 +7395,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/886331.png"
     },
     {
+      "fotmobId": 1200037,
+      "number": 23,
+      "name": "Facundo Sanguinetti",
+      "position": "GK",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200037.png"
+    },
+    {
       "fotmobId": 2121615,
       "number": 25,
       "name": "Franco Villalba",
@@ -7489,14 +7425,6 @@
       "position": "GK",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2099186.png"
-    },
-    {
-      "fotmobId": 1200037,
-      "number": null,
-      "name": "Facundo Sanguinetti",
-      "position": "GK",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1200037.png"
     },
     {
       "fotmobId": 1200718,
@@ -7643,6 +7571,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1782368.png"
     },
     {
+      "fotmobId": 2144755,
+      "number": 27,
+      "name": "Simon Prima",
+      "position": "RW",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2144755.png"
+    },
+    {
       "fotmobId": 2114925,
       "number": 30,
       "name": "Lautaro Piola",
@@ -7675,20 +7611,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1981156.png"
     },
     {
-      "fotmobId": 2144755,
-      "number": null,
-      "name": "Simon Prima",
-      "position": "RW",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2144755.png"
-    },
-    {
       "fotmobId": 1765407,
       "number": 15,
       "name": "Dilan Godoy",
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1765407.png"
+    },
+    {
+      "fotmobId": 659738,
+      "number": 77,
+      "name": "Ronaldo Martínez",
+      "position": "ST",
+      "nationality": "Paraguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/659738.png"
     }
   ]
 }

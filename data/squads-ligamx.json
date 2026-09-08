@@ -1123,6 +1123,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1435880.png"
     },
     {
+      "fotmobId": 671944,
+      "number": 2,
+      "name": "Alan Mozo",
+      "position": "RB",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/671944.png"
+    },
+    {
       "fotmobId": 965205,
       "number": 4,
       "name": "Willer Ditta",
@@ -1381,14 +1389,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1015112.png"
     },
     {
-      "fotmobId": 1958654,
-      "number": 203,
-      "name": "Luis Carmona",
-      "position": "CB",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1958654.png"
-    },
-    {
       "fotmobId": 848043,
       "number": 4,
       "name": "Alejandro Mayorga",
@@ -1483,14 +1483,6 @@
       "position": "MIDFIELDER",
       "nationality": "USA",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1290173.png"
-    },
-    {
-      "fotmobId": 1748492,
-      "number": 198,
-      "name": "Ricardo Juárez",
-      "position": "MIDFIELDER",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1748492.png"
     },
     {
       "fotmobId": 1504439,
@@ -1993,14 +1985,6 @@
       "position": "RB",
       "nationality": "Mexico",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1432143.png"
-    },
-    {
-      "fotmobId": 671944,
-      "number": 22,
-      "name": "Alan Mozo",
-      "position": "RB",
-      "nationality": "Mexico",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/671944.png"
     },
     {
       "fotmobId": 907723,
@@ -2713,6 +2697,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/317822.png"
     },
     {
+      "fotmobId": 1200721,
+      "number": null,
+      "name": "Facundo Cáseres",
+      "position": "DM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1200721.png"
+    },
+    {
       "fotmobId": 1348496,
       "number": 7,
       "name": "Diego González",
@@ -2791,6 +2783,14 @@
       "position": "ST",
       "nationality": "Mexico",
       "photo": "https://images.fotmob.com/image_resources/playerimages/689693.png"
+    },
+    {
+      "fotmobId": 1172985,
+      "number": 20,
+      "name": "Esteban Lozano",
+      "position": "ST",
+      "nationality": "Mexico",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1172985.png"
     },
     {
       "fotmobId": 1580561,

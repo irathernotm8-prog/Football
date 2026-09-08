@@ -9,6 +9,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/252537.png"
     },
     {
+      "fotmobId": 873557,
+      "number": 24,
+      "name": "Dominik Kotarski",
+      "position": "GK",
+      "nationality": "Croatia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/873557.png"
+    },
+    {
       "fotmobId": 725462,
       "number": 33,
       "name": "Ivan Nevistic",
@@ -129,6 +137,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1254292.png"
     },
     {
+      "fotmobId": 688297,
+      "number": 17,
+      "name": "Luka Ivanusec",
+      "position": "AM",
+      "nationality": "Croatia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/688297.png"
+    },
+    {
       "fotmobId": 598141,
       "number": 20,
       "name": "Robert Mudrazija",
@@ -167,6 +183,22 @@
       "position": "RW",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1402931.png"
+    },
+    {
+      "fotmobId": 1830685,
+      "number": 77,
+      "name": "Noah Nsoki",
+      "position": "RW",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1830685.png"
+    },
+    {
+      "fotmobId": 1526557,
+      "number": null,
+      "name": "Iker Almena",
+      "position": "RW",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1526557.png"
     },
     {
       "fotmobId": 857618,
@@ -281,14 +313,6 @@
       "position": "CB",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/767488.png"
-    },
-    {
-      "fotmobId": 949493,
-      "number": 19,
-      "name": "Marijan Cabraja",
-      "position": "LB",
-      "nationality": "Croatia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/949493.png"
     },
     {
       "fotmobId": 796704,
@@ -449,6 +473,14 @@
       "position": "ST",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/206388.png"
+    },
+    {
+      "fotmobId": 427058,
+      "number": null,
+      "name": "Fran Brodic",
+      "position": "ST",
+      "nationality": "Croatia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/427058.png"
     }
   ],
   "Hajduk Split": [
@@ -475,14 +507,6 @@
       "position": "GK",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/202511.png"
-    },
-    {
-      "fotmobId": 1494508,
-      "number": 8,
-      "name": "Niko Sigur",
-      "position": "RB",
-      "nationality": "Canada",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1494508.png"
     },
     {
       "fotmobId": 1438316,
@@ -573,12 +597,28 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1130562.png"
     },
     {
+      "fotmobId": 1388749,
+      "number": null,
+      "name": "Khalil Fayad",
+      "position": "DM",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1388749.png"
+    },
+    {
       "fotmobId": 1120854,
       "number": 9,
       "name": "Dali",
       "position": "CM",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1120854.png"
+    },
+    {
+      "fotmobId": 424129,
+      "number": 18,
+      "name": "Leander Dendoncker",
+      "position": "CM",
+      "nationality": "Belgium",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/424129.png"
     },
     {
       "fotmobId": 1202029,
@@ -635,6 +675,14 @@
       "position": "RW",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1417103.png"
+    },
+    {
+      "fotmobId": 1282015,
+      "number": null,
+      "name": "Carlos Martín",
+      "position": "RW",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1282015.png"
     },
     {
       "fotmobId": 1510950,
@@ -727,14 +775,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1269849.png"
     },
     {
-      "fotmobId": 1631612,
-      "number": 24,
-      "name": "Filip Taraba",
-      "position": "CB",
-      "nationality": "Bosnia and Herzegovina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1631612.png"
-    },
-    {
       "fotmobId": 1639143,
       "number": 38,
       "name": "Raul Kumar",
@@ -781,14 +821,6 @@
       "position": "AM",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1607310.png"
-    },
-    {
-      "fotmobId": 1337704,
-      "number": 80,
-      "name": "Ivan Saranic",
-      "position": "AM",
-      "nationality": "Croatia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1337704.png"
     },
     {
       "fotmobId": 2119510,
@@ -951,6 +983,14 @@
       "position": "CB",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1835474.png"
+    },
+    {
+      "fotmobId": 949493,
+      "number": 5,
+      "name": "Marijan Cabraja",
+      "position": "LB",
+      "nationality": "Croatia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/949493.png"
     },
     {
       "fotmobId": 1663533,
@@ -1195,14 +1235,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/384440.png"
     },
     {
-      "fotmobId": 1202918,
-      "number": 22,
-      "name": "Roko Jurisic",
-      "position": "LB",
-      "nationality": "Croatia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1202918.png"
-    },
-    {
       "fotmobId": 1258611,
       "number": 6,
       "name": "Mateo Mejía",
@@ -1307,22 +1339,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1675490.png"
     },
     {
-      "fotmobId": 1510990,
-      "number": 11,
-      "name": "Nail Omerovic",
-      "position": "LW",
-      "nationality": "Bosnia and Herzegovina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1510990.png"
-    },
-    {
-      "fotmobId": 766730,
-      "number": 17,
-      "name": "Arnel Jakupovic",
-      "position": "ST",
-      "nationality": "Austria",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/766730.png"
-    },
-    {
       "fotmobId": 1562342,
       "number": 34,
       "name": "Anton Matkovic",
@@ -1347,12 +1363,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1138575.png"
     },
     {
-      "fotmobId": 1663866,
+      "fotmobId": 1597552,
       "number": 99,
       "name": "Miguel Ângelo Bastos Melo",
       "position": "ST",
       "nationality": "Portugal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1663866.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1597552.png"
     }
   ],
   "Rijeka": [
@@ -1549,28 +1565,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1177441.png"
     },
     {
-      "fotmobId": 1386766,
-      "number": 11,
-      "name": "Gabriel Rukavina",
-      "position": "LW",
-      "nationality": "Croatia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1386766.png"
-    },
-    {
       "fotmobId": 527683,
       "number": 14,
       "name": "Amer Gojak",
       "position": "LW",
       "nationality": "Bosnia and Herzegovina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/527683.png"
-    },
-    {
-      "fotmobId": 1379866,
-      "number": 24,
-      "name": "Dimitri Legbo",
-      "position": "LW",
-      "nationality": "Côte d'Ivoire",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1379866.png"
     },
     {
       "fotmobId": 1427857,
@@ -1595,6 +1595,14 @@
       "position": "ST",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1516401.png"
+    },
+    {
+      "fotmobId": 1073012,
+      "number": null,
+      "name": "Mohammad Mohebbi",
+      "position": "ST",
+      "nationality": "Iran",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1073012.png"
     }
   ],
   "Rudeš": [
@@ -1645,6 +1653,22 @@
       "position": "CB",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/651431.png"
+    },
+    {
+      "fotmobId": 1699520,
+      "number": 42,
+      "name": "Marko Zebic",
+      "position": "CB",
+      "nationality": "Croatia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1699520.png"
+    },
+    {
+      "fotmobId": 1631612,
+      "number": 44,
+      "name": "Filip Taraba",
+      "position": "CB",
+      "nationality": "Bosnia and Herzegovina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1631612.png"
     },
     {
       "fotmobId": 251254,
@@ -1711,6 +1735,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1645685.png"
     },
     {
+      "fotmobId": 107844,
+      "number": 78,
+      "name": "Junior Fernándes",
+      "position": "AM",
+      "nationality": "Chile",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/107844.png"
+    },
+    {
       "fotmobId": 1827467,
       "number": 3,
       "name": "Nikica Peranović",
@@ -1765,6 +1797,14 @@
       "position": "MIDFIELDER",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1827452.png"
+    },
+    {
+      "fotmobId": 2081351,
+      "number": null,
+      "name": "Cheick Diabaté",
+      "position": "MIDFIELDER",
+      "nationality": "Côte d'Ivoire",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2081351.png"
     },
     {
       "fotmobId": 1520499,

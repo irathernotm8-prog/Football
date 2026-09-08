@@ -25,14 +25,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1899697.png"
     },
     {
-      "fotmobId": 1078912,
-      "number": null,
-      "name": "Yusuf Karagöz",
-      "position": "GK",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1078912.png"
-    },
-    {
       "fotmobId": 1302409,
       "number": 8,
       "name": "Enes Keskin",
@@ -79,14 +71,6 @@
       "position": "CB",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/712070.png"
-    },
-    {
-      "fotmobId": 1366373,
-      "number": 50,
-      "name": "Ümit Akdag",
-      "position": "CB",
-      "nationality": "Romania",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1366373.png"
     },
     {
       "fotmobId": 1402068,
@@ -138,7 +122,7 @@
     },
     {
       "fotmobId": 760745,
-      "number": null,
+      "number": 22,
       "name": "Paolo Fernandes",
       "position": "RM",
       "nationality": "Spain",
@@ -154,7 +138,7 @@
     },
     {
       "fotmobId": 645107,
-      "number": 14,
+      "number": 10,
       "name": "Ianis Hagi",
       "position": "AM",
       "nationality": "Romania",
@@ -169,28 +153,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/433677.png"
     },
     {
-      "fotmobId": 1536764,
-      "number": 2,
-      "name": "Batuhan Yavuz",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1536764.png"
-    },
-    {
       "fotmobId": 2132116,
       "number": 32,
       "name": "Arouna Soro",
       "position": "MIDFIELDER",
       "nationality": "Ivory Coast",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2132116.png"
-    },
-    {
-      "fotmobId": 1734864,
-      "number": 38,
-      "name": "Yusuf Can Karademir",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1734864.png"
     },
     {
       "fotmobId": 2132117,
@@ -231,14 +199,6 @@
       "position": "RW",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1111753.png"
-    },
-    {
-      "fotmobId": 1081710,
-      "number": null,
-      "name": "Veysel Ünal",
-      "position": "RW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1081710.png"
     },
     {
       "fotmobId": 1679800,
@@ -331,12 +291,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1393980.png"
     },
     {
-      "fotmobId": 1309490,
+      "fotmobId": 1366373,
       "number": null,
-      "name": "Emrecan Uzunhan",
+      "name": "Ümit Akdag",
       "position": "CB",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1309490.png"
+      "nationality": "Romania",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1366373.png"
     },
     {
       "fotmobId": 992071,
@@ -427,22 +387,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1638880.png"
     },
     {
-      "fotmobId": 1461829,
-      "number": null,
-      "name": "Élan Ricardo",
-      "position": "AM",
-      "nationality": "Colombia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1461829.png"
-    },
-    {
-      "fotmobId": 1574393,
-      "number": null,
-      "name": "Arda Kiliç",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1574393.png"
-    },
-    {
       "fotmobId": 660165,
       "number": 7,
       "name": "Milot Rashica",
@@ -491,14 +435,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1642084.png"
     },
     {
-      "fotmobId": 300916,
-      "number": null,
-      "name": "Joao Mário",
-      "position": "LW",
-      "nationality": "Portugal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/300916.png"
-    },
-    {
       "fotmobId": 1044299,
       "number": 9,
       "name": "Hyeon-Gyu Oh",
@@ -541,20 +477,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/178899.png"
     },
     {
+      "fotmobId": 938252,
+      "number": 17,
+      "name": "Erkan Anapa",
+      "position": "GK",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/938252.png"
+    },
+    {
       "fotmobId": 890544,
       "number": 31,
       "name": "Matija Orbanic",
       "position": "GK",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/890544.png"
-    },
-    {
-      "fotmobId": 938252,
-      "number": null,
-      "name": "Erkan Anapa",
-      "position": "GK",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/938252.png"
     },
     {
       "fotmobId": 2132144,
@@ -645,12 +581,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/883823.png"
     },
     {
-      "fotmobId": 955592,
-      "number": 5,
-      "name": "Murat Akpinar",
-      "position": "AM",
+      "fotmobId": 1899931,
+      "number": null,
+      "name": "Emirhan Acar",
+      "position": "CM",
       "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/955592.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1899931.png"
+    },
+    {
+      "fotmobId": 1246235,
+      "number": null,
+      "name": "Lawrence Agyekum",
+      "position": "RM",
+      "nationality": "Ghana",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1246235.png"
     },
     {
       "fotmobId": 952440,
@@ -677,14 +621,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2132143.png"
     },
     {
-      "fotmobId": 1714400,
-      "number": null,
-      "name": "Enes Karakas",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1714400.png"
-    },
-    {
       "fotmobId": 2132142,
       "number": null,
       "name": "Omer Kara",
@@ -693,28 +629,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2132142.png"
     },
     {
-      "fotmobId": 1904620,
-      "number": 7,
-      "name": "Ilkan Sever",
-      "position": "RW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1904620.png"
-    },
-    {
-      "fotmobId": 2132140,
+      "fotmobId": 1722760,
       "number": null,
-      "name": "Kerem Erener",
-      "position": "RW",
+      "name": "Taha Rencber",
+      "position": "MIDFIELDER",
       "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2132140.png"
-    },
-    {
-      "fotmobId": 391035,
-      "number": 11,
-      "name": "Fernando Santos",
-      "position": "LW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/391035.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1722760.png"
     },
     {
       "fotmobId": 673749,
@@ -789,14 +709,6 @@
       "position": "GK",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1901438.png"
-    },
-    {
-      "fotmobId": 1070331,
-      "number": 2,
-      "name": "Calegari",
-      "position": "RB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1070331.png"
     },
     {
       "fotmobId": 1393698,
@@ -1073,14 +985,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1666975.png"
     },
     {
-      "fotmobId": 602261,
-      "number": 4,
-      "name": "Caglar Söyüncü",
-      "position": "CB",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/602261.png"
-    },
-    {
       "fotmobId": 1414040,
       "number": 14,
       "name": "Yigit Efe Demir",
@@ -1119,14 +1023,6 @@
       "position": "CB",
       "nationality": "Slovakia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/309328.png"
-    },
-    {
-      "fotmobId": 570434,
-      "number": null,
-      "name": "Diego Carlos",
-      "position": "CB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/570434.png"
     },
     {
       "fotmobId": 844504,
@@ -1193,14 +1089,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/498033.png"
     },
     {
-      "fotmobId": 450011,
-      "number": 94,
-      "name": "Talisca",
-      "position": "AM",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/450011.png"
-    },
-    {
       "fotmobId": 796006,
       "number": 8,
       "name": "Mert Hakan Yandas",
@@ -1239,14 +1127,6 @@
       "position": "RW",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/316544.png"
-    },
-    {
-      "fotmobId": 2093040,
-      "number": 35,
-      "name": "Adem Yesilyurt",
-      "position": "RW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2093040.png"
     },
     {
       "fotmobId": 1230287,
@@ -1347,14 +1227,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/441164.png"
     },
     {
-      "fotmobId": 776594,
-      "number": 25,
-      "name": "Victor Nelsson",
-      "position": "CB",
-      "nationality": "Denmark",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/776594.png"
-    },
-    {
       "fotmobId": 291399,
       "number": 42,
       "name": "Abdülkerim Bardakci",
@@ -1377,6 +1249,14 @@
       "position": "CB",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1433600.png"
+    },
+    {
+      "fotmobId": 1173788,
+      "number": null,
+      "name": "El Chadaille Bitshiabu",
+      "position": "CB",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1173788.png"
     },
     {
       "fotmobId": 906945,
@@ -1475,14 +1355,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1300864.png"
     },
     {
-      "fotmobId": 1210886,
-      "number": null,
-      "name": "Siraçhan Nas",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1210886.png"
-    },
-    {
       "fotmobId": 530859,
       "number": 10,
       "name": "Leroy Sané",
@@ -1515,6 +1387,22 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1682656.png"
     },
     {
+      "fotmobId": 1406300,
+      "number": 21,
+      "name": "Deniz Gül",
+      "position": "ST",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1406300.png"
+    },
+    {
+      "fotmobId": 848844,
+      "number": 27,
+      "name": "Rafael Leão",
+      "position": "ST",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/848844.png"
+    },
+    {
       "fotmobId": 687681,
       "number": 45,
       "name": "Victor Osimhen",
@@ -1529,14 +1417,6 @@
       "position": "ST",
       "nationality": "Türkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1783494.png"
-    },
-    {
-      "fotmobId": 848844,
-      "number": null,
-      "name": "Rafael Leão",
-      "position": "ST",
-      "nationality": "Portugal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/848844.png"
     }
   ],
   "Gaziantep": [
@@ -1547,6 +1427,14 @@
       "position": "GK",
       "nationality": "Poland",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1194358.png"
+    },
+    {
+      "fotmobId": 751562,
+      "number": 35,
+      "name": "Ataberk Dadakdeniz",
+      "position": "GK",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/751562.png"
     },
     {
       "fotmobId": 1927471,
@@ -1587,6 +1475,14 @@
       "position": "CB",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1079065.png"
+    },
+    {
+      "fotmobId": 1344543,
+      "number": 5,
+      "name": "Efe Sarikaya",
+      "position": "CB",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1344543.png"
     },
     {
       "fotmobId": 951084,
@@ -1683,6 +1579,14 @@
       "position": "AM",
       "nationality": "Ivory Coast",
       "photo": "https://images.fotmob.com/image_resources/playerimages/967759.png"
+    },
+    {
+      "fotmobId": 1359613,
+      "number": 21,
+      "name": "Abakar Sylla",
+      "position": "MIDFIELDER",
+      "nationality": "Ivory Coast",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1359613.png"
     },
     {
       "fotmobId": 1894907,
@@ -1847,14 +1751,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/848349.png"
     },
     {
-      "fotmobId": 540903,
-      "number": 4,
-      "name": "Zan Zuzek",
-      "position": "CB",
-      "nationality": "Slovenia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/540903.png"
-    },
-    {
       "fotmobId": 282615,
       "number": 6,
       "name": "Dimitrios Goutas",
@@ -1927,12 +1823,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/239061.png"
     },
     {
-      "fotmobId": 1097441,
-      "number": 8,
-      "name": "Ensar Kemaloglu",
-      "position": "CM",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1097441.png"
+      "fotmobId": 1526822,
+      "number": 83,
+      "name": "Rafael Luís",
+      "position": "DM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1526822.png"
     },
     {
       "fotmobId": 1011022,
@@ -1991,14 +1887,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1388938.png"
     },
     {
-      "fotmobId": 1794422,
-      "number": null,
-      "name": "Berat Can Sebat",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1794422.png"
-    },
-    {
       "fotmobId": 736098,
       "number": 5,
       "name": "Peter Etebo",
@@ -2031,14 +1919,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1984830.png"
     },
     {
-      "fotmobId": 1698687,
-      "number": 21,
-      "name": "Dilhan Demir",
-      "position": "RW",
-      "nationality": "Germany",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1698687.png"
-    },
-    {
       "fotmobId": 1895450,
       "number": 45,
       "name": "Prince Martor Jr.",
@@ -2053,6 +1933,22 @@
       "position": "RW",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1590209.png"
+    },
+    {
+      "fotmobId": 863130,
+      "number": 9,
+      "name": "Pedro Mendes",
+      "position": "ST",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/863130.png"
+    },
+    {
+      "fotmobId": 1669931,
+      "number": 12,
+      "name": "Victor Orakpo",
+      "position": "ST",
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1669931.png"
     },
     {
       "fotmobId": 690411,
@@ -2177,14 +2073,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1427366.png"
     },
     {
-      "fotmobId": 1514625,
-      "number": 15,
-      "name": "Amin Cherni",
-      "position": "LWB",
-      "nationality": "Tunisia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1514625.png"
-    },
-    {
       "fotmobId": 1202031,
       "number": 6,
       "name": "Alex Matos",
@@ -2207,6 +2095,14 @@
       "position": "CM",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1185467.png"
+    },
+    {
+      "fotmobId": 983199,
+      "number": 18,
+      "name": "Tino Anjorin",
+      "position": "CM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/983199.png"
     },
     {
       "fotmobId": 864556,
@@ -2395,6 +2291,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/859042.png"
     },
     {
+      "fotmobId": 1093003,
+      "number": 8,
+      "name": "Tobias Gulliksen",
+      "position": "CM",
+      "nationality": "Norway",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1093003.png"
+    },
+    {
       "fotmobId": 1333449,
       "number": 20,
       "name": "Mahamadou Susoho",
@@ -2411,20 +2315,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/614269.png"
     },
     {
+      "fotmobId": 1210041,
+      "number": 22,
+      "name": "Ugur Yildiz",
+      "position": "AM",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1210041.png"
+    },
+    {
       "fotmobId": 1857520,
       "number": 19,
       "name": "Haydar Karatas",
       "position": "MIDFIELDER",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1857520.png"
-    },
-    {
-      "fotmobId": 1210041,
-      "number": 22,
-      "name": "Ugur Yildiz",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1210041.png"
     },
     {
       "fotmobId": 1800477,
@@ -2565,6 +2469,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/692810.png"
     },
     {
+      "fotmobId": 511399,
+      "number": null,
+      "name": "Ahmet Oguz",
+      "position": "RB",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/511399.png"
+    },
+    {
       "fotmobId": 704664,
       "number": 4,
       "name": "Adil Demirbag",
@@ -2595,14 +2507,6 @@
       "position": "CB",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1112763.png"
-    },
-    {
-      "fotmobId": 1736465,
-      "number": 37,
-      "name": "Utku Eris",
-      "position": "CB",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1736465.png"
     },
     {
       "fotmobId": 1583233,
@@ -2685,28 +2589,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2140571.png"
     },
     {
-      "fotmobId": 2140446,
-      "number": null,
-      "name": "Ibrahima Bah",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2140446.png"
-    },
-    {
       "fotmobId": 352023,
       "number": 9,
       "name": "Deniz Türüc",
       "position": "RW",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/352023.png"
-    },
-    {
-      "fotmobId": 1971712,
-      "number": 27,
-      "name": "Eren Yagmur",
-      "position": "RW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1971712.png"
     },
     {
       "fotmobId": 1527137,
@@ -2726,7 +2614,7 @@
     },
     {
       "fotmobId": 613260,
-      "number": null,
+      "number": 91,
       "name": "Jean-Luc Dompé",
       "position": "LW",
       "nationality": "France",
@@ -2741,20 +2629,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/938682.png"
     },
     {
+      "fotmobId": 817500,
+      "number": 42,
+      "name": "Mostafa Mohamed",
+      "position": "ST",
+      "nationality": "Egypt",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/817500.png"
+    },
+    {
       "fotmobId": 1197548,
       "number": 94,
       "name": "Enis Destan",
       "position": "ST",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1197548.png"
-    },
-    {
-      "fotmobId": 768118,
-      "number": 99,
-      "name": "Blaz Kramer",
-      "position": "ST",
-      "nationality": "Slovenia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/768118.png"
     }
   ],
   "Samsunspor": [
@@ -2807,12 +2695,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1277126.png"
     },
     {
-      "fotmobId": 1883406,
-      "number": 6,
-      "name": "Ali Diabaté",
+      "fotmobId": 1122595,
+      "number": 16,
+      "name": "Strahinja Erakovic",
       "position": "CB",
-      "nationality": "Ivory Coast",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1883406.png"
+      "nationality": "Serbia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1122595.png"
     },
     {
       "fotmobId": 1322580,
@@ -2821,14 +2709,6 @@
       "position": "CB",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1322580.png"
-    },
-    {
-      "fotmobId": 861962,
-      "number": 24,
-      "name": "Toni Borevkovic",
-      "position": "CB",
-      "nationality": "Croatia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/861962.png"
     },
     {
       "fotmobId": 1396086,
@@ -2903,14 +2783,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1666481.png"
     },
     {
-      "fotmobId": 1752230,
-      "number": 21,
-      "name": "Eyüp Degirmenci",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1752230.png"
-    },
-    {
       "fotmobId": 1536786,
       "number": 23,
       "name": "Enes Albak",
@@ -2920,7 +2792,7 @@
     },
     {
       "fotmobId": 1598775,
-      "number": 72,
+      "number": 29,
       "name": "Haluk Mustafa Tan",
       "position": "MIDFIELDER",
       "nationality": "Turkiye",
@@ -2941,22 +2813,6 @@
       "position": "MIDFIELDER",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1611207.png"
-    },
-    {
-      "fotmobId": 1695968,
-      "number": null,
-      "name": "Ali Tarkan",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1695968.png"
-    },
-    {
-      "fotmobId": 2081351,
-      "number": null,
-      "name": "Cheick Tidiane Diabate",
-      "position": "MIDFIELDER",
-      "nationality": "Ivory Coast",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2081351.png"
     },
     {
       "fotmobId": 1609643,
@@ -2991,14 +2847,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1072913.png"
     },
     {
-      "fotmobId": 1797557,
-      "number": 99,
-      "name": "Ebrima Ceesay",
-      "position": "RW",
-      "nationality": "The Gambia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1797557.png"
-    },
-    {
       "fotmobId": 1609641,
       "number": null,
       "name": "Alper Pazar",
@@ -3015,14 +2863,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1514682.png"
     },
     {
-      "fotmobId": 1814656,
-      "number": 70,
-      "name": "Tahsin Bülbül",
-      "position": "LW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1814656.png"
-    },
-    {
       "fotmobId": 953517,
       "number": 9,
       "name": "Marius Mouandilmadji",
@@ -3037,6 +2877,14 @@
       "position": "ST",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/938537.png"
+    },
+    {
+      "fotmobId": 891373,
+      "number": null,
+      "name": "Mohamed Bayo",
+      "position": "ST",
+      "nationality": "Guinea",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/891373.png"
     }
   ],
   "Trabzonspor": [
@@ -3185,14 +3033,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/718867.png"
     },
     {
-      "fotmobId": 429955,
-      "number": null,
-      "name": "John Lundstram",
-      "position": "DM",
-      "nationality": "England",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/429955.png"
-    },
-    {
       "fotmobId": 459658,
       "number": 17,
       "name": "Ruslan Malinovsky",
@@ -3257,6 +3097,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/389181.png"
     },
     {
+      "fotmobId": 1374500,
+      "number": 9,
+      "name": "Franculino",
+      "position": "ST",
+      "nationality": "Guinea-Bissau",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1374500.png"
+    },
+    {
       "fotmobId": 411605,
       "number": 14,
       "name": "Mehmet Umut Nayir",
@@ -3273,20 +3121,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/412357.png"
     },
     {
-      "fotmobId": 1752161,
-      "number": 49,
-      "name": "René Mitongo",
+      "fotmobId": 1691776,
+      "number": 99,
+      "name": "Ali Habesoglu",
       "position": "ST",
-      "nationality": "Belgium",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1752161.png"
-    },
-    {
-      "fotmobId": 875305,
-      "number": null,
-      "name": "Denis Dragus",
-      "position": "ST",
-      "nationality": "Romania",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/875305.png"
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1691776.png"
     }
   ],
   "Çaykur Rizespor": [
@@ -3395,6 +3235,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/449999.png"
     },
     {
+      "fotmobId": 940086,
+      "number": null,
+      "name": "Can Bozdogan",
+      "position": "DM",
+      "nationality": "Germany",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/940086.png"
+    },
+    {
       "fotmobId": 1415502,
       "number": 6,
       "name": "Moussa Diakité",
@@ -3475,14 +3323,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/890266.png"
     },
     {
-      "fotmobId": 1478012,
-      "number": 22,
-      "name": "Mame Mor Faye",
-      "position": "LW",
-      "nationality": "Senegal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1478012.png"
-    },
-    {
       "fotmobId": 887139,
       "number": 23,
       "name": "Ahmed Kutucu",
@@ -3513,6 +3353,14 @@
       "position": "ST",
       "nationality": "Romania",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1506578.png"
+    },
+    {
+      "fotmobId": 1030646,
+      "number": null,
+      "name": "Gennaro Borrelli",
+      "position": "ST",
+      "nationality": "Italy",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1030646.png"
     }
   ],
   "Çorum": [
@@ -3589,6 +3437,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1210674.png"
     },
     {
+      "fotmobId": 602261,
+      "number": null,
+      "name": "Caglar Söyüncü",
+      "position": "CB",
+      "nationality": "Turkiye",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/602261.png"
+    },
+    {
       "fotmobId": 1336714,
       "number": 24,
       "name": "Andrei Borza",
@@ -3598,7 +3454,7 @@
     },
     {
       "fotmobId": 930178,
-      "number": null,
+      "number": 88,
       "name": "Cemali Sertel",
       "position": "LB",
       "nationality": "Turkiye",
@@ -3669,14 +3525,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/802461.png"
     },
     {
-      "fotmobId": 2132136,
-      "number": 42,
-      "name": "Kenan Fakili",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2132136.png"
-    },
-    {
       "fotmobId": 749489,
       "number": null,
       "name": "Atakan Akkaynak",
@@ -3701,20 +3549,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1217167.png"
     },
     {
-      "fotmobId": 1722760,
-      "number": null,
-      "name": "Taha Rencber",
-      "position": "MIDFIELDER",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1722760.png"
-    },
-    {
-      "fotmobId": 186919,
+      "fotmobId": 603477,
       "number": 7,
-      "name": "Serdar Gürler",
+      "name": "Cengiz Ünder",
       "position": "RW",
       "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/186919.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/603477.png"
     },
     {
       "fotmobId": 1183141,
@@ -3723,14 +3563,6 @@
       "position": "RW",
       "nationality": "Turkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1183141.png"
-    },
-    {
-      "fotmobId": 603477,
-      "number": 23,
-      "name": "Cengiz Ünder",
-      "position": "RW",
-      "nationality": "Turkiye",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/603477.png"
     },
     {
       "fotmobId": 2132134,
@@ -3755,6 +3587,14 @@
       "position": "ST",
       "nationality": "Senegal",
       "photo": "https://images.fotmob.com/image_resources/playerimages/299358.png"
+    },
+    {
+      "fotmobId": 1174708,
+      "number": 14,
+      "name": "Youssoufa Moukoko",
+      "position": "ST",
+      "nationality": "Germany",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1174708.png"
     },
     {
       "fotmobId": 1075457,

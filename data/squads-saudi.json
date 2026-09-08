@@ -153,6 +153,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/955808.png"
     },
     {
+      "fotmobId": 1696021,
+      "number": null,
+      "name": "Mateo Borrell",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1696021.png"
+    },
+    {
       "fotmobId": 765158,
       "number": 11,
       "name": "Alimami Gory",
@@ -237,7 +245,7 @@
     {
       "fotmobId": 1524217,
       "number": 1,
-      "name": "Abdulrahman Al-Sanbi",
+      "name": "Abdulrahman Al Sanbi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1524217.png"
@@ -259,12 +267,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1536524.png"
     },
     {
-      "fotmobId": 1877291,
-      "number": 72,
-      "name": "Salman Al-Jadany",
-      "position": "GK",
+      "fotmobId": 1526851,
+      "number": null,
+      "name": "Saeed Baattia",
+      "position": "RWB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1877291.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1526851.png"
     },
     {
       "fotmobId": 910986,
@@ -301,7 +309,7 @@
     {
       "fotmobId": 1734316,
       "number": 24,
-      "name": "Abubacarr Sedi Kinteh",
+      "name": "Abubacarr Kinteh",
       "position": "CB",
       "nationality": "The Gambia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1734316.png"
@@ -325,7 +333,7 @@
     {
       "fotmobId": 1399717,
       "number": 2,
-      "name": "Zakaria Al Hawsawi",
+      "name": "Zakaria Hawsawi",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1399717.png"
@@ -333,7 +341,7 @@
     {
       "fotmobId": 1188101,
       "number": 31,
-      "name": "Saad Balobaid",
+      "name": "Saad Yaslam",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1188101.png"
@@ -341,15 +349,23 @@
     {
       "fotmobId": 1439625,
       "number": 6,
-      "name": "Valentin Atangana Edoa",
+      "name": "Valentin Atangana",
       "position": "DM",
       "nationality": "France",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1439625.png"
     },
     {
+      "fotmobId": 1888666,
+      "number": 23,
+      "name": "Ibrahim Azzam",
+      "position": "DM",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1888666.png"
+    },
+    {
       "fotmobId": 1174962,
       "number": 30,
-      "name": "Ziyad Al-Johani",
+      "name": "Ziyad Al Johani",
       "position": "DM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1174962.png"
@@ -387,25 +403,41 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1116325.png"
     },
     {
-      "fotmobId": 1527318,
-      "number": 11,
-      "name": "Meshal Al-Mutairi",
+      "fotmobId": 1877292,
+      "number": 40,
+      "name": "Ziyad Mallah",
       "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1527318.png"
+      "nationality": "Nigeria",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1877292.png"
     },
     {
-      "fotmobId": 618294,
-      "number": null,
-      "name": "Abdullah Otayf",
+      "fotmobId": 1818174,
+      "number": 87,
+      "name": "Ramez Al Attar",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/618294.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1818174.png"
+    },
+    {
+      "fotmobId": 1946265,
+      "number": 49,
+      "name": "Salem Abdullah",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1946265.png"
+    },
+    {
+      "fotmobId": 1527079,
+      "number": 11,
+      "name": "Meshal Al Mutairi",
+      "position": "LW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1527079.png"
     },
     {
       "fotmobId": 776972,
       "number": 13,
-      "name": "Wenderson Galeno",
+      "name": "Galeno",
       "position": "LW",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/776972.png"
@@ -421,7 +453,7 @@
     {
       "fotmobId": 1251448,
       "number": 47,
-      "name": "Saleh Abu Al-Shamat",
+      "name": "Saleh Abu Al Shamat",
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1251448.png"
@@ -429,7 +461,7 @@
     {
       "fotmobId": 844226,
       "number": 9,
-      "name": "Firas Al-Buraikan",
+      "name": "Feras Al Brikan",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/844226.png"
@@ -449,14 +481,6 @@
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1228554.png"
-    },
-    {
-      "fotmobId": 1666534,
-      "number": 77,
-      "name": "Ricardo Mathias",
-      "position": "ST",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1666534.png"
     }
   ],
   "Al Ettifaq": [
@@ -469,17 +493,9 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/605643.png"
     },
     {
-      "fotmobId": 1406052,
-      "number": 22,
-      "name": "Abdulbasit Hawsawi",
-      "position": "GK",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1406052.png"
-    },
-    {
       "fotmobId": 618745,
       "number": 23,
-      "name": "Ahmad Al-Harbi",
+      "name": "Ahmad Al Harbi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/618745.png"
@@ -535,7 +551,7 @@
     {
       "fotmobId": 1053193,
       "number": 70,
-      "name": "Abdullah Ahmed Khateeb",
+      "name": "Abdullah Khateeb",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1053193.png"
@@ -591,34 +607,18 @@
     {
       "fotmobId": 1830486,
       "number": 58,
-      "name": "Yasir Al Shammari",
+      "name": "Yasir Shammari",
       "position": "AM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1830486.png"
     },
     {
-      "fotmobId": 1946497,
-      "number": 20,
-      "name": "Abdulhakim Maghfouri",
+      "fotmobId": 1729680,
+      "number": 16,
+      "name": "Mohammed Al Kadi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1946497.png"
-    },
-    {
-      "fotmobId": 1737932,
-      "number": 24,
-      "name": "Jalal Al-Salem",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1737932.png"
-    },
-    {
-      "fotmobId": 1898925,
-      "number": 60,
-      "name": "Abdulrahman Nabza",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1898925.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1729680.png"
     },
     {
       "fotmobId": 1287534,
@@ -629,28 +629,36 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1287534.png"
     },
     {
-      "fotmobId": 2139609,
-      "number": 88,
-      "name": "Ali Mohsen Al-Essa",
+      "fotmobId": 1707180,
+      "number": null,
+      "name": "Abdulelah Hawsawi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2139609.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1707180.png"
     },
     {
       "fotmobId": 1683539,
-      "number": 15,
+      "number": 2,
       "name": "Abdullah Al Bishi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1683539.png"
     },
     {
-      "fotmobId": 1681000,
-      "number": 15,
-      "name": "Mohau Nkota",
+      "fotmobId": 1946497,
+      "number": 20,
+      "name": "Abdulhakim Maghfori",
       "position": "RW",
-      "nationality": "South Africa",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1681000.png"
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1946497.png"
+    },
+    {
+      "fotmobId": 1737932,
+      "number": 24,
+      "name": "Jalal Al Salem",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1737932.png"
     },
     {
       "fotmobId": 1763971,
@@ -741,6 +749,14 @@
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1920075.png"
+    },
+    {
+      "fotmobId": 1050682,
+      "number": 99,
+      "name": "Ahmad Al Mhemaid",
+      "position": "RB",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1050682.png"
     },
     {
       "fotmobId": 588626,
@@ -855,6 +871,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/673854.png"
     },
     {
+      "fotmobId": 1510465,
+      "number": 11,
+      "name": "André-Jordy Ella",
+      "position": "LM",
+      "nationality": "Gabon",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1510465.png"
+    },
+    {
       "fotmobId": 1002615,
       "number": 14,
       "name": "Abdullah Al Mogren",
@@ -895,6 +919,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1610382.png"
     },
     {
+      "fotmobId": 1671495,
+      "number": null,
+      "name": "Hussain Al Zarie",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1671495.png"
+    },
+    {
       "fotmobId": 466132,
       "number": 10,
       "name": "Théo Bongonda",
@@ -909,6 +941,14 @@
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1910840.png"
+    },
+    {
+      "fotmobId": 671261,
+      "number": null,
+      "name": "Abdulaziz Al Bishi",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/671261.png"
     },
     {
       "fotmobId": 560900,
@@ -947,39 +987,23 @@
     {
       "fotmobId": 670884,
       "number": 31,
-      "name": "Habib Al-Wutaian",
+      "name": "Habib Al Watyan",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/670884.png"
     },
     {
-      "fotmobId": 2140606,
-      "number": 38,
-      "name": "Ibrahim Al Abood",
-      "position": "GK",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2140606.png"
-    },
-    {
-      "fotmobId": 680326,
+      "fotmobId": 1132578,
       "number": 94,
-      "name": "Waled Al-Enazi",
+      "name": "Waleed Al Anzi",
       "position": "GK",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/680326.png"
-    },
-    {
-      "fotmobId": 1526851,
-      "number": 15,
-      "name": "Saeed Baattia",
-      "position": "RWB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1526851.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1132578.png"
     },
     {
       "fotmobId": 1806492,
       "number": 22,
-      "name": "Abdulrahman Al-Khaibre",
+      "name": "Abdul Rahman Al Khaibari",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1806492.png"
@@ -995,7 +1019,7 @@
     {
       "fotmobId": 1177724,
       "number": 4,
-      "name": "Ziyad Aljari",
+      "name": "Ziyad Al Jari",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1177724.png"
@@ -1019,7 +1043,7 @@
     {
       "fotmobId": 1880182,
       "number": 55,
-      "name": "Fawaz Al-Hamad",
+      "name": "Fawaz Al Hamad",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1880182.png"
@@ -1027,7 +1051,7 @@
     {
       "fotmobId": 1946495,
       "number": 78,
-      "name": "Abdulaziz Al-Suwailem",
+      "name": "Abdulaziz Al Suwailem",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1946495.png"
@@ -1039,14 +1063,6 @@
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1528062.png"
-    },
-    {
-      "fotmobId": 959072,
-      "number": 12,
-      "name": "Hussain Qasim",
-      "position": "LWB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/959072.png"
     },
     {
       "fotmobId": 1272334,
@@ -1067,10 +1083,18 @@
     {
       "fotmobId": 1668631,
       "number": 18,
-      "name": "Abdul Aziz Al-Fawaz",
+      "name": "Abdulaziz Al Fawaz",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668631.png"
+    },
+    {
+      "fotmobId": 1649146,
+      "number": null,
+      "name": "Hossam Essadak",
+      "position": "CM",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1649146.png"
     },
     {
       "fotmobId": 1325887,
@@ -1091,7 +1115,7 @@
     {
       "fotmobId": 1671496,
       "number": 24,
-      "name": "Mahdi Al Aboud",
+      "name": "Mehdi Al Aboud",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1671496.png"
@@ -1103,6 +1127,14 @@
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1813104.png"
+    },
+    {
+      "fotmobId": 1671494,
+      "number": 63,
+      "name": "Muntathir Al Shaqaq",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1671494.png"
     },
     {
       "fotmobId": 1524238,
@@ -1139,7 +1171,7 @@
     {
       "fotmobId": 1482302,
       "number": 49,
-      "name": "Saad Al-Shurafa",
+      "name": "Saad Al Sharfa",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1482302.png"
@@ -1163,7 +1195,7 @@
     {
       "fotmobId": 1668576,
       "number": 7,
-      "name": "Fahad Aqeel Al-Zubaidi",
+      "name": "Fahad Al Zubaidi",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668576.png"
@@ -1183,21 +1215,13 @@
       "position": "ST",
       "nationality": "Morocco",
       "photo": "https://images.fotmob.com/image_resources/playerimages/617308.png"
-    },
-    {
-      "fotmobId": 1436783,
-      "number": null,
-      "name": "Matheus Machado",
-      "position": "ST",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1436783.png"
     }
   ],
   "Al Fayha": [
     {
       "fotmobId": 1554630,
       "number": 1,
-      "name": "Abdulraouf Al-Duqayl",
+      "name": "Abdulraouf Al Duqayl",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1554630.png"
@@ -1205,7 +1229,7 @@
     {
       "fotmobId": 1671251,
       "number": 13,
-      "name": "Saad Al Shammari",
+      "name": "Sattam Al Shammari",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1671251.png"
@@ -1213,7 +1237,7 @@
     {
       "fotmobId": 1554626,
       "number": 31,
-      "name": "Osama Khaled Al Thumairy",
+      "name": "Osama Al Thumayri",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1554626.png"
@@ -1237,7 +1261,7 @@
     {
       "fotmobId": 915152,
       "number": 2,
-      "name": "Mokher Al-Rashidi",
+      "name": "Makhir Al Rashidi",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/915152.png"
@@ -1261,10 +1285,18 @@
     {
       "fotmobId": 866401,
       "number": 24,
-      "name": "Ahmed Bamsaud",
+      "name": "Ahmed Bamasud",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/866401.png"
+    },
+    {
+      "fotmobId": 1549835,
+      "number": null,
+      "name": "Turki Al Jaadi",
+      "position": "LB",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1549835.png"
     },
     {
       "fotmobId": 1028036,
@@ -1277,7 +1309,7 @@
     {
       "fotmobId": 1671250,
       "number": 6,
-      "name": "Ali Al Hussain",
+      "name": "Al Hussain Boulahrech",
       "position": "DM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1671250.png"
@@ -1299,6 +1331,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1002614.png"
     },
     {
+      "fotmobId": 1590255,
+      "number": null,
+      "name": "Yago",
+      "position": "CM",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1590255.png"
+    },
+    {
       "fotmobId": 1039533,
       "number": 20,
       "name": "Abdullah Al Qahtani",
@@ -1317,7 +1357,7 @@
     {
       "fotmobId": 2139535,
       "number": 42,
-      "name": "Ali Al Harshan",
+      "name": "Ali Dhafer Al Harshan",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2139535.png"
@@ -1325,7 +1365,7 @@
     {
       "fotmobId": 2139541,
       "number": 43,
-      "name": "Fahad Alhubayshi",
+      "name": "Fahad Majed Alhubayshi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2139541.png"
@@ -1339,17 +1379,9 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1594822.png"
     },
     {
-      "fotmobId": 2172215,
-      "number": 55,
-      "name": "Abdullah Alanazi",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2172215.png"
-    },
-    {
       "fotmobId": 618100,
       "number": null,
-      "name": "Abdulhadi Al Harajan",
+      "name": "Abdulhadi Al Harajin",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/618100.png"
@@ -1371,14 +1403,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1819089.png"
     },
     {
-      "fotmobId": 2160043,
-      "number": 72,
-      "name": "Mohammed Ahmed Hakami",
-      "position": "RW",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2160043.png"
-    },
-    {
       "fotmobId": 1780605,
       "number": 77,
       "name": "Rayan Enad",
@@ -1387,12 +1411,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1780605.png"
     },
     {
-      "fotmobId": 1911302,
-      "number": 92,
-      "name": "Mouath Al Habib",
+      "fotmobId": 1920081,
+      "number": null,
+      "name": "Sultan Al Jabri",
       "position": "RW",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1911302.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1920081.png"
     },
     {
       "fotmobId": 825765,
@@ -1421,7 +1445,7 @@
     {
       "fotmobId": 600513,
       "number": 35,
-      "name": "Silvère Ganvoula",
+      "name": "Silvere Ganvoula",
       "position": "ST",
       "nationality": "Congo",
       "photo": "https://images.fotmob.com/image_resources/playerimages/600513.png"
@@ -1431,7 +1455,7 @@
     {
       "fotmobId": 1958888,
       "number": 1,
-      "name": "Yazan Al-Ruwaili",
+      "name": "Yazan Al Ruwaili",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1958888.png"
@@ -1455,7 +1479,7 @@
     {
       "fotmobId": 1182330,
       "number": 33,
-      "name": "Majed Al-Ghamdi",
+      "name": "Majed Al Ghamdi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1182330.png"
@@ -1463,7 +1487,7 @@
     {
       "fotmobId": 1668897,
       "number": 2,
-      "name": "Saud Al-Rashid",
+      "name": "Saud Al Rashed",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668897.png"
@@ -1471,7 +1495,7 @@
     {
       "fotmobId": 1368065,
       "number": 82,
-      "name": "Abdulaziz Al-Harbi",
+      "name": "Abdulaziz Al Harbi",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1368065.png"
@@ -1495,7 +1519,7 @@
     {
       "fotmobId": 1198732,
       "number": 13,
-      "name": "Abdullah Al-Shanqiti",
+      "name": "Abdullah Al Shanqiti",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1198732.png"
@@ -1511,7 +1535,7 @@
     {
       "fotmobId": 1131928,
       "number": 3,
-      "name": "Amine Ben Hamida",
+      "name": "Mohamed Amine Ben Hmida",
       "position": "LB",
       "nationality": "Tunisia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1131928.png"
@@ -1519,7 +1543,7 @@
     {
       "fotmobId": 1176722,
       "number": 27,
-      "name": "Ahmed Al-Nakhli",
+      "name": "Ahmed Al Nakhli",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1176722.png"
@@ -1527,7 +1551,7 @@
     {
       "fotmobId": 1442542,
       "number": 70,
-      "name": "Ahmed Al-Shamrani",
+      "name": "Ahmed Al Shamrani",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1442542.png"
@@ -1543,18 +1567,10 @@
     {
       "fotmobId": 1396619,
       "number": 5,
-      "name": "Mohammed Al-Yami",
+      "name": "Mohammed Issa",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1396619.png"
-    },
-    {
-      "fotmobId": 618108,
-      "number": 15,
-      "name": "Abdulrahman Al Khaibary",
-      "position": "CM",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/618108.png"
     },
     {
       "fotmobId": 1806136,
@@ -1575,7 +1591,7 @@
     {
       "fotmobId": 1527080,
       "number": 77,
-      "name": "Khalid Al-Subaie",
+      "name": "Khalid Al Subaie",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1527080.png"
@@ -1591,10 +1607,26 @@
     {
       "fotmobId": 1286990,
       "number": 12,
-      "name": "Farhan Al-Aazmi",
+      "name": "Farhan Al Azzmi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1286990.png"
+    },
+    {
+      "fotmobId": 1921030,
+      "number": 21,
+      "name": "Amadou Bamba Dieng",
+      "position": "MIDFIELDER",
+      "nationality": "Senegal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1921030.png"
+    },
+    {
+      "fotmobId": 1645680,
+      "number": 90,
+      "name": "Hassan Idris",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1645680.png"
     },
     {
       "fotmobId": 2174970,
@@ -1605,25 +1637,25 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2174970.png"
     },
     {
-      "fotmobId": 2135002,
-      "number": null,
-      "name": "Mohammed Al-Darwish",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2135002.png"
-    },
-    {
       "fotmobId": 322997,
-      "number": 10,
+      "number": 11,
       "name": "Amir Sayoud",
       "position": "RW",
       "nationality": "Algeria",
       "photo": "https://images.fotmob.com/image_resources/playerimages/322997.png"
     },
     {
+      "fotmobId": 1586850,
+      "number": 20,
+      "name": "Nawaf Al Bishri",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1586850.png"
+    },
+    {
       "fotmobId": 1813014,
       "number": 22,
-      "name": "Abdulaziz Al-Dwehe",
+      "name": "Abdulaziz Al Dhuwayhi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1813014.png"
@@ -1631,7 +1663,7 @@
     {
       "fotmobId": 1903792,
       "number": 30,
-      "name": "Abdulrazzaq Abdulrazzaq Awaji",
+      "name": "Abdulrazzaq Awaji",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1903792.png"
@@ -1639,7 +1671,7 @@
     {
       "fotmobId": 1085329,
       "number": 98,
-      "name": "Ayman Al-Hujaili",
+      "name": "Ayman Al Hujaili",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1085329.png"
@@ -1655,7 +1687,7 @@
     {
       "fotmobId": 1911199,
       "number": 77,
-      "name": "Mohammed Al-Hamdani",
+      "name": "Mohammed Al Hamdani",
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1911199.png"
@@ -1671,7 +1703,7 @@
     {
       "fotmobId": 866399,
       "number": 11,
-      "name": "Walead Al Shanqiti",
+      "name": "Waleed Al Shanqiti",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/866399.png"
@@ -1689,7 +1721,7 @@
     {
       "fotmobId": 848616,
       "number": 17,
-      "name": "Mohammed Al-Yami",
+      "name": "Mohammed Al Yami",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/848616.png"
@@ -1701,14 +1733,6 @@
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/535669.png"
-    },
-    {
-      "fotmobId": 1469654,
-      "number": 35,
-      "name": "Rayan Al-Dossary",
-      "position": "GK",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1469654.png"
     },
     {
       "fotmobId": 340020,
@@ -1729,7 +1753,7 @@
     {
       "fotmobId": 1138003,
       "number": 24,
-      "name": "Moteb Al-Harbi",
+      "name": "Moteb Al Harbi",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1138003.png"
@@ -1777,7 +1801,7 @@
     {
       "fotmobId": 724371,
       "number": 19,
-      "name": "Theo Hernández",
+      "name": "Théo Hernández",
       "position": "LB",
       "nationality": "France",
       "photo": "https://images.fotmob.com/image_resources/playerimages/724371.png"
@@ -1793,7 +1817,7 @@
     {
       "fotmobId": 848612,
       "number": 6,
-      "name": "Nasser Al-Dawsari",
+      "name": "Nasser Al Dawsari",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/848612.png"
@@ -1801,7 +1825,7 @@
     {
       "fotmobId": 1668894,
       "number": 18,
-      "name": "Murad Al-Hawsawi",
+      "name": "Murad Al Hawsawi",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668894.png"
@@ -1839,9 +1863,17 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1325889.png"
     },
     {
+      "fotmobId": 1763972,
+      "number": 44,
+      "name": "Saad Al Muthary",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1763972.png"
+    },
+    {
       "fotmobId": 1843899,
       "number": 55,
-      "name": "Mishaal Al Dawood",
+      "name": "Meshal Al Dawood",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1843899.png"
@@ -1849,10 +1881,18 @@
     {
       "fotmobId": 1879474,
       "number": 73,
-      "name": "Mohamed Al-Sarnukh",
+      "name": "Mohammed Al Sarnoukh",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1879474.png"
+    },
+    {
+      "fotmobId": 1478975,
+      "number": 96,
+      "name": "Suhayb Al Zaid",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1478975.png"
     },
     {
       "fotmobId": 619824,
@@ -1873,7 +1913,7 @@
     {
       "fotmobId": 307753,
       "number": 29,
-      "name": "Salem Al-Dawsari",
+      "name": "Salem Al Dawsari",
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/307753.png"
@@ -1893,6 +1933,14 @@
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/963730.png"
+    },
+    {
+      "fotmobId": 1021586,
+      "number": null,
+      "name": "Gabriel Martinelli",
+      "position": "LW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1021586.png"
     },
     {
       "fotmobId": 540088,
@@ -1923,7 +1971,7 @@
     {
       "fotmobId": 1331716,
       "number": 50,
-      "name": "Mohammed Al-Absi",
+      "name": "Mohammed Al Absi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1331716.png"
@@ -1931,7 +1979,7 @@
     {
       "fotmobId": 1399715,
       "number": 88,
-      "name": "Osama Al-Mermesh",
+      "name": "Osama Al Mermesh",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1399715.png"
@@ -1939,7 +1987,7 @@
     {
       "fotmobId": 873530,
       "number": 13,
-      "name": "Muhannad Shanqeeti",
+      "name": "Muhannad Al Shanqiti",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/873530.png"
@@ -1947,7 +1995,7 @@
     {
       "fotmobId": 1459705,
       "number": 32,
-      "name": "Ahmed Al-Julaydan",
+      "name": "Ahmed Al Julaydan",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1459705.png"
@@ -1961,14 +2009,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/240235.png"
     },
     {
-      "fotmobId": 1222405,
-      "number": 3,
-      "name": "Stephane Keller",
-      "position": "CB",
-      "nationality": "Cameroon",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1222405.png"
-    },
-    {
       "fotmobId": 1369420,
       "number": 4,
       "name": "Jan-Carlo Simic",
@@ -1979,7 +2019,7 @@
     {
       "fotmobId": 1291611,
       "number": 6,
-      "name": "Saad Al-Mousa",
+      "name": "Saad Al Mosa",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1291611.png"
@@ -1987,7 +2027,7 @@
     {
       "fotmobId": 431215,
       "number": 15,
-      "name": "Hasan Kadesh",
+      "name": "Hassan Kadish",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/431215.png"
@@ -1995,7 +2035,7 @@
     {
       "fotmobId": 528303,
       "number": 20,
-      "name": "Ahmed Mohammed Sharahili",
+      "name": "Ahmed Sharahili",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/528303.png"
@@ -2019,18 +2059,10 @@
     {
       "fotmobId": 1429005,
       "number": 42,
-      "name": "Muath Faqeehi",
+      "name": "Muath Fagihy",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1429005.png"
-    },
-    {
-      "fotmobId": 1791594,
-      "number": 51,
-      "name": "Isaías Rodríguez",
-      "position": "LB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1791594.png"
     },
     {
       "fotmobId": 1435226,
@@ -2057,6 +2089,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1327115.png"
     },
     {
+      "fotmobId": 1174630,
+      "number": null,
+      "name": "Richard Ríos",
+      "position": "DM",
+      "nationality": "Colombia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1174630.png"
+    },
+    {
       "fotmobId": 759808,
       "number": 8,
       "name": "Mukhtar Ali",
@@ -2067,18 +2107,10 @@
     {
       "fotmobId": 1520116,
       "number": 29,
-      "name": "Farha Al-Shamrani",
+      "name": "Farhah Al Shamrani",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1520116.png"
-    },
-    {
-      "fotmobId": 1696021,
-      "number": null,
-      "name": "Mateo Borrell",
-      "position": "CM",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1696021.png"
     },
     {
       "fotmobId": 776299,
@@ -2089,28 +2121,28 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/776299.png"
     },
     {
-      "fotmobId": 618908,
-      "number": 37,
-      "name": "Fawaz Al Sagour",
+      "fotmobId": 1707071,
+      "number": 23,
+      "name": "Nawaf Al Jadaani",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/618908.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1707071.png"
     },
     {
       "fotmobId": 1673438,
       "number": 41,
-      "name": "Mohmmed Fallatah",
+      "name": "Mohammed Fallatah",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1673438.png"
     },
     {
-      "fotmobId": 1707180,
-      "number": 77,
-      "name": "Abdalellah Hawsawi",
+      "fotmobId": 1360587,
+      "number": 55,
+      "name": "Bryant Ortega",
       "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1707180.png"
+      "nationality": "Venezuela",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1360587.png"
     },
     {
       "fotmobId": 904317,
@@ -2121,33 +2153,25 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/904317.png"
     },
     {
-      "fotmobId": 1360587,
-      "number": null,
-      "name": "Bryant Ortega",
-      "position": "MIDFIELDER",
-      "nationality": "Venezuela",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1360587.png"
-    },
-    {
-      "fotmobId": 923498,
-      "number": 19,
-      "name": "Moussa Diaby",
-      "position": "RW",
-      "nationality": "France",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/923498.png"
-    },
-    {
       "fotmobId": 1066583,
       "number": 27,
-      "name": "Ahmed Alghamdi",
+      "name": "Ahmed Al Ghamdi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1066583.png"
     },
     {
+      "fotmobId": 1283094,
+      "number": 7,
+      "name": "Roger Fernandes",
+      "position": "LW",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1283094.png"
+    },
+    {
       "fotmobId": 1399713,
       "number": 22,
-      "name": "Marwan Al-Sahafi",
+      "name": "Marwan Al Sahafi",
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1399713.png"
@@ -2161,25 +2185,9 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/564818.png"
     },
     {
-      "fotmobId": 1283094,
-      "number": 78,
-      "name": "Roger Fernandes",
-      "position": "LW",
-      "nationality": "Portugal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1283094.png"
-    },
-    {
-      "fotmobId": 1431516,
-      "number": 9,
-      "name": "George Ilenikhena",
-      "position": "ST",
-      "nationality": "France",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1431516.png"
-    },
-    {
       "fotmobId": 384407,
       "number": 11,
-      "name": "Saleh Al-Shehri",
+      "name": "Saleh Al Shehri",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/384407.png"
@@ -2193,15 +2201,23 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/788555.png"
     },
     {
-      "fotmobId": 1555516,
-      "number": 90,
-      "name": "Talal Haji",
+      "fotmobId": 1431516,
+      "number": 99,
+      "name": "George Ilenikhena",
       "position": "ST",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1555516.png"
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1431516.png"
     }
   ],
   "Al Khaleej": [
+    {
+      "fotmobId": 2135073,
+      "number": 1,
+      "name": "Mohammed Ibrahim",
+      "position": "GK",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2135073.png"
+    },
     {
       "fotmobId": 148331,
       "number": 49,
@@ -2217,14 +2233,6 @@
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/795698.png"
-    },
-    {
-      "fotmobId": 2135073,
-      "number": null,
-      "name": "Mohammed Al-Ibrahim",
-      "position": "GK",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2135073.png"
     },
     {
       "fotmobId": 623742,
@@ -2245,7 +2253,7 @@
     {
       "fotmobId": 671295,
       "number": 3,
-      "name": "Mohammed Al-Khabrani",
+      "name": "Mohammed Al Khabrani",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/671295.png"
@@ -2309,7 +2317,7 @@
     {
       "fotmobId": 729192,
       "number": 12,
-      "name": "Majed Omar Kanabah",
+      "name": "Majed Kanabah",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/729192.png"
@@ -2325,7 +2333,7 @@
     {
       "fotmobId": 1229079,
       "number": 16,
-      "name": "Bader Mohammed Munshi",
+      "name": "Bader Munshi",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1229079.png"
@@ -2333,7 +2341,7 @@
     {
       "fotmobId": 1247402,
       "number": 18,
-      "name": "Nawaf Al-Sadi",
+      "name": "Nawaf Al Saadi",
       "position": "RM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1247402.png"
@@ -2341,7 +2349,7 @@
     {
       "fotmobId": 618283,
       "number": 11,
-      "name": "Saleh Al-Amri",
+      "name": "Saleh Al Amri",
       "position": "LM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/618283.png"
@@ -2349,7 +2357,7 @@
     {
       "fotmobId": 1085045,
       "number": 28,
-      "name": "Hussain Al-Eissa",
+      "name": "Hussain Al Eissa",
       "position": "LM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1085045.png"
@@ -2363,6 +2371,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/850288.png"
     },
     {
+      "fotmobId": 1854178,
+      "number": 8,
+      "name": "Abdoulie Mboge",
+      "position": "MIDFIELDER",
+      "nationality": "The Gambia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1854178.png"
+    },
+    {
       "fotmobId": 1633686,
       "number": 19,
       "name": "Mohammed Al Abdullah",
@@ -2371,44 +2387,28 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1633686.png"
     },
     {
-      "fotmobId": 1197402,
-      "number": 25,
-      "name": "Arif Saleh Al Haydar",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1197402.png"
-    },
-    {
       "fotmobId": 1887051,
-      "number": 29,
+      "number": 26,
       "name": "Raed Al Shanqiti",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1887051.png"
     },
     {
-      "fotmobId": 780244,
-      "number": 33,
-      "name": "Bander Al-Mutairi",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/780244.png"
-    },
-    {
-      "fotmobId": 1854178,
-      "number": 88,
-      "name": "Abdoulie Mboge",
-      "position": "MIDFIELDER",
-      "nationality": "The Gambia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1854178.png"
-    },
-    {
       "fotmobId": 619834,
       "number": null,
-      "name": "Abdullah Khalid Al Ammar",
+      "name": "Abdullah Al Ammar",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/619834.png"
+    },
+    {
+      "fotmobId": 618908,
+      "number": null,
+      "name": "Fawaz Al Soqoor",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/618908.png"
     },
     {
       "fotmobId": 2140572,
@@ -2421,26 +2421,18 @@
     {
       "fotmobId": 1711971,
       "number": 24,
-      "name": "Ali Abdulraouf",
+      "name": "Ali Abdoulraouf Alabdrabalnabi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1711971.png"
     },
     {
-      "fotmobId": 1887047,
-      "number": 27,
-      "name": "Abdullah Al Zaynaldeen",
+      "fotmobId": 1695842,
+      "number": 70,
+      "name": "Abdulmajeed Al Khathami",
       "position": "RW",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1887047.png"
-    },
-    {
-      "fotmobId": 1707459,
-      "number": null,
-      "name": "Hussain Al Sultan",
-      "position": "RW",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1707459.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1695842.png"
     },
     {
       "fotmobId": 910699,
@@ -2461,7 +2453,7 @@
     {
       "fotmobId": 1612227,
       "number": 90,
-      "name": "Thamer Al Khaibari",
+      "name": "Thamer Al Khaibri",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1612227.png"
@@ -2471,15 +2463,23 @@
     {
       "fotmobId": 1543642,
       "number": 1,
-      "name": "Hamed Al-Shanqiti",
+      "name": "Hamed Al Shanqiti",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1543642.png"
     },
     {
+      "fotmobId": 1975169,
+      "number": 34,
+      "name": "Fares Al-Zahrani",
+      "position": "GK",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1975169.png"
+    },
+    {
       "fotmobId": 1668629,
       "number": 48,
-      "name": "Muhannad Al-Yahya",
+      "name": "Muhannad Al Yahya",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668629.png"
@@ -2519,7 +2519,7 @@
     {
       "fotmobId": 1791595,
       "number": 47,
-      "name": "Abdulrahman Al-Obaid",
+      "name": "Abdulrahman Al Obaid",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1791595.png"
@@ -2527,18 +2527,10 @@
     {
       "fotmobId": 1668896,
       "number": 7,
-      "name": "Sultan Al-Shahri",
+      "name": "Sultan Al Shehri",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1668896.png"
-    },
-    {
-      "fotmobId": 1911183,
-      "number": 21,
-      "name": "Rashid Al-Mutairi",
-      "position": "LB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1911183.png"
     },
     {
       "fotmobId": 1287783,
@@ -2559,7 +2551,7 @@
     {
       "fotmobId": 725226,
       "number": 39,
-      "name": "Abdulrahman Al-Dosari",
+      "name": "Abdulrahman Al Dosari",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/725226.png"
@@ -2567,7 +2559,7 @@
     {
       "fotmobId": 1363812,
       "number": 46,
-      "name": "Abdulaziz Al Aliwa",
+      "name": "Abdulaziz Al Elewai",
       "position": "RM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1363812.png"
@@ -2575,7 +2567,7 @@
     {
       "fotmobId": 1523819,
       "number": 70,
-      "name": "Mohammed Sawaan",
+      "name": "Muhammad Sawaan",
       "position": "LM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1523819.png"
@@ -2589,6 +2581,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1287791.png"
     },
     {
+      "fotmobId": 1879531,
+      "number": 14,
+      "name": "Ibrahem Barabaa",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1879531.png"
+    },
+    {
       "fotmobId": 1780632,
       "number": 23,
       "name": "Yazan Madani",
@@ -2599,31 +2599,31 @@
     {
       "fotmobId": 1832197,
       "number": 24,
-      "name": "Odai Abdulghani",
+      "name": "Odai Slimani",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1832197.png"
     },
     {
-      "fotmobId": 1879531,
-      "number": 41,
-      "name": "Ibrahem Barabaa",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1879531.png"
-    },
-    {
       "fotmobId": 1904678,
       "number": 52,
-      "name": "Rakan Al-Jamaan",
+      "name": "Rakan bin Jaman",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1904678.png"
     },
     {
+      "fotmobId": 1901621,
+      "number": 55,
+      "name": "Yousef Al Honaifesh",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1901621.png"
+    },
+    {
       "fotmobId": 1691358,
       "number": null,
-      "name": "Mohammed Al-Rashidi",
+      "name": "Mohammed Al Rashdi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1691358.png"
@@ -2631,7 +2631,7 @@
     {
       "fotmobId": 1616778,
       "number": 26,
-      "name": "Yaseen Atiah Al Zubaidi",
+      "name": "Yaseen Al Zubaidi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1616778.png"
@@ -2639,10 +2639,18 @@
     {
       "fotmobId": 1890210,
       "number": 27,
-      "name": "Abdullah Al-Ajian",
+      "name": "Abdullah Al Ajyan",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1890210.png"
+    },
+    {
+      "fotmobId": 1668898,
+      "number": 47,
+      "name": "Abdulmalik Al Harbi",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1668898.png"
     },
     {
       "fotmobId": 1676905,
@@ -2679,7 +2687,7 @@
     {
       "fotmobId": 1719844,
       "number": 99,
-      "name": "Gustavo Rodrigues",
+      "name": "Guga",
       "position": "ST",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1719844.png"
@@ -2689,7 +2697,7 @@
     {
       "fotmobId": 1125083,
       "number": 1,
-      "name": "Nawaf Al-Aqidi",
+      "name": "Nawaf Al Aqidi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1125083.png"
@@ -2697,10 +2705,18 @@
     {
       "fotmobId": 1043761,
       "number": 24,
-      "name": "Bento Krepski",
+      "name": "Bento",
       "position": "GK",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1043761.png"
+    },
+    {
+      "fotmobId": 967054,
+      "number": 36,
+      "name": "Raghid Najjar",
+      "position": "GK",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/967054.png"
     },
     {
       "fotmobId": 1973304,
@@ -2713,7 +2729,7 @@
     {
       "fotmobId": 722259,
       "number": 2,
-      "name": "Sultan Al-Ghanam",
+      "name": "Sultan Al Ghannam",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/722259.png"
@@ -2721,7 +2737,7 @@
     {
       "fotmobId": 1401228,
       "number": 12,
-      "name": "Nawaf Al-Boushail",
+      "name": "Nawaf Bu Washl",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1401228.png"
@@ -2737,7 +2753,7 @@
     {
       "fotmobId": 1133583,
       "number": 4,
-      "name": "Nader Abdullah Al Sharari",
+      "name": "Nader Al Sharari",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1133583.png"
@@ -2761,7 +2777,7 @@
     {
       "fotmobId": 1221925,
       "number": 6,
-      "name": "Saad Al-Nasser",
+      "name": "Saad Al Nasser",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1221925.png"
@@ -2769,10 +2785,18 @@
     {
       "fotmobId": 1095207,
       "number": 23,
-      "name": "Ayman Yahya",
+      "name": "Aiman Yahya",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1095207.png"
+    },
+    {
+      "fotmobId": 1377991,
+      "number": 50,
+      "name": "Majed Qasheesh",
+      "position": "LB",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1377991.png"
     },
     {
       "fotmobId": 1608559,
@@ -2791,17 +2815,9 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1325891.png"
     },
     {
-      "fotmobId": 1377991,
-      "number": null,
-      "name": "Majed Qasheesh",
-      "position": "LB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1377991.png"
-    },
-    {
       "fotmobId": 1130583,
       "number": 11,
-      "name": "Samú",
+      "name": "Samú Costa",
       "position": "DM",
       "nationality": "Portugal",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1130583.png"
@@ -2809,7 +2825,7 @@
     {
       "fotmobId": 919900,
       "number": 19,
-      "name": "Ali Al-Hassan",
+      "name": "Ali Al Hassan",
       "position": "DM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/919900.png"
@@ -2817,7 +2833,7 @@
     {
       "fotmobId": 823457,
       "number": 17,
-      "name": "Abdullah Al-Khaibari",
+      "name": "Abdullah Al Khaibari",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/823457.png"
@@ -2849,7 +2865,7 @@
     {
       "fotmobId": 1125074,
       "number": 16,
-      "name": "Mohammed Maran",
+      "name": "Mohammed Marran",
       "position": "AM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1125074.png"
@@ -2857,7 +2873,7 @@
     {
       "fotmobId": 1818165,
       "number": 56,
-      "name": "Rakan Al-Ghamdi",
+      "name": "Rakan Al Ghamdi",
       "position": "AM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1818165.png"
@@ -2865,23 +2881,15 @@
     {
       "fotmobId": 794427,
       "number": 79,
-      "name": "Joao Félix",
+      "name": "João Félix",
       "position": "AM",
       "nationality": "Portugal",
       "photo": "https://images.fotmob.com/image_resources/playerimages/794427.png"
     },
     {
-      "fotmobId": 1478243,
-      "number": 8,
-      "name": "Hayder Abdulkareem",
-      "position": "MIDFIELDER",
-      "nationality": "Iraq",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1478243.png"
-    },
-    {
       "fotmobId": 749010,
       "number": 14,
-      "name": "Sami Al-Najei",
+      "name": "Sami Al Naji",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/749010.png"
@@ -2889,18 +2897,18 @@
     {
       "fotmobId": 1640879,
       "number": 18,
-      "name": "Abdulmalik Al-Jaber",
+      "name": "Abdulmalik Al Jaber",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1640879.png"
     },
     {
-      "fotmobId": 1668908,
+      "fotmobId": 1238193,
       "number": null,
-      "name": "Asser Housawi",
+      "name": "Aser Hawsawi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1668908.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1238193.png"
     },
     {
       "fotmobId": 1675653,
@@ -2909,6 +2917,14 @@
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1675653.png"
+    },
+    {
+      "fotmobId": 911531,
+      "number": 29,
+      "name": "Abdulrahman Ghareeb",
+      "position": "LW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/911531.png"
     },
     {
       "fotmobId": 30893,
@@ -2921,7 +2937,7 @@
     {
       "fotmobId": 909198,
       "number": 9,
-      "name": "Abdullah Al-Hamdan",
+      "name": "Abdullah Al Hamddan",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/909198.png"
@@ -2939,7 +2955,7 @@
     {
       "fotmobId": 544589,
       "number": 28,
-      "name": "Ahmed Ali Al Kassar",
+      "name": "Ahmed Al Kassar",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/544589.png"
@@ -2947,7 +2963,7 @@
     {
       "fotmobId": 1012566,
       "number": 50,
-      "name": "Meshary Sanyor",
+      "name": "Meshari Sunyur",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1012566.png"
@@ -2979,7 +2995,7 @@
     {
       "fotmobId": 1060634,
       "number": 17,
-      "name": "Gaston Álvarez",
+      "name": "Gastón Álvarez",
       "position": "CB",
       "nationality": "Uruguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1060634.png"
@@ -2987,7 +3003,7 @@
     {
       "fotmobId": 1028352,
       "number": 23,
-      "name": "Waleed Al-Ahmad",
+      "name": "Waleed Al Ahmad",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1028352.png"
@@ -3003,18 +3019,10 @@
     {
       "fotmobId": 392208,
       "number": 12,
-      "name": "Yasir Al Shahrani",
+      "name": "Yasser Al Shahrani",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/392208.png"
-    },
-    {
-      "fotmobId": 1079500,
-      "number": null,
-      "name": "Souffian El Karouani",
-      "position": "LB",
-      "nationality": "Morocco",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1079500.png"
     },
     {
       "fotmobId": 1897591,
@@ -3043,7 +3051,7 @@
     {
       "fotmobId": 1235341,
       "number": 10,
-      "name": "Musab Al-Juwayr",
+      "name": "Musab Al Juwayr",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1235341.png"
@@ -3051,18 +3059,10 @@
     {
       "fotmobId": 671290,
       "number": 11,
-      "name": "Ali Abdullah Hazzazi",
+      "name": "Ali Hazazi",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/671290.png"
-    },
-    {
-      "fotmobId": 397019,
-      "number": 25,
-      "name": "Otávio",
-      "position": "CM",
-      "nationality": "Portugal",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/397019.png"
     },
     {
       "fotmobId": 909907,
@@ -3099,7 +3099,7 @@
     {
       "fotmobId": 1309655,
       "number": 15,
-      "name": "Mohammed Hamad Al Qahtani",
+      "name": "Mohammed Al Qahtani",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1309655.png"
@@ -3107,7 +3107,7 @@
     {
       "fotmobId": 523985,
       "number": 24,
-      "name": "Mohammed Qassem Al Nakhli",
+      "name": "Mohammed Qassim",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/523985.png"
@@ -3121,14 +3121,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1818172.png"
     },
     {
-      "fotmobId": 1460465,
-      "number": null,
-      "name": "Carlos Jiménez",
-      "position": "MIDFIELDER",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1460465.png"
-    },
-    {
       "fotmobId": 1173632,
       "number": 19,
       "name": "Haitham Asiri",
@@ -3137,17 +3129,9 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1173632.png"
     },
     {
-      "fotmobId": 1526557,
-      "number": null,
-      "name": "Iker Almena",
-      "position": "RW",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1526557.png"
-    },
-    {
       "fotmobId": 1818164,
       "number": 90,
-      "name": "Amar Al-Yuhaybi",
+      "name": "Amar Al Yuhaybi",
       "position": "LW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1818164.png"
@@ -3178,18 +3162,26 @@
     },
     {
       "fotmobId": 1897034,
-      "number": null,
-      "name": "Sultan Ali Haroun",
+      "number": 77,
+      "name": "Sultan Harun",
       "position": "ST",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1897034.png"
+    },
+    {
+      "fotmobId": 1586389,
+      "number": null,
+      "name": "Mahamadou Sangaré",
+      "position": "ST",
+      "nationality": "France",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1586389.png"
     }
   ],
   "Al Riyadh": [
     {
       "fotmobId": 1671450,
       "number": 22,
-      "name": "Abdulrahman Al Shammari",
+      "name": "Abdurahman Al Shammari",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1671450.png"
@@ -3205,7 +3197,7 @@
     {
       "fotmobId": 1035317,
       "number": 97,
-      "name": "Emad Al-Feda",
+      "name": "Emad Fidaa",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1035317.png"
@@ -3213,7 +3205,7 @@
     {
       "fotmobId": 849539,
       "number": 17,
-      "name": "Abdullah Hassoun",
+      "name": "Abdullah Tarmin",
       "position": "RWB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/849539.png"
@@ -3221,7 +3213,7 @@
     {
       "fotmobId": 1616572,
       "number": 2,
-      "name": "Sultan Al-Essa",
+      "name": "Sultan Al Essa",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1616572.png"
@@ -3229,7 +3221,7 @@
     {
       "fotmobId": 1691431,
       "number": 7,
-      "name": "Osama Al-Bawardi",
+      "name": "Osama Al Bawardi",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1691431.png"
@@ -3253,7 +3245,7 @@
     {
       "fotmobId": 1176253,
       "number": 67,
-      "name": "Mohammed Al-Khaibari",
+      "name": "Mohammed Al Khaibari",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1176253.png"
@@ -3267,14 +3259,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1608560.png"
     },
     {
-      "fotmobId": 813371,
-      "number": 2,
-      "name": "Mohammed Al-Saeed",
-      "position": "LB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/813371.png"
-    },
-    {
       "fotmobId": 1230141,
       "number": 12,
       "name": "Sulaiman Hazazi",
@@ -3283,20 +3267,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1230141.png"
     },
     {
-      "fotmobId": 1173803,
-      "number": 50,
-      "name": "Nawaf Al-Hawsawi",
-      "position": "LB",
+      "fotmobId": 959072,
+      "number": null,
+      "name": "Hussain Qassem",
+      "position": "LWB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1173803.png"
-    },
-    {
-      "fotmobId": 1355851,
-      "number": 15,
-      "name": "Nasser Al Bishi",
-      "position": "DM",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1355851.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/959072.png"
     },
     {
       "fotmobId": 438786,
@@ -3325,10 +3301,18 @@
     {
       "fotmobId": 1056256,
       "number": 6,
-      "name": "Saud Zaydan",
+      "name": "Saud bin Zaydan",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1056256.png"
+    },
+    {
+      "fotmobId": 421995,
+      "number": 20,
+      "name": "Tozé",
+      "position": "CM",
+      "nationality": "Portugal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/421995.png"
     },
     {
       "fotmobId": 529285,
@@ -3341,7 +3325,7 @@
     {
       "fotmobId": 1226017,
       "number": 11,
-      "name": "Hassan Al-Ali",
+      "name": "Hassan Al Ali",
       "position": "RM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1226017.png"
@@ -3357,7 +3341,7 @@
     {
       "fotmobId": 431226,
       "number": 88,
-      "name": "Yahya Al Shehri",
+      "name": "Yahia Al Shehri",
       "position": "AM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/431226.png"
@@ -3371,28 +3355,36 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1888668.png"
     },
     {
-      "fotmobId": 1719359,
-      "number": 14,
-      "name": "Talal Al Shubili",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1719359.png"
-    },
-    {
       "fotmobId": 1904622,
       "number": 16,
-      "name": "Faisal Al-Sobhi",
+      "name": "Faisal Al Subhi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1904622.png"
     },
     {
+      "fotmobId": 1369397,
+      "number": 18,
+      "name": "Khaled Al Asbahi",
+      "position": "MIDFIELDER",
+      "nationality": "United Arab Emirates",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1369397.png"
+    },
+    {
       "fotmobId": 2139619,
       "number": 24,
-      "name": "Abdulilah Al Talae",
+      "name": "Abdulilah Al Tale",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2139619.png"
+    },
+    {
+      "fotmobId": 1612967,
+      "number": 66,
+      "name": "Majed Nasser Al Qahtani",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1612967.png"
     },
     {
       "fotmobId": 841552,
@@ -3405,7 +3397,7 @@
     {
       "fotmobId": 2139613,
       "number": 17,
-      "name": "Hussain Al-Raqwani",
+      "name": "Hussain Al Raqwani",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2139613.png"
@@ -3421,14 +3413,14 @@
     {
       "fotmobId": 1761490,
       "number": 32,
-      "name": "Luca Ian Ramirez",
+      "name": "Luca Ramirez",
       "position": "RW",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1761490.png"
     },
     {
       "fotmobId": 2139616,
-      "number": null,
+      "number": 96,
       "name": "Cheikh Fall",
       "position": "RW",
       "nationality": "Senegal",
@@ -3457,14 +3449,6 @@
       "position": "ST",
       "nationality": "Senegal",
       "photo": "https://images.fotmob.com/image_resources/playerimages/629579.png"
-    },
-    {
-      "fotmobId": 1487069,
-      "number": 16,
-      "name": "Muhammad Sahlouli",
-      "position": "ST",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1487069.png"
     }
   ],
   "Al Shabab": [
@@ -3479,23 +3463,39 @@
     {
       "fotmobId": 1434701,
       "number": 23,
-      "name": "Abdulaziz Al-Awairdhi",
+      "name": "Abdulaziz Al Awardi",
       "position": "GK",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1434701.png"
     },
     {
-      "fotmobId": 1131316,
+      "fotmobId": 1120998,
       "number": 33,
-      "name": "Mohammed Al-Mahasneh",
+      "name": "Mohammed Al Mahasnah",
       "position": "GK",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1131316.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1120998.png"
+    },
+    {
+      "fotmobId": 1879749,
+      "number": 60,
+      "name": "Muhammad Al Otaibi",
+      "position": "GK",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1879749.png"
+    },
+    {
+      "fotmobId": 1710508,
+      "number": null,
+      "name": "Mishal Saad",
+      "position": "GK",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1710508.png"
     },
     {
       "fotmobId": 963981,
       "number": 17,
-      "name": "Mohammed Al-Thani",
+      "name": "Mohammed Al Thani",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/963981.png"
@@ -3503,18 +3503,18 @@
     {
       "fotmobId": 1435697,
       "number": 38,
-      "name": "Mohammed Harbush",
+      "name": "Mohammed Essa Hurbush",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1435697.png"
     },
     {
-      "fotmobId": 1426872,
-      "number": 94,
-      "name": "Mobarak Al-Rajeh",
+      "fotmobId": 1287476,
+      "number": null,
+      "name": "Abdullah Al Hawsawi",
       "position": "RB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1426872.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1287476.png"
     },
     {
       "fotmobId": 1531114,
@@ -3557,17 +3557,17 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1579478.png"
     },
     {
-      "fotmobId": 1305614,
-      "number": 16,
-      "name": "Hussain Al-Sabiyani",
-      "position": "LB",
+      "fotmobId": 670885,
+      "number": null,
+      "name": "Ali Al Bulayhi",
+      "position": "CB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1305614.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/670885.png"
     },
     {
       "fotmobId": 1368083,
       "number": 21,
-      "name": "Dhari Sayyar Al-Anazi",
+      "name": "Dhari Al Anazi",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1368083.png"
@@ -3575,7 +3575,7 @@
     {
       "fotmobId": 1807239,
       "number": 34,
-      "name": "Sultan Al Anzi",
+      "name": "Sultan",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1807239.png"
@@ -3623,7 +3623,7 @@
     {
       "fotmobId": 1633691,
       "number": 22,
-      "name": "Hammam Al-Hammami",
+      "name": "Hammam Al Hammami",
       "position": "RM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1633691.png"
@@ -3631,34 +3631,34 @@
     {
       "fotmobId": 2137174,
       "number": 56,
-      "name": "Yazeed Al-Dosari",
+      "name": "Yazeed Al Dosari",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2137174.png"
     },
     {
-      "fotmobId": 2137175,
-      "number": 66,
-      "name": "Muqrin Abanumay",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/2137175.png"
-    },
-    {
-      "fotmobId": 1725397,
-      "number": 74,
-      "name": "Abdulaziz Hadhood",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1725397.png"
-    },
-    {
       "fotmobId": 1910896,
-      "number": null,
+      "number": 93,
       "name": "Nawaf Al Osaimi",
       "position": "MIDFIELDER",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1910896.png"
+    },
+    {
+      "fotmobId": 1887389,
+      "number": null,
+      "name": "Nasser Ali Al Bishi",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1887389.png"
+    },
+    {
+      "fotmobId": 1719359,
+      "number": null,
+      "name": "Talal Al Shubili",
+      "position": "MIDFIELDER",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1719359.png"
     },
     {
       "fotmobId": 1668959,
@@ -3671,18 +3671,26 @@
     {
       "fotmobId": 824687,
       "number": 24,
-      "name": "Abdulrahman Al-Oboud",
+      "name": "Abdulrahman Al Obud",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/824687.png"
     },
     {
       "fotmobId": 1286969,
-      "number": 37,
+      "number": 55,
       "name": "Abdullah Matuq",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1286969.png"
+    },
+    {
+      "fotmobId": 1725397,
+      "number": 74,
+      "name": "Abdulaziz Hadhood",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1725397.png"
     },
     {
       "fotmobId": 1668960,
@@ -3717,12 +3725,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/479026.png"
     },
     {
-      "fotmobId": 1399488,
-      "number": 77,
-      "name": "Hisham Al Dubais",
+      "fotmobId": 1524214,
+      "number": null,
+      "name": "Morad Khodari",
       "position": "ST",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1399488.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1524214.png"
+    },
+    {
+      "fotmobId": 1666534,
+      "number": null,
+      "name": "Ricardo Mathias",
+      "position": "ST",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1666534.png"
     }
   ],
   "Al Taawoun": [
@@ -3807,12 +3823,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1471741.png"
     },
     {
-      "fotmobId": 1549835,
-      "number": 12,
-      "name": "Turki Al Jaadi",
-      "position": "LB",
+      "fotmobId": 1806465,
+      "number": null,
+      "name": "Nasser Al Haleel",
+      "position": "CB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1549835.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1806465.png"
     },
     {
       "fotmobId": 685833,
@@ -4057,6 +4073,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1524218.png"
     },
     {
+      "fotmobId": 1305614,
+      "number": null,
+      "name": "Hussain Al Sibyani",
+      "position": "LB",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1305614.png"
+    },
+    {
       "fotmobId": 179410,
       "number": 5,
       "name": "Idrissa Gueye",
@@ -4113,14 +4137,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/670415.png"
     },
     {
-      "fotmobId": 1802556,
-      "number": 18,
-      "name": "Faisal Al Mutairi",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1802556.png"
-    },
-    {
       "fotmobId": 1920040,
       "number": 20,
       "name": "Abdulelah Al Jaaferi",
@@ -4129,20 +4145,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1920040.png"
     },
     {
-      "fotmobId": 1671495,
-      "number": 82,
-      "name": "Hussain Al Zarie",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1671495.png"
-    },
-    {
       "fotmobId": 1667976,
       "number": 17,
       "name": "Clayton Diandy",
       "position": "RW",
       "nationality": "Senegal",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1667976.png"
+    },
+    {
+      "fotmobId": 2134964,
+      "number": 32,
+      "name": "Abdullah Al Zaid",
+      "position": "RW",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2134964.png"
     },
     {
       "fotmobId": 1363815,
@@ -4235,14 +4251,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/777035.png"
     },
     {
-      "fotmobId": 1676270,
-      "number": 88,
-      "name": "Mohammed Al Hakim",
-      "position": "GK",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1676270.png"
-    },
-    {
       "fotmobId": 618586,
       "number": 2,
       "name": "Mohammed Al Burayk",
@@ -4253,34 +4261,18 @@
     {
       "fotmobId": 934552,
       "number": 4,
-      "name": "Khalifah Al-Dawsari",
+      "name": "Khalifah Al Dawsari",
       "position": "RB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/934552.png"
     },
     {
-      "fotmobId": 1800483,
+      "fotmobId": 1305882,
       "number": 15,
       "name": "Abdulmalik Al Oyayari",
       "position": "RB",
       "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1800483.png"
-    },
-    {
-      "fotmobId": 1600309,
-      "number": null,
-      "name": "Nawaf Al Ghulaimish",
-      "position": "RB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1600309.png"
-    },
-    {
-      "fotmobId": 671179,
-      "number": null,
-      "name": "Osama Al Khalaf",
-      "position": "RB",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/671179.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1305882.png"
     },
     {
       "fotmobId": 782502,
@@ -4309,7 +4301,7 @@
     {
       "fotmobId": 882065,
       "number": 55,
-      "name": "Mohammed Waleed",
+      "name": "Mohammed Al Dossary",
       "position": "CB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/882065.png"
@@ -4317,7 +4309,7 @@
     {
       "fotmobId": 1235339,
       "number": 27,
-      "name": "Hawsawi Ahmed",
+      "name": "Islam Hawsawi",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1235339.png"
@@ -4325,7 +4317,7 @@
     {
       "fotmobId": 1578869,
       "number": 75,
-      "name": "Khalid Al Rammah",
+      "name": "Khaled Al Rammah",
       "position": "LB",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1578869.png"
@@ -4349,7 +4341,7 @@
     {
       "fotmobId": 1220487,
       "number": 6,
-      "name": "Abbas Al-Hassan",
+      "name": "Abbas Al Hassan",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1220487.png"
@@ -4357,7 +4349,7 @@
     {
       "fotmobId": 1122232,
       "number": 8,
-      "name": "Faisel Al-Ghamdi",
+      "name": "Faisal Al Ghamdi",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1122232.png"
@@ -4365,7 +4357,7 @@
     {
       "fotmobId": 697618,
       "number": 18,
-      "name": "Alaa Hajji",
+      "name": "Alaa Al Hejji",
       "position": "CM",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/697618.png"
@@ -4377,6 +4369,14 @@
       "position": "CM",
       "nationality": "Mali",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1572809.png"
+    },
+    {
+      "fotmobId": 562688,
+      "number": null,
+      "name": "Valentín Vada",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/562688.png"
     },
     {
       "fotmobId": 1403363,
@@ -4419,20 +4419,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1189048.png"
     },
     {
-      "fotmobId": 523990,
-      "number": 4,
-      "name": "Mohammed Al-Amri",
-      "position": "MIDFIELDER",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/523990.png"
-    },
-    {
       "fotmobId": 1946304,
-      "number": 22,
+      "number": 60,
       "name": "Ahmed Al Anazi",
       "position": "RW",
       "nationality": "Saudi Arabia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1946304.png"
+    },
+    {
+      "fotmobId": 1668945,
+      "number": 9,
+      "name": "Abdulaziz Al Othman",
+      "position": "ST",
+      "nationality": "Saudi Arabia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1668945.png"
     },
     {
       "fotmobId": 922677,
@@ -4449,14 +4449,6 @@
       "position": "ST",
       "nationality": "France",
       "photo": "https://images.fotmob.com/image_resources/playerimages/169193.png"
-    },
-    {
-      "fotmobId": 1668945,
-      "number": null,
-      "name": "Abdulaziz Al-Othman",
-      "position": "ST",
-      "nationality": "Saudi Arabia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1668945.png"
     }
   ]
 }
