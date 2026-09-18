@@ -306,8 +306,8 @@
     "venue": null,
     "home": "Osijek",
     "away": "Dinamo Zagreb",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5765927,
@@ -316,8 +316,8 @@
     "venue": null,
     "home": "Lokomotiva Zagreb",
     "away": "Rijeka",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5765926,
@@ -326,8 +326,8 @@
     "venue": null,
     "home": "Istra 1961",
     "away": "Rudeš",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5765925,
@@ -336,8 +336,8 @@
     "venue": null,
     "home": "Hajduk Split",
     "away": "Slaven Belupo",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5765924,
@@ -346,8 +346,8 @@
     "venue": null,
     "home": "Gorica",
     "away": "Varaždin",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5765932,
@@ -356,8 +356,8 @@
     "venue": null,
     "home": "Rudeš",
     "away": "Slaven Belupo",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-0",
+    "status": "live"
   },
   {
     "fotmobId": 5765933,

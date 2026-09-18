@@ -456,8 +456,8 @@
     "venue": null,
     "home": "Mechelen",
     "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811756,
@@ -466,8 +466,8 @@
     "venue": null,
     "home": "Beveren",
     "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811757,
@@ -476,8 +476,8 @@
     "venue": null,
     "home": "Westerlo",
     "away": "Standard Liège",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811758,
@@ -486,8 +486,8 @@
     "venue": null,
     "home": "OH Leuven",
     "away": "Cercle Brugge",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811759,
@@ -496,8 +496,8 @@
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Lommel",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811760,
@@ -506,8 +506,8 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Royal Antwerp",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811761,
@@ -516,8 +516,8 @@
     "venue": null,
     "home": "Genk",
     "away": "Gent",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811762,
@@ -526,8 +526,8 @@
     "venue": null,
     "home": "Zulte Waregem",
     "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811763,
@@ -536,8 +536,8 @@
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811764,
@@ -632,7 +632,7 @@
   {
     "fotmobId": 5811773,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-09T18:45:00Z",
     "venue": null,
     "home": "Beveren",
     "away": "Lommel",
@@ -642,7 +642,7 @@
   {
     "fotmobId": 5811774,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-10T14:00:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Anderlecht",
@@ -650,29 +650,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811775,
-    "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
-    "venue": null,
-    "home": "Genk",
-    "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811776,
-    "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
-    "venue": null,
-    "home": "Mechelen",
-    "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811777,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-10T16:15:00Z",
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Club Brugge",
@@ -680,9 +660,29 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811775,
+    "round": 8,
+    "dateUtc": "2026-10-10T18:45:00Z",
+    "venue": null,
+    "home": "Genk",
+    "away": "Kortrijk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811780,
+    "round": 8,
+    "dateUtc": "2026-10-10T18:45:00Z",
+    "venue": null,
+    "home": "Zulte Waregem",
+    "away": "Gent",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811779,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T11:30:00Z",
     "venue": null,
     "home": "Standard Liège",
     "away": "Charleroi",
@@ -692,7 +692,7 @@
   {
     "fotmobId": 5811778,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T14:00:00Z",
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "OH Leuven",
@@ -702,7 +702,7 @@
   {
     "fotmobId": 5811781,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T16:30:00Z",
     "venue": null,
     "home": "Westerlo",
     "away": "Royal Antwerp",
@@ -710,49 +710,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811780,
+    "fotmobId": 5811776,
     "round": 8,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T17:15:00Z",
     "venue": null,
-    "home": "Zulte Waregem",
-    "away": "Gent",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811783,
-    "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": "Jan Breydel Stadium",
-    "home": "Club Brugge",
+    "home": "Mechelen",
     "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811784,
-    "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Genk",
-    "away": "Standard Liège",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811785,
-    "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Gent",
-    "away": "Anderlecht",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5811786,
     "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-23T18:45:00Z",
     "venue": null,
     "home": "Kortrijk",
     "away": "Mechelen",
@@ -760,9 +730,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811782,
+    "round": 9,
+    "dateUtc": "2026-10-24T14:00:00Z",
+    "venue": null,
+    "home": "Royal Antwerp",
+    "away": "Charleroi",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811787,
     "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T16:15:00Z",
     "venue": null,
     "home": "OH Leuven",
     "away": "Lommel",
@@ -772,7 +752,7 @@
   {
     "fotmobId": 5811788,
     "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T18:45:00Z",
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Zulte Waregem",
@@ -780,29 +760,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811782,
-    "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Royal Antwerp",
-    "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811789,
-    "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Union Saint-Gilloise",
-    "away": "Cercle Brugge",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811790,
     "round": 9,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T18:45:00Z",
     "venue": null,
     "home": "Westerlo",
     "away": "Beveren",
@@ -810,9 +770,79 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811784,
+    "round": 9,
+    "dateUtc": "2026-10-25T12:30:00Z",
+    "venue": null,
+    "home": "Genk",
+    "away": "Standard Liège",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811783,
+    "round": 9,
+    "dateUtc": "2026-10-25T15:00:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Sint-Truidense",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811785,
+    "round": 9,
+    "dateUtc": "2026-10-25T17:30:00Z",
+    "venue": null,
+    "home": "Gent",
+    "away": "Anderlecht",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811789,
+    "round": 9,
+    "dateUtc": "2026-10-25T18:15:00Z",
+    "venue": null,
+    "home": "Union Saint-Gilloise",
+    "away": "Cercle Brugge",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811799,
+    "round": 10,
+    "dateUtc": "2026-10-30T19:45:00Z",
+    "venue": null,
+    "home": "Zulte Waregem",
+    "away": "Club Brugge",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811795,
+    "round": 10,
+    "dateUtc": "2026-10-31T15:00:00Z",
+    "venue": null,
+    "home": "Mechelen",
+    "away": "Genk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811797,
+    "round": 10,
+    "dateUtc": "2026-10-31T17:15:00Z",
+    "venue": null,
+    "home": "Standard Liège",
+    "away": "Kortrijk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811791,
     "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-10-31T19:45:00Z",
     "venue": null,
     "home": "Anderlecht",
     "away": "Westerlo",
@@ -822,7 +852,7 @@
   {
     "fotmobId": 5811792,
     "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-10-31T19:45:00Z",
     "venue": null,
     "home": "Beveren",
     "away": "Union Saint-Gilloise",
@@ -832,7 +862,7 @@
   {
     "fotmobId": 5811793,
     "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T12:30:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Royal Antwerp",
@@ -840,39 +870,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811794,
-    "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Charleroi",
-    "away": "RAAL La Louvière",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811796,
-    "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Lommel",
-    "away": "Gent",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811795,
-    "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Mechelen",
-    "away": "Genk",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811798,
     "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T15:00:00Z",
     "venue": null,
     "home": "Sint-Truidense",
     "away": "OH Leuven",
@@ -880,49 +880,49 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811797,
+    "fotmobId": 5811796,
     "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T17:30:00Z",
+    "venue": null,
+    "home": "Lommel",
+    "away": "Gent",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811794,
+    "round": 10,
+    "dateUtc": "2026-11-01T18:15:00Z",
+    "venue": null,
+    "home": "Charleroi",
+    "away": "RAAL La Louvière",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811806,
+    "round": 11,
+    "dateUtc": "2026-11-06T19:45:00Z",
     "venue": null,
     "home": "Standard Liège",
-    "away": "Kortrijk",
+    "away": "Beveren",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811799,
-    "round": 10,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Zulte Waregem",
-    "away": "Club Brugge",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811801,
+    "fotmobId": 5811808,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": "Jan Breydel Stadium",
-    "home": "Club Brugge",
-    "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811802,
-    "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T15:00:00Z",
     "venue": null,
-    "home": "Gent",
-    "away": "Kortrijk",
+    "home": "Westerlo",
+    "away": "Charleroi",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5811803,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T17:15:00Z",
     "venue": null,
     "home": "OH Leuven",
     "away": "Mechelen",
@@ -932,7 +932,7 @@
   {
     "fotmobId": 5811804,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T19:45:00Z",
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Cercle Brugge",
@@ -942,7 +942,7 @@
   {
     "fotmobId": 5811800,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T19:45:00Z",
     "venue": null,
     "home": "Royal Antwerp",
     "away": "Lommel",
@@ -950,29 +950,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811807,
+    "fotmobId": 5811801,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": null,
-    "home": "Sint-Truidense",
-    "away": "Zulte Waregem",
+    "dateUtc": "2026-11-08T12:30:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Anderlecht",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811806,
+    "fotmobId": 5811802,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-08T15:00:00Z",
     "venue": null,
-    "home": "Standard Liège",
-    "away": "Beveren",
+    "home": "Gent",
+    "away": "Kortrijk",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5811805,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-08T17:30:00Z",
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Genk",
@@ -980,39 +980,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811808,
+    "fotmobId": 5811807,
     "round": 11,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-08T18:15:00Z",
     "venue": null,
-    "home": "Westerlo",
-    "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811809,
-    "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
-    "venue": null,
-    "home": "Anderlecht",
-    "away": "OH Leuven",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811810,
-    "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
-    "venue": null,
-    "home": "Beveren",
-    "away": "Gent",
+    "home": "Sint-Truidense",
+    "away": "Zulte Waregem",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5811811,
     "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-20T19:45:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Westerlo",
@@ -1022,7 +1002,7 @@
   {
     "fotmobId": 5811812,
     "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-21T15:00:00Z",
     "venue": null,
     "home": "Charleroi",
     "away": "Sint-Truidense",
@@ -1032,7 +1012,7 @@
   {
     "fotmobId": 5811813,
     "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-21T17:15:00Z",
     "venue": null,
     "home": "Genk",
     "away": "RAAL La Louvière",
@@ -1040,29 +1020,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811814,
-    "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
-    "venue": null,
-    "home": "Kortrijk",
-    "away": "Union Saint-Gilloise",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811816,
-    "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
-    "venue": null,
-    "home": "Lommel",
-    "away": "Standard Liège",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811815,
     "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-21T19:45:00Z",
     "venue": null,
     "home": "Mechelen",
     "away": "Club Brugge",
@@ -1072,7 +1032,7 @@
   {
     "fotmobId": 5811817,
     "round": 12,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-21T19:45:00Z",
     "venue": null,
     "home": "Zulte Waregem",
     "away": "Royal Antwerp",
@@ -1080,9 +1040,69 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811810,
+    "round": 12,
+    "dateUtc": "2026-11-22T12:30:00Z",
+    "venue": null,
+    "home": "Beveren",
+    "away": "Gent",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811814,
+    "round": 12,
+    "dateUtc": "2026-11-22T15:00:00Z",
+    "venue": null,
+    "home": "Kortrijk",
+    "away": "Union Saint-Gilloise",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811809,
+    "round": 12,
+    "dateUtc": "2026-11-22T17:30:00Z",
+    "venue": null,
+    "home": "Anderlecht",
+    "away": "OH Leuven",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811816,
+    "round": 12,
+    "dateUtc": "2026-11-22T18:15:00Z",
+    "venue": null,
+    "home": "Lommel",
+    "away": "Standard Liège",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811821,
+    "round": 13,
+    "dateUtc": "2026-11-27T19:45:00Z",
+    "venue": null,
+    "home": "OH Leuven",
+    "away": "Kortrijk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811826,
+    "round": 13,
+    "dateUtc": "2026-11-28T15:00:00Z",
+    "venue": null,
+    "home": "Westerlo",
+    "away": "RAAL La Louvière",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811819,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-28T17:15:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Mechelen",
@@ -1092,7 +1112,7 @@
   {
     "fotmobId": 5811820,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-28T19:45:00Z",
     "venue": null,
     "home": "Charleroi",
     "away": "Beveren",
@@ -1102,7 +1122,7 @@
   {
     "fotmobId": 5811822,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-28T19:45:00Z",
     "venue": null,
     "home": "Lommel",
     "away": "Zulte Waregem",
@@ -1110,29 +1130,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811821,
-    "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "OH Leuven",
-    "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811818,
-    "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "Royal Antwerp",
-    "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811825,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-29T12:30:00Z",
     "venue": null,
     "home": "Sint-Truidense",
     "away": "Genk",
@@ -1140,9 +1140,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811818,
+    "round": 13,
+    "dateUtc": "2026-11-29T15:00:00Z",
+    "venue": null,
+    "home": "Royal Antwerp",
+    "away": "Anderlecht",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811824,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-29T17:30:00Z",
     "venue": null,
     "home": "Standard Liège",
     "away": "Club Brugge",
@@ -1152,7 +1162,7 @@
   {
     "fotmobId": 5811823,
     "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-29T18:15:00Z",
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Gent",
@@ -1160,49 +1170,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811826,
-    "round": 13,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "Westerlo",
-    "away": "RAAL La Louvière",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811827,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Anderlecht",
-    "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811828,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Beveren",
-    "away": "Cercle Brugge",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811829,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "Jan Breydel Stadium",
-    "home": "Club Brugge",
-    "away": "Westerlo",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811830,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-11T19:45:00Z",
     "venue": null,
     "home": "Genk",
     "away": "OH Leuven",
@@ -1210,19 +1180,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811831,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Gent",
-    "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811832,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T15:00:00Z",
     "venue": null,
     "home": "Kortrijk",
     "away": "Lommel",
@@ -1230,19 +1190,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811833,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Mechelen",
-    "away": "Union Saint-Gilloise",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811834,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T17:15:00Z",
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Royal Antwerp",
@@ -1250,9 +1200,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811828,
+    "round": 14,
+    "dateUtc": "2026-12-12T19:45:00Z",
+    "venue": null,
+    "home": "Beveren",
+    "away": "Cercle Brugge",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811835,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T19:45:00Z",
     "venue": null,
     "home": "Zulte Waregem",
     "away": "Standard Liège",
@@ -1260,9 +1220,59 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811827,
+    "round": 14,
+    "dateUtc": "2026-12-13T12:30:00Z",
+    "venue": null,
+    "home": "Anderlecht",
+    "away": "Charleroi",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811829,
+    "round": 14,
+    "dateUtc": "2026-12-13T15:00:00Z",
+    "venue": "Jan Breydel Stadium",
+    "home": "Club Brugge",
+    "away": "Westerlo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811833,
+    "round": 14,
+    "dateUtc": "2026-12-13T17:30:00Z",
+    "venue": null,
+    "home": "Mechelen",
+    "away": "Union Saint-Gilloise",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811831,
+    "round": 14,
+    "dateUtc": "2026-12-13T18:15:00Z",
+    "venue": null,
+    "home": "Gent",
+    "away": "Sint-Truidense",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811836,
+    "round": 15,
+    "dateUtc": "2026-12-18T19:45:00Z",
+    "venue": null,
+    "home": "Royal Antwerp",
+    "away": "OH Leuven",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811837,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T15:00:00Z",
     "venue": null,
     "home": "Beveren",
     "away": "Mechelen",
@@ -1272,7 +1282,7 @@
   {
     "fotmobId": 5811838,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T17:15:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Zulte Waregem",
@@ -1282,7 +1292,7 @@
   {
     "fotmobId": 5811839,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T19:45:00Z",
     "venue": null,
     "home": "Charleroi",
     "away": "Genk",
@@ -1292,7 +1302,7 @@
   {
     "fotmobId": 5811840,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T19:45:00Z",
     "venue": null,
     "home": "Lommel",
     "away": "RAAL La Louvière",
@@ -1300,29 +1310,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811836,
-    "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
-    "venue": null,
-    "home": "Royal Antwerp",
-    "away": "OH Leuven",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811843,
-    "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
-    "venue": null,
-    "home": "Sint-Truidense",
-    "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811842,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-20T12:30:00Z",
     "venue": null,
     "home": "Standard Liège",
     "away": "Anderlecht",
@@ -1330,9 +1320,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811843,
+    "round": 15,
+    "dateUtc": "2026-12-20T15:00:00Z",
+    "venue": null,
+    "home": "Sint-Truidense",
+    "away": "Kortrijk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811841,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-20T17:30:00Z",
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Club Brugge",
@@ -1342,7 +1342,7 @@
   {
     "fotmobId": 5811844,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-20T18:15:00Z",
     "venue": null,
     "home": "Westerlo",
     "away": "Gent",
@@ -1350,19 +1350,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811845,
-    "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
-    "venue": null,
-    "home": "Anderlecht",
-    "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811846,
     "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
+    "dateUtc": "2026-12-26T12:30:00Z",
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Charleroi",
@@ -1370,29 +1360,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811847,
-    "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
-    "venue": null,
-    "home": "Genk",
-    "away": "Lommel",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811848,
-    "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
-    "venue": null,
-    "home": "Gent",
-    "away": "Royal Antwerp",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811849,
     "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
+    "dateUtc": "2026-12-26T15:00:00Z",
     "venue": null,
     "home": "Kortrijk",
     "away": "Cercle Brugge",
@@ -1400,19 +1370,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811850,
-    "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
-    "venue": null,
-    "home": "Mechelen",
-    "away": "Zulte Waregem",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811851,
     "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
+    "dateUtc": "2026-12-26T17:15:00Z",
     "venue": null,
     "home": "OH Leuven",
     "away": "Westerlo",
@@ -1422,7 +1382,7 @@
   {
     "fotmobId": 5811852,
     "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
+    "dateUtc": "2026-12-26T19:45:00Z",
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Beveren",
@@ -1432,7 +1392,7 @@
   {
     "fotmobId": 5811853,
     "round": 16,
-    "dateUtc": "2026-12-26T16:00:00Z",
+    "dateUtc": "2026-12-26T19:45:00Z",
     "venue": null,
     "home": "Standard Liège",
     "away": "Union Saint-Gilloise",
@@ -1440,9 +1400,49 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811845,
+    "round": 16,
+    "dateUtc": "2026-12-27T12:30:00Z",
+    "venue": null,
+    "home": "Anderlecht",
+    "away": "Sint-Truidense",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811847,
+    "round": 16,
+    "dateUtc": "2026-12-27T15:00:00Z",
+    "venue": null,
+    "home": "Genk",
+    "away": "Lommel",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811848,
+    "round": 16,
+    "dateUtc": "2026-12-27T17:30:00Z",
+    "venue": null,
+    "home": "Gent",
+    "away": "Royal Antwerp",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811850,
+    "round": 16,
+    "dateUtc": "2026-12-27T18:15:00Z",
+    "venue": null,
+    "home": "Mechelen",
+    "away": "Zulte Waregem",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811855,
     "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-15T19:45:00Z",
     "venue": null,
     "home": "Beveren",
     "away": "Club Brugge",
@@ -1450,9 +1450,59 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5811858,
+    "round": 17,
+    "dateUtc": "2027-01-16T15:00:00Z",
+    "venue": null,
+    "home": "Lommel",
+    "away": "Anderlecht",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811859,
+    "round": 17,
+    "dateUtc": "2027-01-16T17:15:00Z",
+    "venue": null,
+    "home": "Union Saint-Gilloise",
+    "away": "RAAL La Louvière",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811854,
+    "round": 17,
+    "dateUtc": "2027-01-16T19:45:00Z",
+    "venue": null,
+    "home": "Royal Antwerp",
+    "away": "Mechelen",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811862,
+    "round": 17,
+    "dateUtc": "2027-01-16T19:45:00Z",
+    "venue": null,
+    "home": "Westerlo",
+    "away": "Kortrijk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5811860,
+    "round": 17,
+    "dateUtc": "2027-01-17T12:30:00Z",
+    "venue": null,
+    "home": "Sint-Truidense",
+    "away": "Standard Liège",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5811856,
     "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-17T15:00:00Z",
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Genk",
@@ -1462,7 +1512,7 @@
   {
     "fotmobId": 5811857,
     "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-17T17:30:00Z",
     "venue": null,
     "home": "Charleroi",
     "away": "Gent",
@@ -1470,59 +1520,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5811858,
-    "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": null,
-    "home": "Lommel",
-    "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811854,
-    "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": null,
-    "home": "Royal Antwerp",
-    "away": "Mechelen",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811860,
-    "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": null,
-    "home": "Sint-Truidense",
-    "away": "Standard Liège",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811859,
-    "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": null,
-    "home": "Union Saint-Gilloise",
-    "away": "RAAL La Louvière",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5811862,
-    "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": null,
-    "home": "Westerlo",
-    "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811861,
     "round": 17,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-17T18:15:00Z",
     "venue": null,
     "home": "Zulte Waregem",
     "away": "OH Leuven",

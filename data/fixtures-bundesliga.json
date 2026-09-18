@@ -185,9 +185,9 @@
     "venue": "An der Alten Försterei",
     "home": "1. FC Union Berlin",
     "away": "FC Schalke 04",
-    "result": null,
+    "result": "1-3",
     "fotmobId": 5881169,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -195,9 +195,9 @@
     "venue": "MEWA ARENA",
     "home": "1. FSV Mainz 05",
     "away": "Eintracht Frankfurt",
-    "result": null,
+    "result": "1-3",
     "fotmobId": 5881167,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -205,9 +205,9 @@
     "venue": "SIGNAL IDUNA PARK",
     "home": "Borussia Dortmund",
     "away": "SC Paderborn 07",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5881162,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -215,9 +215,9 @@
     "venue": "WWK ARENA",
     "home": "FC Augsburg",
     "away": "Bayer 04 Leverkusen",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5881161,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -225,9 +225,9 @@
     "venue": "Europa-Park Stadion",
     "home": "Sport-Club Freiburg",
     "away": "Borussia Mönchengladbach",
-    "result": null,
+    "result": "5-0",
     "fotmobId": 5881165,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -235,9 +235,9 @@
     "venue": "SNP Arena",
     "home": "TSG Hoffenheim",
     "away": "VfB Stuttgart",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5881166,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -245,9 +245,9 @@
     "venue": "RheinEnergieSTADION",
     "home": "1. FC Köln",
     "away": "SV Werder Bremen",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5881164,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -255,9 +255,9 @@
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "Hamburger SV",
-    "result": null,
+    "result": "5-0",
     "fotmobId": 5881168,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -265,9 +265,9 @@
     "venue": "URSAPHARM-Arena",
     "home": "SV Elversberg",
     "away": "FC Bayern München",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5881163,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -361,12 +361,12 @@
   },
   {
     "round": 5,
-    "dateUtc": "2026-10-10T13:30:00Z",
-    "venue": "RheinEnergieSTADION",
-    "home": "1. FC Köln",
-    "away": "Borussia Mönchengladbach",
+    "dateUtc": "2026-10-09T18:30:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "SV Werder Bremen",
     "result": null,
-    "fotmobId": 5881181,
+    "fotmobId": 5881180,
     "status": "scheduled"
   },
   {
@@ -392,31 +392,11 @@
   {
     "round": 5,
     "dateUtc": "2026-10-10T13:30:00Z",
-    "venue": "SIGNAL IDUNA PARK",
-    "home": "Borussia Dortmund",
-    "away": "SV Werder Bremen",
-    "result": null,
-    "fotmobId": 5881180,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-10-10T13:30:00Z",
     "venue": "WWK ARENA",
     "home": "FC Augsburg",
     "away": "FC Bayern München",
     "result": null,
     "fotmobId": 5881179,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-10-10T13:30:00Z",
-    "venue": "Red Bull Arena",
-    "home": "RB Leipzig",
-    "away": "Eintracht Frankfurt",
-    "result": null,
-    "fotmobId": 5881186,
     "status": "scheduled"
   },
   {
@@ -432,16 +412,6 @@
   {
     "round": 5,
     "dateUtc": "2026-10-10T13:30:00Z",
-    "venue": "Europa-Park Stadion",
-    "home": "Sport-Club Freiburg",
-    "away": "FC Schalke 04",
-    "result": null,
-    "fotmobId": 5881182,
-    "status": "scheduled"
-  },
-  {
-    "round": 5,
-    "dateUtc": "2026-10-10T13:30:00Z",
     "venue": "SNP Arena",
     "home": "TSG Hoffenheim",
     "away": "Hamburger SV",
@@ -450,38 +420,38 @@
     "status": "scheduled"
   },
   {
-    "round": 6,
-    "dateUtc": "2026-10-17T13:30:00Z",
-    "venue": "An der Alten Försterei",
-    "home": "1. FC Union Berlin",
-    "away": "Borussia Dortmund",
+    "round": 5,
+    "dateUtc": "2026-10-10T16:30:00Z",
+    "venue": "Red Bull Arena",
+    "home": "RB Leipzig",
+    "away": "Eintracht Frankfurt",
     "result": null,
-    "fotmobId": 5881195,
+    "fotmobId": 5881186,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-10-11T13:30:00Z",
+    "venue": "RheinEnergieSTADION",
+    "home": "1. FC Köln",
+    "away": "Borussia Mönchengladbach",
+    "result": null,
+    "fotmobId": 5881181,
+    "status": "scheduled"
+  },
+  {
+    "round": 5,
+    "dateUtc": "2026-10-11T15:30:00Z",
+    "venue": "Europa-Park Stadion",
+    "home": "Sport-Club Freiburg",
+    "away": "FC Schalke 04",
+    "result": null,
+    "fotmobId": 5881182,
     "status": "scheduled"
   },
   {
     "round": 6,
-    "dateUtc": "2026-10-17T13:30:00Z",
-    "venue": "BayArena",
-    "home": "Bayer 04 Leverkusen",
-    "away": "Sport-Club Freiburg",
-    "result": null,
-    "fotmobId": 5881188,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-17T13:30:00Z",
-    "venue": "ista-Borussia-Park",
-    "home": "Borussia Mönchengladbach",
-    "away": "TSG Hoffenheim",
-    "result": null,
-    "fotmobId": 5881190,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-10-17T13:30:00Z",
+    "dateUtc": "2026-10-16T18:30:00Z",
     "venue": "Deutsche Bank Park",
     "home": "Eintracht Frankfurt",
     "away": "1. FC Köln",
@@ -492,11 +462,11 @@
   {
     "round": 6,
     "dateUtc": "2026-10-17T13:30:00Z",
-    "venue": "Allianz Arena",
-    "home": "FC Bayern München",
-    "away": "RB Leipzig",
+    "venue": "An der Alten Försterei",
+    "home": "1. FC Union Berlin",
+    "away": "Borussia Dortmund",
     "result": null,
-    "fotmobId": 5881189,
+    "fotmobId": 5881195,
     "status": "scheduled"
   },
   {
@@ -540,6 +510,46 @@
     "status": "scheduled"
   },
   {
+    "round": 6,
+    "dateUtc": "2026-10-17T16:30:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "RB Leipzig",
+    "result": null,
+    "fotmobId": 5881189,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-18T13:30:00Z",
+    "venue": "BayArena",
+    "home": "Bayer 04 Leverkusen",
+    "away": "Sport-Club Freiburg",
+    "result": null,
+    "fotmobId": 5881188,
+    "status": "scheduled"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-18T15:30:00Z",
+    "venue": "ista-Borussia-Park",
+    "home": "Borussia Mönchengladbach",
+    "away": "TSG Hoffenheim",
+    "result": null,
+    "fotmobId": 5881190,
+    "status": "scheduled"
+  },
+  {
+    "round": 7,
+    "dateUtc": "2026-10-23T18:30:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "Borussia Mönchengladbach",
+    "result": null,
+    "fotmobId": 5881205,
+    "status": "scheduled"
+  },
+  {
     "round": 7,
     "dateUtc": "2026-10-24T13:30:00Z",
     "venue": "RheinEnergieSTADION",
@@ -557,16 +567,6 @@
     "away": "SV Werder Bremen",
     "result": null,
     "fotmobId": 5881202,
-    "status": "scheduled"
-  },
-  {
-    "round": 7,
-    "dateUtc": "2026-10-24T13:30:00Z",
-    "venue": "SIGNAL IDUNA PARK",
-    "home": "Borussia Dortmund",
-    "away": "Eintracht Frankfurt",
-    "result": null,
-    "fotmobId": 5881198,
     "status": "scheduled"
   },
   {
@@ -601,17 +601,17 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-24T13:30:00Z",
-    "venue": "Europa-Park Stadion",
-    "home": "Sport-Club Freiburg",
-    "away": "FC Bayern München",
+    "dateUtc": "2026-10-24T16:30:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "Eintracht Frankfurt",
     "result": null,
-    "fotmobId": 5881200,
+    "fotmobId": 5881198,
     "status": "scheduled"
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-24T13:30:00Z",
+    "dateUtc": "2026-10-25T14:30:00Z",
     "venue": "SNP Arena",
     "home": "TSG Hoffenheim",
     "away": "Bayer 04 Leverkusen",
@@ -621,22 +621,22 @@
   },
   {
     "round": 7,
-    "dateUtc": "2026-10-24T13:30:00Z",
-    "venue": "MHPArena",
-    "home": "VfB Stuttgart",
-    "away": "Borussia Mönchengladbach",
+    "dateUtc": "2026-10-25T16:30:00Z",
+    "venue": "Europa-Park Stadion",
+    "home": "Sport-Club Freiburg",
+    "away": "FC Bayern München",
     "result": null,
-    "fotmobId": 5881205,
+    "fotmobId": 5881200,
     "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-31T14:30:00Z",
-    "venue": "An der Alten Försterei",
-    "home": "1. FC Union Berlin",
-    "away": "1. FC Köln",
+    "dateUtc": "2026-10-30T19:30:00Z",
+    "venue": "URSAPHARM-Arena",
+    "home": "SV Elversberg",
+    "away": "1. FSV Mainz 05",
     "result": null,
-    "fotmobId": 5881213,
+    "fotmobId": 5881211,
     "status": "scheduled"
   },
   {
@@ -662,31 +662,11 @@
   {
     "round": 8,
     "dateUtc": "2026-10-31T14:30:00Z",
-    "venue": "Deutsche Bank Park",
-    "home": "Eintracht Frankfurt",
-    "away": "Hamburger SV",
-    "result": null,
-    "fotmobId": 5881210,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-31T14:30:00Z",
     "venue": "WWK ARENA",
     "home": "FC Augsburg",
     "away": "Sport-Club Freiburg",
     "result": null,
     "fotmobId": 5881206,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-31T14:30:00Z",
-    "venue": "Allianz Arena",
-    "home": "FC Bayern München",
-    "away": "Borussia Dortmund",
-    "result": null,
-    "fotmobId": 5881208,
     "status": "scheduled"
   },
   {
@@ -702,16 +682,6 @@
   {
     "round": 8,
     "dateUtc": "2026-10-31T14:30:00Z",
-    "venue": "URSAPHARM-Arena",
-    "home": "SV Elversberg",
-    "away": "1. FSV Mainz 05",
-    "result": null,
-    "fotmobId": 5881211,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-31T14:30:00Z",
     "venue": "Weserstadion",
     "home": "SV Werder Bremen",
     "away": "TSG Hoffenheim",
@@ -720,13 +690,43 @@
     "status": "scheduled"
   },
   {
-    "round": 9,
-    "dateUtc": "2026-11-07T14:30:00Z",
-    "venue": "RheinEnergieSTADION",
-    "home": "1. FC Köln",
-    "away": "Bayer 04 Leverkusen",
+    "round": 8,
+    "dateUtc": "2026-10-31T17:30:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "Borussia Dortmund",
     "result": null,
-    "fotmobId": 5881216,
+    "fotmobId": 5881208,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-11-01T14:30:00Z",
+    "venue": "An der Alten Försterei",
+    "home": "1. FC Union Berlin",
+    "away": "1. FC Köln",
+    "result": null,
+    "fotmobId": 5881213,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-11-01T16:30:00Z",
+    "venue": "Deutsche Bank Park",
+    "home": "Eintracht Frankfurt",
+    "away": "Hamburger SV",
+    "result": null,
+    "fotmobId": 5881210,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-11-06T19:30:00Z",
+    "venue": "Volksparkstadion",
+    "home": "Hamburger SV",
+    "away": "Borussia Mönchengladbach",
+    "result": null,
+    "fotmobId": 5881218,
     "status": "scheduled"
   },
   {
@@ -752,16 +752,6 @@
   {
     "round": 9,
     "dateUtc": "2026-11-07T14:30:00Z",
-    "venue": "Volksparkstadion",
-    "home": "Hamburger SV",
-    "away": "Borussia Mönchengladbach",
-    "result": null,
-    "fotmobId": 5881218,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-11-07T14:30:00Z",
     "venue": "Red Bull Arena",
     "home": "RB Leipzig",
     "away": "FC Augsburg",
@@ -781,7 +771,27 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-11-07T14:30:00Z",
+    "dateUtc": "2026-11-07T17:30:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "SV Werder Bremen",
+    "result": null,
+    "fotmobId": 5881223,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-11-08T14:30:00Z",
+    "venue": "RheinEnergieSTADION",
+    "home": "1. FC Köln",
+    "away": "Bayer 04 Leverkusen",
+    "result": null,
+    "fotmobId": 5881216,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-11-08T16:30:00Z",
     "venue": "Europa-Park Stadion",
     "home": "Sport-Club Freiburg",
     "away": "1. FC Union Berlin",
@@ -791,7 +801,7 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-11-07T14:30:00Z",
+    "dateUtc": "2026-11-08T18:30:00Z",
     "venue": "SNP Arena",
     "home": "TSG Hoffenheim",
     "away": "FC Schalke 04",
@@ -800,13 +810,13 @@
     "status": "scheduled"
   },
   {
-    "round": 9,
-    "dateUtc": "2026-11-07T14:30:00Z",
-    "venue": "MHPArena",
-    "home": "VfB Stuttgart",
-    "away": "SV Werder Bremen",
+    "round": 10,
+    "dateUtc": "2026-11-20T19:30:00Z",
+    "venue": "Allianz Arena",
+    "home": "FC Bayern München",
+    "away": "1. FC Köln",
     "result": null,
-    "fotmobId": 5881223,
+    "fotmobId": 5881226,
     "status": "scheduled"
   },
   {
@@ -852,36 +862,6 @@
   {
     "round": 10,
     "dateUtc": "2026-11-21T14:30:00Z",
-    "venue": "WWK ARENA",
-    "home": "FC Augsburg",
-    "away": "1. FSV Mainz 05",
-    "result": null,
-    "fotmobId": 5881224,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-21T14:30:00Z",
-    "venue": "Allianz Arena",
-    "home": "FC Bayern München",
-    "away": "1. FC Köln",
-    "result": null,
-    "fotmobId": 5881226,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-21T14:30:00Z",
-    "venue": "VELTINS-Arena",
-    "home": "FC Schalke 04",
-    "away": "VfB Stuttgart",
-    "result": null,
-    "fotmobId": 5881230,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-11-21T14:30:00Z",
     "venue": "URSAPHARM-Arena",
     "home": "SV Elversberg",
     "away": "Sport-Club Freiburg",
@@ -891,12 +871,42 @@
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-21T14:30:00Z",
+    "dateUtc": "2026-11-21T17:30:00Z",
+    "venue": "VELTINS-Arena",
+    "home": "FC Schalke 04",
+    "away": "VfB Stuttgart",
+    "result": null,
+    "fotmobId": 5881230,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-22T14:30:00Z",
+    "venue": "WWK ARENA",
+    "home": "FC Augsburg",
+    "away": "1. FSV Mainz 05",
+    "result": null,
+    "fotmobId": 5881224,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-11-22T16:30:00Z",
     "venue": "Weserstadion",
     "home": "SV Werder Bremen",
     "away": "Hamburger SV",
     "result": null,
     "fotmobId": 5881232,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-27T19:30:00Z",
+    "venue": "Weserstadion",
+    "home": "SV Werder Bremen",
+    "away": "Borussia Mönchengladbach",
+    "result": null,
+    "fotmobId": 5881241,
     "status": "scheduled"
   },
   {
@@ -922,16 +932,6 @@
   {
     "round": 11,
     "dateUtc": "2026-11-28T14:30:00Z",
-    "venue": "SIGNAL IDUNA PARK",
-    "home": "Borussia Dortmund",
-    "away": "Bayer 04 Leverkusen",
-    "result": null,
-    "fotmobId": 5881233,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-28T14:30:00Z",
     "venue": "Volksparkstadion",
     "home": "Hamburger SV",
     "away": "FC Bayern München",
@@ -951,7 +951,17 @@
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-28T14:30:00Z",
+    "dateUtc": "2026-11-28T17:30:00Z",
+    "venue": "MHPArena",
+    "home": "VfB Stuttgart",
+    "away": "Eintracht Frankfurt",
+    "result": null,
+    "fotmobId": 5881240,
+    "status": "scheduled"
+  },
+  {
+    "round": 11,
+    "dateUtc": "2026-11-29T14:30:00Z",
     "venue": "Europa-Park Stadion",
     "home": "Sport-Club Freiburg",
     "away": "RB Leipzig",
@@ -961,17 +971,7 @@
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-28T14:30:00Z",
-    "venue": "Weserstadion",
-    "home": "SV Werder Bremen",
-    "away": "Borussia Mönchengladbach",
-    "result": null,
-    "fotmobId": 5881241,
-    "status": "scheduled"
-  },
-  {
-    "round": 11,
-    "dateUtc": "2026-11-28T14:30:00Z",
+    "dateUtc": "2026-11-29T16:30:00Z",
     "venue": "SNP Arena",
     "home": "TSG Hoffenheim",
     "away": "FC Augsburg",
@@ -981,12 +981,12 @@
   },
   {
     "round": 11,
-    "dateUtc": "2026-11-28T14:30:00Z",
-    "venue": "MHPArena",
-    "home": "VfB Stuttgart",
-    "away": "Eintracht Frankfurt",
+    "dateUtc": "2026-11-29T18:30:00Z",
+    "venue": "SIGNAL IDUNA PARK",
+    "home": "Borussia Dortmund",
+    "away": "Bayer 04 Leverkusen",
     "result": null,
-    "fotmobId": 5881240,
+    "fotmobId": 5881233,
     "status": "scheduled"
   },
   {

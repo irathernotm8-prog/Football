@@ -3402,16 +3402,6 @@
   {
     "round": 23,
     "dateUtc": "2026-09-06T01:30:00Z",
-    "venue": "TQL Stadium",
-    "home": "FC Cincinnati",
-    "away": "D.C. United",
-    "result": null,
-    "fotmobId": 5071323,
-    "status": "cancelled"
-  },
-  {
-    "round": 23,
-    "dateUtc": "2026-09-06T01:30:00Z",
     "venue": "Dignity Health Sports Park",
     "home": "LA Galaxy",
     "away": "New England Revolution",
@@ -3450,14 +3440,24 @@
     "status": "finished"
   },
   {
+    "round": 23,
+    "dateUtc": "2026-10-21T23:00:00Z",
+    "venue": "TQL Stadium",
+    "home": "FC Cincinnati",
+    "away": "D.C. United",
+    "result": null,
+    "fotmobId": 5071323,
+    "status": "scheduled"
+  },
+  {
     "round": 24,
     "dateUtc": "2026-09-09T23:30:00Z",
     "venue": "Mercedes-Benz Stadium",
     "home": "Atlanta United",
     "away": "Orlando City",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5071336,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3465,9 +3465,9 @@
     "venue": "Stade Saputo",
     "home": "CF Montréal",
     "away": "Charlotte FC",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5071338,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3475,19 +3475,9 @@
     "venue": "Audi Field",
     "home": "D.C. United",
     "away": "Columbus Crew",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5071337,
-    "status": "scheduled"
-  },
-  {
-    "round": 24,
-    "dateUtc": "2026-09-09T23:30:00Z",
-    "venue": "Subaru Park",
-    "home": "Philadelphia Union",
-    "away": "FC Cincinnati",
-    "result": null,
-    "fotmobId": 5071340,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3495,9 +3485,19 @@
     "venue": "BMO Field",
     "home": "Toronto FC",
     "away": "Nashville SC",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5071341,
-    "status": "scheduled"
+    "status": "finished"
+  },
+  {
+    "round": 24,
+    "dateUtc": "2026-09-09T23:45:00Z",
+    "venue": "Subaru Park",
+    "home": "Philadelphia Union",
+    "away": "FC Cincinnati",
+    "result": "5-0",
+    "fotmobId": 5071340,
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3505,9 +3505,9 @@
     "venue": "Citi Field",
     "home": "New York City Football Club",
     "away": "New England Revolution",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5071339,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3515,9 +3515,9 @@
     "venue": "Q2 Stadium",
     "home": "Austin FC",
     "away": "Colorado Rapids",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5071342,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3525,9 +3525,9 @@
     "venue": "Soldier Field",
     "home": "Chicago Fire FC",
     "away": "Inter Miami CF",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5071343,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3535,9 +3535,9 @@
     "venue": "Shell Energy Stadium",
     "home": "Houston Dynamo FC",
     "away": "Real Salt Lake",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5071344,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3545,9 +3545,9 @@
     "venue": "Allianz Field",
     "home": "Minnesota United FC",
     "away": "FC Dallas",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5071346,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3555,9 +3555,9 @@
     "venue": "BMO Stadium",
     "home": "Los Angeles Football Club",
     "away": "Red Bull New York",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5071345,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3565,9 +3565,9 @@
     "venue": "Providence Park",
     "home": "Portland Timbers",
     "away": "St. Louis CITY SC",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5071347,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3575,9 +3575,9 @@
     "venue": "Snapdragon Stadium",
     "home": "San Diego FC",
     "away": "San Jose Earthquakes",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5071348,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3585,9 +3585,9 @@
     "venue": "BC Place",
     "home": "Vancouver Whitecaps FC",
     "away": "LA Galaxy",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5071350,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 24,
@@ -3605,9 +3605,9 @@
     "venue": "ScottsMiracle-Gro Field",
     "home": "Columbus Crew",
     "away": "Red Bull New York",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5071352,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3615,9 +3615,9 @@
     "venue": "Audi Field",
     "home": "D.C. United",
     "away": "Atlanta United",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5071353,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3625,9 +3625,9 @@
     "venue": "TQL Stadium",
     "home": "FC Cincinnati",
     "away": "Charlotte FC",
-    "result": null,
+    "result": "3-3",
     "fotmobId": 5071351,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3635,9 +3635,9 @@
     "venue": "Nu Stadium",
     "home": "Inter Miami CF",
     "away": "Nashville SC",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5071354,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3645,9 +3645,9 @@
     "venue": "Inter.co Stadium",
     "home": "Orlando City",
     "away": "Toronto FC",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5071355,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3655,9 +3655,9 @@
     "venue": "Toyota Stadium",
     "home": "FC Dallas",
     "away": "Portland Timbers",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5071357,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3665,9 +3665,9 @@
     "venue": "Sporting Park",
     "home": "Sporting Kansas City",
     "away": "Los Angeles Football Club",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5071358,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3675,9 +3675,9 @@
     "venue": "Energizer Park",
     "home": "St. Louis CITY SC",
     "away": "Minnesota United FC",
-    "result": null,
+    "result": "4-2",
     "fotmobId": 5071362,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3685,9 +3685,9 @@
     "venue": "DICK'S Sporting Goods Park",
     "home": "Colorado Rapids",
     "away": "CF Montréal",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5071356,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3695,9 +3695,9 @@
     "venue": "America First Field",
     "home": "Real Salt Lake",
     "away": "New York City Football Club",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5071360,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3705,9 +3705,9 @@
     "venue": "Dignity Health Sports Park",
     "home": "LA Galaxy",
     "away": "Seattle Sounders FC",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5071359,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3715,9 +3715,9 @@
     "venue": "PayPal Park",
     "home": "San Jose Earthquakes",
     "away": "Houston Dynamo FC",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5071361,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3725,9 +3725,9 @@
     "venue": "Soldier Field",
     "home": "Chicago Fire FC",
     "away": "New England Revolution",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5071363,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3735,9 +3735,9 @@
     "venue": "BC Place",
     "home": "Vancouver Whitecaps FC",
     "away": "Austin FC",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5071364,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 25,
@@ -3745,9 +3745,9 @@
     "venue": "Snapdragon Stadium",
     "home": "San Diego FC",
     "away": "Philadelphia Union",
-    "result": null,
+    "result": "0-5",
     "fotmobId": 5071365,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 26,

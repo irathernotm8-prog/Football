@@ -62,12 +62,12 @@
   {
     "fotmobId": 5943229,
     "round": 1,
-    "dateUtc": "2026-09-10T18:00:00Z",
+    "dateUtc": "2026-09-10T18:15:00Z",
     "venue": null,
     "home": "Panathinaikos",
     "away": "Kifisia",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943238,
@@ -216,8 +216,8 @@
     "venue": null,
     "home": "Olympiacos",
     "away": "OFI Crete",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943247,
@@ -226,8 +226,8 @@
     "venue": null,
     "home": "Iraklis Thessaloniki",
     "away": "Atromitos",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943248,
@@ -236,8 +236,8 @@
     "venue": null,
     "home": "Kalamata",
     "away": "Volos",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943246,
@@ -246,8 +246,8 @@
     "venue": null,
     "home": "Asteras Tripolis",
     "away": "AEK Athens",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943249,
@@ -256,8 +256,8 @@
     "venue": null,
     "home": "Kifisia",
     "away": "Levadiakos",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943252,
@@ -266,8 +266,8 @@
     "venue": null,
     "home": "PAOK",
     "away": "Aris Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943251,
@@ -276,23 +276,13 @@
     "venue": null,
     "home": "Panathinaikos",
     "away": "Panetolikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943253,
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "Iraklis Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943254,
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-19T16:00:00Z",
     "venue": null,
     "home": "Atromitos",
     "away": "Kifisia",
@@ -300,19 +290,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943255,
+    "fotmobId": 5943253,
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-19T16:30:00Z",
     "venue": null,
-    "home": "Kalamata",
-    "away": "Panathinaikos",
+    "home": "Aris Thessaloniki",
+    "away": "Iraklis Thessaloniki",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943256,
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-20T14:00:00Z",
     "venue": null,
     "home": "Levadiakos",
     "away": "Olympiacos",
@@ -320,29 +310,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943257,
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": null,
-    "home": "OFI Crete",
-    "away": "Asteras Tripolis",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943258,
-    "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
-    "venue": null,
-    "home": "Panetolikos",
-    "away": "PAOK",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943259,
     "round": 5,
-    "dateUtc": "2026-09-19T15:00:00Z",
+    "dateUtc": "2026-09-20T15:00:00Z",
     "venue": null,
     "home": "Volos",
     "away": "AEK Athens",
@@ -350,9 +320,39 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943257,
+    "round": 5,
+    "dateUtc": "2026-09-20T16:00:00Z",
+    "venue": null,
+    "home": "OFI Crete",
+    "away": "Asteras Tripolis",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943255,
+    "round": 5,
+    "dateUtc": "2026-09-20T16:30:00Z",
+    "venue": null,
+    "home": "Kalamata",
+    "away": "Panathinaikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943258,
+    "round": 5,
+    "dateUtc": "2026-09-20T18:00:00Z",
+    "venue": null,
+    "home": "Panetolikos",
+    "away": "PAOK",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943260,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-10T16:30:00Z",
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "OFI Crete",
@@ -360,19 +360,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943261,
-    "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
-    "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943262,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-10T16:30:00Z",
     "venue": null,
     "home": "Asteras Tripolis",
     "away": "Atromitos",
@@ -382,7 +372,7 @@
   {
     "fotmobId": 5943263,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T14:00:00Z",
     "venue": null,
     "home": "Iraklis Thessaloniki",
     "away": "Levadiakos",
@@ -392,7 +382,7 @@
   {
     "fotmobId": 5943264,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T14:00:00Z",
     "venue": null,
     "home": "Kifisia",
     "away": "Panetolikos",
@@ -400,9 +390,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943261,
+    "round": 6,
+    "dateUtc": "2026-10-11T16:00:00Z",
+    "venue": null,
+    "home": "Aris Thessaloniki",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943265,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-11T18:00:00Z",
     "venue": null,
     "home": "Olympiacos",
     "away": "Panathinaikos",
@@ -412,7 +412,7 @@
   {
     "fotmobId": 5943266,
     "round": 6,
-    "dateUtc": "2026-10-10T15:00:00Z",
+    "dateUtc": "2026-10-12T15:00:00Z",
     "venue": null,
     "home": "PAOK",
     "away": "Kalamata",
@@ -420,9 +420,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943270,
+    "round": 7,
+    "dateUtc": "2026-10-17T14:00:00Z",
+    "venue": null,
+    "home": "Levadiakos",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943267,
     "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
+    "dateUtc": "2026-10-17T16:30:00Z",
     "venue": null,
     "home": "Atromitos",
     "away": "AEK Athens",
@@ -432,7 +442,7 @@
   {
     "fotmobId": 5943268,
     "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
+    "dateUtc": "2026-10-18T13:00:00Z",
     "venue": null,
     "home": "Kalamata",
     "away": "OFI Crete",
@@ -440,39 +450,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943269,
-    "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
-    "venue": null,
-    "home": "Kifisia",
-    "away": "Aris Thessaloniki",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943270,
-    "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
-    "venue": null,
-    "home": "Levadiakos",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943271,
-    "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
-    "venue": null,
-    "home": "Panathinaikos",
-    "away": "Asteras Tripolis",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943272,
     "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
+    "dateUtc": "2026-10-18T14:00:00Z",
     "venue": null,
     "home": "Panetolikos",
     "away": "Olympiacos",
@@ -480,9 +460,29 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943271,
+    "round": 7,
+    "dateUtc": "2026-10-18T16:00:00Z",
+    "venue": null,
+    "home": "Panathinaikos",
+    "away": "Asteras Tripolis",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943269,
+    "round": 7,
+    "dateUtc": "2026-10-18T17:00:00Z",
+    "venue": null,
+    "home": "Kifisia",
+    "away": "Aris Thessaloniki",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943273,
     "round": 7,
-    "dateUtc": "2026-10-17T15:00:00Z",
+    "dateUtc": "2026-10-18T18:00:00Z",
     "venue": null,
     "home": "PAOK",
     "away": "Iraklis Thessaloniki",
@@ -490,39 +490,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943274,
-    "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": "OPAP Arena",
-    "home": "AEK Athens",
-    "away": "Panetolikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943275,
-    "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "Atromitos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943276,
-    "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Asteras Tripolis",
-    "away": "Levadiakos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943277,
     "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T16:00:00Z",
     "venue": null,
     "home": "Iraklis Thessaloniki",
     "away": "Kifisia",
@@ -530,19 +500,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943278,
+    "fotmobId": 5943276,
     "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T16:30:00Z",
     "venue": null,
-    "home": "OFI Crete",
-    "away": "PAOK",
+    "home": "Asteras Tripolis",
+    "away": "Levadiakos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943274,
+    "round": 8,
+    "dateUtc": "2026-10-24T17:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Panetolikos",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943279,
     "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-25T14:00:00Z",
     "venue": null,
     "home": "Olympiacos",
     "away": "Kalamata",
@@ -552,7 +532,7 @@
   {
     "fotmobId": 5943280,
     "round": 8,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-25T16:00:00Z",
     "venue": null,
     "home": "Volos",
     "away": "Panathinaikos",
@@ -560,29 +540,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943281,
-    "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "fotmobId": 5943275,
+    "round": 8,
+    "dateUtc": "2026-10-25T17:30:00Z",
     "venue": null,
-    "home": "Atromitos",
-    "away": "Volos",
+    "home": "Aris Thessaloniki",
+    "away": "Atromitos",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943282,
-    "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "fotmobId": 5943278,
+    "round": 8,
+    "dateUtc": "2026-10-25T18:00:00Z",
     "venue": null,
-    "home": "Kalamata",
-    "away": "Iraklis Thessaloniki",
+    "home": "OFI Crete",
+    "away": "PAOK",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943283,
     "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-10-31T17:00:00Z",
     "venue": null,
     "home": "Kifisia",
     "away": "Olympiacos",
@@ -592,7 +572,7 @@
   {
     "fotmobId": 5943284,
     "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T15:00:00Z",
     "venue": null,
     "home": "Levadiakos",
     "away": "Aris Thessaloniki",
@@ -600,19 +580,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943285,
-    "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Panathinaikos",
-    "away": "AEK Athens",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943286,
     "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T16:00:00Z",
     "venue": null,
     "home": "Panetolikos",
     "away": "OFI Crete",
@@ -622,7 +592,7 @@
   {
     "fotmobId": 5943287,
     "round": 9,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-11-01T17:00:00Z",
     "venue": null,
     "home": "PAOK",
     "away": "Asteras Tripolis",
@@ -630,69 +600,39 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943288,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": "OPAP Arena",
-    "home": "AEK Athens",
-    "away": "Levadiakos",
+    "fotmobId": 5943285,
+    "round": 9,
+    "dateUtc": "2026-11-01T19:00:00Z",
+    "venue": null,
+    "home": "Panathinaikos",
+    "away": "AEK Athens",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943289,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "fotmobId": 5943281,
+    "round": 9,
+    "dateUtc": "2026-11-02T16:00:00Z",
     "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "Panetolikos",
+    "home": "Atromitos",
+    "away": "Volos",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943290,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "fotmobId": 5943282,
+    "round": 9,
+    "dateUtc": "2026-11-02T17:30:00Z",
     "venue": null,
-    "home": "Asteras Tripolis",
-    "away": "Kalamata",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943291,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": null,
-    "home": "Iraklis Thessaloniki",
-    "away": "Panathinaikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943292,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": null,
-    "home": "OFI Crete",
-    "away": "Atromitos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943293,
-    "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": null,
-    "home": "Olympiacos",
-    "away": "PAOK",
+    "home": "Kalamata",
+    "away": "Iraklis Thessaloniki",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943294,
     "round": 10,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T15:00:00Z",
     "venue": null,
     "home": "Volos",
     "away": "Kifisia",
@@ -700,19 +640,69 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943295,
-    "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "fotmobId": 5943289,
+    "round": 10,
+    "dateUtc": "2026-11-07T17:30:00Z",
+    "venue": null,
+    "home": "Aris Thessaloniki",
+    "away": "Panetolikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943288,
+    "round": 10,
+    "dateUtc": "2026-11-08T15:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Levadiakos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943290,
+    "round": 10,
+    "dateUtc": "2026-11-08T15:00:00Z",
     "venue": null,
     "home": "Asteras Tripolis",
-    "away": "Aris Thessaloniki",
+    "away": "Kalamata",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943292,
+    "round": 10,
+    "dateUtc": "2026-11-08T17:00:00Z",
+    "venue": null,
+    "home": "OFI Crete",
+    "away": "Atromitos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943291,
+    "round": 10,
+    "dateUtc": "2026-11-08T18:00:00Z",
+    "venue": null,
+    "home": "Iraklis Thessaloniki",
+    "away": "Panathinaikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943293,
+    "round": 10,
+    "dateUtc": "2026-11-08T19:00:00Z",
+    "venue": null,
+    "home": "Olympiacos",
+    "away": "PAOK",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943296,
     "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-21T17:30:00Z",
     "venue": null,
     "home": "Kalamata",
     "away": "AEK Athens",
@@ -722,7 +712,7 @@
   {
     "fotmobId": 5943297,
     "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-22T14:00:00Z",
     "venue": null,
     "home": "Levadiakos",
     "away": "Atromitos",
@@ -730,9 +720,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943300,
+    "round": 11,
+    "dateUtc": "2026-11-22T15:00:00Z",
+    "venue": null,
+    "home": "Panetolikos",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943298,
     "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-22T17:00:00Z",
     "venue": null,
     "home": "Olympiacos",
     "away": "Iraklis Thessaloniki",
@@ -742,7 +742,7 @@
   {
     "fotmobId": 5943299,
     "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-22T17:00:00Z",
     "venue": null,
     "home": "Panathinaikos",
     "away": "OFI Crete",
@@ -750,19 +750,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943300,
-    "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
-    "venue": null,
-    "home": "Panetolikos",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943301,
     "round": 11,
-    "dateUtc": "2026-11-21T16:00:00Z",
+    "dateUtc": "2026-11-22T17:30:00Z",
     "venue": null,
     "home": "PAOK",
     "away": "Kifisia",
@@ -770,69 +760,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943302,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": "OPAP Arena",
-    "home": "AEK Athens",
-    "away": "PAOK",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943303,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "fotmobId": 5943295,
+    "round": 11,
+    "dateUtc": "2026-11-23T15:00:00Z",
     "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "Olympiacos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943304,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "Atromitos",
-    "away": "Panathinaikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943305,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "Iraklis Thessaloniki",
-    "away": "Panetolikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943306,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "Kifisia",
-    "away": "Kalamata",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943307,
-    "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
-    "venue": null,
-    "home": "OFI Crete",
-    "away": "Levadiakos",
+    "home": "Asteras Tripolis",
+    "away": "Aris Thessaloniki",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943308,
     "round": 12,
-    "dateUtc": "2026-11-28T16:00:00Z",
+    "dateUtc": "2026-11-28T15:00:00Z",
     "venue": null,
     "home": "Volos",
     "away": "Asteras Tripolis",
@@ -840,39 +780,69 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943309,
-    "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "fotmobId": 5943306,
+    "round": 12,
+    "dateUtc": "2026-11-28T18:00:00Z",
     "venue": null,
-    "home": "Asteras Tripolis",
-    "away": "Kifisia",
+    "home": "Kifisia",
+    "away": "Kalamata",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943310,
-    "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "fotmobId": 5943305,
+    "round": 12,
+    "dateUtc": "2026-11-28T19:00:00Z",
     "venue": null,
-    "home": "Kalamata",
+    "home": "Iraklis Thessaloniki",
+    "away": "Panetolikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943304,
+    "round": 12,
+    "dateUtc": "2026-11-29T15:00:00Z",
+    "venue": null,
+    "home": "Atromitos",
+    "away": "Panathinaikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943307,
+    "round": 12,
+    "dateUtc": "2026-11-29T15:30:00Z",
+    "venue": null,
+    "home": "OFI Crete",
     "away": "Levadiakos",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943311,
-    "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "fotmobId": 5943303,
+    "round": 12,
+    "dateUtc": "2026-11-29T17:00:00Z",
     "venue": null,
-    "home": "OFI Crete",
-    "away": "Iraklis Thessaloniki",
+    "home": "Aris Thessaloniki",
+    "away": "Olympiacos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943302,
+    "round": 12,
+    "dateUtc": "2026-11-29T19:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "PAOK",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943312,
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-05T18:00:00Z",
     "venue": null,
     "home": "Olympiacos",
     "away": "AEK Athens",
@@ -880,9 +850,29 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943310,
+    "round": 13,
+    "dateUtc": "2026-12-06T13:00:00Z",
+    "venue": null,
+    "home": "Kalamata",
+    "away": "Levadiakos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943309,
+    "round": 13,
+    "dateUtc": "2026-12-06T14:00:00Z",
+    "venue": null,
+    "home": "Asteras Tripolis",
+    "away": "Kifisia",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943313,
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-06T17:00:00Z",
     "venue": null,
     "home": "Panathinaikos",
     "away": "Aris Thessaloniki",
@@ -890,9 +880,29 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943315,
+    "round": 13,
+    "dateUtc": "2026-12-06T17:30:00Z",
+    "venue": null,
+    "home": "PAOK",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943311,
+    "round": 13,
+    "dateUtc": "2026-12-06T18:00:00Z",
+    "venue": null,
+    "home": "OFI Crete",
+    "away": "Iraklis Thessaloniki",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943314,
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-07T17:00:00Z",
     "venue": null,
     "home": "Panetolikos",
     "away": "Atromitos",
@@ -900,49 +910,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943315,
-    "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
-    "venue": null,
-    "home": "PAOK",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943316,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "OPAP Arena",
-    "home": "AEK Athens",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943317,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Atromitos",
-    "away": "Olympiacos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943318,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Iraklis Thessaloniki",
-    "away": "Aris Thessaloniki",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943319,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T15:00:00Z",
     "venue": null,
     "home": "Kalamata",
     "away": "Panetolikos",
@@ -950,19 +920,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943320,
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": null,
-    "home": "Kifisia",
-    "away": "OFI Crete",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943321,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T17:30:00Z",
     "venue": null,
     "home": "Levadiakos",
     "away": "Asteras Tripolis",
@@ -970,9 +930,39 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943318,
+    "round": 14,
+    "dateUtc": "2026-12-12T19:00:00Z",
+    "venue": null,
+    "home": "Iraklis Thessaloniki",
+    "away": "Aris Thessaloniki",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943317,
+    "round": 14,
+    "dateUtc": "2026-12-13T15:00:00Z",
+    "venue": null,
+    "home": "Atromitos",
+    "away": "Olympiacos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943316,
+    "round": 14,
+    "dateUtc": "2026-12-13T17:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943322,
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-13T17:30:00Z",
     "venue": null,
     "home": "PAOK",
     "away": "Panathinaikos",
@@ -980,19 +970,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943323,
-    "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "fotmobId": 5943320,
+    "round": 14,
+    "dateUtc": "2026-12-14T17:00:00Z",
     "venue": null,
-    "home": "Aris Thessaloniki",
-    "away": "AEK Athens",
+    "home": "Kifisia",
+    "away": "OFI Crete",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943329,
+    "round": 15,
+    "dateUtc": "2026-12-19T15:00:00Z",
+    "venue": null,
+    "home": "Volos",
+    "away": "Levadiakos",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943324,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T17:30:00Z",
     "venue": null,
     "home": "Asteras Tripolis",
     "away": "PAOK",
@@ -1002,7 +1002,7 @@
   {
     "fotmobId": 5943325,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-19T18:00:00Z",
     "venue": null,
     "home": "Kifisia",
     "away": "Atromitos",
@@ -1010,19 +1010,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943326,
-    "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
-    "venue": null,
-    "home": "OFI Crete",
-    "away": "Kalamata",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5943327,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-20T15:00:00Z",
     "venue": null,
     "home": "Olympiacos",
     "away": "Panetolikos",
@@ -1032,7 +1022,7 @@
   {
     "fotmobId": 5943328,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
+    "dateUtc": "2026-12-20T17:00:00Z",
     "venue": null,
     "home": "Panathinaikos",
     "away": "Iraklis Thessaloniki",
@@ -1040,69 +1030,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943329,
+    "fotmobId": 5943323,
     "round": 15,
-    "dateUtc": "2026-12-19T16:00:00Z",
-    "venue": null,
-    "home": "Volos",
-    "away": "Levadiakos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943330,
-    "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
-    "venue": "OPAP Arena",
-    "home": "AEK Athens",
-    "away": "Atromitos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943331,
-    "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
+    "dateUtc": "2026-12-20T17:30:00Z",
     "venue": null,
     "home": "Aris Thessaloniki",
-    "away": "PAOK",
+    "away": "AEK Athens",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5943332,
-    "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
+    "fotmobId": 5943326,
+    "round": 15,
+    "dateUtc": "2026-12-20T17:30:00Z",
     "venue": null,
-    "home": "Asteras Tripolis",
-    "away": "Panathinaikos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943333,
-    "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
-    "venue": null,
-    "home": "Iraklis Thessaloniki",
-    "away": "Volos",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5943334,
-    "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
-    "venue": null,
-    "home": "Kalamata",
-    "away": "Olympiacos",
+    "home": "OFI Crete",
+    "away": "Kalamata",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5943335,
     "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
+    "dateUtc": "2027-01-09T15:00:00Z",
     "venue": null,
     "home": "Levadiakos",
     "away": "OFI Crete",
@@ -1110,9 +1060,59 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5943330,
+    "round": 16,
+    "dateUtc": "2027-01-09T17:00:00Z",
+    "venue": "OPAP Arena",
+    "home": "AEK Athens",
+    "away": "Atromitos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943334,
+    "round": 16,
+    "dateUtc": "2027-01-09T17:30:00Z",
+    "venue": null,
+    "home": "Kalamata",
+    "away": "Olympiacos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943333,
+    "round": 16,
+    "dateUtc": "2027-01-09T18:00:00Z",
+    "venue": null,
+    "home": "Iraklis Thessaloniki",
+    "away": "Volos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943332,
+    "round": 16,
+    "dateUtc": "2027-01-10T15:00:00Z",
+    "venue": null,
+    "home": "Asteras Tripolis",
+    "away": "Panathinaikos",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5943331,
+    "round": 16,
+    "dateUtc": "2027-01-10T17:30:00Z",
+    "venue": null,
+    "home": "Aris Thessaloniki",
+    "away": "PAOK",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5943336,
     "round": 16,
-    "dateUtc": "2027-01-09T16:00:00Z",
+    "dateUtc": "2027-01-10T17:30:00Z",
     "venue": null,
     "home": "Panetolikos",
     "away": "Kifisia",

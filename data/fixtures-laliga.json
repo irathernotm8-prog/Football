@@ -405,9 +405,9 @@
     "venue": "Ramón Sánchez-Pizjuán",
     "home": "Sevilla FC",
     "away": "Valencia CF",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5868059,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -415,9 +415,9 @@
     "venue": "El Sardinero",
     "home": "R. Racing Club",
     "away": "Deportivo Alavés",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5868056,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -425,9 +425,9 @@
     "venue": "Estadio El Sadar",
     "home": "CA Osasuna",
     "away": "RCD Espanyol de Barcelona",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5868055,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -435,9 +435,9 @@
     "venue": "Estadio San Mamés",
     "home": "Athletic Club",
     "away": "Elche CF",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5868051,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -445,9 +445,9 @@
     "venue": "Bernabéu",
     "home": "Real Madrid",
     "away": "Rayo Vallecano",
-    "result": null,
+    "result": "4-1",
     "fotmobId": 5868057,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -455,9 +455,9 @@
     "venue": "Estadio ABANCA Balaídos",
     "home": "Celta",
     "away": "Málaga CF",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5868052,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -465,9 +465,9 @@
     "venue": "Estadio Ciutat de València",
     "home": "Levante UD",
     "away": "FC Barcelona",
-    "result": null,
+    "result": "2-4",
     "fotmobId": 5868054,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -475,9 +475,9 @@
     "venue": "Coliseum",
     "home": "Getafe CF",
     "away": "RC Deportivo",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5868053,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -485,9 +485,9 @@
     "venue": "Anoeta",
     "home": "Real Sociedad",
     "away": "Atlético de Madrid",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5868058,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -495,9 +495,9 @@
     "venue": "Estadio de la Cerámica",
     "home": "Villarreal CF",
     "away": "Real Betis",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5868060,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -515,9 +515,9 @@
     "venue": "Estadio de Vallecas",
     "home": "Rayo Vallecano",
     "away": "RCD Espanyol de Barcelona",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5868069,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -525,9 +525,9 @@
     "venue": "Mendizorroza",
     "home": "Deportivo Alavés",
     "away": "Valencia CF",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5868061,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -535,9 +535,9 @@
     "venue": "Estadio Martínez Valero",
     "home": "Elche CF",
     "away": "Real Madrid",
-    "result": null,
+    "result": "2-3",
     "fotmobId": 5868065,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -545,9 +545,9 @@
     "venue": "Riyadh Air Metropolitano",
     "home": "Atlético de Madrid",
     "away": "CA Osasuna",
-    "result": null,
+    "result": "4-0",
     "fotmobId": 5868062,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -555,9 +555,9 @@
     "venue": "Estadio ABANCA-RIAZOR",
     "home": "RC Deportivo",
     "away": "Sevilla FC",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5868064,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -565,19 +565,9 @@
     "venue": "Spotify Camp Nou",
     "home": "FC Barcelona",
     "away": "R. Racing Club",
-    "result": null,
+    "result": "7-2",
     "fotmobId": 5868066,
-    "status": "scheduled"
-  },
-  {
-    "round": 6,
-    "dateUtc": "2026-09-16T19:30:00Z",
-    "venue": "Estadio Ciutat de València",
-    "home": "Levante UD",
-    "away": "Athletic Club",
-    "result": null,
-    "fotmobId": 5868067,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -585,9 +575,9 @@
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "Getafe CF",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5868063,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -595,8 +585,18 @@
     "venue": "La Rosaleda",
     "home": "Málaga CF",
     "away": "Villarreal CF",
-    "result": null,
+    "result": "1-3",
     "fotmobId": 5868068,
+    "status": "finished"
+  },
+  {
+    "round": 6,
+    "dateUtc": "2026-10-21T18:00:00Z",
+    "venue": "Estadio Ciutat de València",
+    "home": "Levante UD",
+    "away": "Athletic Club",
+    "result": null,
+    "fotmobId": 5868067,
     "status": "scheduled"
   },
   {
@@ -701,47 +701,7 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "Mendizorroza",
-    "home": "Deportivo Alavés",
-    "away": "Atlético de Madrid",
-    "result": null,
-    "fotmobId": 5868081,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "Estadio Martínez Valero",
-    "home": "Elche CF",
-    "away": "Celta",
-    "result": null,
-    "fotmobId": 5868083,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "Spotify Camp Nou",
-    "home": "FC Barcelona",
-    "away": "Getafe CF",
-    "result": null,
-    "fotmobId": 5868084,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "Estadio Ciutat de València",
-    "home": "Levante UD",
-    "away": "Sevilla FC",
-    "result": null,
-    "fotmobId": 5868085,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
+    "dateUtc": "2026-10-09T19:00:00Z",
     "venue": "La Rosaleda",
     "home": "Málaga CF",
     "away": "RCD Espanyol de Barcelona",
@@ -751,17 +711,7 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "El Sardinero",
-    "home": "R. Racing Club",
-    "away": "Valencia CF",
-    "result": null,
-    "fotmobId": 5868087,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
+    "dateUtc": "2026-10-10T12:00:00Z",
     "venue": "Estadio de Vallecas",
     "home": "Rayo Vallecano",
     "away": "Athletic Club",
@@ -771,17 +721,27 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
-    "venue": "Estadio La Cartuja",
-    "home": "Real Betis",
-    "away": "CA Osasuna",
+    "dateUtc": "2026-10-10T14:15:00Z",
+    "venue": "Mendizorroza",
+    "home": "Deportivo Alavés",
+    "away": "Atlético de Madrid",
     "result": null,
-    "fotmobId": 5868082,
+    "fotmobId": 5868081,
     "status": "scheduled"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
+    "dateUtc": "2026-10-10T16:30:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Getafe CF",
+    "result": null,
+    "fotmobId": 5868084,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-10T19:00:00Z",
     "venue": "Bernabéu",
     "home": "Real Madrid",
     "away": "Villarreal CF",
@@ -791,7 +751,17 @@
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-11T13:00:00Z",
+    "dateUtc": "2026-10-11T12:00:00Z",
+    "venue": "Estadio Martínez Valero",
+    "home": "Elche CF",
+    "away": "Celta",
+    "result": null,
+    "fotmobId": 5868083,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-11T14:15:00Z",
     "venue": "Anoeta",
     "home": "Real Sociedad",
     "away": "RC Deportivo",
@@ -800,48 +770,38 @@
     "status": "scheduled"
   },
   {
-    "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "Estadio El Sadar",
-    "home": "CA Osasuna",
-    "away": "R. Racing Club",
+    "round": 8,
+    "dateUtc": "2026-10-11T16:30:00Z",
+    "venue": "Estadio La Cartuja",
+    "home": "Real Betis",
+    "away": "CA Osasuna",
     "result": null,
-    "fotmobId": 5868097,
+    "fotmobId": 5868082,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-11T19:00:00Z",
+    "venue": "El Sardinero",
+    "home": "R. Racing Club",
+    "away": "Valencia CF",
+    "result": null,
+    "fotmobId": 5868087,
+    "status": "scheduled"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-12T19:00:00Z",
+    "venue": "Estadio Ciutat de València",
+    "home": "Levante UD",
+    "away": "Sevilla FC",
+    "result": null,
+    "fotmobId": 5868085,
     "status": "scheduled"
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "Estadio ABANCA Balaídos",
-    "home": "Celta",
-    "away": "Deportivo Alavés",
-    "result": null,
-    "fotmobId": 5868092,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "Coliseum",
-    "home": "Getafe CF",
-    "away": "Rayo Vallecano",
-    "result": null,
-    "fotmobId": 5868095,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "La Rosaleda",
-    "home": "Málaga CF",
-    "away": "Real Sociedad",
-    "result": null,
-    "fotmobId": 5868096,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
+    "dateUtc": "2026-10-16T19:00:00Z",
     "venue": "Estadio ABANCA-RIAZOR",
     "home": "RC Deportivo",
     "away": "Levante UD",
@@ -851,7 +811,7 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
+    "dateUtc": "2026-10-17T12:00:00Z",
     "venue": "RCDE Stadium",
     "home": "RCD Espanyol de Barcelona",
     "away": "Atlético de Madrid",
@@ -861,7 +821,17 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
+    "dateUtc": "2026-10-17T14:15:00Z",
+    "venue": "Estadio de la Cerámica",
+    "home": "Villarreal CF",
+    "away": "Elche CF",
+    "result": null,
+    "fotmobId": 5868100,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-17T16:30:00Z",
     "venue": "Estadio La Cartuja",
     "home": "Real Betis",
     "away": "FC Barcelona",
@@ -871,17 +841,7 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "Bernabéu",
-    "home": "Real Madrid",
-    "away": "Sevilla FC",
-    "result": null,
-    "fotmobId": 5868098,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
+    "dateUtc": "2026-10-17T19:00:00Z",
     "venue": "Camp de Mestalla",
     "home": "Valencia CF",
     "away": "Athletic Club",
@@ -891,12 +851,52 @@
   },
   {
     "round": 9,
-    "dateUtc": "2026-10-18T13:00:00Z",
-    "venue": "Estadio de la Cerámica",
-    "home": "Villarreal CF",
-    "away": "Elche CF",
+    "dateUtc": "2026-10-18T12:00:00Z",
+    "venue": "Estadio El Sadar",
+    "home": "CA Osasuna",
+    "away": "R. Racing Club",
     "result": null,
-    "fotmobId": 5868100,
+    "fotmobId": 5868097,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-18T14:15:00Z",
+    "venue": "Estadio ABANCA Balaídos",
+    "home": "Celta",
+    "away": "Deportivo Alavés",
+    "result": null,
+    "fotmobId": 5868092,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-18T16:30:00Z",
+    "venue": "La Rosaleda",
+    "home": "Málaga CF",
+    "away": "Real Sociedad",
+    "result": null,
+    "fotmobId": 5868096,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-18T19:00:00Z",
+    "venue": "Bernabéu",
+    "home": "Real Madrid",
+    "away": "Sevilla FC",
+    "result": null,
+    "fotmobId": 5868098,
+    "status": "scheduled"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-19T19:00:00Z",
+    "venue": "Coliseum",
+    "home": "Getafe CF",
+    "away": "Rayo Vallecano",
+    "result": null,
+    "fotmobId": 5868095,
     "status": "scheduled"
   },
   {
@@ -937,16 +937,6 @@
     "away": "Málaga CF",
     "result": null,
     "fotmobId": 5868101,
-    "status": "scheduled"
-  },
-  {
-    "round": 10,
-    "dateUtc": "2026-10-25T14:00:00Z",
-    "venue": "Spotify Camp Nou",
-    "home": "FC Barcelona",
-    "away": "Real Madrid",
-    "result": null,
-    "fotmobId": 5868105,
     "status": "scheduled"
   },
   {
@@ -997,6 +987,16 @@
     "away": "Villarreal CF",
     "result": null,
     "fotmobId": 5868110,
+    "status": "scheduled"
+  },
+  {
+    "round": 10,
+    "dateUtc": "2026-10-25T20:00:00Z",
+    "venue": "Spotify Camp Nou",
+    "home": "FC Barcelona",
+    "away": "Real Madrid",
+    "result": null,
+    "fotmobId": 5868105,
     "status": "scheduled"
   },
   {
