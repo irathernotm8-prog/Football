@@ -545,9 +545,9 @@
     "venue": "Euroborg",
     "home": "FC Groningen",
     "away": "PEC Zwolle",
-    "result": "0-0",
+    "result": "3-0",
     "fotmobId": 5781754,
-    "status": "live"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -555,9 +555,9 @@
     "venue": "ADO Den Haag Stadium",
     "home": "ADO Den Haag",
     "away": "SC Cambuur",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5781755,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -565,9 +565,9 @@
     "venue": "Sparta Stadion Het Kasteel",
     "home": "Sparta Rotterdam",
     "away": "sc Heerenveen",
-    "result": null,
+    "result": "0-4",
     "fotmobId": 5781756,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -575,9 +575,9 @@
     "venue": "Johan Cruyff Arena",
     "home": "Ajax",
     "away": "Excelsior Rotterdam",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5781757,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -585,9 +585,9 @@
     "venue": "Koning Willem II Stadion",
     "home": "Willem II",
     "away": "Fortuna Sittard",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5781758,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -595,9 +595,9 @@
     "venue": "De Kuip",
     "home": "Feyenoord",
     "away": "FC Utrecht",
-    "result": null,
+    "result": "5-0",
     "fotmobId": 5781750,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -605,9 +605,9 @@
     "venue": "AFAS Stadion",
     "home": "AZ",
     "away": "Telstar",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5781752,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -615,9 +615,9 @@
     "venue": "De Grolsch Veste",
     "home": "FC Twente",
     "away": "PSV",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5781753,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -625,9 +625,9 @@
     "venue": "Goffertstadion",
     "home": "N.E.C. Nijmegen",
     "away": "Go Ahead Eagles",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5781751,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,

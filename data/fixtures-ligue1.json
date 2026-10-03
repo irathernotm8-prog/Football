@@ -365,9 +365,9 @@
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "RC Lens",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802941,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -375,9 +375,9 @@
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "RC Strasbourg Alsace",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802943,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -385,9 +385,9 @@
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Estac Troyes",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802937,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -395,9 +395,9 @@
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "FC Lorient",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802939,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -405,9 +405,9 @@
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Stade Rennais FC",
-    "result": null,
+    "result": "4-0",
     "fotmobId": 5802940,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -415,9 +415,9 @@
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Havre Athletic Club",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5802944,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -425,9 +425,9 @@
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Stade Brestois 29",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802938,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -435,9 +435,9 @@
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "LOSC Lille",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802942,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,
@@ -445,9 +445,9 @@
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Paris Saint-Germain",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5802945,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,

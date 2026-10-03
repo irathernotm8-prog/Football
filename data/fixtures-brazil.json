@@ -2086,8 +2086,8 @@
     "venue": null,
     "home": "Sao Paulo",
     "away": "Santos",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5103569,
@@ -2096,8 +2096,8 @@
     "venue": null,
     "home": "Atletico Mineiro",
     "away": "RB Bragantino",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "live"
   },
   {
     "fotmobId": 5103580,
@@ -2706,8 +2706,8 @@
     "venue": null,
     "home": "Atletico Mineiro",
     "away": "Chapecoense",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103638,
@@ -2716,8 +2716,8 @@
     "venue": null,
     "home": "Mirassol",
     "away": "Botafogo",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5103643,
@@ -2726,8 +2726,8 @@
     "venue": null,
     "home": "Remo",
     "away": "Santos",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5103635,
@@ -2736,8 +2736,8 @@
     "venue": null,
     "home": "Vasco da Gama",
     "away": "Coritiba",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5103636,
@@ -2746,8 +2746,8 @@
     "venue": null,
     "home": "Sao Paulo",
     "away": "Internacional",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5103640,
@@ -2756,8 +2756,8 @@
     "venue": null,
     "home": "Gremio",
     "away": "Palmeiras",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5103637,
@@ -2766,8 +2766,8 @@
     "venue": null,
     "home": "Corinthians",
     "away": "Fluminense",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5103642,
@@ -2776,8 +2776,8 @@
     "venue": null,
     "home": "Vitoria",
     "away": "Cruzeiro",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5103634,
@@ -2786,8 +2786,8 @@
     "venue": null,
     "home": "Flamengo",
     "away": "RB Bragantino",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103641,
@@ -2796,8 +2796,8 @@
     "venue": null,
     "home": "Athletico Paranaense",
     "away": "Bahia",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5103650,
@@ -2972,7 +2972,7 @@
   {
     "fotmobId": 5103661,
     "round": 30,
-    "dateUtc": "2026-10-11T22:30:00Z",
+    "dateUtc": "2026-10-12T19:00:00Z",
     "venue": null,
     "home": "Coritiba",
     "away": "Botafogo",
@@ -3000,39 +3000,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103671,
+    "fotmobId": 5103668,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-16T23:00:00Z",
     "venue": null,
-    "home": "Athletico Paranaense",
-    "away": "Palmeiras",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103669,
-    "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
-    "venue": null,
-    "home": "Atletico Mineiro",
-    "away": "Coritiba",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103672,
-    "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
-    "venue": null,
-    "home": "Bahia",
-    "away": "Flamengo",
+    "home": "Mirassol",
+    "away": "Internacional",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103665,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-17T21:00:00Z",
     "venue": null,
     "home": "Botafogo",
     "away": "Chapecoense",
@@ -3040,19 +3020,39 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103667,
+    "fotmobId": 5103669,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-17T21:30:00Z",
     "venue": null,
-    "home": "Corinthians",
-    "away": "Vitoria",
+    "home": "Atletico Mineiro",
+    "away": "Coritiba",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103671,
+    "round": 31,
+    "dateUtc": "2026-10-17T22:30:00Z",
+    "venue": null,
+    "home": "Athletico Paranaense",
+    "away": "Palmeiras",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103666,
+    "round": 31,
+    "dateUtc": "2026-10-18T00:00:00Z",
+    "venue": null,
+    "home": "Sao Paulo",
+    "away": "Vasco da Gama",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103664,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-18T19:00:00Z",
     "venue": null,
     "home": "Fluminense",
     "away": "Santos",
@@ -3062,7 +3062,7 @@
   {
     "fotmobId": 5103670,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-18T19:00:00Z",
     "venue": null,
     "home": "Gremio",
     "away": "Cruzeiro",
@@ -3070,19 +3070,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103668,
+    "fotmobId": 5103672,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-18T21:30:00Z",
     "venue": null,
-    "home": "Mirassol",
-    "away": "Internacional",
+    "home": "Bahia",
+    "away": "Flamengo",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103673,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-18T22:30:00Z",
     "venue": null,
     "home": "Remo",
     "away": "RB Bragantino",
@@ -3090,39 +3090,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103666,
+    "fotmobId": 5103667,
     "round": 31,
-    "dateUtc": "2026-10-17T00:00:00Z",
+    "dateUtc": "2026-10-19T23:00:00Z",
     "venue": null,
-    "home": "Sao Paulo",
-    "away": "Vasco da Gama",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103683,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Chapecoense",
-    "away": "Fluminense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103681,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Coritiba",
-    "away": "Gremio",
+    "home": "Corinthians",
+    "away": "Vitoria",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103679,
     "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
+    "dateUtc": "2026-10-23T23:00:00Z",
     "venue": null,
     "home": "Cruzeiro",
     "away": "Remo",
@@ -3130,19 +3110,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103674,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Flamengo",
-    "away": "Atletico Mineiro",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5103680,
     "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
+    "dateUtc": "2026-10-24T19:30:00Z",
     "venue": null,
     "home": "Internacional",
     "away": "Botafogo",
@@ -3152,7 +3122,7 @@
   {
     "fotmobId": 5103678,
     "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
+    "dateUtc": "2026-10-24T19:30:00Z",
     "venue": null,
     "home": "Mirassol",
     "away": "Sao Paulo",
@@ -3160,39 +3130,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103677,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Palmeiras",
-    "away": "RB Bragantino",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103676,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Santos",
-    "away": "Bahia",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103675,
-    "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
-    "venue": null,
-    "home": "Vasco da Gama",
-    "away": "Corinthians",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5103682,
     "round": 32,
-    "dateUtc": "2026-10-24T00:00:00Z",
+    "dateUtc": "2026-10-24T19:30:00Z",
     "venue": null,
     "home": "Vitoria",
     "away": "Athletico Paranaense",
@@ -3200,49 +3140,69 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103689,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "fotmobId": 5103677,
+    "round": 32,
+    "dateUtc": "2026-10-24T21:30:00Z",
     "venue": null,
-    "home": "Atletico Mineiro",
-    "away": "Cruzeiro",
+    "home": "Palmeiras",
+    "away": "RB Bragantino",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103692,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "fotmobId": 5103675,
+    "round": 32,
+    "dateUtc": "2026-10-24T21:30:00Z",
     "venue": null,
-    "home": "Bahia",
-    "away": "Sao Paulo",
+    "home": "Vasco da Gama",
+    "away": "Corinthians",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103687,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "fotmobId": 5103683,
+    "round": 32,
+    "dateUtc": "2026-10-24T22:30:00Z",
     "venue": null,
-    "home": "Corinthians",
-    "away": "Mirassol",
+    "home": "Chapecoense",
+    "away": "Fluminense",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103691,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "fotmobId": 5103676,
+    "round": 32,
+    "dateUtc": "2026-10-25T01:00:00Z",
+    "venue": null,
+    "home": "Santos",
+    "away": "Bahia",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103681,
+    "round": 32,
+    "dateUtc": "2026-10-26T22:30:00Z",
     "venue": null,
     "home": "Coritiba",
-    "away": "Vitoria",
+    "away": "Gremio",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103674,
+    "round": 32,
+    "dateUtc": "2026-10-26T23:00:00Z",
+    "venue": null,
+    "home": "Flamengo",
+    "away": "Atletico Mineiro",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103684,
     "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "dateUtc": "2026-10-28T22:30:00Z",
     "venue": null,
     "home": "Fluminense",
     "away": "Internacional",
@@ -3250,19 +3210,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103690,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
-    "venue": null,
-    "home": "Gremio",
-    "away": "Athletico Paranaense",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5103688,
     "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "dateUtc": "2026-10-28T22:30:00Z",
     "venue": null,
     "home": "RB Bragantino",
     "away": "Chapecoense",
@@ -3270,19 +3220,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103693,
-    "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
-    "venue": null,
-    "home": "Remo",
-    "away": "Botafogo",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5103686,
     "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "dateUtc": "2026-10-28T22:30:00Z",
     "venue": null,
     "home": "Santos",
     "away": "Palmeiras",
@@ -3290,9 +3230,49 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5103692,
+    "round": 33,
+    "dateUtc": "2026-10-29T00:30:00Z",
+    "venue": null,
+    "home": "Bahia",
+    "away": "Sao Paulo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103693,
+    "round": 33,
+    "dateUtc": "2026-10-29T00:30:00Z",
+    "venue": null,
+    "home": "Remo",
+    "away": "Botafogo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103689,
+    "round": 33,
+    "dateUtc": "2026-10-29T22:30:00Z",
+    "venue": null,
+    "home": "Atletico Mineiro",
+    "away": "Cruzeiro",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103691,
+    "round": 33,
+    "dateUtc": "2026-10-29T22:30:00Z",
+    "venue": null,
+    "home": "Coritiba",
+    "away": "Vitoria",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5103685,
     "round": 33,
-    "dateUtc": "2026-10-28T00:00:00Z",
+    "dateUtc": "2026-10-29T23:00:00Z",
     "venue": null,
     "home": "Vasco da Gama",
     "away": "Flamengo",
@@ -3300,79 +3280,29 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103701,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
+    "fotmobId": 5103690,
+    "round": 33,
+    "dateUtc": "2026-10-30T00:30:00Z",
     "venue": null,
-    "home": "Athletico Paranaense",
-    "away": "Vasco da Gama",
+    "home": "Gremio",
+    "away": "Athletico Paranaense",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5103695,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
+    "fotmobId": 5103687,
+    "round": 33,
+    "dateUtc": "2026-10-30T23:00:00Z",
     "venue": null,
-    "home": "Botafogo",
-    "away": "Atletico Mineiro",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103703,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
-    "venue": null,
-    "home": "Chapecoense",
+    "home": "Corinthians",
     "away": "Mirassol",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103699,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
-    "venue": null,
-    "home": "Cruzeiro",
-    "away": "Bahia",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103694,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
-    "venue": null,
-    "home": "Flamengo",
-    "away": "Gremio",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103700,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
-    "venue": null,
-    "home": "Internacional",
-    "away": "Coritiba",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5103697,
-    "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
-    "venue": null,
-    "home": "Palmeiras",
-    "away": "Remo",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5103698,
     "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
+    "dateUtc": "2026-11-02T23:00:00Z",
     "venue": null,
     "home": "RB Bragantino",
     "away": "Santos",
@@ -3380,9 +3310,59 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5103703,
+    "round": 34,
+    "dateUtc": "2026-11-03T22:30:00Z",
+    "venue": null,
+    "home": "Chapecoense",
+    "away": "Mirassol",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103700,
+    "round": 34,
+    "dateUtc": "2026-11-04T00:30:00Z",
+    "venue": null,
+    "home": "Internacional",
+    "away": "Coritiba",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103701,
+    "round": 34,
+    "dateUtc": "2026-11-04T22:30:00Z",
+    "venue": null,
+    "home": "Athletico Paranaense",
+    "away": "Vasco da Gama",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103694,
+    "round": 34,
+    "dateUtc": "2026-11-04T22:30:00Z",
+    "venue": null,
+    "home": "Flamengo",
+    "away": "Gremio",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103695,
+    "round": 34,
+    "dateUtc": "2026-11-05T00:30:00Z",
+    "venue": null,
+    "home": "Botafogo",
+    "away": "Atletico Mineiro",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5103696,
     "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
+    "dateUtc": "2026-11-05T00:30:00Z",
     "venue": null,
     "home": "Sao Paulo",
     "away": "Corinthians",
@@ -3390,9 +3370,29 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5103697,
+    "round": 34,
+    "dateUtc": "2026-11-05T22:30:00Z",
+    "venue": null,
+    "home": "Palmeiras",
+    "away": "Remo",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5103699,
+    "round": 34,
+    "dateUtc": "2026-11-06T00:30:00Z",
+    "venue": null,
+    "home": "Cruzeiro",
+    "away": "Bahia",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5103702,
     "round": 34,
-    "dateUtc": "2026-11-04T00:00:00Z",
+    "dateUtc": "2026-11-06T23:00:00Z",
     "venue": null,
     "home": "Vitoria",
     "away": "Fluminense",

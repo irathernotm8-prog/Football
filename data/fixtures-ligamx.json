@@ -726,8 +726,8 @@
     "venue": null,
     "home": "Puebla",
     "away": "Atlante",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014572,
@@ -736,8 +736,8 @@
     "venue": null,
     "home": "FC Juarez",
     "away": "Tigres UANL",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014573,
@@ -746,8 +746,8 @@
     "venue": null,
     "home": "Atlas",
     "away": "Pumas UNAM",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014574,
@@ -756,8 +756,8 @@
     "venue": null,
     "home": "Atletico San Luis",
     "away": "Necaxa",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014575,
@@ -766,8 +766,8 @@
     "venue": null,
     "home": "Monterrey",
     "away": "Cruz Azul",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014576,
@@ -776,8 +776,8 @@
     "venue": null,
     "home": "Club America",
     "away": "Guadalajara",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014577,
@@ -786,8 +786,8 @@
     "venue": null,
     "home": "Pachuca",
     "away": "Club Tijuana",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014578,
@@ -796,8 +796,8 @@
     "venue": null,
     "home": "Toluca",
     "away": "Santos Laguna",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014579,
@@ -806,8 +806,8 @@
     "venue": null,
     "home": "Queretaro",
     "away": "Club Leon",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014580,
@@ -816,8 +816,8 @@
     "venue": null,
     "home": "Atlante",
     "away": "Monterrey",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-2",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014581,
@@ -826,18 +826,18 @@
     "venue": null,
     "home": "Club Tijuana",
     "away": "Atlas",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014585,
     "round": 10,
-    "dateUtc": "2026-09-26T23:00:00Z",
+    "dateUtc": "2026-09-26T22:50:00Z",
     "venue": null,
     "home": "Cruz Azul",
     "away": "Toluca",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-3",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014582,
@@ -846,28 +846,28 @@
     "venue": null,
     "home": "Guadalajara",
     "away": "Queretaro",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014583,
     "round": 10,
-    "dateUtc": "2026-09-27T01:00:00Z",
+    "dateUtc": "2026-09-27T03:05:00Z",
     "venue": null,
     "home": "Santos Laguna",
     "away": "Pachuca",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014584,
     "round": 10,
-    "dateUtc": "2026-09-27T01:00:00Z",
+    "dateUtc": "2026-09-27T03:10:00Z",
     "venue": null,
     "home": "Tigres UANL",
     "away": "Puebla",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014586,
@@ -876,8 +876,8 @@
     "venue": null,
     "home": "Pumas UNAM",
     "away": "Atletico San Luis",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014587,
@@ -886,18 +886,18 @@
     "venue": null,
     "home": "Club Leon",
     "away": "FC Juarez",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014588,
     "round": 10,
-    "dateUtc": "2026-09-28T03:00:00Z",
+    "dateUtc": "2026-09-28T03:10:00Z",
     "venue": null,
     "home": "Necaxa",
     "away": "Club America",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-4",
+    "status": "finished"
   },
   {
     "fotmobId": 1000014590,
@@ -906,16 +906,6 @@
     "venue": null,
     "home": "Puebla",
     "away": "Club Leon",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 1000014589,
-    "round": 11,
-    "dateUtc": "2026-10-10T01:00:00Z",
-    "venue": null,
-    "home": "Queretaro",
-    "away": "Atlante",
     "result": null,
     "status": "scheduled"
   },
@@ -936,6 +926,16 @@
     "venue": null,
     "home": "FC Juarez",
     "away": "Club Tijuana",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 1000014589,
+    "round": 11,
+    "dateUtc": "2026-10-10T23:00:00Z",
+    "venue": null,
+    "home": "Queretaro",
+    "away": "Atlante",
     "result": null,
     "status": "scheduled"
   },
@@ -972,7 +972,7 @@
   {
     "fotmobId": 1000014595,
     "round": 11,
-    "dateUtc": "2026-10-11T23:00:00Z",
+    "dateUtc": "2026-10-11T23:15:00Z",
     "venue": null,
     "home": "Pachuca",
     "away": "Necaxa",
@@ -1432,7 +1432,7 @@
   {
     "fotmobId": 1000014642,
     "round": 16,
-    "dateUtc": "2026-11-09T01:00:00Z",
+    "dateUtc": "2026-11-09T02:00:00Z",
     "venue": null,
     "home": "Club Leon",
     "away": "Guadalajara",

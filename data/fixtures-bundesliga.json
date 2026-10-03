@@ -275,9 +275,9 @@
     "venue": "Allianz Arena",
     "home": "FC Bayern München",
     "away": "1. FC Union Berlin",
-    "result": null,
+    "result": "7-0",
     "fotmobId": 5881171,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -285,9 +285,9 @@
     "venue": "ista-Borussia-Park",
     "home": "Borussia Mönchengladbach",
     "away": "1. FSV Mainz 05",
-    "result": null,
+    "result": "3-4",
     "fotmobId": 5881172,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -295,9 +295,9 @@
     "venue": "Deutsche Bank Park",
     "home": "Eintracht Frankfurt",
     "away": "Sport-Club Freiburg",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5881173,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -305,9 +305,9 @@
     "venue": "Volksparkstadion",
     "home": "Hamburger SV",
     "away": "1. FC Köln",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5881174,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -315,9 +315,9 @@
     "venue": "Weserstadion",
     "home": "SV Werder Bremen",
     "away": "FC Augsburg",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5881178,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -325,9 +325,9 @@
     "venue": "MHPArena",
     "home": "VfB Stuttgart",
     "away": "Borussia Dortmund",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5881177,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -335,9 +335,9 @@
     "venue": "BayArena",
     "home": "Bayer 04 Leverkusen",
     "away": "RB Leipzig",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5881170,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -345,9 +345,9 @@
     "venue": "VELTINS-Arena",
     "home": "FC Schalke 04",
     "away": "SV Elversberg",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5881176,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 4,
@@ -355,9 +355,9 @@
     "venue": "Home Deluxe Arena",
     "home": "SC Paderborn 07",
     "away": "TSG Hoffenheim",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5881175,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 5,

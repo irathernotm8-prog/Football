@@ -366,8 +366,8 @@
     "venue": null,
     "home": "Dundee",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793935,
@@ -376,8 +376,8 @@
     "venue": null,
     "home": "Hibernian",
     "away": "Aberdeen",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793937,
@@ -386,8 +386,8 @@
     "venue": null,
     "home": "St Johnstone",
     "away": "Falkirk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793938,
@@ -396,8 +396,8 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Dundee United",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5793936,
@@ -406,8 +406,8 @@
     "venue": null,
     "home": "Kilmarnock",
     "away": "Hearts",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793939,
@@ -416,8 +416,8 @@
     "venue": null,
     "home": "Celtic",
     "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793941,
@@ -630,16 +630,6 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5793961,
-    "round": 11,
-    "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": null,
-    "home": "Hearts",
-    "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5793962,
     "round": 11,
     "dateUtc": "2026-10-28T19:45:00Z",
@@ -660,32 +650,22 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5793961,
+    "round": 11,
+    "dateUtc": "2026-10-28T20:00:00Z",
+    "venue": null,
+    "home": "Hearts",
+    "away": "Rangers",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5793964,
     "round": 12,
     "dateUtc": "2026-10-31T15:00:00Z",
     "venue": null,
     "home": "Dundee United",
     "away": "Hearts",
-    "result": null,
-    "status": "cancelled"
-  },
-  {
-    "fotmobId": 5793965,
-    "round": 12,
-    "dateUtc": "2026-10-31T15:00:00Z",
-    "venue": null,
-    "home": "Falkirk",
-    "away": "Celtic",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5793966,
-    "round": 12,
-    "dateUtc": "2026-10-31T15:00:00Z",
-    "venue": null,
-    "home": "Hibernian",
-    "away": "Dundee",
     "result": null,
     "status": "cancelled"
   },
@@ -710,22 +690,32 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5793965,
+    "round": 12,
+    "dateUtc": "2026-11-01T13:00:00Z",
+    "venue": null,
+    "home": "Falkirk",
+    "away": "Celtic",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5793966,
+    "round": 12,
+    "dateUtc": "2026-11-24T19:45:00Z",
+    "venue": null,
+    "home": "Hibernian",
+    "away": "Dundee",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5793969,
     "round": 12,
-    "dateUtc": "2026-10-31T15:00:00Z",
+    "dateUtc": "2026-11-24T20:00:00Z",
     "venue": null,
     "home": "Rangers",
     "away": "Aberdeen",
-    "result": null,
-    "status": "cancelled"
-  },
-  {
-    "fotmobId": 5793970,
-    "round": 13,
-    "dateUtc": "2026-11-07T15:00:00Z",
-    "venue": null,
-    "home": "Aberdeen",
-    "away": "Hibernian",
     "result": null,
     "status": "scheduled"
   },
@@ -750,9 +740,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5793970,
+    "round": 13,
+    "dateUtc": "2026-11-07T17:45:00Z",
+    "venue": null,
+    "home": "Aberdeen",
+    "away": "Hibernian",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5793974,
     "round": 13,
-    "dateUtc": "2026-11-07T15:00:00Z",
+    "dateUtc": "2026-11-07T20:00:00Z",
     "venue": null,
     "home": "St Mirren",
     "away": "Rangers",
@@ -790,16 +790,6 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5793977,
-    "round": 14,
-    "dateUtc": "2026-11-21T15:00:00Z",
-    "venue": null,
-    "home": "Dundee",
-    "away": "Hearts",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5793978,
     "round": 14,
     "dateUtc": "2026-11-21T15:00:00Z",
@@ -830,9 +820,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5793977,
+    "round": 14,
+    "dateUtc": "2026-11-21T17:45:00Z",
+    "venue": null,
+    "home": "Dundee",
+    "away": "Hearts",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5793981,
     "round": 14,
-    "dateUtc": "2026-11-21T15:00:00Z",
+    "dateUtc": "2026-11-21T20:00:00Z",
     "venue": null,
     "home": "Motherwell",
     "away": "Rangers",
@@ -860,16 +860,6 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5793985,
-    "round": 15,
-    "dateUtc": "2026-11-28T15:00:00Z",
-    "venue": null,
-    "home": "Motherwell",
-    "away": "Hibernian",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5793986,
     "round": 15,
     "dateUtc": "2026-11-28T15:00:00Z",
@@ -886,6 +876,16 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Kilmarnock",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5793985,
+    "round": 15,
+    "dateUtc": "2026-11-28T17:45:00Z",
+    "venue": null,
+    "home": "Motherwell",
+    "away": "Hibernian",
     "result": null,
     "status": "scheduled"
   },

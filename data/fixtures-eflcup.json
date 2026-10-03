@@ -160,19 +160,9 @@
     "status": "finished"
   },
   {
-    "fotmobId": 6275374,
-    "round": 4,
-    "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": "Vitality Stadium",
-    "home": "Bournemouth",
-    "away": "Aston Villa",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 6275372,
     "round": 4,
-    "dateUtc": "2026-10-28T19:45:00Z",
+    "dateUtc": "2026-10-27T19:45:00Z",
     "venue": null,
     "home": "Bradford City",
     "away": "Peterborough United",
@@ -180,22 +170,32 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 6275369,
+    "fotmobId": 6275367,
     "round": 4,
-    "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": "Hill Dickinson Stadium",
-    "home": "Everton",
-    "away": "Newcastle",
+    "dateUtc": "2026-10-27T20:00:00Z",
+    "venue": "Fleetwood Town Stadium",
+    "home": "Fleetwood Town",
+    "away": "Arsenal",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 6275367,
+    "fotmobId": 6275368,
+    "round": 4,
+    "dateUtc": "2026-10-28T19:30:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Brighton",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 6275374,
     "round": 4,
     "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": "Fleetwood Town Stadium",
-    "home": "Fleetwood Town",
-    "away": "Arsenal",
+    "venue": "Vitality Stadium",
+    "home": "Bournemouth",
+    "away": "Aston Villa",
     "result": null,
     "status": "scheduled"
   },
@@ -210,9 +210,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 6275371,
+    "fotmobId": 6275370,
     "round": 4,
     "dateUtc": "2026-10-28T19:45:00Z",
+    "venue": "Stadium of Light",
+    "home": "Sunderland",
+    "away": "Brentford",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 6275371,
+    "round": 4,
+    "dateUtc": "2026-10-28T20:00:00Z",
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "Chelsea",
@@ -220,22 +230,12 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 6275368,
+    "fotmobId": 6275369,
     "round": 4,
-    "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": "Etihad Stadium",
-    "home": "Man City",
-    "away": "Brighton",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 6275370,
-    "round": 4,
-    "dateUtc": "2026-10-28T19:45:00Z",
-    "venue": "Stadium of Light",
-    "home": "Sunderland",
-    "away": "Brentford",
+    "dateUtc": "2026-10-29T19:45:00Z",
+    "venue": "Hill Dickinson Stadium",
+    "home": "Everton",
+    "away": "Newcastle",
     "result": null,
     "status": "scheduled"
   }

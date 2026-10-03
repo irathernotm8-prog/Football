@@ -457,7 +457,7 @@
     "away": "Konyaspor",
     "result": "0-0",
     "fotmobId": 5904750,
-    "status": "live"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -465,9 +465,9 @@
     "venue": "Çorum Sehir Stadyumu",
     "home": "Çorum",
     "away": "Alanyaspor",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5904754,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -475,9 +475,9 @@
     "venue": "Kocaeli Stadyumu",
     "home": "Kocaelispor",
     "away": "Gaziantep",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5904756,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -485,9 +485,9 @@
     "venue": "Basaksehir Fatih Terim",
     "home": "Istanbul Basaksehir",
     "away": "Gençlerbirligi",
-    "result": null,
+    "result": "4-0",
     "fotmobId": 5904751,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -495,9 +495,9 @@
     "venue": "Papara Park",
     "home": "Trabzonspor",
     "away": "Galatasaray",
-    "result": null,
+    "result": "4-0",
     "fotmobId": 5904749,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -505,9 +505,9 @@
     "venue": "Erzurum Kâzim Karabekir",
     "home": "Erzurumspor",
     "away": "Samsunspor",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5904757,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -515,9 +515,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Eyüpspor",
-    "result": null,
+    "result": "8-0",
     "fotmobId": 5904755,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -525,9 +525,9 @@
     "venue": "Diyarbakir Stadyumu",
     "home": "Amedspor",
     "away": "Besiktas",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5904752,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 6,
@@ -535,9 +535,9 @@
     "venue": "Gürsel Aksel Stadyumu",
     "home": "Göztepe",
     "away": "Çaykur Rizespor",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5904753,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
