@@ -229,7 +229,7 @@
     {
       "fotmobId": 169718,
       "number": 13,
-      "name": "Wojciech Szczesny",
+      "name": "Wojciech Szczęsny",
       "position": "GK",
       "nationality": "Poland",
       "photo": "https://images.fotmob.com/image_resources/playerimages/169718.png"
@@ -237,7 +237,7 @@
     {
       "fotmobId": 383971,
       "number": 25,
-      "name": "Dominik Livakovic",
+      "name": "Dominik Livaković",
       "position": "GK",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/383971.png"
@@ -599,7 +599,7 @@
     {
       "fotmobId": 1531100,
       "number": 30,
-      "name": "Dani Martinez",
+      "name": "Dani Martínez",
       "position": "MIDFIELDER",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1531100.png"
@@ -737,7 +737,7 @@
     {
       "fotmobId": 282462,
       "number": 16,
-      "name": "Íñigo Ruiz de Galarreta",
+      "name": "Íñigo Ruíz de Galarreta",
       "position": "DM",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/282462.png"
@@ -891,7 +891,7 @@
     {
       "fotmobId": 1187044,
       "number": 1,
-      "name": "Luiz Júnior",
+      "name": "Luíz Júnior",
       "position": "GK",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1187044.png"
@@ -1025,6 +1025,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1184694.png"
     },
     {
+      "fotmobId": 1695966,
+      "number": 5,
+      "name": "Alassane Diatta",
+      "position": "MIDFIELDER",
+      "nationality": "Senegal",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1695966.png"
+    },
+    {
       "fotmobId": 2141015,
       "number": 30,
       "name": "Cheikh Tidiane Thiam",
@@ -1097,6 +1105,14 @@
       "position": "GK",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1022354.png"
+    },
+    {
+      "fotmobId": 1674892,
+      "number": 31,
+      "name": "Manu González",
+      "position": "GK",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1674892.png"
     },
     {
       "fotmobId": 1928170,
@@ -1299,6 +1315,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1072200.png"
     },
     {
+      "fotmobId": 1793845,
+      "number": 27,
+      "name": "José Antonio Morante",
+      "position": "LW",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1793845.png"
+    },
+    {
       "fotmobId": 852071,
       "number": 9,
       "name": "Juan Hernández",
@@ -1327,7 +1351,7 @@
     {
       "fotmobId": 866967,
       "number": 1,
-      "name": "Altay Bayindir",
+      "name": "Altay Bayındır",
       "position": "GK",
       "nationality": "Türkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/866967.png"
@@ -1335,7 +1359,7 @@
     {
       "fotmobId": 681213,
       "number": 13,
-      "name": "Ionut Radu",
+      "name": "Ionuț Radu",
       "position": "GK",
       "nationality": "Romania",
       "photo": "https://images.fotmob.com/image_resources/playerimages/681213.png"
@@ -1437,6 +1461,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/671686.png"
     },
     {
+      "fotmobId": 1825995,
+      "number": 30,
+      "name": "Hugo Burcio",
+      "position": "CM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1825995.png"
+    },
+    {
       "fotmobId": 1310440,
       "number": 17,
       "name": "Javi Rueda",
@@ -1463,7 +1495,7 @@
     {
       "fotmobId": 1310118,
       "number": null,
-      "name": "Stefan Bajcetic",
+      "name": "Stefan Bajčetić",
       "position": "MIDFIELDER",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1310118.png"
@@ -1483,14 +1515,6 @@
       "position": "RW",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1226783.png"
-    },
-    {
-      "fotmobId": 1515132,
-      "number": null,
-      "name": "Hugo Cuenca",
-      "position": "RW",
-      "nationality": "Paraguay",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1515132.png"
     },
     {
       "fotmobId": 1272740,
@@ -1585,7 +1609,7 @@
     {
       "fotmobId": 970578,
       "number": 2,
-      "name": "Andrei Ratiu",
+      "name": "Andrei Rațiu",
       "position": "RB",
       "nationality": "Romania",
       "photo": "https://images.fotmob.com/image_resources/playerimages/970578.png"
@@ -1657,7 +1681,7 @@
     {
       "fotmobId": 1662963,
       "number": 26,
-      "name": "Marco de Las Sias",
+      "name": "Marco de Las Sías",
       "position": "LB",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1662963.png"
@@ -1873,6 +1897,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1603025.png"
     },
     {
+      "fotmobId": 1682298,
+      "number": null,
+      "name": "Unai Santos",
+      "position": "CB",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1682298.png"
+    },
+    {
       "fotmobId": 488718,
       "number": 15,
       "name": "Diego Rico",
@@ -2013,7 +2045,7 @@
     {
       "fotmobId": 1467806,
       "number": 31,
-      "name": "Grégoire Swiderski",
+      "name": "Grégoire Świderski",
       "position": "GK",
       "nationality": "Canada",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1467806.png"
@@ -2073,14 +2105,6 @@
       "position": "CB",
       "nationality": "Uruguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/799914.png"
-    },
-    {
-      "fotmobId": 16412,
-      "number": null,
-      "name": "Nikola Maras",
-      "position": "CB",
-      "nationality": "Serbia",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/16412.png"
     },
     {
       "fotmobId": 1403692,
@@ -2211,16 +2235,8 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1678688.png"
     },
     {
-      "fotmobId": 1418118,
-      "number": 29,
-      "name": "Diego Morcillo",
-      "position": "RW",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1418118.png"
-    },
-    {
       "fotmobId": 1859185,
-      "number": 32,
+      "number": 29,
       "name": "Izei Hernández",
       "position": "RW",
       "nationality": "Spain",
@@ -2327,7 +2343,7 @@
     {
       "fotmobId": 1670276,
       "number": 26,
-      "name": "Matia Barzic",
+      "name": "Matia Barzić",
       "position": "CB",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1670276.png"
@@ -2389,6 +2405,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1670281.png"
     },
     {
+      "fotmobId": 1732412,
+      "number": 47,
+      "name": "Javi Morcillo",
+      "position": "CM",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1732412.png"
+    },
+    {
       "fotmobId": 801213,
       "number": 20,
       "name": "Tete Morente",
@@ -2423,7 +2447,7 @@
     {
       "fotmobId": 1692188,
       "number": 27,
-      "name": "Albert Niculaesei",
+      "name": "Albert Niculăesei",
       "position": "MIDFIELDER",
       "nationality": "Romania",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1692188.png"
@@ -2447,18 +2471,10 @@
     {
       "fotmobId": 1899812,
       "number": 43,
-      "name": "Alex Herraiz",
+      "name": "Alex Herráiz",
       "position": "MIDFIELDER",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1899812.png"
-    },
-    {
-      "fotmobId": 1732412,
-      "number": 47,
-      "name": "Javi Morcillo",
-      "position": "MIDFIELDER",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1732412.png"
     },
     {
       "fotmobId": 623982,
@@ -2725,6 +2741,14 @@
       "position": "MIDFIELDER",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/2110836.png"
+    },
+    {
+      "fotmobId": 1694764,
+      "number": null,
+      "name": "Oscar Lopez",
+      "position": "MIDFIELDER",
+      "nationality": "Bolivia",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1694764.png"
     },
     {
       "fotmobId": 1183650,
@@ -3211,6 +3235,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1220748.png"
     },
     {
+      "fotmobId": 1288506,
+      "number": 15,
+      "name": "Moussa Diarra",
+      "position": "MIDFIELDER",
+      "nationality": "Mali",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1288506.png"
+    },
+    {
       "fotmobId": 1690283,
       "number": null,
       "name": "Antonito",
@@ -3219,28 +3251,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1690283.png"
     },
     {
-      "fotmobId": 1288506,
-      "number": null,
-      "name": "Moussa Diarra",
-      "position": "MIDFIELDER",
-      "nationality": "Mali",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1288506.png"
-    },
-    {
       "fotmobId": 940608,
       "number": 19,
       "name": "Juan Cruz",
       "position": "RW",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/940608.png"
-    },
-    {
-      "fotmobId": 1409822,
-      "number": 33,
-      "name": "Alexis Chamorro",
-      "position": "RW",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1409822.png"
     },
     {
       "fotmobId": 1098594,
@@ -3302,7 +3318,7 @@
     },
     {
       "fotmobId": 1810878,
-      "number": 35,
+      "number": 31,
       "name": "Laro Gómez",
       "position": "GK",
       "nationality": "Spain",
@@ -3521,7 +3537,7 @@
     {
       "fotmobId": 280818,
       "number": 13,
-      "name": "Marko Dmitrovic",
+      "name": "Marko Dmitrović",
       "position": "GK",
       "nationality": "Serbia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/280818.png"
@@ -3577,7 +3593,7 @@
     {
       "fotmobId": 955204,
       "number": 16,
-      "name": "Vanja Drkusic",
+      "name": "Vanja Drkušić",
       "position": "CB",
       "nationality": "Slovenia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/955204.png"
@@ -3809,14 +3825,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1697334.png"
     },
     {
-      "fotmobId": 1611191,
-      "number": null,
-      "name": "Kazunari Kita",
-      "position": "CB",
-      "nationality": "Japan",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1611191.png"
-    },
-    {
       "fotmobId": 999159,
       "number": 3,
       "name": "Aihen Muñoz",
@@ -3875,18 +3883,10 @@
     {
       "fotmobId": 959597,
       "number": 24,
-      "name": "Luka Sucic",
+      "name": "Luka Sučić",
       "position": "AM",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/959597.png"
-    },
-    {
-      "fotmobId": 1473997,
-      "number": 33,
-      "name": "Inaki Rupérez",
-      "position": "MIDFIELDER",
-      "nationality": "Spain",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1473997.png"
     },
     {
       "fotmobId": 848289,
@@ -4105,6 +4105,14 @@
       "position": "MIDFIELDER",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1783498.png"
+    },
+    {
+      "fotmobId": 2336016,
+      "number": 34,
+      "name": "Mario Diaz",
+      "position": "MIDFIELDER",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2336016.png"
     },
     {
       "fotmobId": 837270,
@@ -4371,6 +4379,14 @@
       "position": "RW",
       "nationality": "Spain",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1600732.png"
+    },
+    {
+      "fotmobId": 1793871,
+      "number": null,
+      "name": "Aimar",
+      "position": "RW",
+      "nationality": "Spain",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1793871.png"
     },
     {
       "fotmobId": 673937,

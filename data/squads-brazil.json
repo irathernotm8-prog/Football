@@ -289,14 +289,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1927890.png"
     },
     {
-      "fotmobId": 1463337,
-      "number": 11,
-      "name": "Isaac",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1463337.png"
-    },
-    {
       "fotmobId": 1285541,
       "number": 18,
       "name": "Kerwin Vargas",
@@ -443,14 +435,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/844161.png"
     },
     {
-      "fotmobId": 1073724,
-      "number": 21,
-      "name": "Santiago Ramos Mingo",
-      "position": "CB",
-      "nationality": "Argentina",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1073724.png"
-    },
-    {
       "fotmobId": 638782,
       "number": 33,
       "name": "David Duarte",
@@ -537,6 +521,14 @@
       "position": "CM",
       "nationality": "Uruguay",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1020027.png"
+    },
+    {
+      "fotmobId": 1515144,
+      "number": null,
+      "name": "Lautaro López",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1515144.png"
     },
     {
       "fotmobId": 1652050,
@@ -643,14 +635,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1664010.png"
     },
     {
-      "fotmobId": 1928478,
-      "number": 90,
-      "name": "Caio Suassuna",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1928478.png"
-    },
-    {
       "fotmobId": 1136409,
       "number": 99,
       "name": "Cristian Olivera",
@@ -677,7 +661,7 @@
     {
       "fotmobId": 1250658,
       "number": 9,
-      "name": "Alejo Veliz",
+      "name": "Alejo Véliz",
       "position": "ST",
       "nationality": "Argentina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1250658.png"
@@ -773,6 +757,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1734556.png"
     },
     {
+      "fotmobId": 1355636,
+      "number": 3,
+      "name": "Arthur Chaves",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1355636.png"
+    },
+    {
       "fotmobId": 847910,
       "number": 5,
       "name": "Nahuel Ferraresi",
@@ -811,14 +803,6 @@
       "position": "CB",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1793991.png"
-    },
-    {
-      "fotmobId": 1355636,
-      "number": null,
-      "name": "Arthur Chaves",
-      "position": "CB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1355636.png"
     },
     {
       "fotmobId": 428672,
@@ -1029,6 +1013,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/929219.png"
     },
     {
+      "fotmobId": 360559,
+      "number": 22,
+      "name": "Hakim Ziyech",
+      "position": "RW",
+      "nationality": "Morocco",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/360559.png"
+    },
+    {
       "fotmobId": 1928491,
       "number": 49,
       "name": "Felipe Januário",
@@ -1069,12 +1061,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1817873.png"
     },
     {
-      "fotmobId": 931862,
+      "fotmobId": 614970,
       "number": 9,
-      "name": "Danilo",
+      "name": "Tiquinho Soares",
       "position": "ST",
       "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/931862.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/614970.png"
     },
     {
       "fotmobId": 670948,
@@ -1101,12 +1093,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1899359.png"
     },
     {
-      "fotmobId": 614970,
-      "number": null,
-      "name": "Tiquinho Soares",
+      "fotmobId": 931862,
+      "number": 90,
+      "name": "Danilo",
       "position": "ST",
       "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/614970.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/931862.png"
     }
   ],
   "Chapecoense": [
@@ -1165,6 +1157,14 @@
       "position": "RB",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/979414.png"
+    },
+    {
+      "fotmobId": 802579,
+      "number": 23,
+      "name": "Dudu",
+      "position": "RB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/802579.png"
     },
     {
       "fotmobId": 1437480,
@@ -1351,6 +1351,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1931729.png"
     },
     {
+      "fotmobId": 1793366,
+      "number": 55,
+      "name": "Rosivan",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1793366.png"
+    },
+    {
       "fotmobId": 2096677,
       "number": 66,
       "name": "Juan",
@@ -1487,14 +1495,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1642126.png"
     },
     {
-      "fotmobId": 1174685,
-      "number": 97,
-      "name": "Ênio",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1174685.png"
-    },
-    {
       "fotmobId": 1967839,
       "number": null,
       "name": "Alberto",
@@ -1549,14 +1549,6 @@
       "position": "ST",
       "nationality": "Congo DR",
       "photo": "https://images.fotmob.com/image_resources/playerimages/160194.png"
-    },
-    {
-      "fotmobId": 1248050,
-      "number": 18,
-      "name": "Neto Pessoa",
-      "position": "ST",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1248050.png"
     },
     {
       "fotmobId": 1456400,
@@ -1665,6 +1657,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1503653.png"
     },
     {
+      "fotmobId": 1946522,
+      "number": 55,
+      "name": "Iago Machado",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1946522.png"
+    },
+    {
       "fotmobId": 1130833,
       "number": 21,
       "name": "Matheus Bidu",
@@ -1767,14 +1767,6 @@
       "position": "MIDFIELDER",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1787797.png"
-    },
-    {
-      "fotmobId": 1946522,
-      "number": 55,
-      "name": "Iago Machado",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1946522.png"
     },
     {
       "fotmobId": 1812271,
@@ -1979,20 +1971,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1509085.png"
     },
     {
-      "fotmobId": 1211858,
-      "number": 12,
-      "name": "Pedro Rangel",
-      "position": "GK",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1211858.png"
-    },
-    {
       "fotmobId": 750108,
       "number": 13,
       "name": "Keiller",
       "position": "GK",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/750108.png"
+    },
+    {
+      "fotmobId": 1211858,
+      "number": 22,
+      "name": "Pedro Rangel",
+      "position": "GK",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1211858.png"
     },
     {
       "fotmobId": 1639466,
@@ -2019,12 +2011,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/535801.png"
     },
     {
-      "fotmobId": 1636512,
-      "number": 44,
-      "name": "João Pedro Chermont",
+      "fotmobId": 798148,
+      "number": 14,
+      "name": "Fabricio Bustos",
       "position": "RB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1636512.png"
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/798148.png"
     },
     {
       "fotmobId": 150041,
@@ -2067,20 +2059,28 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/941736.png"
     },
     {
-      "fotmobId": 1734201,
-      "number": 16,
-      "name": "João Almeida",
-      "position": "LB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1734201.png"
-    },
-    {
       "fotmobId": 789790,
       "number": 26,
       "name": "Bruno Melo",
       "position": "LB",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/789790.png"
+    },
+    {
+      "fotmobId": 1436239,
+      "number": 66,
+      "name": "Rodrigo Gelado",
+      "position": "LB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1436239.png"
+    },
+    {
+      "fotmobId": 950599,
+      "number": 5,
+      "name": "Nicolás Fonseca",
+      "position": "DM",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/950599.png"
     },
     {
       "fotmobId": 927094,
@@ -2139,6 +2139,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/2096660.png"
     },
     {
+      "fotmobId": 882625,
+      "number": 25,
+      "name": "Richard",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/882625.png"
+    },
+    {
       "fotmobId": 2180446,
       "number": 30,
       "name": "Khensane",
@@ -2179,20 +2187,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1927895.png"
     },
     {
+      "fotmobId": 2189813,
+      "number": null,
+      "name": "Gabriel Ibson",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2189813.png"
+    },
+    {
       "fotmobId": 1931738,
       "number": null,
       "name": "Miguel Silva",
       "position": "MIDFIELDER",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1931738.png"
-    },
-    {
-      "fotmobId": 882625,
-      "number": null,
-      "name": "Richard",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/882625.png"
     },
     {
       "fotmobId": 1354491,
@@ -2389,6 +2397,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1185338.png"
     },
     {
+      "fotmobId": 840184,
+      "number": 6,
+      "name": "Matías Viña",
+      "position": "LB",
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/840184.png"
+    },
+    {
       "fotmobId": 805540,
       "number": 27,
       "name": "Gabriel Rojas",
@@ -2557,14 +2573,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1950783.png"
     },
     {
-      "fotmobId": 1565753,
-      "number": 67,
-      "name": "Ruan Índio",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1565753.png"
-    },
-    {
       "fotmobId": 1090238,
       "number": 77,
       "name": "Gabriel Pec",
@@ -2579,14 +2587,6 @@
       "position": "RW",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1848717.png"
-    },
-    {
-      "fotmobId": 1950764,
-      "number": 80,
-      "name": "Pablo",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1950764.png"
     },
     {
       "fotmobId": 1626714,
@@ -2643,14 +2643,6 @@
       "position": "ST",
       "nationality": "Colombia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1680191.png"
-    },
-    {
-      "fotmobId": 923766,
-      "number": 91,
-      "name": "Chico da Costa",
-      "position": "ST",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/923766.png"
     },
     {
       "fotmobId": 1285291,
@@ -2871,14 +2863,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1927461.png"
     },
     {
-      "fotmobId": 1435445,
-      "number": 99,
-      "name": "Lorran",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1435445.png"
-    },
-    {
       "fotmobId": 750913,
       "number": 7,
       "name": "Luiz Araújo",
@@ -2925,14 +2909,6 @@
       "position": "RW",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1839360.png"
-    },
-    {
-      "fotmobId": 528348,
-      "number": 11,
-      "name": "Everton",
-      "position": "LW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/528348.png"
     },
     {
       "fotmobId": 1082941,
@@ -3145,6 +3121,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/536647.png"
     },
     {
+      "fotmobId": 1440050,
+      "number": null,
+      "name": "Stiven Jimenez",
+      "position": "CM",
+      "nationality": "USA",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1440050.png"
+    },
+    {
       "fotmobId": 127400,
       "number": 10,
       "name": "Ganso",
@@ -3185,6 +3169,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1746719.png"
     },
     {
+      "fotmobId": 1950749,
+      "number": 41,
+      "name": "Ruan Sales",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1950749.png"
+    },
+    {
       "fotmobId": 1946397,
       "number": 46,
       "name": "Kaio Borges",
@@ -3209,14 +3201,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1946401.png"
     },
     {
-      "fotmobId": 1950749,
-      "number": 51,
-      "name": "Ruan Sales",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1950749.png"
-    },
-    {
       "fotmobId": 1946402,
       "number": 52,
       "name": "Breno",
@@ -3231,6 +3215,14 @@
       "position": "MIDFIELDER",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1927902.png"
+    },
+    {
+      "fotmobId": 1739949,
+      "number": null,
+      "name": "Léo Jance",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1739949.png"
     },
     {
       "fotmobId": 840212,
@@ -3493,7 +3485,7 @@
     {
       "fotmobId": 443518,
       "number": 10,
-      "name": "Filip Krovinovic",
+      "name": "Filip Krovinović",
       "position": "DM",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/443518.png"
@@ -3973,14 +3965,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1733292.png"
     },
     {
-      "fotmobId": 1931764,
-      "number": 50,
-      "name": "Kauan Alves",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1931764.png"
-    },
-    {
       "fotmobId": 1931734,
       "number": 51,
       "name": "João Kempes",
@@ -4271,36 +4255,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/174062.png"
     },
     {
-      "fotmobId": 1928493,
-      "number": 35,
-      "name": "Luiz Fernando",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1928493.png"
-    },
-    {
-      "fotmobId": 1931801,
-      "number": 45,
-      "name": "Cauã Victor",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1931801.png"
-    },
-    {
       "fotmobId": 1931769,
       "number": 53,
       "name": "Marcelinho",
       "position": "MIDFIELDER",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1931769.png"
-    },
-    {
-      "fotmobId": 1944690,
-      "number": null,
-      "name": "Giovanni Pacheco",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1944690.png"
     },
     {
       "fotmobId": 1355858,
@@ -4351,6 +4311,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1032785.png"
     },
     {
+      "fotmobId": 896485,
+      "number": 9,
+      "name": "André Luís",
+      "position": "ST",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/896485.png"
+    },
+    {
       "fotmobId": 1121567,
       "number": 30,
       "name": "Bruno Santos",
@@ -4359,12 +4327,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1121567.png"
     },
     {
-      "fotmobId": 896485,
+      "fotmobId": 535592,
       "number": 99,
-      "name": "André Luís",
+      "name": "Zé Roberto",
       "position": "ST",
       "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/896485.png"
+      "photo": "https://images.fotmob.com/image_resources/playerimages/535592.png"
     }
   ],
   "Palmeiras": [
@@ -4901,7 +4869,7 @@
     {
       "fotmobId": 1944619,
       "number": 63,
-      "name": "Andres Gonzalez",
+      "name": "Andrés González",
       "position": "RW",
       "nationality": "Colombia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1944619.png"
@@ -5013,20 +4981,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/916348.png"
     },
     {
+      "fotmobId": 400256,
+      "number": 23,
+      "name": "Rodinei",
+      "position": "RB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/400256.png"
+    },
+    {
       "fotmobId": 1137671,
       "number": 25,
       "name": "Gabriel Menino",
       "position": "RB",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1137671.png"
-    },
-    {
-      "fotmobId": 400256,
-      "number": null,
-      "name": "Rodinei",
-      "position": "RB",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/400256.png"
     },
     {
       "fotmobId": 699694,
@@ -5139,6 +5107,14 @@
       "position": "AM",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/671606.png"
+    },
+    {
+      "fotmobId": 184536,
+      "number": null,
+      "name": "Philippe Coutinho",
+      "position": "AM",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/184536.png"
     },
     {
       "fotmobId": 1927463,
@@ -5301,6 +5277,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1958008.png"
     },
     {
+      "fotmobId": 528348,
+      "number": 7,
+      "name": "Everton",
+      "position": "LW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/528348.png"
+    },
+    {
       "fotmobId": 1172406,
       "number": 21,
       "name": "Moisés",
@@ -5407,6 +5391,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/767716.png"
     },
     {
+      "fotmobId": 1610952,
+      "number": 32,
+      "name": "Pedro Lima",
+      "position": "RB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1610952.png"
+    },
+    {
       "fotmobId": 127374,
       "number": 2,
       "name": "Rafael Tolói",
@@ -5501,14 +5493,6 @@
       "position": "DM",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1313924.png"
-    },
-    {
-      "fotmobId": 950919,
-      "number": 33,
-      "name": "Luan Silva",
-      "position": "DM",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/950919.png"
     },
     {
       "fotmobId": 1898791,
@@ -5833,6 +5817,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/834032.png"
     },
     {
+      "fotmobId": 1288187,
+      "number": 55,
+      "name": "Gabriel Pereira",
+      "position": "CB",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1288187.png"
+    },
+    {
       "fotmobId": 1045161,
       "number": 6,
       "name": "Lucas Piton",
@@ -5897,6 +5889,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/958860.png"
     },
     {
+      "fotmobId": 1342579,
+      "number": 22,
+      "name": "Alan Lescano",
+      "position": "CM",
+      "nationality": "Argentina",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1342579.png"
+    },
+    {
       "fotmobId": 1433058,
       "number": 10,
       "name": "Johan Rojas",
@@ -5951,14 +5951,6 @@
       "position": "MIDFIELDER",
       "nationality": "Brazil",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1950792.png"
-    },
-    {
-      "fotmobId": 1950794,
-      "number": 67,
-      "name": "Samuel de Jesus",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1950794.png"
     },
     {
       "fotmobId": 1816824,
@@ -6355,6 +6347,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/693601.png"
     },
     {
+      "fotmobId": 1682810,
+      "number": 3,
+      "name": "Darlan",
+      "position": "MIDFIELDER",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1682810.png"
+    },
+    {
       "fotmobId": 1185179,
       "number": 16,
       "name": "Rúben Ismael",
@@ -6443,14 +6443,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1944712.png"
     },
     {
-      "fotmobId": 1797941,
-      "number": 70,
-      "name": "Cauan de Jesus",
-      "position": "MIDFIELDER",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1797941.png"
-    },
-    {
       "fotmobId": 1905682,
       "number": null,
       "name": "Guilherme Inácio",
@@ -6491,14 +6483,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/864464.png"
     },
     {
-      "fotmobId": 1797934,
-      "number": 36,
-      "name": "Kauan Vitor",
-      "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1797934.png"
-    },
-    {
       "fotmobId": 1797935,
       "number": 49,
       "name": "Marquinhos",
@@ -6507,12 +6491,12 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1797935.png"
     },
     {
-      "fotmobId": 1944639,
-      "number": 68,
-      "name": "Ruan Gabriel",
+      "fotmobId": 971433,
+      "number": null,
+      "name": "Ignacio Laquintana",
       "position": "RW",
-      "nationality": "Brazil",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1944639.png"
+      "nationality": "Uruguay",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/971433.png"
     },
     {
       "fotmobId": 637585,

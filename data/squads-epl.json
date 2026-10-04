@@ -363,6 +363,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1593857.png"
     },
     {
+      "fotmobId": 1656860,
+      "number": 47,
+      "name": "Alysson Edward",
+      "position": "RW",
+      "nationality": "Brazil",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1656860.png"
+    },
+    {
       "fotmobId": 610184,
       "number": 10,
       "name": "Emiliano Buendía",
@@ -407,7 +415,7 @@
     {
       "fotmobId": 1067256,
       "number": 1,
-      "name": "Djordje Petrovic",
+      "name": "Djordje Petrović",
       "position": "GK",
       "nationality": "Serbia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1067256.png"
@@ -427,6 +435,14 @@
       "position": "GK",
       "nationality": "Italy",
       "photo": "https://images.fotmob.com/image_resources/playerimages/766062.png"
+    },
+    {
+      "fotmobId": 2251528,
+      "number": 55,
+      "name": "Mack Allan",
+      "position": "GK",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/2251528.png"
     },
     {
       "fotmobId": 1158512,
@@ -487,7 +503,7 @@
     {
       "fotmobId": 1666977,
       "number": 44,
-      "name": "Veljko Milosavljevic",
+      "name": "Veljko Milosavljević",
       "position": "CB",
       "nationality": "Serbia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1666977.png"
@@ -931,7 +947,7 @@
     {
       "fotmobId": 1413996,
       "number": 44,
-      "name": "Luka Vuskovic",
+      "name": "Luka Vušković",
       "position": "CB",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1413996.png"
@@ -947,7 +963,7 @@
     {
       "fotmobId": 774448,
       "number": 24,
-      "name": "Ferdi Kadioglu",
+      "name": "Ferdi Kadıoğlu",
       "position": "LB",
       "nationality": "Türkiye",
       "photo": "https://images.fotmob.com/image_resources/playerimages/774448.png"
@@ -1125,7 +1141,7 @@
     {
       "fotmobId": 1031220,
       "number": 44,
-      "name": "Gabriel Slonina",
+      "name": "Gabriel Słonina",
       "position": "GK",
       "nationality": "United States",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1031220.png"
@@ -1373,6 +1389,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1161885.png"
     },
     {
+      "fotmobId": 1613300,
+      "number": 12,
+      "name": "Stephen Mfuni",
+      "position": "CB",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1613300.png"
+    },
+    {
       "fotmobId": 863822,
       "number": 22,
       "name": "Joel Latibeaudiere",
@@ -1395,14 +1419,6 @@
       "position": "CB",
       "nationality": "England",
       "photo": "https://images.fotmob.com/image_resources/playerimages/866688.png"
-    },
-    {
-      "fotmobId": 1613300,
-      "number": null,
-      "name": "Stephen Mfuni",
-      "position": "CB",
-      "nationality": "England",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1613300.png"
     },
     {
       "fotmobId": 759814,
@@ -1470,7 +1486,7 @@
     },
     {
       "fotmobId": 955411,
-      "number": null,
+      "number": 34,
       "name": "Yann Gboho",
       "position": "AM",
       "nationality": "Ivory Coast",
@@ -1486,7 +1502,7 @@
     },
     {
       "fotmobId": 1283034,
-      "number": 18,
+      "number": 17,
       "name": "Loum Tchaouna",
       "position": "RW",
       "nationality": "France",
@@ -1623,20 +1639,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/664444.png"
     },
     {
+      "fotmobId": 1669629,
+      "number": 21,
+      "name": "Honest Ahanor",
+      "position": "CB",
+      "nationality": "Italy",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1669629.png"
+    },
+    {
       "fotmobId": 950829,
       "number": 26,
       "name": "Chris Richards",
       "position": "CB",
       "nationality": "United States",
       "photo": "https://images.fotmob.com/image_resources/playerimages/950829.png"
-    },
-    {
-      "fotmobId": 1669629,
-      "number": null,
-      "name": "Honest Ahanor",
-      "position": "CB",
-      "nationality": "Italy",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1669629.png"
     },
     {
       "fotmobId": 672469,
@@ -1905,6 +1921,14 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1128965.png"
     },
     {
+      "fotmobId": 1748061,
+      "number": 76,
+      "name": "Malik Olayiwola",
+      "position": "AM",
+      "nationality": "England",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1748061.png"
+    },
+    {
       "fotmobId": 1292833,
       "number": 20,
       "name": "Tyler Dibling",
@@ -1927,6 +1951,14 @@
       "position": "LW",
       "nationality": "England",
       "photo": "https://images.fotmob.com/image_resources/playerimages/312765.png"
+    },
+    {
+      "fotmobId": 1589726,
+      "number": 58,
+      "name": "Braiden Graham",
+      "position": "LW",
+      "nationality": "Northern Ireland",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1589726.png"
     },
     {
       "fotmobId": 1398392,
@@ -2373,14 +2405,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1231090.png"
     },
     {
-      "fotmobId": 656495,
-      "number": 30,
-      "name": "David Akintola",
-      "position": "RW",
-      "nationality": "Nigeria",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/656495.png"
-    },
-    {
       "fotmobId": 704138,
       "number": 33,
       "name": "Abdülkadir Ömür",
@@ -2529,7 +2553,7 @@
     {
       "fotmobId": 556972,
       "number": 23,
-      "name": "Sasa Lukic",
+      "name": "Saša Lukić",
       "position": "DM",
       "nationality": "Serbia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/556972.png"
@@ -2691,7 +2715,7 @@
     {
       "fotmobId": 1250485,
       "number": 5,
-      "name": "Tarik Muharemovic",
+      "name": "Tarik Muharemović",
       "position": "CB",
       "nationality": "Bosnia-Herzegovina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1250485.png"
@@ -2877,7 +2901,7 @@
     {
       "fotmobId": 1068920,
       "number": 56,
-      "name": "Vítezslav Jaros",
+      "name": "Vítezslav Jaroš",
       "position": "GK",
       "nationality": "Czech Republic",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1068920.png"
@@ -2949,7 +2973,7 @@
     {
       "fotmobId": 1195281,
       "number": 6,
-      "name": "Milos Kerkez",
+      "name": "Miloš Kerkez",
       "position": "LB",
       "nationality": "Hungary",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1195281.png"
@@ -3043,20 +3067,20 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1297165.png"
     },
     {
+      "fotmobId": 1364042,
+      "number": 67,
+      "name": "Lewis Koumas",
+      "position": "LW",
+      "nationality": "Wales",
+      "photo": "https://images.fotmob.com/image_resources/playerimages/1364042.png"
+    },
+    {
       "fotmobId": 1597668,
       "number": 73,
       "name": "Rio Ngumoha",
       "position": "LW",
       "nationality": "England",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1597668.png"
-    },
-    {
-      "fotmobId": 1364042,
-      "number": null,
-      "name": "Lewis Koumas",
-      "position": "LW",
-      "nationality": "Wales",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1364042.png"
     },
     {
       "fotmobId": 690107,
@@ -3143,7 +3167,7 @@
     {
       "fotmobId": 1070712,
       "number": 24,
-      "name": "Josko Gvardiol",
+      "name": "Joško Gvardiol",
       "position": "CB",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1070712.png"
@@ -3191,7 +3215,7 @@
     {
       "fotmobId": 239219,
       "number": 8,
-      "name": "Mateo Kovacic",
+      "name": "Mateo Kovačić",
       "position": "DM",
       "nationality": "Croatia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/239219.png"
@@ -3513,7 +3537,7 @@
     {
       "fotmobId": 1073977,
       "number": 30,
-      "name": "Benjamin Sesko",
+      "name": "Benjamin Šeško",
       "position": "ST",
       "nationality": "Slovenia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1073977.png"
@@ -3563,7 +3587,7 @@
     {
       "fotmobId": 958010,
       "number": 37,
-      "name": "Amar Dedic",
+      "name": "Amar Dedić",
       "position": "RB",
       "nationality": "Bosnia and Herzegovina",
       "photo": "https://images.fotmob.com/image_resources/playerimages/958010.png"
@@ -3805,7 +3829,7 @@
     {
       "fotmobId": 766611,
       "number": 31,
-      "name": "Nikola Milenkovic",
+      "name": "Nikola Milenković",
       "position": "CB",
       "nationality": "Serbia",
       "photo": "https://images.fotmob.com/image_resources/playerimages/766611.png"
@@ -3921,14 +3945,6 @@
       "position": "ST",
       "nationality": "England",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1113903.png"
-    },
-    {
-      "fotmobId": 1844097,
-      "number": 60,
-      "name": "Grady McDonnell",
-      "position": "Defender",
-      "nationality": "Ireland",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1844097.png"
     }
   ],
   "Sunderland": [
@@ -4101,14 +4117,6 @@
       "photo": "https://images.fotmob.com/image_resources/playerimages/1327319.png"
     },
     {
-      "fotmobId": 1690655,
-      "number": 37,
-      "name": "Jocelin Ta Bi",
-      "position": "RW",
-      "nationality": "Ivory Coast",
-      "photo": "https://images.fotmob.com/image_resources/playerimages/1690655.png"
-    },
-    {
       "fotmobId": 1239583,
       "number": 46,
       "name": "Abdoullah Ba",
@@ -4169,7 +4177,7 @@
     {
       "fotmobId": 1341475,
       "number": 31,
-      "name": "Antonín Kinsky",
+      "name": "Antonín Kinský",
       "position": "GK",
       "nationality": "Czech Republic",
       "photo": "https://images.fotmob.com/image_resources/playerimages/1341475.png"
