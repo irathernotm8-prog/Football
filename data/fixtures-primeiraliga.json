@@ -175,9 +175,9 @@
     "venue": "Estádio Municipal de Braga",
     "home": "SC Braga",
     "away": "Gil Vicente FC",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5887594,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 3,
@@ -635,9 +635,9 @@
     "venue": "Parque Desportivo Comendador Joaquim de Almeida Fr",
     "home": "Moreirense FC",
     "away": "Gil Vicente FC",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5887651,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -645,19 +645,9 @@
     "venue": "Estádio Municipal de Braga",
     "home": "SC Braga",
     "away": "Sporting CP",
-    "result": null,
+    "result": "1-3",
     "fotmobId": 5887647,
-    "status": "scheduled"
-  },
-  {
-    "round": 8,
-    "dateUtc": "2026-10-10T14:30:00Z",
-    "venue": "Estádio Municipal de Rio Maior",
-    "home": "Casa Pia AC",
-    "away": "Santa Clara",
-    "result": null,
-    "fotmobId": 5887648,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -665,9 +655,9 @@
     "venue": "Estádio do Marítimo",
     "home": "Marítimo M.",
     "away": "FC Porto",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5887650,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -675,9 +665,19 @@
     "venue": "Estádio Municipal do Fontelo",
     "home": "Académico",
     "away": "Estoril Praia",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5887645,
-    "status": "scheduled"
+    "status": "finished"
+  },
+  {
+    "round": 8,
+    "dateUtc": "2026-10-10T19:30:00Z",
+    "venue": "Estádio Municipal de Rio Maior",
+    "home": "Casa Pia AC",
+    "away": "Santa Clara",
+    "result": "0-1",
+    "fotmobId": 5887648,
+    "status": "finished"
   },
   {
     "round": 8,
@@ -685,9 +685,9 @@
     "venue": "Estádio do Rio Ave Futebol Clube",
     "home": "Rio Ave FC",
     "away": "CD Nacional",
-    "result": null,
+    "result": "3-2",
     "fotmobId": 5887652,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -695,9 +695,9 @@
     "venue": "Estádio do Sport Lisboa e Benfica",
     "home": "SL Benfica",
     "away": "Vitória SC",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5887653,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -705,9 +705,9 @@
     "venue": "Estádio Municipal de Arouca",
     "home": "FC Arouca",
     "away": "Estrela Amadora",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5887646,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -715,9 +715,9 @@
     "venue": "Estádio Municipal de Famalicão",
     "home": "FC Famalicão",
     "away": "FC Alverca",
-    "result": null,
+    "result": "1-4",
     "fotmobId": 5887649,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,

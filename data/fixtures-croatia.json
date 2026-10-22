@@ -406,8 +406,8 @@
     "venue": null,
     "home": "Gorica",
     "away": "Rudeš",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5765935,
@@ -416,8 +416,8 @@
     "venue": null,
     "home": "Hajduk Split",
     "away": "Dinamo Zagreb",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5765937,
@@ -426,8 +426,8 @@
     "venue": null,
     "home": "Osijek",
     "away": "Istra 1961",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5765936,
@@ -436,8 +436,8 @@
     "venue": null,
     "home": "Lokomotiva Zagreb",
     "away": "Varaždin",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5765938,
@@ -446,8 +446,8 @@
     "venue": null,
     "home": "Slaven Belupo",
     "away": "Rijeka",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5765942,
@@ -456,8 +456,8 @@
     "venue": null,
     "home": "Rudeš",
     "away": "Rijeka",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5765940,
@@ -466,8 +466,8 @@
     "venue": null,
     "home": "Lokomotiva Zagreb",
     "away": "Istra 1961",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5765941,
@@ -476,8 +476,8 @@
     "venue": null,
     "home": "Osijek",
     "away": "Gorica",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5765939,
@@ -486,8 +486,8 @@
     "venue": null,
     "home": "Hajduk Split",
     "away": "Varaždin",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5765943,
@@ -496,23 +496,13 @@
     "venue": null,
     "home": "Slaven Belupo",
     "away": "Dinamo Zagreb",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5765944,
-    "round": 11,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Dinamo Zagreb",
-    "away": "Rijeka",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-5",
+    "status": "finished"
   },
   {
     "fotmobId": 5765945,
     "round": 11,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T13:00:00Z",
     "venue": null,
     "home": "Gorica",
     "away": "Lokomotiva Zagreb",
@@ -520,29 +510,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5765946,
-    "round": 11,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Istra 1961",
-    "away": "Hajduk Split",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5765947,
-    "round": 11,
-    "dateUtc": "2026-10-24T15:00:00Z",
-    "venue": null,
-    "home": "Osijek",
-    "away": "Rudeš",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5765948,
     "round": 11,
-    "dateUtc": "2026-10-24T15:00:00Z",
+    "dateUtc": "2026-10-24T16:00:00Z",
     "venue": null,
     "home": "Varaždin",
     "away": "Slaven Belupo",
@@ -550,49 +520,39 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5765949,
-    "round": 12,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "fotmobId": 5765947,
+    "round": 11,
+    "dateUtc": "2026-10-25T17:00:00Z",
     "venue": null,
-    "home": "Hajduk Split",
-    "away": "Gorica",
+    "home": "Osijek",
+    "away": "Rudeš",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5765950,
-    "round": 12,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "fotmobId": 5765946,
+    "round": 11,
+    "dateUtc": "2026-10-26T17:00:00Z",
     "venue": null,
-    "home": "Lokomotiva Zagreb",
-    "away": "Osijek",
+    "home": "Istra 1961",
+    "away": "Hajduk Split",
     "result": null,
     "status": "scheduled"
   },
   {
-    "fotmobId": 5765951,
-    "round": 12,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "fotmobId": 5765944,
+    "round": 11,
+    "dateUtc": "2026-10-27T17:00:00Z",
     "venue": null,
-    "home": "Rijeka",
-    "away": "Varaždin",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5765952,
-    "round": 12,
-    "dateUtc": "2026-10-31T16:00:00Z",
-    "venue": null,
-    "home": "Rudeš",
-    "away": "Dinamo Zagreb",
+    "home": "Dinamo Zagreb",
+    "away": "Rijeka",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5765953,
     "round": 12,
-    "dateUtc": "2026-10-31T16:00:00Z",
+    "dateUtc": "2026-10-30T17:00:00Z",
     "venue": null,
     "home": "Slaven Belupo",
     "away": "Istra 1961",
@@ -600,9 +560,59 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5765949,
+    "round": 12,
+    "dateUtc": "2026-10-31T14:00:00Z",
+    "venue": null,
+    "home": "Hajduk Split",
+    "away": "Gorica",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765952,
+    "round": 12,
+    "dateUtc": "2026-10-31T17:00:00Z",
+    "venue": null,
+    "home": "Rudeš",
+    "away": "Dinamo Zagreb",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765951,
+    "round": 12,
+    "dateUtc": "2026-11-01T14:00:00Z",
+    "venue": null,
+    "home": "Rijeka",
+    "away": "Varaždin",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765950,
+    "round": 12,
+    "dateUtc": "2026-11-01T17:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Osijek",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5765956,
+    "round": 13,
+    "dateUtc": "2026-11-06T17:00:00Z",
+    "venue": null,
+    "home": "Lokomotiva Zagreb",
+    "away": "Rudeš",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5765954,
     "round": 13,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T14:00:00Z",
     "venue": null,
     "home": "Gorica",
     "away": "Slaven Belupo",
@@ -612,7 +622,7 @@
   {
     "fotmobId": 5765955,
     "round": 13,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-07T17:00:00Z",
     "venue": null,
     "home": "Istra 1961",
     "away": "Rijeka",
@@ -620,19 +630,9 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5765956,
-    "round": 13,
-    "dateUtc": "2026-11-07T16:00:00Z",
-    "venue": null,
-    "home": "Lokomotiva Zagreb",
-    "away": "Rudeš",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5765957,
     "round": 13,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-08T14:00:00Z",
     "venue": null,
     "home": "Osijek",
     "away": "Hajduk Split",
@@ -642,7 +642,7 @@
   {
     "fotmobId": 5765958,
     "round": 13,
-    "dateUtc": "2026-11-07T16:00:00Z",
+    "dateUtc": "2026-11-08T17:00:00Z",
     "venue": null,
     "home": "Varaždin",
     "away": "Dinamo Zagreb",

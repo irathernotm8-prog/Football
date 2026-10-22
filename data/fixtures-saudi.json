@@ -636,8 +636,8 @@
     "venue": null,
     "home": "Al Kholood",
     "away": "Al Qadsiah",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-5",
+    "status": "finished"
   },
   {
     "fotmobId": 5970146,
@@ -646,8 +646,8 @@
     "venue": null,
     "home": "Al Fateh",
     "away": "Al Ahli",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5970151,
@@ -656,8 +656,8 @@
     "venue": null,
     "home": "Al Nassr",
     "away": "Diriyah",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5970148,
@@ -666,8 +666,8 @@
     "venue": null,
     "home": "Al Hazem",
     "away": "Neom",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970145,
@@ -676,8 +676,8 @@
     "venue": null,
     "home": "Al Ettifaq",
     "away": "Al Khaleej",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970149,
@@ -686,8 +686,8 @@
     "venue": null,
     "home": "Al Hilal",
     "away": "Al Ittihad",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5970147,
@@ -696,18 +696,8 @@
     "venue": null,
     "home": "Al Fayha",
     "away": "Al Riyadh",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5970144,
-    "round": 8,
-    "dateUtc": "2026-10-11T15:25:00Z",
-    "venue": null,
-    "home": "Abha",
-    "away": "Al Faisaly",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970152,
@@ -716,6 +706,16 @@
     "venue": null,
     "home": "Al Shabab",
     "away": "Al Taawoun",
+    "result": "3-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5970144,
+    "round": 8,
+    "dateUtc": "2026-10-27T12:40:00Z",
+    "venue": null,
+    "home": "Abha",
+    "away": "Al Faisaly",
     "result": null,
     "status": "scheduled"
   },
@@ -726,8 +726,8 @@
     "venue": null,
     "home": "Al Faisaly",
     "away": "Al Kholood",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5970158,
@@ -736,8 +736,8 @@
     "venue": null,
     "home": "Al Khaleej",
     "away": "Al Fayha",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5970156,
@@ -746,18 +746,8 @@
     "venue": null,
     "home": "Al Hazem",
     "away": "Al Fateh",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5970153,
-    "round": 9,
-    "dateUtc": "2026-10-15T18:00:00Z",
-    "venue": null,
-    "home": "Al Ahli",
-    "away": "Al Nassr",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5970159,
@@ -766,13 +756,33 @@
     "venue": null,
     "home": "Al Qadsiah",
     "away": "Abha",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5970161,
+    "round": 9,
+    "dateUtc": "2026-10-17T15:40:00Z",
+    "venue": null,
+    "home": "Neom",
+    "away": "Al Ettifaq",
+    "result": "0-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5970154,
+    "round": 9,
+    "dateUtc": "2026-10-17T18:00:00Z",
+    "venue": null,
+    "home": "Diriyah",
+    "away": "Al Taawoun",
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970160,
     "round": 9,
-    "dateUtc": "2026-10-16T15:00:00Z",
+    "dateUtc": "2026-12-19T14:45:00Z",
     "venue": null,
     "home": "Al Riyadh",
     "away": "Al Hilal",
@@ -782,7 +792,7 @@
   {
     "fotmobId": 5970157,
     "round": 9,
-    "dateUtc": "2026-10-16T18:00:00Z",
+    "dateUtc": "2026-12-19T17:30:00Z",
     "venue": null,
     "home": "Al Ittihad",
     "away": "Al Shabab",
@@ -790,22 +800,12 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5970161,
+    "fotmobId": 5970153,
     "round": 9,
-    "dateUtc": "2026-10-17T15:40:00Z",
+    "dateUtc": "2027-03-06T19:00:00Z",
     "venue": null,
-    "home": "Neom",
-    "away": "Al Ettifaq",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5970154,
-    "round": 9,
-    "dateUtc": "2026-10-17T18:00:00Z",
-    "venue": null,
-    "home": "Diriyah",
-    "away": "Al Taawoun",
+    "home": "Al Ahli",
+    "away": "Al Nassr",
     "result": null,
     "status": "scheduled"
   },
@@ -816,8 +816,8 @@
     "venue": null,
     "home": "Al Fateh",
     "away": "Al Khaleej",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5970166,
@@ -826,18 +826,8 @@
     "venue": null,
     "home": "Al Fayha",
     "away": "Al Ahli",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5970162,
-    "round": 10,
-    "dateUtc": "2026-10-19T15:20:00Z",
-    "venue": null,
-    "home": "Abha",
-    "away": "Al Kholood",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5970167,
@@ -846,8 +836,8 @@
     "venue": null,
     "home": "Al Hilal",
     "away": "Al Hazem",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5970169,
@@ -856,8 +846,8 @@
     "venue": null,
     "home": "Al Shabab",
     "away": "Al Faisaly",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5970163,
@@ -866,8 +856,8 @@
     "venue": null,
     "home": "Diriyah",
     "away": "Al Riyadh",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5970170,
@@ -876,8 +866,8 @@
     "venue": null,
     "home": "Al Taawoun",
     "away": "Al Qadsiah",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5970164,
@@ -886,8 +876,8 @@
     "venue": null,
     "home": "Al Ettifaq",
     "away": "Al Ittihad",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5970168,
@@ -896,6 +886,16 @@
     "venue": null,
     "home": "Al Nassr",
     "away": "Neom",
+    "result": "1-0",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5970162,
+    "round": 10,
+    "dateUtc": "2026-12-07T13:40:00Z",
+    "venue": null,
+    "home": "Abha",
+    "away": "Al Kholood",
     "result": null,
     "status": "scheduled"
   },

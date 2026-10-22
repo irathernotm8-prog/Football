@@ -426,8 +426,8 @@
     "venue": null,
     "home": "Dundee United",
     "away": "Hibernian",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793942,
@@ -436,8 +436,8 @@
     "venue": null,
     "home": "Falkirk",
     "away": "Dundee",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793943,
@@ -446,8 +446,8 @@
     "venue": null,
     "home": "Hearts",
     "away": "St Mirren",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793945,
@@ -456,8 +456,8 @@
     "venue": null,
     "home": "Rangers",
     "away": "Kilmarnock",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793944,
@@ -466,8 +466,8 @@
     "venue": null,
     "home": "Motherwell",
     "away": "Celtic",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793940,
@@ -476,8 +476,8 @@
     "venue": null,
     "home": "Aberdeen",
     "away": "St Johnstone",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793946,
@@ -486,8 +486,8 @@
     "venue": null,
     "home": "Aberdeen",
     "away": "St Mirren",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793949,
@@ -496,8 +496,8 @@
     "venue": null,
     "home": "Hibernian",
     "away": "Falkirk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793950,
@@ -506,8 +506,8 @@
     "venue": null,
     "home": "Kilmarnock",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793951,
@@ -516,8 +516,8 @@
     "venue": null,
     "home": "St Johnstone",
     "away": "Dundee United",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793948,
@@ -526,8 +526,8 @@
     "venue": null,
     "home": "Dundee",
     "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793947,
@@ -536,8 +536,8 @@
     "venue": null,
     "home": "Celtic",
     "away": "Hearts",
-    "result": null,
-    "status": "scheduled"
+    "result": "7-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793952,
@@ -990,16 +990,6 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5793997,
-    "round": 17,
-    "dateUtc": "2026-12-05T15:00:00Z",
-    "venue": null,
-    "home": "Hibernian",
-    "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5793998,
     "round": 17,
     "dateUtc": "2026-12-05T15:00:00Z",
@@ -1012,10 +1002,20 @@
   {
     "fotmobId": 5793999,
     "round": 17,
-    "dateUtc": "2026-12-05T15:00:00Z",
+    "dateUtc": "2026-12-05T17:30:00Z",
     "venue": null,
     "home": "St Mirren",
     "away": "Hearts",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5793997,
+    "round": 17,
+    "dateUtc": "2026-12-07T20:00:00Z",
+    "venue": null,
+    "home": "Hibernian",
+    "away": "Rangers",
     "result": null,
     "status": "scheduled"
   },
@@ -1052,7 +1052,7 @@
   {
     "fotmobId": 5794005,
     "round": 18,
-    "dateUtc": "2026-12-12T15:00:00Z",
+    "dateUtc": "2026-12-13T12:00:00Z",
     "venue": null,
     "home": "St Johnstone",
     "away": "Rangers",
@@ -1076,16 +1076,6 @@
     "venue": null,
     "home": "Hearts",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5794006,
-    "round": 19,
-    "dateUtc": "2026-12-19T15:00:00Z",
-    "venue": null,
-    "home": "Aberdeen",
-    "away": "Celtic",
     "result": null,
     "status": "scheduled"
   },
@@ -1130,9 +1120,19 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5794006,
+    "round": 19,
+    "dateUtc": "2026-12-20T12:00:00Z",
+    "venue": null,
+    "home": "Aberdeen",
+    "away": "Celtic",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5794010,
     "round": 19,
-    "dateUtc": "2026-12-20T15:00:00Z",
+    "dateUtc": "2026-12-20T14:30:00Z",
     "venue": null,
     "home": "Rangers",
     "away": "Hearts",

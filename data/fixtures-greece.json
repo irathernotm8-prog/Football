@@ -356,8 +356,8 @@
     "venue": "OPAP Arena",
     "home": "AEK Athens",
     "away": "OFI Crete",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943262,
@@ -366,8 +366,8 @@
     "venue": null,
     "home": "Asteras Tripolis",
     "away": "Atromitos",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943263,
@@ -376,8 +376,8 @@
     "venue": null,
     "home": "Iraklis Thessaloniki",
     "away": "Levadiakos",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943264,
@@ -386,8 +386,8 @@
     "venue": null,
     "home": "Kifisia",
     "away": "Panetolikos",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943261,
@@ -396,8 +396,8 @@
     "venue": null,
     "home": "Aris Thessaloniki",
     "away": "Volos",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5943265,
@@ -406,8 +406,8 @@
     "venue": null,
     "home": "Olympiacos",
     "away": "Panathinaikos",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943266,
@@ -416,8 +416,8 @@
     "venue": null,
     "home": "PAOK",
     "away": "Kalamata",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5943270,
@@ -426,8 +426,8 @@
     "venue": null,
     "home": "Levadiakos",
     "away": "Volos",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5943267,
@@ -437,7 +437,7 @@
     "home": "Atromitos",
     "away": "AEK Athens",
     "result": null,
-    "status": "scheduled"
+    "status": "cancelled"
   },
   {
     "fotmobId": 5943268,
@@ -446,8 +446,8 @@
     "venue": null,
     "home": "Kalamata",
     "away": "OFI Crete",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5943272,
@@ -456,8 +456,8 @@
     "venue": null,
     "home": "Panetolikos",
     "away": "Olympiacos",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5943271,
@@ -466,8 +466,8 @@
     "venue": null,
     "home": "Panathinaikos",
     "away": "Asteras Tripolis",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943269,
@@ -476,8 +476,8 @@
     "venue": null,
     "home": "Kifisia",
     "away": "Aris Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5943273,
@@ -486,8 +486,8 @@
     "venue": null,
     "home": "PAOK",
     "away": "Iraklis Thessaloniki",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5943277,

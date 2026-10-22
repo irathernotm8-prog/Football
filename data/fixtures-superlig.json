@@ -545,9 +545,9 @@
     "venue": "Ali Sami Yen Spor Kompleksi",
     "home": "Galatasaray",
     "away": "Kasimpasa",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5904764,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -555,9 +555,9 @@
     "venue": "Eryaman Stadyumu",
     "home": "Gençlerbirligi",
     "away": "Amedspor",
-    "result": null,
+    "result": "2-2",
     "fotmobId": 5904762,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -565,9 +565,9 @@
     "venue": "Alanya Oba Stadyumu",
     "home": "Alanyaspor",
     "away": "Erzurumspor",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5904760,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -575,9 +575,9 @@
     "venue": "Samsun 19 Mayis Stadyumu",
     "home": "Samsunspor",
     "away": "Trabzonspor",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5904766,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -585,9 +585,9 @@
     "venue": "Çaykur Didi",
     "home": "Çaykur Rizespor",
     "away": "Fenerbahçe",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5904761,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -595,9 +595,9 @@
     "venue": "Konya Büyüksehir Stadyumu",
     "home": "Konyaspor",
     "away": "Istanbul Basaksehir",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5904763,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -605,9 +605,9 @@
     "venue": "Gaziantep Stadyumu",
     "home": "Gaziantep",
     "away": "Çorum",
-    "result": null,
+    "result": "0-3",
     "fotmobId": 5904758,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -615,9 +615,9 @@
     "venue": "Besiktas Park",
     "home": "Besiktas",
     "away": "Kocaelispor",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5904765,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 7,
@@ -625,9 +625,9 @@
     "venue": "Necmi Kadioglu Stadyumu",
     "home": "Eyüpspor",
     "away": "Göztepe",
-    "result": null,
+    "result": "0-4",
     "fotmobId": 5904759,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -635,9 +635,9 @@
     "venue": "Çorum Sehir Stadyumu",
     "home": "Çorum",
     "away": "Çaykur Rizespor",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5904772,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -645,9 +645,9 @@
     "venue": "Erzurum Kâzim Karabekir",
     "home": "Erzurumspor",
     "away": "Eyüpspor",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5904775,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -655,9 +655,9 @@
     "venue": "Diyarbakir Stadyumu",
     "home": "Amedspor",
     "away": "Konyaspor",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5904770,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -665,9 +665,9 @@
     "venue": "Eryaman Stadyumu",
     "home": "Gençlerbirligi",
     "away": "Galatasaray",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5904771,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -675,9 +675,9 @@
     "venue": "Sükrü Saracoglu Spor Kompleksi",
     "home": "Fenerbahçe",
     "away": "Alanyaspor",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5904773,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -685,9 +685,9 @@
     "venue": "Recep Tayyip Erdogan Stadyumu",
     "home": "Kasimpasa",
     "away": "Samsunspor",
-    "result": null,
+    "result": "4-1",
     "fotmobId": 5904768,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -695,9 +695,9 @@
     "venue": "Kocaeli Stadyumu",
     "home": "Kocaelispor",
     "away": "Göztepe",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5904774,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -705,9 +705,9 @@
     "venue": "Basaksehir Fatih Terim",
     "home": "Istanbul Basaksehir",
     "away": "Gaziantep",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5904769,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -715,9 +715,9 @@
     "venue": "Papara Park",
     "home": "Trabzonspor",
     "away": "Besiktas",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5904767,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,
