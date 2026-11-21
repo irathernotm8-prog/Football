@@ -546,8 +546,8 @@
     "venue": null,
     "home": "Dundee United",
     "away": "Aberdeen",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793953,
@@ -556,8 +556,8 @@
     "venue": null,
     "home": "Falkirk",
     "away": "Kilmarnock",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793956,
@@ -566,8 +566,8 @@
     "venue": null,
     "home": "Rangers",
     "away": "St Johnstone",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793957,
@@ -576,8 +576,8 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Dundee",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793954,
@@ -586,8 +586,8 @@
     "venue": null,
     "home": "Hibernian",
     "away": "Celtic",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793955,
@@ -596,8 +596,8 @@
     "venue": null,
     "home": "Motherwell",
     "away": "Hearts",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793958,
@@ -606,8 +606,8 @@
     "venue": null,
     "home": "Aberdeen",
     "away": "Falkirk",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793959,
@@ -616,8 +616,8 @@
     "venue": null,
     "home": "Celtic",
     "away": "Dundee United",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793960,
@@ -626,8 +626,8 @@
     "venue": null,
     "home": "Dundee",
     "away": "Kilmarnock",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793962,
@@ -636,8 +636,8 @@
     "venue": null,
     "home": "St Johnstone",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793963,
@@ -646,8 +646,8 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Hibernian",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793961,
@@ -656,18 +656,8 @@
     "venue": null,
     "home": "Hearts",
     "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
-    "fotmobId": 5793964,
-    "round": 12,
-    "dateUtc": "2026-10-31T15:00:00Z",
-    "venue": null,
-    "home": "Dundee United",
-    "away": "Hearts",
-    "result": null,
-    "status": "cancelled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793967,
@@ -676,8 +666,8 @@
     "venue": null,
     "home": "Kilmarnock",
     "away": "St Johnstone",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793968,
@@ -686,8 +676,8 @@
     "venue": null,
     "home": "Motherwell",
     "away": "St Mirren",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793965,
@@ -696,8 +686,8 @@
     "venue": null,
     "home": "Falkirk",
     "away": "Celtic",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793966,
@@ -720,14 +710,24 @@
     "status": "scheduled"
   },
   {
+    "fotmobId": 5793964,
+    "round": 12,
+    "dateUtc": "2027-01-12T19:45:00Z",
+    "venue": null,
+    "home": "Dundee United",
+    "away": "Hearts",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
     "fotmobId": 5793972,
     "round": 13,
     "dateUtc": "2026-11-07T15:00:00Z",
     "venue": null,
     "home": "Dundee United",
     "away": "Motherwell",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793973,
@@ -736,8 +736,8 @@
     "venue": null,
     "home": "St Johnstone",
     "away": "Dundee",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5793970,
@@ -746,8 +746,8 @@
     "venue": null,
     "home": "Aberdeen",
     "away": "Hibernian",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5793974,
@@ -756,8 +756,8 @@
     "venue": null,
     "home": "St Mirren",
     "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5793975,
@@ -766,8 +766,8 @@
     "venue": null,
     "home": "Hearts",
     "away": "Falkirk",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-5",
+    "status": "finished"
   },
   {
     "fotmobId": 5793971,
@@ -776,8 +776,8 @@
     "venue": null,
     "home": "Celtic",
     "away": "Kilmarnock",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5793976,
@@ -1050,19 +1050,19 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5794005,
+    "fotmobId": 5794003,
     "round": 18,
-    "dateUtc": "2026-12-13T12:00:00Z",
+    "dateUtc": "2026-12-13T15:00:00Z",
     "venue": null,
-    "home": "St Johnstone",
-    "away": "Rangers",
+    "home": "Hearts",
+    "away": "Motherwell",
     "result": null,
     "status": "scheduled"
   },
   {
     "fotmobId": 5794000,
     "round": 18,
-    "dateUtc": "2026-12-13T15:00:00Z",
+    "dateUtc": "2027-01-13T19:45:00Z",
     "venue": null,
     "home": "Celtic",
     "away": "Hibernian",
@@ -1070,12 +1070,12 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5794003,
+    "fotmobId": 5794005,
     "round": 18,
-    "dateUtc": "2026-12-13T15:00:00Z",
+    "dateUtc": "2027-01-13T20:00:00Z",
     "venue": null,
-    "home": "Hearts",
-    "away": "Motherwell",
+    "home": "St Johnstone",
+    "away": "Rangers",
     "result": null,
     "status": "scheduled"
   },
@@ -1340,16 +1340,6 @@
     "status": "scheduled"
   },
   {
-    "fotmobId": 5794032,
-    "round": 23,
-    "dateUtc": "2027-01-09T15:00:00Z",
-    "venue": null,
-    "home": "Dundee United",
-    "away": "Rangers",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5794033,
     "round": 23,
     "dateUtc": "2027-01-09T15:00:00Z",
@@ -1376,6 +1366,16 @@
     "venue": null,
     "home": "St Johnstone",
     "away": "Falkirk",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 5794032,
+    "round": 23,
+    "dateUtc": "2027-01-09T17:30:00Z",
+    "venue": null,
+    "home": "Dundee United",
+    "away": "Rangers",
     "result": null,
     "status": "scheduled"
   },

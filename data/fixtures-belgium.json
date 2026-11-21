@@ -720,24 +720,14 @@
     "status": "finished"
   },
   {
-    "fotmobId": 5811786,
-    "round": 9,
-    "dateUtc": "2026-10-23T18:45:00Z",
-    "venue": null,
-    "home": "Kortrijk",
-    "away": "Mechelen",
-    "result": null,
-    "status": "scheduled"
-  },
-  {
     "fotmobId": 5811782,
     "round": 9,
     "dateUtc": "2026-10-24T14:00:00Z",
     "venue": null,
     "home": "Royal Antwerp",
     "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811787,
@@ -746,8 +736,8 @@
     "venue": null,
     "home": "OH Leuven",
     "away": "Lommel",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811788,
@@ -756,8 +746,8 @@
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Zulte Waregem",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811790,
@@ -766,8 +756,8 @@
     "venue": null,
     "home": "Westerlo",
     "away": "Beveren",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5811784,
@@ -776,8 +766,8 @@
     "venue": null,
     "home": "Genk",
     "away": "Standard Liège",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811783,
@@ -786,8 +776,8 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Sint-Truidense",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811785,
@@ -796,8 +786,8 @@
     "venue": null,
     "home": "Gent",
     "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811789,
@@ -806,8 +796,18 @@
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Cercle Brugge",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-2",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 5811786,
+    "round": 9,
+    "dateUtc": "2026-11-04T19:30:00Z",
+    "venue": null,
+    "home": "Kortrijk",
+    "away": "Mechelen",
+    "result": "1-3",
+    "status": "finished"
   },
   {
     "fotmobId": 5811799,
@@ -816,8 +816,8 @@
     "venue": null,
     "home": "Zulte Waregem",
     "away": "Club Brugge",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-4",
+    "status": "finished"
   },
   {
     "fotmobId": 5811795,
@@ -826,8 +826,8 @@
     "venue": null,
     "home": "Mechelen",
     "away": "Genk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811797,
@@ -836,8 +836,8 @@
     "venue": null,
     "home": "Standard Liège",
     "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811791,
@@ -846,8 +846,8 @@
     "venue": null,
     "home": "Anderlecht",
     "away": "Westerlo",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811792,
@@ -856,8 +856,8 @@
     "venue": null,
     "home": "Beveren",
     "away": "Union Saint-Gilloise",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811793,
@@ -866,8 +866,8 @@
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Royal Antwerp",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811798,
@@ -876,8 +876,8 @@
     "venue": null,
     "home": "Sint-Truidense",
     "away": "OH Leuven",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811796,
@@ -886,8 +886,8 @@
     "venue": null,
     "home": "Lommel",
     "away": "Gent",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811794,
@@ -896,8 +896,8 @@
     "venue": null,
     "home": "Charleroi",
     "away": "RAAL La Louvière",
-    "result": null,
-    "status": "scheduled"
+    "result": "5-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811806,
@@ -906,8 +906,8 @@
     "venue": null,
     "home": "Standard Liège",
     "away": "Beveren",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811808,
@@ -916,8 +916,8 @@
     "venue": null,
     "home": "Westerlo",
     "away": "Charleroi",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-5",
+    "status": "finished"
   },
   {
     "fotmobId": 5811803,
@@ -926,8 +926,8 @@
     "venue": null,
     "home": "OH Leuven",
     "away": "Mechelen",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811804,
@@ -936,8 +936,8 @@
     "venue": null,
     "home": "RAAL La Louvière",
     "away": "Cercle Brugge",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811800,
@@ -946,8 +946,8 @@
     "venue": null,
     "home": "Royal Antwerp",
     "away": "Lommel",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 5811801,
@@ -956,8 +956,8 @@
     "venue": "Jan Breydel Stadium",
     "home": "Club Brugge",
     "away": "Anderlecht",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811802,
@@ -966,8 +966,8 @@
     "venue": null,
     "home": "Gent",
     "away": "Kortrijk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811805,
@@ -976,8 +976,8 @@
     "venue": null,
     "home": "Union Saint-Gilloise",
     "away": "Genk",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811807,
@@ -986,8 +986,8 @@
     "venue": null,
     "home": "Sint-Truidense",
     "away": "Zulte Waregem",
-    "result": null,
-    "status": "scheduled"
+    "result": "4-1",
+    "status": "finished"
   },
   {
     "fotmobId": 5811811,
@@ -996,8 +996,8 @@
     "venue": null,
     "home": "Cercle Brugge",
     "away": "Westerlo",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-0",
+    "status": "finished"
   },
   {
     "fotmobId": 5811812,

@@ -91,7 +91,7 @@
   },
   {
     "round": 2,
-    "dateUtc": "2026-08-28T19:00:00Z",
+    "dateUtc": "2026-08-28T18:45:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Paris Saint-Germain",
@@ -635,9 +635,9 @@
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "OGC Nice",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5802966,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -645,9 +645,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Paris FC",
-    "result": null,
+    "result": "2-1",
     "fotmobId": 5802967,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -655,9 +655,9 @@
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "LOSC Lille",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5802969,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -665,9 +665,9 @@
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Le Mans FC",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5802965,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -675,9 +675,9 @@
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "FC Lorient",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5802964,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -685,9 +685,9 @@
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Havre Athletic Club",
-    "result": null,
+    "result": "4-3",
     "fotmobId": 5802968,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -695,9 +695,9 @@
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "RC Strasbourg Alsace",
-    "result": null,
+    "result": "3-0",
     "fotmobId": 5802970,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
@@ -705,19 +705,19 @@
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Estac Troyes",
-    "result": null,
+    "result": "0-0",
     "fotmobId": 5802971,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 8,
-    "dateUtc": "2026-10-25T19:45:00Z",
+    "dateUtc": "2026-10-26T19:30:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Olympique Lyonnais",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802972,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,
@@ -725,9 +725,19 @@
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Paris Saint-Germain",
-    "result": null,
+    "result": "1-5",
     "fotmobId": 5802973,
-    "status": "scheduled"
+    "status": "finished"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-10-30T18:00:00Z",
+    "venue": "Allianz Riviera",
+    "home": "OGC Nice",
+    "away": "Stade Rennais FC",
+    "result": "5-2",
+    "fotmobId": 5802978,
+    "status": "finished"
   },
   {
     "round": 9,
@@ -735,19 +745,9 @@
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "RC Lens",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5802974,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-31T16:15:00Z",
-    "venue": "Allianz Riviera",
-    "home": "OGC Nice",
-    "away": "Stade Rennais FC",
-    "result": null,
-    "fotmobId": 5802978,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,
@@ -755,29 +755,9 @@
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Le Mans FC",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802981,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-31T19:45:00Z",
-    "venue": "Stade du Moustoir",
-    "home": "FC Lorient",
-    "away": "Stade Brestois 29",
-    "result": null,
-    "fotmobId": 5802975,
-    "status": "scheduled"
-  },
-  {
-    "round": 9,
-    "dateUtc": "2026-10-31T19:45:00Z",
-    "venue": "Parc Olympique Lyonnais",
-    "home": "Olympique Lyonnais",
-    "away": "Angers SCO",
-    "result": null,
-    "fotmobId": 5802976,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,
@@ -785,9 +765,19 @@
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "AJ Auxerre",
-    "result": null,
+    "result": "5-1",
     "fotmobId": 5802980,
-    "status": "scheduled"
+    "status": "finished"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-11-01T16:15:00Z",
+    "venue": "Parc Olympique Lyonnais",
+    "home": "Olympique Lyonnais",
+    "away": "Angers SCO",
+    "result": "2-0",
+    "fotmobId": 5802976,
+    "status": "finished"
   },
   {
     "round": 9,
@@ -795,9 +785,9 @@
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "AS Monaco",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5802979,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 9,
@@ -805,9 +795,19 @@
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Toulouse FC",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802977,
-    "status": "scheduled"
+    "status": "finished"
+  },
+  {
+    "round": 9,
+    "dateUtc": "2026-11-02T19:45:00Z",
+    "venue": "Stade du Moustoir",
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
+    "result": "0-2",
+    "fotmobId": 5802975,
+    "status": "finished"
   },
   {
     "round": 10,
@@ -815,29 +815,29 @@
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "RC Strasbourg Alsace",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5802989,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-07T16:15:00Z",
+    "dateUtc": "2026-11-07T18:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Paris FC",
-    "result": null,
+    "result": "0-1",
     "fotmobId": 5802983,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
-    "dateUtc": "2026-11-07T19:45:00Z",
+    "dateUtc": "2026-11-07T20:05:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Estac Troyes",
-    "result": null,
+    "result": "1-0",
     "fotmobId": 5802987,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -845,9 +845,9 @@
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "LOSC Lille",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5802988,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -855,9 +855,9 @@
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "OGC Nice",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5802982,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -865,9 +865,9 @@
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "FC Lorient",
-    "result": null,
+    "result": "0-2",
     "fotmobId": 5802985,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -875,9 +875,9 @@
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "AS Monaco",
-    "result": null,
+    "result": "1-1",
     "fotmobId": 5802986,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -885,9 +885,9 @@
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Olympique Lyonnais",
-    "result": null,
+    "result": "2-0",
     "fotmobId": 5802984,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 10,
@@ -895,9 +895,9 @@
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Olympique de Marseille",
-    "result": null,
+    "result": "1-2",
     "fotmobId": 5802990,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 11,
@@ -905,9 +905,9 @@
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Havre Athletic Club",
-    "result": null,
+    "result": "3-1",
     "fotmobId": 5802999,
-    "status": "scheduled"
+    "status": "finished"
   },
   {
     "round": 11,
@@ -1081,27 +1081,17 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
-    "venue": "Stade Louis II",
-    "home": "AS Monaco",
-    "away": "Angers SCO",
+    "dateUtc": "2026-12-04T19:45:00Z",
+    "venue": "Stadium de Toulouse",
+    "home": "Toulouse FC",
+    "away": "Paris Saint-Germain",
     "result": null,
-    "fotmobId": 5803012,
+    "fotmobId": 5803016,
     "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
-    "venue": "Stade de l'Aube",
-    "home": "Estac Troyes",
-    "away": "Olympique Lyonnais",
-    "result": null,
-    "fotmobId": 5803017,
-    "status": "scheduled"
-  },
-  {
-    "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-05T16:15:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "AJ Auxerre",
@@ -1111,17 +1101,17 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
-    "venue": "Stade Vélodrome",
-    "home": "Olympique de Marseille",
-    "away": "OGC Nice",
+    "dateUtc": "2026-12-05T19:45:00Z",
+    "venue": "Stade Louis II",
+    "home": "AS Monaco",
+    "away": "Angers SCO",
     "result": null,
-    "fotmobId": 5803011,
+    "fotmobId": 5803012,
     "status": "scheduled"
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-05T19:45:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "Le Mans FC",
@@ -1131,7 +1121,7 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-05T19:45:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Havre Athletic Club",
@@ -1141,7 +1131,7 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-05T19:45:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "FC Lorient",
@@ -1151,7 +1141,17 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
+    "dateUtc": "2026-12-06T14:00:00Z",
+    "venue": "Stade de l'Aube",
+    "home": "Estac Troyes",
+    "away": "Olympique Lyonnais",
+    "result": null,
+    "fotmobId": 5803017,
+    "status": "scheduled"
+  },
+  {
+    "round": 13,
+    "dateUtc": "2026-12-06T16:15:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Stade Brestois 29",
@@ -1161,17 +1161,17 @@
   },
   {
     "round": 13,
-    "dateUtc": "2026-12-05T16:00:00Z",
-    "venue": "Stadium de Toulouse",
-    "home": "Toulouse FC",
-    "away": "Paris Saint-Germain",
+    "dateUtc": "2026-12-06T19:45:00Z",
+    "venue": "Stade Vélodrome",
+    "home": "Olympique de Marseille",
+    "away": "OGC Nice",
     "result": null,
-    "fotmobId": 5803016,
+    "fotmobId": 5803011,
     "status": "scheduled"
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-11T19:45:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Toulouse FC",
@@ -1181,47 +1181,7 @@
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "Stade Raymond Kopa",
-    "home": "Angers SCO",
-    "away": "RC Strasbourg Alsace",
-    "result": null,
-    "fotmobId": 5803018,
-    "status": "scheduled"
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "Stade du Moustoir",
-    "home": "FC Lorient",
-    "away": "LOSC Lille",
-    "result": null,
-    "fotmobId": 5803022,
-    "status": "scheduled"
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "Stade Océane",
-    "home": "Havre Athletic Club",
-    "away": "Le Mans FC",
-    "result": null,
-    "fotmobId": 5803021,
-    "status": "scheduled"
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
-    "venue": "Allianz Riviera",
-    "home": "OGC Nice",
-    "away": "RC Lens",
-    "result": null,
-    "fotmobId": 5803023,
-    "status": "scheduled"
-  },
-  {
-    "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T16:15:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Paris FC",
@@ -1231,7 +1191,37 @@
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-12T19:45:00Z",
+    "venue": "Stade Raymond Kopa",
+    "home": "Angers SCO",
+    "away": "RC Strasbourg Alsace",
+    "result": null,
+    "fotmobId": 5803018,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-12T19:45:00Z",
+    "venue": "Stade Océane",
+    "home": "Havre Athletic Club",
+    "away": "Le Mans FC",
+    "result": null,
+    "fotmobId": 5803021,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-12T19:45:00Z",
+    "venue": "Allianz Riviera",
+    "home": "OGC Nice",
+    "away": "RC Lens",
+    "result": null,
+    "fotmobId": 5803023,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-12T19:45:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Estac Troyes",
@@ -1241,7 +1231,17 @@
   },
   {
     "round": 14,
-    "dateUtc": "2026-12-12T16:00:00Z",
+    "dateUtc": "2026-12-13T14:00:00Z",
+    "venue": "Stade du Moustoir",
+    "home": "FC Lorient",
+    "away": "LOSC Lille",
+    "result": null,
+    "fotmobId": 5803022,
+    "status": "scheduled"
+  },
+  {
+    "round": 14,
+    "dateUtc": "2026-12-13T16:15:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "AS Monaco",
@@ -1262,66 +1262,6 @@
   {
     "round": 15,
     "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade Louis II",
-    "home": "AS Monaco",
-    "away": "OGC Nice",
-    "result": null,
-    "fotmobId": 5803031,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade de l'Aube",
-    "home": "Estac Troyes",
-    "away": "Stade Rennais FC",
-    "result": null,
-    "fotmobId": 5803034,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade du Moustoir",
-    "home": "FC Lorient",
-    "away": "AJ Auxerre",
-    "result": null,
-    "fotmobId": 5803030,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade Marie-Marvingt",
-    "home": "Le Mans FC",
-    "away": "Olympique Lyonnais",
-    "result": null,
-    "fotmobId": 5803028,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade Pierre-Mauroy",
-    "home": "LOSC Lille",
-    "away": "RC Strasbourg Alsace",
-    "result": null,
-    "fotmobId": 5803029,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
-    "venue": "Stade Charléty",
-    "home": "Paris FC",
-    "away": "Havre Athletic Club",
-    "result": null,
-    "fotmobId": 5803032,
-    "status": "scheduled"
-  },
-  {
-    "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Olympique de Marseille",
@@ -1331,12 +1271,72 @@
   },
   {
     "round": 15,
-    "dateUtc": "2027-01-02T16:00:00Z",
+    "dateUtc": "2027-01-02T20:00:00Z",
+    "venue": "Stade Louis II",
+    "home": "AS Monaco",
+    "away": "OGC Nice",
+    "result": null,
+    "fotmobId": 5803031,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-02T20:00:00Z",
+    "venue": "Stade de l'Aube",
+    "home": "Estac Troyes",
+    "away": "Stade Rennais FC",
+    "result": null,
+    "fotmobId": 5803034,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-02T20:00:00Z",
+    "venue": "Stade du Moustoir",
+    "home": "FC Lorient",
+    "away": "AJ Auxerre",
+    "result": null,
+    "fotmobId": 5803030,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-02T20:00:00Z",
+    "venue": "Stade Charléty",
+    "home": "Paris FC",
+    "away": "Havre Athletic Club",
+    "result": null,
+    "fotmobId": 5803032,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-02T20:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Angers SCO",
     "result": null,
     "fotmobId": 5803033,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-03T14:00:00Z",
+    "venue": "Stade Marie-Marvingt",
+    "home": "Le Mans FC",
+    "away": "Olympique Lyonnais",
+    "result": null,
+    "fotmobId": 5803028,
+    "status": "scheduled"
+  },
+  {
+    "round": 15,
+    "dateUtc": "2027-01-03T16:15:00Z",
+    "venue": "Stade Pierre-Mauroy",
+    "home": "LOSC Lille",
+    "away": "RC Strasbourg Alsace",
+    "result": null,
+    "fotmobId": 5803029,
     "status": "scheduled"
   },
   {
@@ -1351,47 +1351,7 @@
   },
   {
     "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Stade de l'Abbé-Deschamps",
-    "home": "AJ Auxerre",
-    "away": "Estac Troyes",
-    "result": null,
-    "fotmobId": 5803037,
-    "status": "scheduled"
-  },
-  {
-    "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Stade Raymond Kopa",
-    "home": "Angers SCO",
-    "away": "Paris Saint-Germain",
-    "result": null,
-    "fotmobId": 5803036,
-    "status": "scheduled"
-  },
-  {
-    "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Stade Louis II",
-    "home": "AS Monaco",
-    "away": "Stade Brestois 29",
-    "result": null,
-    "fotmobId": 5803040,
-    "status": "scheduled"
-  },
-  {
-    "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Allianz Riviera",
-    "home": "OGC Nice",
-    "away": "Havre Athletic Club",
-    "result": null,
-    "fotmobId": 5803041,
-    "status": "scheduled"
-  },
-  {
-    "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-15T19:45:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "LOSC Lille",
@@ -1401,27 +1361,37 @@
   },
   {
     "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Parc Olympique Lyonnais",
-    "home": "Olympique Lyonnais",
-    "away": "FC Lorient",
+    "dateUtc": "2027-01-16T16:15:00Z",
+    "venue": "Stade Raymond Kopa",
+    "home": "Angers SCO",
+    "away": "Paris Saint-Germain",
     "result": null,
-    "fotmobId": 5803038,
+    "fotmobId": 5803036,
     "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
-    "venue": "Stade Charléty",
-    "home": "Paris FC",
-    "away": "Toulouse FC",
+    "dateUtc": "2027-01-16T19:45:00Z",
+    "venue": "Stade de l'Abbé-Deschamps",
+    "home": "AJ Auxerre",
+    "away": "Estac Troyes",
     "result": null,
-    "fotmobId": 5803042,
+    "fotmobId": 5803037,
     "status": "scheduled"
   },
   {
     "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-16T19:45:00Z",
+    "venue": "Allianz Riviera",
+    "home": "OGC Nice",
+    "away": "Havre Athletic Club",
+    "result": null,
+    "fotmobId": 5803041,
+    "status": "scheduled"
+  },
+  {
+    "round": 16,
+    "dateUtc": "2027-01-16T19:45:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Le Mans FC",
@@ -1431,7 +1401,7 @@
   },
   {
     "round": 16,
-    "dateUtc": "2027-01-16T16:00:00Z",
+    "dateUtc": "2027-01-16T19:45:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "RC Lens",
@@ -1440,8 +1410,38 @@
     "status": "scheduled"
   },
   {
+    "round": 16,
+    "dateUtc": "2027-01-17T14:00:00Z",
+    "venue": "Stade Charléty",
+    "home": "Paris FC",
+    "away": "Toulouse FC",
+    "result": null,
+    "fotmobId": 5803042,
+    "status": "scheduled"
+  },
+  {
+    "round": 16,
+    "dateUtc": "2027-01-17T16:15:00Z",
+    "venue": "Stade Louis II",
+    "home": "AS Monaco",
+    "away": "Stade Brestois 29",
+    "result": null,
+    "fotmobId": 5803040,
+    "status": "scheduled"
+  },
+  {
+    "round": 16,
+    "dateUtc": "2027-01-17T19:45:00Z",
+    "venue": "Parc Olympique Lyonnais",
+    "home": "Olympique Lyonnais",
+    "away": "FC Lorient",
+    "result": null,
+    "fotmobId": 5803038,
+    "status": "scheduled"
+  },
+  {
     "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
+    "dateUtc": "2027-01-22T19:45:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "AS Monaco",
@@ -1451,37 +1451,7 @@
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
-    "venue": "Stade du Moustoir",
-    "home": "FC Lorient",
-    "away": "Olympique de Marseille",
-    "result": null,
-    "fotmobId": 5803049,
-    "status": "scheduled"
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
-    "venue": "Stade Océane",
-    "home": "Havre Athletic Club",
-    "away": "Stade Rennais FC",
-    "result": null,
-    "fotmobId": 5803045,
-    "status": "scheduled"
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
-    "venue": "Stade Marie-Marvingt",
-    "home": "Le Mans FC",
-    "away": "Angers SCO",
-    "result": null,
-    "fotmobId": 5803046,
-    "status": "scheduled"
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
+    "dateUtc": "2027-01-23T16:15:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Paris FC",
@@ -1491,7 +1461,17 @@
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
+    "dateUtc": "2027-01-23T19:45:00Z",
+    "venue": "Stade Marie-Marvingt",
+    "home": "Le Mans FC",
+    "away": "Angers SCO",
+    "result": null,
+    "fotmobId": 5803046,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-23T19:45:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "AJ Auxerre",
@@ -1501,7 +1481,7 @@
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
+    "dateUtc": "2027-01-23T19:45:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Stade Brestois 29",
@@ -1511,17 +1491,7 @@
   },
   {
     "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
-    "venue": "Stade de la Meinau",
-    "home": "RC Strasbourg Alsace",
-    "away": "Olympique Lyonnais",
-    "result": null,
-    "fotmobId": 5803051,
-    "status": "scheduled"
-  },
-  {
-    "round": 17,
-    "dateUtc": "2027-01-23T16:00:00Z",
+    "dateUtc": "2027-01-23T19:45:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "OGC Nice",
@@ -1530,68 +1500,38 @@
     "status": "scheduled"
   },
   {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stade Raymond Kopa",
-    "home": "Angers SCO",
-    "away": "Havre Athletic Club",
+    "round": 17,
+    "dateUtc": "2027-01-24T14:00:00Z",
+    "venue": "Stade Océane",
+    "home": "Havre Athletic Club",
+    "away": "Stade Rennais FC",
     "result": null,
-    "fotmobId": 5803054,
+    "fotmobId": 5803045,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-24T16:15:00Z",
+    "venue": "Stade du Moustoir",
+    "home": "FC Lorient",
+    "away": "Olympique de Marseille",
+    "result": null,
+    "fotmobId": 5803049,
+    "status": "scheduled"
+  },
+  {
+    "round": 17,
+    "dateUtc": "2027-01-24T19:45:00Z",
+    "venue": "Stade de la Meinau",
+    "home": "RC Strasbourg Alsace",
+    "away": "Olympique Lyonnais",
+    "result": null,
+    "fotmobId": 5803051,
     "status": "scheduled"
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stade Louis II",
-    "home": "AS Monaco",
-    "away": "Paris Saint-Germain",
-    "result": null,
-    "fotmobId": 5803059,
-    "status": "scheduled"
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stade Marie-Marvingt",
-    "home": "Le Mans FC",
-    "away": "OGC Nice",
-    "result": null,
-    "fotmobId": 5803056,
-    "status": "scheduled"
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stade Vélodrome",
-    "home": "Olympique de Marseille",
-    "away": "Estac Troyes",
-    "result": null,
-    "fotmobId": 5803058,
-    "status": "scheduled"
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Parc Olympique Lyonnais",
-    "home": "Olympique Lyonnais",
-    "away": "LOSC Lille",
-    "result": null,
-    "fotmobId": 5803057,
-    "status": "scheduled"
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stade Charléty",
-    "home": "Paris FC",
-    "away": "AJ Auxerre",
-    "result": null,
-    "fotmobId": 5803060,
-    "status": "scheduled"
-  },
-  {
-    "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
+    "dateUtc": "2027-01-29T19:45:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "RC Strasbourg Alsace",
@@ -1601,7 +1541,57 @@
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
+    "dateUtc": "2027-01-30T16:15:00Z",
+    "venue": "Stade Louis II",
+    "home": "AS Monaco",
+    "away": "Paris Saint-Germain",
+    "result": null,
+    "fotmobId": 5803059,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-30T19:45:00Z",
+    "venue": "Stade Raymond Kopa",
+    "home": "Angers SCO",
+    "away": "Havre Athletic Club",
+    "result": null,
+    "fotmobId": 5803054,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-30T19:45:00Z",
+    "venue": "Stade Marie-Marvingt",
+    "home": "Le Mans FC",
+    "away": "OGC Nice",
+    "result": null,
+    "fotmobId": 5803056,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-30T19:45:00Z",
+    "venue": "Stade Charléty",
+    "home": "Paris FC",
+    "away": "AJ Auxerre",
+    "result": null,
+    "fotmobId": 5803060,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-30T19:45:00Z",
+    "venue": "Stadium de Toulouse",
+    "home": "Toulouse FC",
+    "away": "RC Lens",
+    "result": null,
+    "fotmobId": 5803062,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-31T14:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "FC Lorient",
@@ -1611,17 +1601,27 @@
   },
   {
     "round": 18,
-    "dateUtc": "2027-01-30T16:00:00Z",
-    "venue": "Stadium de Toulouse",
-    "home": "Toulouse FC",
-    "away": "RC Lens",
+    "dateUtc": "2027-01-31T16:15:00Z",
+    "venue": "Stade Vélodrome",
+    "home": "Olympique de Marseille",
+    "away": "Estac Troyes",
     "result": null,
-    "fotmobId": 5803062,
+    "fotmobId": 5803058,
+    "status": "scheduled"
+  },
+  {
+    "round": 18,
+    "dateUtc": "2027-01-31T19:45:00Z",
+    "venue": "Parc Olympique Lyonnais",
+    "home": "Olympique Lyonnais",
+    "away": "LOSC Lille",
+    "result": null,
+    "fotmobId": 5803057,
     "status": "scheduled"
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "AS Monaco",
@@ -1631,7 +1631,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "LOSC Lille",
@@ -1641,7 +1641,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Le Mans FC",
@@ -1651,7 +1651,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Toulouse FC",
@@ -1661,7 +1661,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Stade Brestois 29",
@@ -1671,7 +1671,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Angers SCO",
@@ -1681,7 +1681,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Paris FC",
@@ -1691,7 +1691,7 @@
   },
   {
     "round": 19,
-    "dateUtc": "2027-02-06T16:00:00Z",
+    "dateUtc": "2027-02-06T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Olympique Lyonnais",
@@ -1711,7 +1711,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "RC Strasbourg Alsace",
@@ -1721,7 +1721,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Havre Athletic Club",
@@ -1731,7 +1731,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Paris Saint-Germain",
@@ -1741,7 +1741,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "OGC Nice",
@@ -1751,7 +1751,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Angers SCO",
@@ -1761,7 +1761,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "RC Lens",
@@ -1771,7 +1771,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "Estac Troyes",
@@ -1781,7 +1781,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Stade Rennais FC",
@@ -1791,7 +1791,7 @@
   },
   {
     "round": 20,
-    "dateUtc": "2027-02-13T16:00:00Z",
+    "dateUtc": "2027-02-13T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "AS Monaco",
@@ -1801,7 +1801,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Paris FC",
@@ -1811,7 +1811,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Le Mans FC",
@@ -1821,7 +1821,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Olympique Lyonnais",
@@ -1831,7 +1831,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "FC Lorient",
@@ -1841,7 +1841,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "AJ Auxerre",
@@ -1851,7 +1851,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Stade Brestois 29",
@@ -1861,7 +1861,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Estac Troyes",
@@ -1871,7 +1871,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Olympique de Marseille",
@@ -1881,7 +1881,7 @@
   },
   {
     "round": 21,
-    "dateUtc": "2027-02-20T16:00:00Z",
+    "dateUtc": "2027-02-20T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Toulouse FC",
@@ -1891,7 +1891,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "LOSC Lille",
@@ -1901,7 +1901,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "OGC Nice",
@@ -1911,7 +1911,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Angers SCO",
@@ -1921,7 +1921,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Paris FC",
@@ -1931,7 +1931,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Stade Rennais FC",
@@ -1941,7 +1941,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Toulouse FC",
@@ -1951,7 +1951,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Havre Athletic Club",
@@ -1961,7 +1961,7 @@
   },
   {
     "round": 22,
-    "dateUtc": "2027-02-27T16:00:00Z",
+    "dateUtc": "2027-02-27T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "AS Monaco",
@@ -1981,7 +1981,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "AJ Auxerre",
@@ -1991,7 +1991,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Olympique Lyonnais",
@@ -2001,7 +2001,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "FC Lorient",
@@ -2011,7 +2011,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "OGC Nice",
@@ -2021,7 +2021,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Olympique de Marseille",
@@ -2031,7 +2031,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "Stade Brestois 29",
@@ -2041,7 +2041,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Stade Rennais FC",
@@ -2051,7 +2051,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "RC Strasbourg Alsace",
@@ -2061,7 +2061,7 @@
   },
   {
     "round": 23,
-    "dateUtc": "2027-03-06T16:00:00Z",
+    "dateUtc": "2027-03-06T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Le Mans FC",
@@ -2071,7 +2071,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Paris Saint-Germain",
@@ -2081,7 +2081,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "RC Lens",
@@ -2091,7 +2091,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Stade Rennais FC",
@@ -2101,7 +2101,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Toulouse FC",
@@ -2111,7 +2111,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "AS Monaco",
@@ -2121,7 +2121,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Estac Troyes",
@@ -2131,7 +2131,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "FC Lorient",
@@ -2141,7 +2141,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Angers SCO",
@@ -2151,7 +2151,7 @@
   },
   {
     "round": 24,
-    "dateUtc": "2027-03-13T16:00:00Z",
+    "dateUtc": "2027-03-13T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "LOSC Lille",
@@ -2161,7 +2161,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Le Mans FC",
@@ -2171,7 +2171,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Havre Athletic Club",
@@ -2181,7 +2181,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "AJ Auxerre",
@@ -2191,7 +2191,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "OGC Nice",
@@ -2201,7 +2201,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "RC Strasbourg Alsace",
@@ -2211,7 +2211,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "LOSC Lille",
@@ -2221,7 +2221,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Paris FC",
@@ -2231,7 +2231,7 @@
   },
   {
     "round": 25,
-    "dateUtc": "2027-03-20T16:00:00Z",
+    "dateUtc": "2027-03-20T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Stade Brestois 29",
@@ -2251,7 +2251,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "RC Lens",
@@ -2261,7 +2261,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "AS Monaco",
@@ -2271,7 +2271,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Estac Troyes",
@@ -2281,7 +2281,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Olympique de Marseille",
@@ -2291,7 +2291,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Stade Rennais FC",
@@ -2301,7 +2301,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Olympique Lyonnais",
@@ -2311,7 +2311,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "Paris Saint-Germain",
@@ -2321,7 +2321,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Toulouse FC",
@@ -2331,7 +2331,7 @@
   },
   {
     "round": 26,
-    "dateUtc": "2027-04-03T15:00:00Z",
+    "dateUtc": "2027-04-03T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "FC Lorient",
@@ -2341,7 +2341,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Stade Rennais FC",
@@ -2351,7 +2351,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Angers SCO",
@@ -2361,7 +2361,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "RC Lens",
@@ -2371,7 +2371,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "AJ Auxerre",
@@ -2381,7 +2381,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Toulouse FC",
@@ -2391,7 +2391,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Paris FC",
@@ -2401,7 +2401,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "Stade Brestois 29",
@@ -2411,7 +2411,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "RC Strasbourg Alsace",
@@ -2421,7 +2421,7 @@
   },
   {
     "round": 27,
-    "dateUtc": "2027-04-10T15:00:00Z",
+    "dateUtc": "2027-04-10T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Havre Athletic Club",
@@ -2431,7 +2431,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "FC Lorient",
@@ -2441,7 +2441,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Olympique Lyonnais",
@@ -2451,7 +2451,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "RC Strasbourg Alsace",
@@ -2461,7 +2461,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Olympique de Marseille",
@@ -2471,7 +2471,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "LOSC Lille",
@@ -2481,7 +2481,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "OGC Nice",
@@ -2491,7 +2491,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Le Mans FC",
@@ -2501,7 +2501,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Estac Troyes",
@@ -2511,7 +2511,7 @@
   },
   {
     "round": 28,
-    "dateUtc": "2027-04-17T15:00:00Z",
+    "dateUtc": "2027-04-17T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Paris FC",
@@ -2521,7 +2521,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Toulouse FC",
@@ -2531,7 +2531,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Paris Saint-Germain",
@@ -2541,7 +2541,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Havre Athletic Club",
@@ -2551,7 +2551,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "AS Monaco",
@@ -2561,7 +2561,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Angers SCO",
@@ -2571,7 +2571,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "AJ Auxerre",
@@ -2581,7 +2581,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Stade Brestois 29",
@@ -2591,7 +2591,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "RC Lens",
@@ -2601,7 +2601,7 @@
   },
   {
     "round": 29,
-    "dateUtc": "2027-04-24T15:00:00Z",
+    "dateUtc": "2027-04-24T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Stade Rennais FC",
@@ -2611,7 +2611,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Olympique Lyonnais",
@@ -2621,7 +2621,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "FC Lorient",
@@ -2631,7 +2631,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Stade Brestois 29",
@@ -2641,7 +2641,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "Paris FC",
@@ -2651,7 +2651,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Angers SCO",
@@ -2661,7 +2661,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Le Mans FC",
@@ -2671,7 +2671,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "LOSC Lille",
@@ -2681,7 +2681,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "OGC Nice",
@@ -2691,7 +2691,7 @@
   },
   {
     "round": 30,
-    "dateUtc": "2027-05-01T15:00:00Z",
+    "dateUtc": "2027-05-01T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "Olympique de Marseille",
@@ -2701,7 +2701,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Toulouse FC",
@@ -2711,7 +2711,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "RC Strasbourg Alsace",
@@ -2721,7 +2721,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "Estac Troyes",
@@ -2731,7 +2731,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "Olympique de Marseille",
@@ -2741,7 +2741,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "LOSC Lille",
@@ -2751,7 +2751,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "AS Monaco",
@@ -2761,7 +2761,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "AJ Auxerre",
@@ -2771,7 +2771,7 @@
   },
   {
     "round": 31,
-    "dateUtc": "2027-05-08T15:00:00Z",
+    "dateUtc": "2027-05-08T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Havre Athletic Club",
@@ -2791,7 +2791,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Stade Rennais FC",
@@ -2801,7 +2801,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Paris FC",
@@ -2811,7 +2811,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Angers SCO",
@@ -2821,7 +2821,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "RC Lens",
@@ -2831,7 +2831,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Le Mans FC",
@@ -2841,7 +2841,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "OGC Nice",
@@ -2851,7 +2851,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "Estac Troyes",
@@ -2861,7 +2861,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "Havre Athletic Club",
@@ -2871,7 +2871,7 @@
   },
   {
     "round": 32,
-    "dateUtc": "2027-05-16T15:00:00Z",
+    "dateUtc": "2027-05-16T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "FC Lorient",
@@ -2881,7 +2881,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade Raymond Kopa",
     "home": "Angers SCO",
     "away": "Stade Brestois 29",
@@ -2891,7 +2891,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade de l'Aube",
     "home": "Estac Troyes",
     "away": "Paris Saint-Germain",
@@ -2901,7 +2901,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade du Moustoir",
     "home": "FC Lorient",
     "away": "Olympique Lyonnais",
@@ -2911,7 +2911,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade Océane",
     "home": "Havre Athletic Club",
     "away": "LOSC Lille",
@@ -2921,7 +2921,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade Marie-Marvingt",
     "home": "Le Mans FC",
     "away": "RC Strasbourg Alsace",
@@ -2931,7 +2931,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Allianz Riviera",
     "home": "OGC Nice",
     "away": "AS Monaco",
@@ -2941,7 +2941,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade Charléty",
     "home": "Paris FC",
     "away": "Olympique de Marseille",
@@ -2951,7 +2951,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stade Bollaert-Delelis",
     "home": "RC Lens",
     "away": "Stade Rennais FC",
@@ -2961,7 +2961,7 @@
   },
   {
     "round": 33,
-    "dateUtc": "2027-05-22T15:00:00Z",
+    "dateUtc": "2027-05-22T00:00:00Z",
     "venue": "Stadium de Toulouse",
     "home": "Toulouse FC",
     "away": "AJ Auxerre",
@@ -2971,7 +2971,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade de l'Abbé-Deschamps",
     "home": "AJ Auxerre",
     "away": "Havre Athletic Club",
@@ -2981,7 +2981,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade Louis II",
     "home": "AS Monaco",
     "away": "Estac Troyes",
@@ -2991,7 +2991,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade Pierre-Mauroy",
     "home": "LOSC Lille",
     "away": "Le Mans FC",
@@ -3001,7 +3001,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade Vélodrome",
     "home": "Olympique de Marseille",
     "away": "FC Lorient",
@@ -3011,7 +3011,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Parc Olympique Lyonnais",
     "home": "Olympique Lyonnais",
     "away": "Paris FC",
@@ -3021,7 +3021,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Parc des Princes",
     "home": "Paris Saint-Germain",
     "away": "Toulouse FC",
@@ -3031,7 +3031,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade de la Meinau",
     "home": "RC Strasbourg Alsace",
     "away": "OGC Nice",
@@ -3041,7 +3041,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Stade Francis-Le Blé",
     "home": "Stade Brestois 29",
     "away": "RC Lens",
@@ -3051,7 +3051,7 @@
   },
   {
     "round": 34,
-    "dateUtc": "2027-05-29T19:00:00Z",
+    "dateUtc": "2027-05-29T00:00:00Z",
     "venue": "Roazhon Park",
     "home": "Stade Rennais FC",
     "away": "Angers SCO",

@@ -166,8 +166,8 @@
     "venue": null,
     "home": "Bradford City",
     "away": "Peterborough United",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-0",
+    "status": "finished"
   },
   {
     "fotmobId": 6275367,
@@ -176,8 +176,8 @@
     "venue": "Fleetwood Town Stadium",
     "home": "Fleetwood Town",
     "away": "Arsenal",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 6275368,
@@ -186,8 +186,8 @@
     "venue": "Etihad Stadium",
     "home": "Man City",
     "away": "Brighton",
-    "result": null,
-    "status": "scheduled"
+    "result": "2-2",
+    "status": "finished"
   },
   {
     "fotmobId": 6275374,
@@ -196,8 +196,8 @@
     "venue": "Vitality Stadium",
     "home": "Bournemouth",
     "away": "Aston Villa",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-0",
+    "status": "finished"
   },
   {
     "fotmobId": 6275373,
@@ -206,8 +206,8 @@
     "venue": "Craven Cottage",
     "home": "Fulham",
     "away": "Crystal Palace",
-    "result": null,
-    "status": "scheduled"
+    "result": "0-1",
+    "status": "finished"
   },
   {
     "fotmobId": 6275370,
@@ -216,8 +216,8 @@
     "venue": "Stadium of Light",
     "home": "Sunderland",
     "away": "Brentford",
-    "result": null,
-    "status": "scheduled"
+    "result": "3-2",
+    "status": "finished"
   },
   {
     "fotmobId": 6275371,
@@ -226,8 +226,8 @@
     "venue": "Anfield",
     "home": "Liverpool",
     "away": "Chelsea",
-    "result": null,
-    "status": "scheduled"
+    "result": "1-1",
+    "status": "finished"
   },
   {
     "fotmobId": 6275369,
@@ -236,6 +236,46 @@
     "venue": "Hill Dickinson Stadium",
     "home": "Everton",
     "away": "Newcastle",
+    "result": "3-1",
+    "status": "finished"
+  },
+  {
+    "fotmobId": 6532338,
+    "round": null,
+    "dateUtc": "2026-12-15T20:00:00Z",
+    "venue": "Etihad Stadium",
+    "home": "Man City",
+    "away": "Bradford City",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 6532339,
+    "round": null,
+    "dateUtc": "2026-12-16T19:30:00Z",
+    "venue": "Selhurst Park",
+    "home": "Crystal Palace",
+    "away": "Sunderland",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 6532340,
+    "round": null,
+    "dateUtc": "2026-12-16T20:00:00Z",
+    "venue": "Anfield",
+    "home": "Liverpool",
+    "away": "Bournemouth",
+    "result": null,
+    "status": "scheduled"
+  },
+  {
+    "fotmobId": 6532337,
+    "round": null,
+    "dateUtc": "2026-12-17T20:00:00Z",
+    "venue": "Fleetwood Town Stadium",
+    "home": "Fleetwood Town",
+    "away": "Everton",
     "result": null,
     "status": "scheduled"
   }
